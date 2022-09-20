@@ -1,1 +1,7886 @@
-{"Amulet of Flowing Life": {"ID": 34360, "Learn": 365, "Yellow": 375, "Green": 392, "Grey": 410, "Source": "Drop", "RecipeID": 35202, "Reagents": {"Mercurial Adamantite": 6, "Seaspray Emerald": 6}, "Phase": 5}, "Amulet of the Moon": {"ID": 20830, "Learn": 110, "Yellow": 140, "Green": 155, "Grey": 170, "Source": "VendorLimited", "RecipeID": 20854, "Reagents": {"Lesser Moonstone": 2, "Bronze Setting": 1}, "Phase": 1}, "Aquamarine Pendant of the Warrior": {"ID": 21755, "Learn": 220, "Yellow": 245, "Green": 260, "Grey": 275, "Source": "Trainer", "Reagents": {"Mithril Filigree": 3, "Aquamarine": 1}, "Phase": 1}, "Aquamarine Signet": {"ID": 20964, "Learn": 210, "Yellow": 235, "Green": 250, "Grey": 265, "Source": "Trainer", "Reagents": {"Flask of Mojo": 4, "Aquamarine": 3}, "Phase": 1}, "Arcane Khorium Band": {"ID": 24086, "Learn": 365, "Yellow": 375, "Green": 385, "Grey": 395, "Source": "Drop", "RecipeID": 24162, "Reagents": {"Khorium Bar": 2, "Mercurial Adamantite": 4, "Primal Mana": 3}, "Phase": 1}, "Azure Moonstone Ring": {"ID": 24076, "Learn": 320, "Yellow": 330, "Green": 340, "Grey": 350, "Source": "Trainer", "Reagents": {"Fel Iron Bar": 1, "Azure Moonstone": 2, "Deep Peridot": 1}, "Phase": 1}, "Band of Natural Fire": {"ID": 21779, "Learn": 310, "Yellow": 320, "Green": 330, "Grey": 340, "Source": "Trainer", "Reagents": {"Flame Spessarite": 1, "Essence of Fire": 4, "Living Essence": 4}, "Phase": 1}, "Barbaric Iron Collar": {"ID": 20909, "Learn": 110, "Yellow": 140, "Green": 155, "Grey": 170, "Source": "Trainer", "Reagents": {"Iron Bar": 8, "Large Fang": 2, "Bronze Setting": 2}, "Phase": 1}, "Blazing Citrine Ring": {"ID": 20958, "Learn": 150, "Yellow": 180, "Green": 195, "Grey": 210, "Source": "VendorLimited", "RecipeID": 20973, "Reagents": {"Heavy Stone": 8}, "Phase": 1}, "Blazing Eternium Band": {"ID": 24089, "Learn": 365, "Yellow": 375, "Green": 385, "Grey": 395, "Source": "Drop", "RecipeID": 24165, "Reagents": {"Eternium Bar": 2, "Mercurial Adamantite": 4, "Primal Fire": 4}, "Phase": 1}, "Blood of Amber": {"ID": 33140, "Learn": 360, "Yellow": 365, "Green": 370, "Grey": 375, "Source": "Reputation", "RecipeID": 33159, "Reagents": {"Dawnstone": 1}, "Phase": 1}, "Bracing Earthstorm Diamond": {"ID": 25897, "Learn": 365, "Yellow": 375, "Green": 385, "Grey": 395, "Source": "Vendor", "RecipeID": 25903, "Reagents": {"Earthstorm Diamond": 1}, "Phase": 1}, "Brutal Earthstorm Diamond": {"ID": 25899, "Learn": 365, "Yellow": 375, "Green": 385, "Grey": 395, "Source": "Drop", "RecipeID": 25906, "Reagents": {"Earthstorm Diamond": 1}, "Phase": 1}, "Braided Copper Ring": {"ID": 20906, "Learn": 1, "Yellow": 30, "Green": 45, "Grey": 60, "Source": "Trainer", "Reagents": {"Delicate Copper Wire": 2}, "Phase": 1}, "Braided Eternium Chain": {"ID": 24114, "Learn": 360, "Yellow": 370, "Green": 380, "Grey": 390, "Source": "Drop", "RecipeID": 24168, "Reagents": {"Eternium Bar": 2, "Mercurial Adamantite": 3}, "Phase": 1}, "Brilliant Necklace": {"ID": 30419, "Learn": 75, "Yellow": 105, "Green": 120, "Grey": 135, "Source": "Trainer", "Reagents": {"Bronze Bar": 4, "Bronze Setting": 1, "Moss Agate": 1}, "Phase": 1}, "Brilliant Pearl Band": {"ID": 32772, "Learn": 325, "Yellow": 335, "Green": 345, "Grey": 355, "Source": "Trainer", "Reagents": {"Jaggal Pearl": 8, "Eternium Bar": 2}, "Phase": 1}, "Bronze Band of Force": {"ID": 30804, "Learn": 65, "Yellow": 95, "Green": 110, "Grey": 125, "Source": "Trainer", "Reagents": {"Malachite": 1, "Tigerseye": 3, "Bronze Bar": 2, "Shadowgem": 2, "Bronze Setting": 1}, "Phase": 1}, "Bronze Setting": {"ID": 20817, "Learn": 50, "Yellow": 70, "Green": 80, "Grey": 90, "Source": "Trainer", "Reagents": {"Bronze Bar": 2}, "Phase": 1}, "Bronze Torc": {"ID": 21154, "Learn": 80, "Yellow": 110, "Green": 125, "Grey": 140, "Source": "Trainer", "Reagents": {"Bronze Bar": 6, "Bronze Setting": 1, "Lesser Moonstone": 1}, "Phase": 1}, "Chain of the Twilight Owl": {"ID": 24121, "Learn": 365, "Yellow": 375, "Green": 385, "Grey": 395, "Source": "Drop", "RecipeID": 24171, "Reagents": {"Khorium Bar": 2, "Mercurial Adamantite": 4, "Azure Moonstone": 2}, "Phase": 1}, "Chaotic Skyfire Diamond": {"ID": 24220, "Learn": 365, "Yellow": 375, "Green": 385, "Grey": 395, "Source": "Drop", "RecipeID": 34689, "Reagents": {"Skyfire Diamond": 1}, "Phase": 1}, "Circlet of Arcane Might": {"ID": 24123, "Learn": 370, "Yellow": 380, "Green": 390, "Grey": 400, "Source": "Drop", "RecipeID": 24173, "Reagents": {"Felsteel Bar": 20, "Primal Mana": 20, "Star of Elune": 2, "Mercurial Adamantite": 5}, "Phase": 1}, "Citrine Pendant of Golden Healing": {"ID": 20967, "Learn": 190, "Yellow": 220, "Green": 235, "Grey": 250, "Source": "Drop", "RecipeID": 20976, "Reagents": {"Elemental Water": 2, "Gold Bar": 2, "Citrine": 1, "Bronze Setting": 1}, "Phase": 1}, "Citrine Ring of Rapid Healing": {"ID": 20961, "Learn": 180, "Yellow": 210, "Green": 225, "Grey": 240, "Source": "Trainer", "Reagents": {"Mithril Bar": 2, "Elemental Water": 2, "Citrine": 1}, "Phase": 1}, "Coarse Stone Statue": {"ID": 25880, "Learn": 50, "Yellow": 70, "Green": 80, "Grey": 90, "Source": "Trainer", "Reagents": {"Coarse Stone": 8}, "Phase": 1}, "Coronet of the Verdant Flame": {"ID": 24122, "Learn": 370, "Yellow": 380, "Green": 390, "Grey": 400, "Source": "Drop", "RecipeID": 24172, "Reagents": {"Khorium Bar": 20, "Primal Life": 20, "Talasite": 2, "Mercurial Adamantite": 5}, "Phase": 1}, "Crimson Sun": {"ID": 33131, "Learn": 360, "Yellow": 365, "Green": 370, "Grey": 375, "Source": "Reputation", "RecipeID": 33156, "Reagents": {"Living Ruby": 1}, "Phase": 1}, "Delicate Copper Wire": {"ID": 20816, "Learn": 1, "Yellow": 20, "Green": 35, "Grey": 50, "Source": "Trainer", "Reagents": {"Copper Bar": 2}, "Phase": 1}, "Delicate Eternium Riung": {"ID": 24088, "Learn": 355, "Yellow": 365, "Green": 375, "Grey": 385, "Source": "Drop", "RecipeID": 24164, "Reagents": {"Eternium Bar": 1, "Mercurial Adamantite": 5}, "Phase": 1}, "Dense Stone Statue": {"ID": 25883, "Learn": 225, "Yellow": 225, "Green": 235, "Grey": 250, "Source": "Trainer", "Reagents": {"Dense Stone": 10}, "Phase": 1}, "Destructive Skyfire Diamond": {"ID": 25890, "Learn": 365, "Yellow": 375, "Green": 385, "Grey": 395, "Source": "Drop", "RecipeID": 25907, "Reagents": {"Skyfire Diamond": 1}, "Phase": 1}, "Diamond Focus Ring": {"ID": 30422, "Learn": 265, "Yellow": 285, "Green": 295, "Grey": 305, "Source": "Trainer", "Reagents": {"Azerothian Diamond": 1, "Thorium Setting": 1}, "Phase": 1}, "Don Julios Heart": {"ID": 33133, "Learn": 360, "Yellow": 365, "Green": 370, "Grey": 375, "Source": "Reputation", "RecipeID": 33305, "Reagents": {"Living Ruby": 1}, "Phase": 1}, "Elegant Silver Ring": {"ID": 20818, "Learn": 50, "Yellow": 80, "Green": 95, "Grey": 110, "Source": "Trainer", "Reagents": {"Silver Bar": 1}, "Phase": 1}, "Ember Skyfire Diamond": {"ID": 35503, "Learn": 370, "Yellow": 380, "Green": 390, "Grey": 400, "Source": "Drop", "RecipeID": 35505, "Reagents": {"Skyfire Diamond": 1}, "Phase": 5}, "Embrace of the Dawn": {"ID": 24117, "Learn": 365, "Yellow": 375, "Green": 385, "Grey": 395, "Source": "Drop", "RecipeID": 24170, "Reagents": {"Eternium Bar": 2, "Mercurial Adamantite": 4, "Golden Draenite": 2}, "Phase": 1}, "Emerald Crown of Destruction": {"ID": 21774, "Learn": 275, "Yellow": 285, "Green": 295, "Grey": 305, "Source": "VendorLimited", "RecipeID": 21952, "Reagents": {"Huge Emerald": 2, "Large Opal": 2, "Blue Sapphire": 2, "Arcanite Bar": 2, "Thorium Bar": 2}, "Phase": 1}, "Emerald Lion Ring": {"ID": 29160, "Learn": 290, "Yellow": 300, "Green": 310, "Grey": 315, "Source": "Trainer", "Reagents": {"Huge Emerald": 2, "Thorium Setting": 1}, "Phase": 1}, "Engraved Truesilver Ring": {"ID": 20960, "Learn": 170, "Yellow": 200, "Green": 215, "Grey": 230, "Source": "Trainer", "Reagents": {"Mithril Filigree": 2, "Truesilver Bar": 1}, "Phase": 1}, "Enigmatic Skyfire Diamond": {"ID": 25895, "Learn": 365, "Yellow": 375, "Green": 385, "Grey": 395, "Source": "Reputation", "RecipeID": 25910, "Reagents": {"Skyfire Diamond": 1}, "Phase": 1}, "Eternal Earthstorm Diamond": {"ID": 35501, "Learn": 370, "Yellow": 380, "Green": 390, "Grey": 400, "Source": "Reputation", "RecipeID": 35502, "Reagents": {"Earthstorm Diamond": 1}, "Phase": 5}, "Eye of the Night": {"ID": 24116, "Learn": 360, "Yellow": 370, "Green": 380, "Grey": 390, "Source": "Drop", "RecipeID": 24169, "Reagents": {"Hardened Adamantite Bar": 2, "Mercurial Adamantite": 2, "Nightseye": 1}, "Phase": 1}, "Facet of Eternity": {"ID": 33144, "Learn": 360, "Yellow": 365, "Green": 370, "Grey": 375, "Source": "Reputation", "RecipeID": 33160, "Reagents": {"Dawnstone": 1}, "Phase": 1}, "Falling Star": {"ID": 33135, "Learn": 360, "Yellow": 365, "Green": 370, "Grey": 375, "Source": "Reputation", "RecipeID": 33157, "Reagents": {"Star of Elune": 1}, "Phase": 1}, "Fel Iron Blood Ring": {"ID": 24074, "Learn": 310, "Yellow": 320, "Green": 330, "Grey": 340, "Source": "Trainer", "Reagents": {"Fel Iron Bar": 1, "Blood Garnet": 2}, "Phase": 1}, "Figurine - Black Diamond Crab": {"ID": 21784, "Learn": 300, "Yellow": 310, "Green": 320, "Grey": 330, "Source": "Drop", "RecipeID": 21955, "Reagents": {"Pristine Black Diamond": 4, "Black Diamond": 4, "Azerothian Diamond": 2, "Arcanite Bar": 2, "Thorium Bar": 4}, "Phase": 1}, "Figurine - Black Pearl Panther": {"ID": 21758, "Learn": 215, "Yellow": 240, "Green": 255, "Grey": 270, "Source": "VendorLimited", "RecipeID": 21941, "Reagents": {"Black Pearl": 4, "Flask of Mojo": 4}, "Phase": 1}, "Figurine - Dark Iron Scorpid": {"ID": 21789, "Learn": 300, "Yellow": 310, "Green": 320, "Grey": 330, "Source": "Drop", "RecipeID": 21956, "Reagents": {"Dark Iron Bar": 4, "Arcanite Bar": 2, "Star Ruby": 2}, "Phase": 1}, "Figurine - Dawnstone Crab": {"ID": 24125, "Learn": 370, "Yellow": 380, "Green": 390, "Grey": 400, "Source": "Reputation", "RecipeID": 31358, "Reagents": {"Khorium Bar": 4, "Dawnstone": 2, "Golden Draenite": 4}, "Phase": 1}, "Figurine - Emerald Owl": {"ID": 21777, "Learn": 285, "Yellow": 295, "Green": 305, "Grey": 310, "Source": "Drop", "RecipeID": 21953, "Reagents": {"Powerful Mojo": 4, "Huge Emerald": 2, "Arcanite Bar": 2, "Thorium Bar": 2}, "Phase": 1}, "Figurine - Felsteel Boar": {"ID": 24124, "Learn": 370, "Yellow": 380, "Green": 390, "Grey": 400, "Source": "Reputation", "RecipeID": 24179, "Reagents": {"Felsteel Bar": 8, "Blood Garnet": 2, "Primal Earth": 4}, "Phase": 1}, "Figurine - Golden Hare": {"ID": 21756, "Learn": 200, "Yellow": 225, "Green": 240, "Grey": 255, "Source": "Drop", "RecipeID": 21940, "Reagents": {"Gold Bar": 6, "Citrine": 2}, "Phase": 1}, "Figurine - Jade Owl": {"ID": 21748, "Learn": 200, "Yellow": 225, "Green": 240, "Grey": 255, "Source": "Trainer", "Reagents": {"Jade": 4, "Vision Dust": 4, "Mithril Filigree": 4, "Truesilver Bar": 2}, "Phase": 1}, "Figurine - Living Ruby Serpent": {"ID": 24126, "Learn": 370, "Yellow": 380, "Green": 390, "Grey": 400, "Source": "Reputation", "RecipeID": 24181, "Reagents": {"Felsteel Bar": 2, "Living Ruby": 2, "Primal Fire": 4}, "Phase": 1}, "Figurine - Nightseye Panther": {"ID": 24128, "Learn": 370, "Yellow": 380, "Green": 390, "Grey": 400, "Source": "Reputation", "RecipeID": 24183, "Reagents": {"Hardened Adamantite Bar": 6, "Nightseye": 2, "Primal Shadow": 2}, "Phase": 1}, "Figurine - Ruby Serpent": {"ID": 21769, "Learn": 260, "Yellow": 280, "Green": 290, "Grey": 305, "Source": "Drop", "RecipeID": 21949, "Reagents": {"Flask of Big Mojo": 4, "Truesilver Bar": 2, "Essence of Fire": 2, "Star Ruby": 2}, "Phase": 1}, "Figurine - Talasite Owl": {"ID": 24127, "Learn": 370, "Yellow": 380, "Green": 390, "Grey": 400, "Source": "Reputation", "RecipeID": 24182, "Reagents": {"Eternium Bar": 2, "Talasite": 2, "Primal Mana": 4}, "Phase": 1}, "Figurine - Truesilver Boar": {"ID": 21763, "Learn": 235, "Yellow": 260, "Green": 275, "Grey": 285, "Source": "Drop", "RecipeID": 21944, "Reagents": {"Truesilver Bar": 4, "Flask of Mojo": 4, "Heart of Fire": 2, "Star Ruby": 2, "Breath of Wind": 2}, "Phase": 1}, "Figurine - Truesilver Crab": {"ID": 21760, "Learn": 225, "Yellow": 250, "Green": 265, "Grey": 280, "Source": "VendorLimited", "RecipeID": 21943, "Reagents": {"Truesilver Bar": 4, "Flask of Mojo": 4, "Core of Earth": 2, "Aquamarine": 2, "Globe of Water": 2}, "Phase": 1}, "Gem Studded Band": {"ID": 21753, "Learn": 250, "Yellow": 275, "Green": 290, "Grey": 305, "Source": "Drop", "RecipeID": 21947, "Reagents": {"Thorium Setting": 4, "Truesilver Bar": 2, "Aquamarine": 2, "Citrine": 2}, "Phase": 1}, "Gloom Band": {"ID": 20823, "Learn": 70, "Yellow": 100, "Green": 115, "Grey": 130, "Source": "Trainer", "Reagents": {"Shadowgem": 2, "Delicate Copper Wire": 2, "Bronze Setting": 1}, "Phase": 1}, "Glowing Thorium Band": {"ID": 29159, "Learn": 280, "Yellow": 290, "Green": 300, "Grey": 310, "Source": "Trainer", "Reagents": {"Azerothian Diamond": 2, "Thorium Setting": 1}, "Phase": 1}, "Golden Draenite Ring": {"ID": 24075, "Learn": 310, "Yellow": 320, "Green": 335, "Grey": 350, "Source": "Trainer", "Reagents": {"Fel Iron Bar": 1, "Golden Draenite": 2}, "Phase": 1}, "Golden Dragon Ring": {"ID": 20955, "Learn": 135, "Yellow": 165, "Green": 180, "Grey": 195, "Source": "Trainer", "Reagents": {"Gold Bar": 2, "Delicate Copper Wire": 2, "Jade": 1}, "Phase": 1}, "Golden Ring or Power": {"ID": 29157, "Learn": 180, "Yellow": 190, "Green": 200, "Grey": 210, "Source": "Trainer", "Reagents": {"Gold Bar": 4, "Jade": 1, "Lesser Moonstone": 1, "Citrine": 1}, "Phase": 1}, "Heavy Adamantite Ring": {"ID": 24078, "Learn": 335, "Yellow": 345, "Green": 355, "Grey": 365, "Source": "Trainer", "Reagents": {"Adamantite Bar": 1, "Mercurial Adamantite": 1}, "Phase": 1}, "Heavy Copper Ring": {"ID": 21932, "Learn": 5, "Yellow": 35, "Green": 50, "Grey": 65, "Source": "Trainer", "Reagents": {"Copper Bar": 4, "Delicate Copper Wire": 2}, "Phase": 1}, "Heavy Felsteel Ring": {"ID": 24087, "Learn": 345, "Yellow": 355, "Green": 365, "Grey": 375, "Source": "Drop", "RecipeID": 24163, "Reagents": {"Felsteel Bar": 2, "Mercurial Adamantite": 4}, "Phase": 1}, "Heavy Golden Necklace of Battle": {"ID": 20931, "Learn": 150, "Yellow": 180, "Green": 195, "Grey": 210, "Source": "VendorLimited", "Reagents": {"Moss Agate": 2, "Gold Bar": 1, "Elixir of Ogres Strength": 1}, "Phase": 1}, "Heavy Iron Knuckles": {"ID": 20954, "Learn": 125, "Yellow": 155, "Green": 170, "Grey": 185, "Source": "VendorLimited", "RecipeID": 20971, "Reagents": {"Iron Bar": 8, "Elixir of Ogres Strength": 2}, "Phase": 1}, "Heavy Jade Ring": {"ID": 30420, "Learn": 105, "Yellow": 135, "Green": 150, "Grey": 165, "Source": "Trainer", "Reagents": {"Iron Bar": 2, "Jade": 1, "Bronze Setting": 1}, "Phase": 1}, "Heavy Silver Ring": {"ID": 20826, "Learn": 90, "Yellow": 120, "Green": 135, "Grey": 150, "Source": "Trainer", "Reagents": {"Silver Bar": 2, "Bronze Setting": 1, "Moss Agate": 1, "Lesser Moonstone": 1}, "Phase": 1}, "Heavy Stone Statue": {"ID": 25881, "Learn": 110, "Yellow": 120, "Green": 130, "Grey": 140, "Source": "Trainer", "Reagents": {"Heavy Stone": 8}, "Phase": 1}, "Inlaid Malachite Ring": {"ID": 20821, "Learn": 30, "Yellow": 60, "Green": 75, "Grey": 80, "Source": "Trainer", "Reagents": {"Malachite": 2, "Copper Bar": 2}, "Phase": 1}, "Insightful Earthstorm Diamond": {"ID": 25901, "Learn": 365, "Yellow": 375, "Green": 385, "Grey": 395, "Source": "Reputation", "RecipeID": 25904, "Reagents": {"Earthstorm Diamond": 1}, "Phase": 1}, "Jade Pendant of Blasting": {"ID": 20966, "Learn": 160, "Yellow": 190, "Green": 205, "Grey": 220, "Source": "Drop", "RecipeID": 20974, "Reagents": {"Mithril Filigree": 2, "Jade": 1}, "Phase": 1}, "Kailees Rose": {"ID": 33134, "Learn": 360, "Yellow": 365, "Green": 370, "Grey": 375, "Source": "Reputation", "RecipeID": 33155, "Reagents": {"Living Ruby": 1}, "Phase": 1}, "Khorium Band of Frost": {"ID": 24080, "Learn": 355, "Yellow": 365, "Green": 375, "Grey": 385, "Source": "Drop", "RecipeID": 24159, "Reagents": {"Khorium Bar": 2, "Mercurial Adamantite": 4, "Primal Water": 3}, "Phase": 1}, "Khorium Band of Leaves": {"ID": 24085, "Learn": 360, "Yellow": 370, "Green": 380, "Grey": 390, "Source": "Drop", "RecipeID": 24161, "Reagents": {"Khorium Bar": 2, "Mercurial Adamantite": 4, "Primal Life": 3}, "Phase": 1}, "Khorium Band of Shadows": {"ID": 24079, "Learn": 350, "Yellow": 360, "Green": 370, "Grey": 380, "Source": "Drop", "RecipeID": 24158, "Reagents": {"Khorium Bar": 2, "Mercurial Adamantite": 3, "Primal Shadow": 3}, "Phase": 1}, "Khorium Inferno Band": {"ID": 24082, "Learn": 355, "Yellow": 365, "Green": 375, "Grey": 385, "Source": "Drop", "RecipeID": 24160, "Reagents": {"Khorium Bar": 2, "Mercurial Adamantite": 4, "Primal Fire": 3}, "Phase": 1}, "Living Ruby Pendant": {"ID": 24110, "Learn": 355, "Yellow": 365, "Green": 375, "Grey": 385, "Source": "Drop", "RecipeID": 24167, "Reagents": {"Khorium Bar": 4, "Mercurial Adamantite": 1, "Living Ruby": 1}, "Phase": 1}, "Living Emerald Pendant": {"ID": 21791, "Learn": 290, "Yellow": 300, "Green": 310, "Grey": 320, "Source": "Trainer", "Reagents": {"Powerful Mojo": 4, "Living Essence": 4, "Huge Emerald": 2}, "Phase": 1}, "Malachite Pendant": {"ID": 25438, "Learn": 20, "Yellow": 50, "Green": 65, "Grey": 80, "Source": "Trainer", "Reagents": {"Malachite": 1, "Delicate Copper Wire": 1}, "Phase": 1}, "Mithril Filigree": {"ID": 20963, "Learn": 150, "Yellow": 170, "Green": 180, "Grey": 190, "Source": "Trainer", "Reagents": {"Mithril Bar": 2}, "Phase": 1}, "Moonsoul Crown": {"ID": 20832, "Learn": 110, "Yellow": 150, "Green": 165, "Grey": 180, "Source": "Trainer", "Reagents": {"Soul Dust": 4, "Silver Bar": 4, "Lesser Moonstone": 3, "Small Lustrous Pearl": 3, "Mana Potion": 2}, "Phase": 1}, "Mystical Skyfire Diamond": {"ID": 25893, "Learn": 365, "Yellow": 375, "Green": 385, "Grey": 395, "Source": "Drop", "RecipeID": 25909, "Reagents": {"Skyfire Diamond": 1}, "Phase": 1}, "Necklace of the Diamond Tower": {"ID": 21792, "Learn": 305, "Yellow": 315, "Green": 325, "Grey": 335, "Source": "VendorLimited", "RecipeID": 21957, "Reagents": {"Azerothian Diamond": 2, "Thorium Setting": 2, "Arcanite Bar": 2}, "Phase": 1}, "Onslaught Ring": {"ID": 21775, "Learn": 280, "Yellow": 290, "Green": 300, "Grey": 310, "Source": "Trainer", "Reagents": {"Powerful Mojo": 1, "Essence of Earth": 1, "Thorium Setting": 1}, "Phase": 1}, "Opal Necklace of Impact": {"ID": 21766, "Learn": 250, "Yellow": 275, "Green": 290, "Grey": 305, "Source": "VendorLImited", "RecipeID": 21948, "Reagents": {"Truesilver Bar": 4, "Large Opal": 2, "Large Radiant Shard": 2, "Thorium Setting": 2, "Mithril Filigree": 2}, "Phase": 1}, "Ornate Tigerseye Necklace": {"ID": 21934, "Learn": 30, "Yellow": 60, "Green": 75, "Grey": 90, "Source": "Trainer", "Reagents": {"Tigerseye": 2, "Copper Bar": 2, "Delicate Copper Wire": 1}, "Phase": 1}, "Pendant of the Agate Shield": {"ID": 20950, "Learn": 120, "Yellow": 150, "Green": 165, "Grey": 180, "Source": "VendorLimited", "RecipeID": 20970, "Reagents": {"Moss Agate": 1, "Bronze Setting": 1}, "Phase": 1}, "Pendant of Frozen Flame": {"ID": 24092, "Learn": 360, "Yellow": 370, "Green": 380, "Grey": 390, "Source": "Reputation", "RecipeID": 24174, "Reagents": {"Felsteel Bar": 2, "Primal Water": 6, "Primal Fire": 4, "Mercurial Adamantite": 1}, "Phase": 1}, "Pendant of Shadows End": {"ID": 24097, "Learn": 360, "Yellow": 370, "Green": 380, "Grey": 390, "Source": "Reputation", "RecipeID": 24177, "Reagents": {"Felsteel Bar": 2, "Primal Life": 6, "Primal Shadow": 4, "Mercurial Adamantite": 1}, "Phase": 1}, "Pendant of Sunfire": {"ID": 34359, "Learn": 365, "Yellow": 375, "Green": 392, "Grey": 410, "Source": "Drop", "RecipeID": 35201, "Reagents": {"Mercurial Adamantite": 12, "Crimson Spinel": 3, "Empyrean Sapphire": 3}, "Phase": 5}, "Pendant of Thawing": {"ID": 24093, "Learn": 360, "Yellow": 370, "Green": 380, "Grey": 390, "Source": "Reputation", "RecipeID": 24175, "Reagents": {"Felsteel Bar": 2, "Primal Fire": 6, "Primal Water": 4, "Mercurial Adamantite": 1}, "Phase": 1}, "Pendant of the Null Rune": {"ID": 24098, "Learn": 360, "Yellow": 370, "Green": 380, "Grey": 390, "Source": "Reputation", "RecipeID": 24178, "Reagents": {"Felsteel Bar": 2, "Primal Mana": 8, "Mercurial Adamantite": 1}, "Phase": 1}, "Pendant of Withering": {"ID": 24095, "Learn": 360, "Yellow": 370, "Green": 380, "Grey": 390, "Source": "Reputation", "RecipeID": 24176, "Reagents": {"Felsteel Bar": 2, "Primal Shadow": 6, "Primal Life": 4, "Mercurial Adamantite": 1}, "Phase": 1}, "Powerful Earthstorm Diamond": {"ID": 25896, "Learn": 365, "Yellow": 375, "Green": 385, "Grey": 395, "Source": "Reputation", "RecipeID": 25902, "Reagents": {"Earthstorm Diamond": 1}, "Phase": 1}, "Red Ring of Destruction": {"ID": 30421, "Learn": 230, "Yellow": 255, "Green": 270, "Grey": 285, "Source": "Trainer", "Reagents": {"Star Ruby": 1, "Thorium Bar": 1}, "Phase": 1}, "Relentles Earthstorm Diamond": {"ID": 32409, "Learn": 365, "Yellow": 375, "Green": 385, "Grey": 395, "Source": "Reputation", "RecipeID": 33622, "Reagents": {"Earthstorm Diamond": 1}, "Phase": 1}, "Ring of Arcane Shielding": {"ID": 30825, "Learn": 360, "Yellow": 370, "Green": 380, "Grey": 390, "Source": "Reputation", "RecipeID": 30826, "Reagents": {"Eternium Bar": 2, "Primal Mana": 8}, "Phase": 1}, "Ring of Silver Might": {"ID": 20827, "Learn": 80, "Yellow": 110, "Green": 135, "Grey": 150, "Source": "Trainer", "Reagents": {"Silver Bar": 2}, "Phase": 1}, "Ring of Twilight Shadow": {"ID": 20828, "Learn": 100, "Yellow": 130, "Green": 145, "Grey": 160, "Source": "Trainer", "Reagents": {"Shadowgem": 2, "Bronze Bar": 2}, "Phase": 1}, "Rough Stone Statue": {"ID": 25498, "Learn": 1, "Yellow": 20, "Green": 35, "Grey": 50, "Source": "Trainer", "Reagents": {"Rough Stone": 8}, "Phase": 1}, "Ruby Crown of Restoration": {"ID": 20969, "Learn": 225, "Yellow": 250, "Green": 265, "Grey": 280, "Source": "VendorLimited", "RecipeID": 21942, "Reagents": {"Greater Mana Potion": 4, "Truesilver Bar": 4, "Thorium Setting": 4, "Star Ruby": 2, "Black Pearl": 2}, "Phase": 1}, "Ruby Pendant of Fire": {"ID": 21764, "Learn": 235, "Yellow": 260, "Green": 275, "Grey": 290, "Source": "Trainer", "Reagents": {"Star Ruby": 1, "Thorium Setting": 1}, "Phase": 1}, "Sapphire Pendant of Winter Night": {"ID": 21790, "Learn": 280, "Yellow": 290, "Green": 300, "Grey": 310, "Source": "Trainer", "Reagents": {"Essence of Undeath": 1, "Blue Sapphire": 1, "Thorium Setting": 1}, "Phase": 1}, "Sapphire Signet": {"ID": 21768, "Learn": 275, "Yellow": 285, "Green": 295, "Grey": 305, "Source": "Trainer", "Reagents": {"Truesilver Bar": 2, "Blue Sapphire": 4, "Thorium Setting": 1}, "Phase": 1}, "Simple Opal Ring": {"ID": 21767, "Learn": 260, "Yellow": 280, "Green": 290, "Grey": 300, "Source": "Trainer", "Reagents": {"Large Opal": 1, "Thorium Setting": 1}, "Phase": 1}, "Simple Pearl Ring": {"ID": 20820, "Learn": 60, "Yellow": 90, "Green": 105, "Grey": 120, "Source": "Trainer", "Reagents": {"Copper Bar": 2, "Small Lustrous Pearl": 1, "Bronze Setting": 1}, "Phase": 1}, "Solid Bronze Ring": {"ID": 20907, "Learn": 50, "Yellow": 80, "Green": 95, "Grey": 110, "Source": "Trainer", "Reagents": {"Bronze Bar": 4}, "Phase": 1}, "Solid Stone Statue": {"ID": 25882, "Learn": 175, "Yellow": 175, "Green": 185, "Grey": 195, "Source": "Trainer", "Reagents": {"Solid Stone": 10}, "Phase": 1}, "Stone of Blades": {"ID": 33143, "Learn": 360, "Yellow": 365, "Green": 370, "Grey": 375, "Source": "Reputation", "RecipeID": 33158, "Reagents": {"Dawnstone": 1}, "Phase": 1}, "Swift Skyfire Diamond": {"ID": 25894, "Learn": 365, "Yellow": 375, "Green": 385, "Grey": 395, "Source": "Reputation", "RecipeID": 25908, "Reagents": {"Skyfire Diamond": 1}, "Phase": 1}, "Tenacious Earthstorm Diamond": {"ID": 25898, "Learn": 365, "Yellow": 375, "Green": 385, "Grey": 395, "Source": "Drop", "RecipeID": 25905, "Reagents": {"Earthstorm Diamond": 1}, "Phase": 1}, "The Aquamarine Ward": {"ID": 21754, "Learn": 245, "Yellow": 270, "Green": 285, "Grey": 300, "Source": "Drop", "RecipeID": 21945, "Reagents": {"Aquamarine": 1, "Thorium Setting": 1}, "Phase": 1}, "The Black Pearl": {"ID": 32774, "Learn": 330, "Yellow": 340, "Green": 350, "Grey": 360, "Source": "Trainer", "Reagents": {"Shadow Pearl": 1, "Mercurial Adamantite": 4}, "Phase": 1}, "The Jade Eye": {"ID": 20959, "Learn": 170, "Yellow": 200, "Green": 215, "Grey": 230, "Source": "VendorLimited", "RecipeID": 20975, "Reagents": {"Elemental Earth": 2, "Jade": 1}, "Phase": 1}, "Thick Adamantite Necklace": {"ID": 24077, "Learn": 335, "Yellow": 345, "Green": 355, "Grey": 365, "Source": "Trainer", "Reagents": {"Adamantite Bar": 2, "Mercurial Adamantite": 1}, "Phase": 1}, "Thick Bronze Necklace": {"ID": 21933, "Learn": 50, "Yellow": 80, "Green": 95, "Grey": 110, "Source": "Trainer", "Reagents": {"Bronze Bar": 2, "Shadowgem": 1, "Delicate Copper Wire": 1}, "Phase": 1}, "Thick Felsteel Necklace": {"ID": 24106, "Learn": 355, "Yellow": 365, "Green": 375, "Grey": 385, "Source": "Drop", "RecipeID": 24166, "Reagents": {"Felsteel Bar": 2, "Mercurial Adamantite": 3}, "Phase": 1}, "Thorium Setting": {"ID": 21752, "Learn": 225, "Yellow": 235, "Green": 250, "Grey": 255, "Source": "Trainer", "Reagents": {"Thorium Bar": 1}, "Phase": 1}, "Thundering Skyfire Diamond": {"ID": 32410, "Learn": 365, "Yellow": 375, "Green": 385, "Grey": 395, "Source": "Drop", "RecipeID": 32411, "Reagents": {"Skyfire Diamond": 1}, "Phase": 1}, "Tigerseye Band": {"ID": 25439, "Learn": 20, "Yellow": 50, "Green": 65, "Grey": 80, "Source": "Trainer", "Reagents": {"Tigerseye": 1, "Delicate Copper Wire": 1}, "Phase": 1}, "Truesilver Commanders Ring": {"ID": 29158, "Learn": 200, "Yellow": 210, "Green": 220, "Grey": 230, "Source": "Trainer", "Reagents": {"Truesilver Bar": 3, "Star Ruby": 2, "Citrine": 2}, "Phase": 1}, "Truesilver Healing Ring": {"ID": 21765, "Learn": 240, "Yellow": 265, "Green": 280, "Grey": 295, "Source": "Trainer", "Reagents": {"Truesilver Bar": 2, "Heart of the Wild": 2}, "Phase": 1}, "Wicked Moonstone Ring": {"ID": 20833, "Learn": 125, "Yellow": 155, "Green": 170, "Grey": 185, "Source": "VendorLimited", "RecipeID": 20855, "Reagents": {"Iron Bar": 4, "Lesser Moonstone": 1, "Shadow Oil": 1}, "Phase": 1}, "Woven Copper Ring": {"ID": 21931, "Learn": 1, "Yellow": 30, "Green": 45, "Grey": 60, "Source": "Trainer", "Reagents": {"Delicate Copper Wire": 2, "Copper Bar": 1}, "Phase": 1}}
+{
+  "Delicate Copper Wire": {
+    "ID": 25255,
+    "Creates": 20816,
+    "Learn": 20,
+    "Phase": 1,
+    "Reagents": {
+      "Copper Bar": 2
+    },
+    "Yellow": 20,
+    "Green": 35,
+    "Grey": 50,
+    "Source": "Trainer"
+  },
+  "Bronze Setting": {
+    "ID": 25278,
+    "Creates": 20817,
+    "Learn": 50,
+    "Phase": 1,
+    "Reagents": {
+      "Bronze Bar": 2
+    },
+    "Yellow": 70,
+    "Green": 80,
+    "Grey": 90,
+    "Source": "Trainer"
+  },
+  "Elegant Silver Ring": {
+    "ID": 25280,
+    "Creates": 20818,
+    "Learn": 50,
+    "Phase": 1,
+    "Reagents": {
+      "Silver Bar": 1
+    },
+    "Yellow": 80,
+    "Green": 95,
+    "Grey": 110,
+    "Source": "Trainer"
+  },
+  "Inlaid Malachite Ring": {
+    "ID": 25283,
+    "Creates": 20821,
+    "Learn": 30,
+    "Phase": 1,
+    "Reagents": {
+      "Malachite": 2,
+      "Copper Bar": 2
+    },
+    "Yellow": 60,
+    "Green": 75,
+    "Grey": 90,
+    "Source": "Trainer"
+  },
+  "Simple Pearl Ring": {
+    "ID": 25284,
+    "Creates": 20820,
+    "Learn": 60,
+    "Phase": 1,
+    "Reagents": {
+      "Small Lustrous Pearl": 1,
+      "Bronze Setting": 1,
+      "Copper Bar": 2
+    },
+    "Yellow": 90,
+    "Green": 105,
+    "Grey": 120,
+    "Source": "Trainer"
+  },
+  "Gloom Band": {
+    "ID": 25287,
+    "Creates": 20823,
+    "Learn": 70,
+    "Phase": 1,
+    "Reagents": {
+      "Shadowgem": 2,
+      "Bronze Setting": 1,
+      "Delicate Copper Wire": 2
+    },
+    "Yellow": 100,
+    "Green": 115,
+    "Grey": 130,
+    "Source": "Trainer"
+  },
+  "Heavy Silver Ring": {
+    "ID": 25305,
+    "Creates": 20826,
+    "Learn": 90,
+    "Phase": 1,
+    "Reagents": {
+      "Silver Bar": 2,
+      "Bronze Setting": 1,
+      "Moss Agate": 1,
+      "Lesser Moonstone": 1
+    },
+    "Yellow": 120,
+    "Green": 135,
+    "Grey": 150,
+    "Source": "Trainer"
+  },
+  "Ring of Silver Might": {
+    "ID": 25317,
+    "Creates": 20827,
+    "Learn": 80,
+    "Phase": 1,
+    "Reagents": {
+      "Silver Bar": 2
+    },
+    "Yellow": 110,
+    "Green": 125,
+    "Grey": 140,
+    "Source": "Trainer"
+  },
+  "Ring of Twilight Shadows": {
+    "ID": 25318,
+    "Creates": 20828,
+    "Learn": 100,
+    "Phase": 1,
+    "Reagents": {
+      "Shadowgem": 2,
+      "Bronze Bar": 2
+    },
+    "Yellow": 130,
+    "Green": 145,
+    "Grey": 160,
+    "Source": "Trainer"
+  },
+  "Heavy Golden Necklace of Battle": {
+    "ID": 25320,
+    "Creates": 20831,
+    "Learn": 150,
+    "Phase": 1,
+    "Reagents": {
+      "Gold Bar": 1,
+      "Moss Agate": 2,
+      "Elixir of Ogre's Strength": 1
+    },
+    "Yellow": 180,
+    "Green": 195,
+    "Grey": 210,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Moonsoul Crown": {
+    "ID": 25321,
+    "Creates": 20832,
+    "Learn": 120,
+    "Phase": 1,
+    "Reagents": {
+      "Lesser Moonstone": 3,
+      "Small Lustrous Pearl": 3,
+      "Soul Dust": 4,
+      "Silver Bar": 4,
+      "Mana Potion": 2
+    },
+    "Yellow": 150,
+    "Green": 165,
+    "Grey": 180,
+    "Source": "Trainer"
+  },
+  "Wicked Moonstone Ring": {
+    "ID": 25323,
+    "Creates": 20833,
+    "Learn": 125,
+    "Phase": 1,
+    "Reagents": {
+      "Lesser Moonstone": 1,
+      "Shadow Oil": 1,
+      "Iron Bar": 4
+    },
+    "Yellow": 155,
+    "Green": 170,
+    "Grey": 185,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Amulet of the Moon": {
+    "ID": 25339,
+    "Creates": 20830,
+    "Learn": 110,
+    "Phase": 1,
+    "Reagents": {
+      "Lesser Moonstone": 2,
+      "Bronze Setting": 1
+    },
+    "Yellow": 140,
+    "Green": 155,
+    "Grey": 170,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Solid Bronze Ring": {
+    "ID": 25490,
+    "Creates": 20907,
+    "Learn": 50,
+    "Phase": 1,
+    "Reagents": {
+      "Bronze Bar": 4
+    },
+    "Yellow": 80,
+    "Green": 95,
+    "Grey": 110,
+    "Source": "Trainer"
+  },
+  "Braided Copper Ring": {
+    "ID": 25493,
+    "Creates": 20906,
+    "Learn": 30,
+    "Phase": 1,
+    "Reagents": {
+      "Delicate Copper Wire": 2
+    },
+    "Yellow": 30,
+    "Green": 45,
+    "Grey": 60,
+    "Source": "Trainer"
+  },
+  "Barbaric Iron Collar": {
+    "ID": 25498,
+    "Creates": 20909,
+    "Learn": 110,
+    "Phase": 1,
+    "Reagents": {
+      "Iron Bar": 8,
+      "Large Fang": 2,
+      "Bronze Setting": 2
+    },
+    "Yellow": 140,
+    "Green": 155,
+    "Grey": 170,
+    "Source": "Trainer"
+  },
+  "Pendant of the Agate Shield": {
+    "ID": 25610,
+    "Creates": 20950,
+    "Learn": 120,
+    "Phase": 1,
+    "Reagents": {
+      "Moss Agate": 1,
+      "Bronze Setting": 1
+    },
+    "Yellow": 150,
+    "Green": 165,
+    "Grey": 180,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Heavy Iron Knuckles": {
+    "ID": 25612,
+    "Creates": 20954,
+    "Learn": 125,
+    "Phase": 1,
+    "Reagents": {
+      "Iron Bar": 8,
+      "Elixir of Ogre's Strength": 2
+    },
+    "Yellow": 155,
+    "Green": 170,
+    "Grey": 185,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Golden Dragon Ring": {
+    "ID": 25613,
+    "Creates": 20955,
+    "Learn": 135,
+    "Phase": 1,
+    "Reagents": {
+      "Jade": 1,
+      "Gold Bar": 2,
+      "Delicate Copper Wire": 2
+    },
+    "Yellow": 165,
+    "Green": 180,
+    "Grey": 195,
+    "Source": "Trainer"
+  },
+  "Mithril Filigree": {
+    "ID": 25615,
+    "Creates": 20963,
+    "Learn": 150,
+    "Phase": 1,
+    "Reagents": {
+      "Mithril Bar": 2
+    },
+    "Yellow": 170,
+    "Green": 180,
+    "Grey": 190,
+    "Source": "Trainer"
+  },
+  "Blazing Citrine Ring": {
+    "ID": 25617,
+    "Creates": 20958,
+    "Learn": 150,
+    "Phase": 1,
+    "Reagents": {
+      "Citrine": 1,
+      "Mithril Filigree": 1
+    },
+    "Yellow": 180,
+    "Green": 195,
+    "Grey": 210,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Jade Pendant of Blasting": {
+    "ID": 25618,
+    "Creates": 20966,
+    "Learn": 160,
+    "Phase": 1,
+    "Reagents": {
+      "Jade": 1,
+      "Mithril Filigree": 2
+    },
+    "Yellow": 190,
+    "Green": 205,
+    "Grey": 220,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "The Jade Eye": {
+    "ID": 25619,
+    "Creates": 20959,
+    "Learn": 170,
+    "Phase": 1,
+    "Reagents": {
+      "Jade": 1,
+      "Elemental Earth": 2
+    },
+    "Yellow": 200,
+    "Green": 215,
+    "Grey": 230,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Engraved Truesilver Ring": {
+    "ID": 25620,
+    "Creates": 20960,
+    "Learn": 170,
+    "Phase": 1,
+    "Reagents": {
+      "Truesilver Bar": 1,
+      "Mithril Filigree": 2
+    },
+    "Yellow": 200,
+    "Green": 215,
+    "Grey": 230,
+    "Source": "Trainer"
+  },
+  "Citrine Ring of Rapid Healing": {
+    "ID": 25621,
+    "Creates": 20961,
+    "Learn": 180,
+    "Phase": 1,
+    "Reagents": {
+      "Citrine": 1,
+      "Mithril Bar": 2
+    },
+    "Yellow": 210,
+    "Green": 225,
+    "Grey": 240,
+    "Source": "Trainer"
+  },
+  "Citrine Pendant of Golden Healing": {
+    "ID": 25622,
+    "Creates": 20967,
+    "Learn": 190,
+    "Phase": 1,
+    "Reagents": {
+      "Citrine": 1,
+      "Elemental Water": 2,
+      "Gold Bar": 2,
+      "Bronze Setting": 1
+    },
+    "Yellow": 220,
+    "Green": 235,
+    "Grey": 250,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Figurine - Jade Owl": {
+    "ID": 26872,
+    "Creates": 21748,
+    "Learn": 200,
+    "Phase": 1,
+    "Reagents": {
+      "Jade": 4,
+      "Truesilver Bar": 2,
+      "Vision Dust": 4,
+      "Mithril Filigree": 4
+    },
+    "Yellow": 225,
+    "Green": 240,
+    "Grey": 255,
+    "Source": "Trainer"
+  },
+  "Figurine - Golden Hare": {
+    "ID": 26873,
+    "Creates": 21756,
+    "Learn": 200,
+    "Phase": 1,
+    "Reagents": {
+      "Gold Bar": 6,
+      "Citrine": 2
+    },
+    "Yellow": 225,
+    "Green": 240,
+    "Grey": 255,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Aquamarine Signet": {
+    "ID": 26874,
+    "Creates": 20964,
+    "Learn": 210,
+    "Phase": 1,
+    "Reagents": {
+      "Aquamarine": 3,
+      "Flask of Mojo": 4
+    },
+    "Yellow": 235,
+    "Green": 250,
+    "Grey": 265,
+    "Source": "Trainer"
+  },
+  "Figurine - Black Pearl Panther": {
+    "ID": 26875,
+    "Creates": 21758,
+    "Learn": 215,
+    "Phase": 1,
+    "Reagents": {
+      "Black Pearl": 4,
+      "Flask of Mojo": 4
+    },
+    "Yellow": 240,
+    "Green": 255,
+    "Grey": 270,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Aquamarine Pendant of the Warrior": {
+    "ID": 26876,
+    "Creates": 21755,
+    "Learn": 220,
+    "Phase": 1,
+    "Reagents": {
+      "Aquamarine": 1,
+      "Mithril Filigree": 3
+    },
+    "Yellow": 245,
+    "Green": 260,
+    "Grey": 275,
+    "Source": "Trainer"
+  },
+  "Ruby Crown of Restoration": {
+    "ID": 26878,
+    "Creates": 20969,
+    "Learn": 225,
+    "Phase": 1,
+    "Reagents": {
+      "Star Ruby": 2,
+      "Black Pearl": 2,
+      "Truesilver Bar": 4,
+      "Thorium Setting": 4,
+      "Greater Mana Potion": 4
+    },
+    "Yellow": 250,
+    "Green": 265,
+    "Grey": 280,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Thorium Setting": {
+    "ID": 26880,
+    "Creates": 21752,
+    "Learn": 225,
+    "Phase": 1,
+    "Reagents": {
+      "Thorium Bar": 1
+    },
+    "Yellow": 235,
+    "Green": 245,
+    "Grey": 255,
+    "Source": "Trainer"
+  },
+  "Figurine - Truesilver Crab": {
+    "ID": 26881,
+    "Creates": 21760,
+    "Learn": 225,
+    "Phase": 1,
+    "Reagents": {
+      "Aquamarine": 2,
+      "Truesilver Bar": 4,
+      "Core of Earth": 2,
+      "Globe of Water": 2,
+      "Flask of Mojo": 4
+    },
+    "Yellow": 250,
+    "Green": 265,
+    "Grey": 280,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Figurine - Truesilver Boar": {
+    "ID": 26882,
+    "Creates": 21763,
+    "Learn": 235,
+    "Phase": 1,
+    "Reagents": {
+      "Star Ruby": 2,
+      "Truesilver Bar": 4,
+      "Heart of Fire": 2,
+      "Breath of Wind": 2,
+      "Flask of Mojo": 4
+    },
+    "Yellow": 260,
+    "Green": 275,
+    "Grey": 290,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Ruby Pendant of Fire": {
+    "ID": 26883,
+    "Creates": 21764,
+    "Learn": 235,
+    "Phase": 1,
+    "Reagents": {
+      "Star Ruby": 1,
+      "Thorium Setting": 1
+    },
+    "Yellow": 260,
+    "Green": 275,
+    "Grey": 290,
+    "Source": "Trainer"
+  },
+  "Truesilver Healing Ring": {
+    "ID": 26885,
+    "Creates": 21765,
+    "Learn": 240,
+    "Phase": 1,
+    "Reagents": {
+      "Truesilver Bar": 2,
+      "Heart of the Wild": 2
+    },
+    "Yellow": 265,
+    "Green": 280,
+    "Grey": 295,
+    "Source": "Trainer"
+  },
+  "The Aquamarine Ward": {
+    "ID": 26887,
+    "Creates": 21754,
+    "Learn": 245,
+    "Phase": 1,
+    "Reagents": {
+      "Aquamarine": 1,
+      "Thorium Setting": 1
+    },
+    "Yellow": 270,
+    "Green": 285,
+    "Grey": 300,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Gem Studded Band": {
+    "ID": 26896,
+    "Creates": 21753,
+    "Learn": 250,
+    "Phase": 1,
+    "Reagents": {
+      "Aquamarine": 2,
+      "Citrine": 2,
+      "Thorium Setting": 4,
+      "Truesilver Bar": 2
+    },
+    "Yellow": 275,
+    "Green": 290,
+    "Grey": 305,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Opal Necklace of Impact": {
+    "ID": 26897,
+    "Creates": 21766,
+    "Learn": 250,
+    "Phase": 1,
+    "Reagents": {
+      "Large Opal": 2,
+      "Thorium Setting": 2,
+      "Truesilver Bar": 4,
+      "Large Radiant Shard": 2,
+      "Mithril Filigree": 2
+    },
+    "Yellow": 275,
+    "Green": 290,
+    "Grey": 305,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Figurine - Ruby Serpent": {
+    "ID": 26900,
+    "Creates": 21769,
+    "Learn": 260,
+    "Phase": 1,
+    "Reagents": {
+      "Star Ruby": 2,
+      "Essence of Fire": 2,
+      "Flask of Big Mojo": 4,
+      "Truesilver Bar": 2
+    },
+    "Yellow": 280,
+    "Green": 290,
+    "Grey": 300,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Simple Opal Ring": {
+    "ID": 26902,
+    "Creates": 21767,
+    "Learn": 260,
+    "Phase": 1,
+    "Reagents": {
+      "Large Opal": 1,
+      "Thorium Setting": 1
+    },
+    "Yellow": 280,
+    "Green": 290,
+    "Grey": 300,
+    "Source": "Trainer"
+  },
+  "Sapphire Signet": {
+    "ID": 26903,
+    "Creates": 21768,
+    "Learn": 275,
+    "Phase": 1,
+    "Reagents": {
+      "Blue Sapphire": 4,
+      "Truesilver Bar": 2,
+      "Thorium Setting": 1
+    },
+    "Yellow": 285,
+    "Green": 295,
+    "Grey": 305,
+    "Source": "Trainer"
+  },
+  "Emerald Crown of Destruction": {
+    "ID": 26906,
+    "Creates": 21774,
+    "Learn": 275,
+    "Phase": 1,
+    "Reagents": {
+      "Huge Emerald": 2,
+      "Large Opal": 2,
+      "Blue Sapphire": 2,
+      "Arcanite Bar": 2,
+      "Thorium Bar": 2
+    },
+    "Yellow": 285,
+    "Green": 295,
+    "Grey": 305,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Onslaught Ring": {
+    "ID": 26907,
+    "Creates": 21775,
+    "Learn": 280,
+    "Phase": 1,
+    "Reagents": {
+      "Thorium Setting": 1,
+      "Powerful Mojo": 1,
+      "Essence of Earth": 1
+    },
+    "Yellow": 290,
+    "Green": 300,
+    "Grey": 310,
+    "Source": "Trainer"
+  },
+  "Sapphire Pendant of Winter Night": {
+    "ID": 26908,
+    "Creates": 21790,
+    "Learn": 280,
+    "Phase": 1,
+    "Reagents": {
+      "Blue Sapphire": 1,
+      "Essence of Undeath": 1,
+      "Thorium Setting": 1
+    },
+    "Yellow": 290,
+    "Green": 300,
+    "Grey": 310,
+    "Source": "Trainer"
+  },
+  "Figurine - Emerald Owl": {
+    "ID": 26909,
+    "Creates": 21777,
+    "Learn": 285,
+    "Phase": 1,
+    "Reagents": {
+      "Huge Emerald": 2,
+      "Arcanite Bar": 2,
+      "Thorium Bar": 2,
+      "Powerful Mojo": 4
+    },
+    "Yellow": 295,
+    "Green": 305,
+    "Grey": 315,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Ring of Bitter Shadows": {
+    "ID": 26910,
+    "Creates": 21778,
+    "Learn": 285,
+    "Phase": 1,
+    "Reagents": {
+      "Arcane Crystal": 1,
+      "Essence of Undeath": 2,
+      "Demonic Rune": 1
+    },
+    "Yellow": 295,
+    "Green": 305,
+    "Grey": 315,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Living Emerald Pendant": {
+    "ID": 26911,
+    "Creates": 21791,
+    "Learn": 290,
+    "Phase": 1,
+    "Reagents": {
+      "Huge Emerald": 2,
+      "Living Essence": 4,
+      "Powerful Mojo": 4
+    },
+    "Yellow": 300,
+    "Green": 310,
+    "Grey": 320,
+    "Source": "Trainer"
+  },
+  "Figurine - Black Diamond Crab": {
+    "ID": 26912,
+    "Creates": 21784,
+    "Learn": 300,
+    "Phase": 1,
+    "Reagents": {
+      "Pristine Black Diamond": 4,
+      "Black Diamond": 4,
+      "Azerothian Diamond": 2,
+      "Arcanite Bar": 2,
+      "Thorium Bar": 4
+    },
+    "Yellow": 310,
+    "Green": 320,
+    "Grey": 330,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Figurine - Dark Iron Scorpid": {
+    "ID": 26914,
+    "Creates": 21789,
+    "Learn": 300,
+    "Phase": 1,
+    "Reagents": {
+      "Dark Iron Bar": 4,
+      "Arcanite Bar": 2,
+      "Star Ruby": 2
+    },
+    "Yellow": 310,
+    "Green": 320,
+    "Grey": 330,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Necklace of the Diamond Tower": {
+    "ID": 26915,
+    "Creates": 21792,
+    "Learn": 305,
+    "Phase": 1,
+    "Reagents": {
+      "Azerothian Diamond": 2,
+      "Thorium Setting": 2,
+      "Arcanite Bar": 2
+    },
+    "Yellow": 315,
+    "Green": 325,
+    "Grey": 335,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Band of Natural Fire": {
+    "ID": 26916,
+    "Creates": 21779,
+    "Learn": 310,
+    "Phase": 1,
+    "Reagents": {
+      "Flame Spessarite": 1,
+      "Essence of Fire": 4,
+      "Living Essence": 4
+    },
+    "Yellow": 320,
+    "Green": 330,
+    "Grey": 340,
+    "Source": "Trainer"
+  },
+  "Arcanite Sword Pendant": {
+    "ID": 26918,
+    "Creates": 21793,
+    "Learn": 315,
+    "Phase": 1,
+    "Reagents": {
+      "Arcanite Bar": 4,
+      "Essence of Earth": 4,
+      "Essence of Air": 4
+    },
+    "Yellow": 325,
+    "Green": 335,
+    "Grey": 345,
+    "Source": "Trainer"
+  },
+  "Blood Crown": {
+    "ID": 26920,
+    "Creates": 21780,
+    "Learn": 325,
+    "Phase": 1,
+    "Reagents": {
+      "Thorium Bar": 8,
+      "Blood of the Mountain": 2,
+      "Star Ruby": 4,
+      "Blood of Heroes": 2
+    },
+    "Yellow": 335,
+    "Green": 345,
+    "Grey": 355,
+    "Source": "Trainer"
+  },
+  "Woven Copper Ring": {
+    "ID": 26925,
+    "Creates": 21931,
+    "Learn": 30,
+    "Phase": 1,
+    "Reagents": {
+      "Delicate Copper Wire": 2,
+      "Copper Bar": 1
+    },
+    "Yellow": 30,
+    "Green": 45,
+    "Grey": 60,
+    "Source": "Trainer"
+  },
+  "Heavy Copper Ring": {
+    "ID": 26926,
+    "Creates": 21932,
+    "Learn": 5,
+    "Phase": 1,
+    "Reagents": {
+      "Copper Bar": 4,
+      "Delicate Copper Wire": 2
+    },
+    "Yellow": 35,
+    "Green": 50,
+    "Grey": 65,
+    "Source": "Trainer"
+  },
+  "Thick Bronze Necklace": {
+    "ID": 26927,
+    "Creates": 21933,
+    "Learn": 50,
+    "Phase": 1,
+    "Reagents": {
+      "Bronze Bar": 2,
+      "Shadowgem": 1,
+      "Delicate Copper Wire": 1
+    },
+    "Yellow": 80,
+    "Green": 95,
+    "Grey": 110,
+    "Source": "Trainer"
+  },
+  "Ornate Tigerseye Necklace": {
+    "ID": 26928,
+    "Creates": 21934,
+    "Learn": 30,
+    "Phase": 1,
+    "Reagents": {
+      "Tigerseye": 2,
+      "Copper Bar": 2,
+      "Delicate Copper Wire": 1
+    },
+    "Yellow": 60,
+    "Green": 75,
+    "Grey": 90,
+    "Source": "Trainer"
+  },
+  "Teardrop Blood Garnet": {
+    "ID": 28903,
+    "Creates": 23094,
+    "Learn": 300,
+    "Phase": 1,
+    "Reagents": {
+      "Blood Garnet": 1
+    },
+    "Yellow": 300,
+    "Green": 320,
+    "Grey": 340,
+    "Source": "Trainer"
+  },
+  "Bold Blood Garnet": {
+    "ID": 28905,
+    "Creates": 23095,
+    "Learn": 305,
+    "Phase": 1,
+    "Reagents": {
+      "Blood Garnet": 1
+    },
+    "Yellow": 305,
+    "Green": 325,
+    "Grey": 345,
+    "Source": "Trainer"
+  },
+  "Runed Blood Garnet": {
+    "ID": 28906,
+    "Creates": 23096,
+    "Learn": 315,
+    "Phase": 1,
+    "Reagents": {
+      "Blood Garnet": 1
+    },
+    "Yellow": 315,
+    "Green": 335,
+    "Grey": 355,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Delicate Blood Garnet": {
+    "ID": 28907,
+    "Creates": 23097,
+    "Learn": 325,
+    "Phase": 1,
+    "Reagents": {
+      "Blood Garnet": 1
+    },
+    "Yellow": 325,
+    "Green": 340,
+    "Grey": 355,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Inscribed Flame Spessarite": {
+    "ID": 28910,
+    "Creates": 23098,
+    "Learn": 300,
+    "Phase": 1,
+    "Reagents": {
+      "Flame Spessarite": 1
+    },
+    "Yellow": 300,
+    "Green": 320,
+    "Grey": 340,
+    "Source": "Trainer"
+  },
+  "Luminous Flame Spessarite": {
+    "ID": 28912,
+    "Creates": 23099,
+    "Learn": 305,
+    "Phase": 1,
+    "Reagents": {
+      "Flame Spessarite": 1
+    },
+    "Yellow": 305,
+    "Green": 325,
+    "Grey": 345,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Glinting Flame Spessarite": {
+    "ID": 28914,
+    "Creates": 23100,
+    "Learn": 315,
+    "Phase": 1,
+    "Reagents": {
+      "Flame Spessarite": 1
+    },
+    "Yellow": 315,
+    "Green": 335,
+    "Grey": 355,
+    "Source": "Trainer"
+  },
+  "Potent Flame Spessarite": {
+    "ID": 28915,
+    "Creates": 23101,
+    "Learn": 325,
+    "Phase": 1,
+    "Reagents": {
+      "Flame Spessarite": 1
+    },
+    "Yellow": 325,
+    "Green": 340,
+    "Grey": 355,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Radiant Deep Peridot": {
+    "ID": 28916,
+    "Creates": 23103,
+    "Learn": 300,
+    "Phase": 1,
+    "Reagents": {
+      "Deep Peridot": 1
+    },
+    "Yellow": 300,
+    "Green": 320,
+    "Grey": 340,
+    "Source": "Trainer"
+  },
+  "Jagged Deep Peridot": {
+    "ID": 28917,
+    "Creates": 23104,
+    "Learn": 305,
+    "Phase": 1,
+    "Reagents": {
+      "Deep Peridot": 1
+    },
+    "Yellow": 305,
+    "Green": 325,
+    "Grey": 345,
+    "Source": "Trainer"
+  },
+  "Enduring Deep Peridot": {
+    "ID": 28918,
+    "Creates": 23105,
+    "Learn": 315,
+    "Phase": 1,
+    "Reagents": {
+      "Deep Peridot": 1
+    },
+    "Yellow": 315,
+    "Green": 335,
+    "Grey": 355,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Dazzling Deep Peridot": {
+    "ID": 28924,
+    "Creates": 23106,
+    "Learn": 325,
+    "Phase": 1,
+    "Reagents": {
+      "Deep Peridot": 1
+    },
+    "Yellow": 325,
+    "Green": 340,
+    "Grey": 355,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Glowing Shadow Draenite": {
+    "ID": 28925,
+    "Creates": 23108,
+    "Learn": 300,
+    "Phase": 1,
+    "Reagents": {
+      "Shadow Draenite": 1
+    },
+    "Yellow": 300,
+    "Green": 320,
+    "Grey": 340,
+    "Source": "Trainer"
+  },
+  "Royal Shadow Draenite": {
+    "ID": 28927,
+    "Creates": 23109,
+    "Learn": 305,
+    "Phase": 1,
+    "Reagents": {
+      "Shadow Draenite": 1
+    },
+    "Yellow": 305,
+    "Green": 325,
+    "Grey": 345,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Shifting Shadow Draenite": {
+    "ID": 28933,
+    "Creates": 23110,
+    "Learn": 315,
+    "Phase": 1,
+    "Reagents": {
+      "Shadow Draenite": 1
+    },
+    "Yellow": 315,
+    "Green": 335,
+    "Grey": 355,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Sovereign Shadow Draenite": {
+    "ID": 28936,
+    "Creates": 23111,
+    "Learn": 325,
+    "Phase": 1,
+    "Reagents": {
+      "Shadow Draenite": 1
+    },
+    "Yellow": 325,
+    "Green": 340,
+    "Grey": 355,
+    "Source": "Trainer"
+  },
+  "Brilliant Golden Draenite": {
+    "ID": 28938,
+    "Creates": 23113,
+    "Learn": 300,
+    "Phase": 1,
+    "Reagents": {
+      "Golden Draenite": 1
+    },
+    "Yellow": 300,
+    "Green": 320,
+    "Grey": 340,
+    "Source": "Trainer"
+  },
+  "Gleaming Golden Draenite": {
+    "ID": 28944,
+    "Creates": 23114,
+    "Learn": 305,
+    "Phase": 1,
+    "Reagents": {
+      "Golden Draenite": 1
+    },
+    "Yellow": 305,
+    "Green": 325,
+    "Grey": 345,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Thick Golden Draenite": {
+    "ID": 28947,
+    "Creates": 23115,
+    "Learn": 315,
+    "Phase": 1,
+    "Reagents": {
+      "Golden Draenite": 1
+    },
+    "Yellow": 315,
+    "Green": 335,
+    "Grey": 355,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Rigid Golden Draenite": {
+    "ID": 28948,
+    "Creates": 23116,
+    "Learn": 325,
+    "Phase": 1,
+    "Reagents": {
+      "Golden Draenite": 1
+    },
+    "Yellow": 325,
+    "Green": 340,
+    "Grey": 355,
+    "Source": "Trainer"
+  },
+  "Solid Azure Moonstone": {
+    "ID": 28950,
+    "Creates": 23118,
+    "Learn": 300,
+    "Phase": 1,
+    "Reagents": {
+      "Azure Moonstone": 1
+    },
+    "Yellow": 300,
+    "Green": 320,
+    "Grey": 340,
+    "Source": "Trainer"
+  },
+  "Sparkling Azure Moonstone": {
+    "ID": 28953,
+    "Creates": 23119,
+    "Learn": 305,
+    "Phase": 1,
+    "Reagents": {
+      "Azure Moonstone": 1
+    },
+    "Yellow": 305,
+    "Green": 325,
+    "Grey": 345,
+    "Source": "Trainer"
+  },
+  "Stormy Azure Moonstone": {
+    "ID": 28955,
+    "Creates": 23120,
+    "Learn": 315,
+    "Phase": 1,
+    "Reagents": {
+      "Azure Moonstone": 1
+    },
+    "Yellow": 315,
+    "Green": 335,
+    "Grey": 355,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Lustrous Azure Moonstone": {
+    "ID": 28957,
+    "Creates": 23121,
+    "Learn": 325,
+    "Phase": 1,
+    "Reagents": {
+      "Azure Moonstone": 1
+    },
+    "Yellow": 325,
+    "Green": 340,
+    "Grey": 355,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Fel Iron Blood Ring": {
+    "ID": 31048,
+    "Creates": 24074,
+    "Learn": 310,
+    "Phase": 1,
+    "Reagents": {
+      "Fel Iron Bar": 1,
+      "Blood Garnet": 2
+    },
+    "Yellow": 320,
+    "Green": 330,
+    "Grey": 340,
+    "Source": "Trainer"
+  },
+  "Golden Draenite Ring": {
+    "ID": 31049,
+    "Creates": 24075,
+    "Learn": 310,
+    "Phase": 1,
+    "Reagents": {
+      "Fel Iron Bar": 1,
+      "Golden Draenite": 2
+    },
+    "Yellow": 320,
+    "Green": 335,
+    "Grey": 350,
+    "Source": "Trainer"
+  },
+  "Azure Moonstone Ring": {
+    "ID": 31050,
+    "Creates": 24076,
+    "Learn": 320,
+    "Phase": 1,
+    "Reagents": {
+      "Fel Iron Bar": 1,
+      "Azure Moonstone": 2,
+      "Deep Peridot": 1
+    },
+    "Yellow": 330,
+    "Green": 340,
+    "Grey": 350,
+    "Source": "Trainer"
+  },
+  "Thick Adamantite Necklace": {
+    "ID": 31051,
+    "Creates": 24077,
+    "Learn": 335,
+    "Phase": 1,
+    "Reagents": {
+      "Adamantite Bar": 2,
+      "Mercurial Adamantite": 1
+    },
+    "Yellow": 345,
+    "Green": 355,
+    "Grey": 365,
+    "Source": "Trainer"
+  },
+  "Heavy Adamantite Ring": {
+    "ID": 31052,
+    "Creates": 24078,
+    "Learn": 335,
+    "Phase": 1,
+    "Reagents": {
+      "Adamantite Bar": 1,
+      "Mercurial Adamantite": 1
+    },
+    "Yellow": 345,
+    "Green": 355,
+    "Grey": 365,
+    "Source": "Trainer"
+  },
+  "Khorium Band of Shadows": {
+    "ID": 31053,
+    "Creates": 24079,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Khorium Bar": 2,
+      "Mercurial Adamantite": 3,
+      "Primal Shadow": 3
+    },
+    "Yellow": 360,
+    "Green": 370,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Khorium Band of Frost": {
+    "ID": 31054,
+    "Creates": 24080,
+    "Learn": 355,
+    "Phase": 1,
+    "Reagents": {
+      "Khorium Bar": 2,
+      "Mercurial Adamantite": 4,
+      "Primal Water": 3
+    },
+    "Yellow": 365,
+    "Green": 372,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Khorium Inferno Band": {
+    "ID": 31055,
+    "Creates": 24082,
+    "Learn": 355,
+    "Phase": 1,
+    "Reagents": {
+      "Khorium Bar": 2,
+      "Mercurial Adamantite": 4,
+      "Primal Fire": 3
+    },
+    "Yellow": 365,
+    "Green": 372,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Khorium Band of Leaves": {
+    "ID": 31056,
+    "Creates": 24085,
+    "Learn": 360,
+    "Phase": 1,
+    "Reagents": {
+      "Khorium Bar": 2,
+      "Mercurial Adamantite": 4,
+      "Primal Life": 3
+    },
+    "Yellow": 370,
+    "Green": 375,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Arcane Khorium Band": {
+    "ID": 31057,
+    "Creates": 24086,
+    "Learn": 365,
+    "Phase": 1,
+    "Reagents": {
+      "Khorium Bar": 2,
+      "Mercurial Adamantite": 4,
+      "Primal Mana": 3
+    },
+    "Yellow": 370,
+    "Green": 375,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Heavy Felsteel Ring": {
+    "ID": 31058,
+    "Creates": 24087,
+    "Learn": 345,
+    "Phase": 1,
+    "Reagents": {
+      "Felsteel Bar": 2,
+      "Mercurial Adamantite": 4
+    },
+    "Yellow": 355,
+    "Green": 365,
+    "Grey": 375,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Delicate Eternium Ring": {
+    "ID": 31060,
+    "Creates": 24088,
+    "Learn": 355,
+    "Phase": 1,
+    "Reagents": {
+      "Eternium Bar": 1,
+      "Mercurial Adamantite": 5
+    },
+    "Yellow": 365,
+    "Green": 375,
+    "Grey": 385,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Blazing Eternium Band": {
+    "ID": 31061,
+    "Creates": 24089,
+    "Learn": 365,
+    "Phase": 1,
+    "Reagents": {
+      "Eternium Bar": 2,
+      "Mercurial Adamantite": 4,
+      "Primal Fire": 4
+    },
+    "Yellow": 375,
+    "Green": 377,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Pendant of Frozen Flame": {
+    "ID": 31062,
+    "Creates": 24092,
+    "Learn": 360,
+    "Phase": 1,
+    "Reagents": {
+      "Felsteel Bar": 2,
+      "Primal Water": 6,
+      "Primal Fire": 4,
+      "Mercurial Adamantite": 1
+    },
+    "Yellow": 370,
+    "Green": 375,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Pendant of Thawing": {
+    "ID": 31063,
+    "Creates": 24093,
+    "Learn": 360,
+    "Phase": 1,
+    "Reagents": {
+      "Felsteel Bar": 2,
+      "Primal Fire": 6,
+      "Primal Water": 4,
+      "Mercurial Adamantite": 1
+    },
+    "Yellow": 370,
+    "Green": 375,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Pendant of Withering": {
+    "ID": 31064,
+    "Creates": 24095,
+    "Learn": 360,
+    "Phase": 1,
+    "Reagents": {
+      "Felsteel Bar": 2,
+      "Primal Shadow": 6,
+      "Primal Life": 4,
+      "Mercurial Adamantite": 1
+    },
+    "Yellow": 370,
+    "Green": 375,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Pendant of Shadow's End": {
+    "ID": 31065,
+    "Creates": 24097,
+    "Learn": 360,
+    "Phase": 1,
+    "Reagents": {
+      "Felsteel Bar": 2,
+      "Primal Life": 6,
+      "Primal Shadow": 4,
+      "Mercurial Adamantite": 1
+    },
+    "Yellow": 370,
+    "Green": 375,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Pendant of the Null Rune": {
+    "ID": 31066,
+    "Creates": 24098,
+    "Learn": 360,
+    "Phase": 1,
+    "Reagents": {
+      "Felsteel Bar": 2,
+      "Primal Mana": 8,
+      "Mercurial Adamantite": 1
+    },
+    "Yellow": 370,
+    "Green": 375,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Thick Felsteel Necklace": {
+    "ID": 31067,
+    "Creates": 24106,
+    "Learn": 355,
+    "Phase": 1,
+    "Reagents": {
+      "Felsteel Bar": 2,
+      "Mercurial Adamantite": 3
+    },
+    "Yellow": 365,
+    "Green": 375,
+    "Grey": 385,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Living Ruby Pendant": {
+    "ID": 31068,
+    "Creates": 24110,
+    "Learn": 355,
+    "Phase": 1,
+    "Reagents": {
+      "Khorium Bar": 4,
+      "Mercurial Adamantite": 1,
+      "Living Ruby": 1
+    },
+    "Yellow": 365,
+    "Green": 375,
+    "Grey": 385,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Braided Eternium Chain": {
+    "ID": 31070,
+    "Creates": 24114,
+    "Learn": 360,
+    "Phase": 1,
+    "Reagents": {
+      "Eternium Bar": 2,
+      "Mercurial Adamantite": 3
+    },
+    "Yellow": 370,
+    "Green": 377,
+    "Grey": 385,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Eye of the Night": {
+    "ID": 31071,
+    "Creates": 24116,
+    "Learn": 360,
+    "Phase": 1,
+    "Reagents": {
+      "Hardened Adamantite Bar": 2,
+      "Mercurial Adamantite": 2,
+      "Nightseye": 1
+    },
+    "Yellow": 370,
+    "Green": 375,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Embrace of the Dawn": {
+    "ID": 31072,
+    "Creates": 24117,
+    "Learn": 365,
+    "Phase": 1,
+    "Reagents": {
+      "Eternium Bar": 2,
+      "Mercurial Adamantite": 4,
+      "Golden Draenite": 2
+    },
+    "Yellow": 375,
+    "Green": 380,
+    "Grey": 385,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Chain of the Twilight Owl": {
+    "ID": 31076,
+    "Creates": 24121,
+    "Learn": 365,
+    "Phase": 1,
+    "Reagents": {
+      "Khorium Bar": 2,
+      "Mercurial Adamantite": 4,
+      "Azure Moonstone": 2
+    },
+    "Yellow": 375,
+    "Green": 380,
+    "Grey": 385,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Coronet of Verdant Flame": {
+    "ID": 31077,
+    "Creates": 24122,
+    "Learn": 370,
+    "Phase": 1,
+    "Reagents": {
+      "Khorium Bar": 20,
+      "Primal Life": 20,
+      "Talasite": 2,
+      "Mercurial Adamantite": 5
+    },
+    "Yellow": 375,
+    "Green": 380,
+    "Grey": 385,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Circlet of Arcane Might": {
+    "ID": 31078,
+    "Creates": 24123,
+    "Learn": 370,
+    "Phase": 1,
+    "Reagents": {
+      "Felsteel Bar": 20,
+      "Primal Mana": 20,
+      "Star of Elune": 2,
+      "Mercurial Adamantite": 5
+    },
+    "Yellow": 375,
+    "Green": 380,
+    "Grey": 385,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Figurine - Felsteel Boar": {
+    "ID": 31079,
+    "Creates": 24124,
+    "Learn": 370,
+    "Phase": 1,
+    "Reagents": {
+      "Felsteel Bar": 8,
+      "Blood Garnet": 2,
+      "Primal Earth": 4
+    },
+    "Yellow": 375,
+    "Green": 380,
+    "Grey": 385,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Figurine - Dawnstone Crab": {
+    "ID": 31080,
+    "Creates": 24125,
+    "Learn": 370,
+    "Phase": 1,
+    "Reagents": {
+      "Khorium Bar": 4,
+      "Dawnstone": 2,
+      "Golden Draenite": 4
+    },
+    "Yellow": 375,
+    "Green": 380,
+    "Grey": 385,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Figurine - Living Ruby Serpent": {
+    "ID": 31081,
+    "Creates": 24126,
+    "Learn": 370,
+    "Phase": 1,
+    "Reagents": {
+      "Felsteel Bar": 2,
+      "Living Ruby": 2,
+      "Primal Fire": 4
+    },
+    "Yellow": 375,
+    "Green": 380,
+    "Grey": 385,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Figurine - Talasite Owl": {
+    "ID": 31082,
+    "Creates": 24127,
+    "Learn": 370,
+    "Phase": 1,
+    "Reagents": {
+      "Eternium Bar": 2,
+      "Talasite": 2,
+      "Primal Mana": 4
+    },
+    "Yellow": 375,
+    "Green": 380,
+    "Grey": 385,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Figurine - Nightseye Panther": {
+    "ID": 31083,
+    "Creates": 24128,
+    "Learn": 370,
+    "Phase": 1,
+    "Reagents": {
+      "Hardened Adamantite Bar": 6,
+      "Nightseye": 2,
+      "Primal Shadow": 2
+    },
+    "Yellow": 375,
+    "Green": 380,
+    "Grey": 385,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Bold Living Ruby": {
+    "ID": 31084,
+    "Creates": 24027,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Living Ruby": 1
+    },
+    "Yellow": 350,
+    "Green": 365,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Delicate Living Ruby": {
+    "ID": 31085,
+    "Creates": 24028,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Living Ruby": 1
+    },
+    "Yellow": 350,
+    "Green": 365,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Teardrop Living Ruby": {
+    "ID": 31087,
+    "Creates": 24029,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Living Ruby": 1
+    },
+    "Yellow": 350,
+    "Green": 365,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Runed Living Ruby": {
+    "ID": 31088,
+    "Creates": 24030,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Living Ruby": 1
+    },
+    "Yellow": 350,
+    "Green": 365,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Bright Living Ruby": {
+    "ID": 31089,
+    "Creates": 24031,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Living Ruby": 1
+    },
+    "Yellow": 350,
+    "Green": 365,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Subtle Living Ruby": {
+    "ID": 31090,
+    "Creates": 24032,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Living Ruby": 1
+    },
+    "Yellow": 350,
+    "Green": 365,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Flashing Living Ruby": {
+    "ID": 31091,
+    "Creates": 24036,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Living Ruby": 1
+    },
+    "Yellow": 350,
+    "Green": 365,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Solid Star of Elune": {
+    "ID": 31092,
+    "Creates": 24033,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Star of Elune": 1
+    },
+    "Yellow": 350,
+    "Green": 365,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Lustrous Star of Elune": {
+    "ID": 31094,
+    "Creates": 24037,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Star of Elune": 1
+    },
+    "Yellow": 350,
+    "Green": 365,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Stormy Star of Elune": {
+    "ID": 31095,
+    "Creates": 24039,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Star of Elune": 1
+    },
+    "Yellow": 350,
+    "Green": 365,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Brilliant Dawnstone": {
+    "ID": 31096,
+    "Creates": 24047,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Dawnstone": 1
+    },
+    "Yellow": 350,
+    "Green": 365,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Smooth Dawnstone": {
+    "ID": 31097,
+    "Creates": 24048,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Dawnstone": 1
+    },
+    "Yellow": 350,
+    "Green": 365,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Rigid Dawnstone": {
+    "ID": 31098,
+    "Creates": 24051,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Dawnstone": 1
+    },
+    "Yellow": 350,
+    "Green": 365,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Gleaming Dawnstone": {
+    "ID": 31099,
+    "Creates": 24050,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Dawnstone": 1
+    },
+    "Yellow": 350,
+    "Green": 365,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Thick Dawnstone": {
+    "ID": 31100,
+    "Creates": 24052,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Dawnstone": 1
+    },
+    "Yellow": 350,
+    "Green": 365,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Mystic Dawnstone": {
+    "ID": 31101,
+    "Creates": 24053,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Dawnstone": 1
+    },
+    "Yellow": 350,
+    "Green": 365,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Sovereign Nightseye": {
+    "ID": 31102,
+    "Creates": 24054,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Nightseye": 1
+    },
+    "Yellow": 350,
+    "Green": 365,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Shifting Nightseye": {
+    "ID": 31103,
+    "Creates": 24055,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Nightseye": 1
+    },
+    "Yellow": 350,
+    "Green": 365,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Glowing Nightseye": {
+    "ID": 31104,
+    "Creates": 24056,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Nightseye": 1
+    },
+    "Yellow": 350,
+    "Green": 365,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Royal Nightseye": {
+    "ID": 31105,
+    "Creates": 24057,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Nightseye": 1
+    },
+    "Yellow": 350,
+    "Green": 365,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Inscribed Noble Topaz": {
+    "ID": 31106,
+    "Creates": 24058,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Noble Topaz": 1
+    },
+    "Yellow": 350,
+    "Green": 365,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Potent Noble Topaz": {
+    "ID": 31107,
+    "Creates": 24059,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Noble Topaz": 1
+    },
+    "Yellow": 350,
+    "Green": 365,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Luminous Noble Topaz": {
+    "ID": 31108,
+    "Creates": 24060,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Noble Topaz": 1
+    },
+    "Yellow": 350,
+    "Green": 365,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Glinting Noble Topaz": {
+    "ID": 31109,
+    "Creates": 24061,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Noble Topaz": 1
+    },
+    "Yellow": 350,
+    "Green": 365,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Enduring Talasite": {
+    "ID": 31110,
+    "Creates": 24062,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Talasite": 1
+    },
+    "Yellow": 350,
+    "Green": 365,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Radiant Talasite": {
+    "ID": 31111,
+    "Creates": 24066,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Talasite": 1
+    },
+    "Yellow": 350,
+    "Green": 365,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Dazzling Talasite": {
+    "ID": 31112,
+    "Creates": 24065,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Talasite": 1
+    },
+    "Yellow": 350,
+    "Green": 365,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Jagged Talasite": {
+    "ID": 31113,
+    "Creates": 24067,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Talasite": 1
+    },
+    "Yellow": 350,
+    "Green": 365,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Sparkling Star of Elune": {
+    "ID": 31149,
+    "Creates": 24035,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Star of Elune": 1
+    },
+    "Yellow": 350,
+    "Green": 365,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Malachite Pendant": {
+    "ID": 32178,
+    "Creates": 25438,
+    "Learn": 20,
+    "Phase": 1,
+    "Reagents": {
+      "Malachite": 1,
+      "Delicate Copper Wire": 1
+    },
+    "Yellow": 50,
+    "Green": 65,
+    "Grey": 80,
+    "Source": "Trainer"
+  },
+  "Tigerseye Band": {
+    "ID": 32179,
+    "Creates": 25439,
+    "Learn": 20,
+    "Phase": 1,
+    "Reagents": {
+      "Tigerseye": 1,
+      "Delicate Copper Wire": 1
+    },
+    "Yellow": 50,
+    "Green": 65,
+    "Grey": 80,
+    "Source": "Trainer"
+  },
+  "Rough Stone Statue": {
+    "ID": 32259,
+    "Creates": 25498,
+    "Learn": 30,
+    "Phase": 1,
+    "Reagents": {
+      "Rough Stone": 8
+    },
+    "Yellow": 30,
+    "Green": 40,
+    "Grey": 50,
+    "Source": "Trainer"
+  },
+  "Coarse Stone Statue": {
+    "ID": 32801,
+    "Creates": 25880,
+    "Learn": 50,
+    "Phase": 1,
+    "Reagents": {
+      "Coarse Stone": 8
+    },
+    "Yellow": 70,
+    "Green": 80,
+    "Grey": 90,
+    "Source": "Trainer"
+  },
+  "Heavy Stone Statue": {
+    "ID": 32807,
+    "Creates": 25881,
+    "Learn": 110,
+    "Phase": 1,
+    "Reagents": {
+      "Heavy Stone": 8
+    },
+    "Yellow": 120,
+    "Green": 130,
+    "Grey": 140,
+    "Source": "Trainer"
+  },
+  "Solid Stone Statue": {
+    "ID": 32808,
+    "Creates": 25882,
+    "Learn": 175,
+    "Phase": 1,
+    "Reagents": {
+      "Solid Stone": 10
+    },
+    "Yellow": 175,
+    "Green": 185,
+    "Grey": 195,
+    "Source": "Trainer"
+  },
+  "Dense Stone Statue": {
+    "ID": 32809,
+    "Creates": 25883,
+    "Learn": 225,
+    "Phase": 1,
+    "Reagents": {
+      "Dense Stone": 10
+    },
+    "Yellow": 225,
+    "Green": 235,
+    "Grey": 245,
+    "Source": "Trainer"
+  },
+  "Powerful Earthstorm Diamond": {
+    "ID": 32866,
+    "Creates": 25896,
+    "Learn": 365,
+    "Phase": 1,
+    "Reagents": {
+      "Earthstorm Diamond": 1
+    },
+    "Yellow": 375,
+    "Green": 377,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Bracing Earthstorm Diamond": {
+    "ID": 32867,
+    "Creates": 25897,
+    "Learn": 365,
+    "Phase": 1,
+    "Reagents": {
+      "Earthstorm Diamond": 1
+    },
+    "Yellow": 375,
+    "Green": 377,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Tenacious Earthstorm Diamond": {
+    "ID": 32868,
+    "Creates": 25898,
+    "Learn": 365,
+    "Phase": 1,
+    "Reagents": {
+      "Earthstorm Diamond": 1
+    },
+    "Yellow": 375,
+    "Green": 377,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Brutal Earthstorm Diamond": {
+    "ID": 32869,
+    "Creates": 25899,
+    "Learn": 365,
+    "Phase": 1,
+    "Reagents": {
+      "Earthstorm Diamond": 1
+    },
+    "Yellow": 375,
+    "Green": 377,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Insightful Earthstorm Diamond": {
+    "ID": 32870,
+    "Creates": 25901,
+    "Learn": 365,
+    "Phase": 1,
+    "Reagents": {
+      "Earthstorm Diamond": 1
+    },
+    "Yellow": 375,
+    "Green": 377,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Destructive Skyfire Diamond": {
+    "ID": 32871,
+    "Creates": 25890,
+    "Learn": 365,
+    "Phase": 1,
+    "Reagents": {
+      "Skyfire Diamond": 1
+    },
+    "Yellow": 375,
+    "Green": 377,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Mystical Skyfire Diamond": {
+    "ID": 32872,
+    "Creates": 25893,
+    "Learn": 365,
+    "Phase": 1,
+    "Reagents": {
+      "Skyfire Diamond": 1
+    },
+    "Yellow": 375,
+    "Green": 377,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Swift Skyfire Diamond": {
+    "ID": 32873,
+    "Creates": 25894,
+    "Learn": 365,
+    "Phase": 1,
+    "Reagents": {
+      "Skyfire Diamond": 1
+    },
+    "Yellow": 375,
+    "Green": 377,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Enigmatic Skyfire Diamond": {
+    "ID": 32874,
+    "Creates": 25895,
+    "Learn": 365,
+    "Phase": 1,
+    "Reagents": {
+      "Skyfire Diamond": 1
+    },
+    "Yellow": 375,
+    "Green": 377,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Smooth Golden Draenite": {
+    "ID": 34069,
+    "Creates": 28290,
+    "Learn": 325,
+    "Phase": 1,
+    "Reagents": {
+      "Golden Draenite": 1
+    },
+    "Yellow": 325,
+    "Green": 340,
+    "Grey": 355,
+    "Source": "Trainer"
+  },
+  "Bright Blood Garnet": {
+    "ID": 34590,
+    "Creates": 28595,
+    "Learn": 305,
+    "Phase": 1,
+    "Reagents": {
+      "Blood Garnet": 1
+    },
+    "Yellow": 305,
+    "Green": 325,
+    "Grey": 345,
+    "Source": "Trainer"
+  },
+  "Golden Ring of Power": {
+    "ID": 34955,
+    "Creates": 29157,
+    "Learn": 180,
+    "Phase": 1,
+    "Reagents": {
+      "Gold Bar": 4,
+      "Lesser Moonstone": 1,
+      "Jade": 1,
+      "Citrine": 1
+    },
+    "Yellow": 190,
+    "Green": 200,
+    "Grey": 210,
+    "Source": "Trainer"
+  },
+  "Truesilver Commander's Ring": {
+    "ID": 34959,
+    "Creates": 29158,
+    "Learn": 200,
+    "Phase": 1,
+    "Reagents": {
+      "Truesilver Bar": 3,
+      "Star Ruby": 2,
+      "Citrine": 2
+    },
+    "Yellow": 210,
+    "Green": 220,
+    "Grey": 230,
+    "Source": "Trainer"
+  },
+  "Glowing Thorium Band": {
+    "ID": 34960,
+    "Creates": 29159,
+    "Learn": 280,
+    "Phase": 1,
+    "Reagents": {
+      "Azerothian Diamond": 2,
+      "Thorium Setting": 1
+    },
+    "Yellow": 290,
+    "Green": 300,
+    "Grey": 310,
+    "Source": "Trainer"
+  },
+  "Emerald Lion Ring": {
+    "ID": 34961,
+    "Creates": 29160,
+    "Learn": 290,
+    "Phase": 1,
+    "Reagents": {
+      "Huge Emerald": 2,
+      "Thorium Setting": 1
+    },
+    "Yellow": 300,
+    "Green": 310,
+    "Grey": 320,
+    "Source": "Trainer"
+  },
+  "Brilliant Necklace": {
+    "ID": 36523,
+    "Creates": 30419,
+    "Learn": 75,
+    "Phase": 1,
+    "Reagents": {
+      "Bronze Bar": 4,
+      "Bronze Setting": 1,
+      "Moss Agate": 1
+    },
+    "Yellow": 105,
+    "Green": 120,
+    "Grey": 135,
+    "Source": "Trainer"
+  },
+  "Heavy Jade Ring": {
+    "ID": 36524,
+    "Creates": 30420,
+    "Learn": 105,
+    "Phase": 1,
+    "Reagents": {
+      "Jade": 1,
+      "Bronze Setting": 1,
+      "Iron Bar": 2
+    },
+    "Yellow": 135,
+    "Green": 150,
+    "Grey": 165,
+    "Source": "Trainer"
+  },
+  "Red Ring of Destruction": {
+    "ID": 36525,
+    "Creates": 30421,
+    "Learn": 230,
+    "Phase": 1,
+    "Reagents": {
+      "Star Ruby": 1,
+      "Thorium Setting": 1
+    },
+    "Yellow": 255,
+    "Green": 270,
+    "Grey": 285,
+    "Source": "Trainer"
+  },
+  "Diamond Focus Ring": {
+    "ID": 36526,
+    "Creates": 30422,
+    "Learn": 265,
+    "Phase": 1,
+    "Reagents": {
+      "Azerothian Diamond": 1,
+      "Thorium Setting": 1
+    },
+    "Yellow": 285,
+    "Green": 295,
+    "Grey": 305,
+    "Source": "Trainer"
+  },
+  "Bronze Band of Force": {
+    "ID": 37818,
+    "Creates": 30804,
+    "Learn": 65,
+    "Phase": 1,
+    "Reagents": {
+      "Bronze Bar": 2,
+      "Bronze Setting": 1,
+      "Malachite": 3,
+      "Tigerseye": 3,
+      "Shadowgem": 2
+    },
+    "Yellow": 95,
+    "Green": 110,
+    "Grey": 125,
+    "Source": "Trainer"
+  },
+  "Ring of Arcane Shielding": {
+    "ID": 37855,
+    "Creates": 30825,
+    "Learn": 360,
+    "Phase": 1,
+    "Reagents": {
+      "Eternium Bar": 2,
+      "Primal Mana": 8
+    },
+    "Yellow": 370,
+    "Green": 375,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Mercurial Adamantite": {
+    "ID": 38068,
+    "Creates": 31079,
+    "Learn": 325,
+    "Phase": 1,
+    "Reagents": {
+      "Adamantite Powder": 4,
+      "Primal Earth": 1
+    },
+    "Yellow": 325,
+    "Green": 335,
+    "Grey": 345,
+    "Source": "Trainer"
+  },
+  "Bronze Torc": {
+    "ID": 38175,
+    "Creates": 31154,
+    "Learn": 80,
+    "Phase": 1,
+    "Reagents": {
+      "Bronze Bar": 6,
+      "Bronze Setting": 1,
+      "Lesser Moonstone": 1
+    },
+    "Yellow": 110,
+    "Green": 125,
+    "Grey": 140,
+    "Source": "Trainer"
+  },
+  "The Frozen Eye": {
+    "ID": 38503,
+    "Creates": 31398,
+    "Learn": 375,
+    "Phase": 1,
+    "Reagents": {
+      "Mercurial Adamantite": 4,
+      "Khorium Bar": 2,
+      "Primal Water": 6,
+      "Primal Fire": 6
+    },
+    "Yellow": 375,
+    "Green": 380,
+    "Grey": 385,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "The Natural Ward": {
+    "ID": 38504,
+    "Creates": 31399,
+    "Learn": 375,
+    "Phase": 1,
+    "Reagents": {
+      "Mercurial Adamantite": 4,
+      "Felsteel Bar": 2,
+      "Primal Life": 6,
+      "Primal Shadow": 6
+    },
+    "Yellow": 375,
+    "Green": 380,
+    "Grey": 385,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Great Golden Draenite": {
+    "ID": 39451,
+    "Creates": 31860,
+    "Learn": 325,
+    "Phase": 1,
+    "Reagents": {
+      "Golden Draenite": 1
+    },
+    "Yellow": 325,
+    "Green": 340,
+    "Grey": 355,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Great Dawnstone": {
+    "ID": 39452,
+    "Creates": 31861,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Dawnstone": 1
+    },
+    "Yellow": 350,
+    "Green": 365,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Balanced Shadow Draenite": {
+    "ID": 39455,
+    "Creates": 31862,
+    "Learn": 325,
+    "Phase": 1,
+    "Reagents": {
+      "Shadow Draenite": 1
+    },
+    "Yellow": 325,
+    "Green": 340,
+    "Grey": 355,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Infused Shadow Draenite": {
+    "ID": 39458,
+    "Creates": 31864,
+    "Learn": 325,
+    "Phase": 1,
+    "Reagents": {
+      "Shadow Draenite": 1
+    },
+    "Yellow": 325,
+    "Green": 340,
+    "Grey": 355,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Infused Nightseye": {
+    "ID": 39462,
+    "Creates": 31865,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Nightseye": 1
+    },
+    "Yellow": 350,
+    "Green": 365,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Balanced Nightseye": {
+    "ID": 39463,
+    "Creates": 31863,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Nightseye": 1
+    },
+    "Yellow": 350,
+    "Green": 365,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Veiled Flame Spessarite": {
+    "ID": 39466,
+    "Creates": 31866,
+    "Learn": 325,
+    "Phase": 1,
+    "Reagents": {
+      "Flame Spessarite": 1
+    },
+    "Yellow": 325,
+    "Green": 340,
+    "Grey": 355,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Wicked Flame Spessarite": {
+    "ID": 39467,
+    "Creates": 31869,
+    "Learn": 325,
+    "Phase": 1,
+    "Reagents": {
+      "Flame Spessarite": 1
+    },
+    "Yellow": 325,
+    "Green": 340,
+    "Grey": 355,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Veiled Noble Topaz": {
+    "ID": 39470,
+    "Creates": 31867,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Noble Topaz": 1
+    },
+    "Yellow": 350,
+    "Green": 365,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Wicked Noble Topaz": {
+    "ID": 39471,
+    "Creates": 31868,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Noble Topaz": 1
+    },
+    "Yellow": 350,
+    "Green": 365,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Bold Crimson Spinel": {
+    "ID": 39705,
+    "Creates": 32193,
+    "Learn": 375,
+    "Phase": 1,
+    "Reagents": {
+      "Crimson Spinel": 1
+    },
+    "Yellow": 375,
+    "Green": 380,
+    "Grey": 385,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Delicate Crimson Spinel": {
+    "ID": 39706,
+    "Creates": 32194,
+    "Learn": 375,
+    "Phase": 1,
+    "Reagents": {
+      "Crimson Spinel": 1
+    },
+    "Yellow": 375,
+    "Green": 380,
+    "Grey": 385,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Teardrop Crimson Spinel": {
+    "ID": 39710,
+    "Creates": 32195,
+    "Learn": 375,
+    "Phase": 1,
+    "Reagents": {
+      "Crimson Spinel": 1
+    },
+    "Yellow": 375,
+    "Green": 380,
+    "Grey": 385,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Runed Crimson Spinel": {
+    "ID": 39711,
+    "Creates": 32196,
+    "Learn": 375,
+    "Phase": 1,
+    "Reagents": {
+      "Crimson Spinel": 1
+    },
+    "Yellow": 375,
+    "Green": 380,
+    "Grey": 385,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Bright Crimson Spinel": {
+    "ID": 39712,
+    "Creates": 32197,
+    "Learn": 375,
+    "Phase": 1,
+    "Reagents": {
+      "Crimson Spinel": 1
+    },
+    "Yellow": 375,
+    "Green": 380,
+    "Grey": 385,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Subtle Crimson Spinel": {
+    "ID": 39713,
+    "Creates": 32198,
+    "Learn": 375,
+    "Phase": 1,
+    "Reagents": {
+      "Crimson Spinel": 1
+    },
+    "Yellow": 375,
+    "Green": 380,
+    "Grey": 385,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Flashing Crimson Spinel": {
+    "ID": 39714,
+    "Creates": 32199,
+    "Learn": 375,
+    "Phase": 1,
+    "Reagents": {
+      "Crimson Spinel": 1
+    },
+    "Yellow": 375,
+    "Green": 380,
+    "Grey": 385,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Solid Empyrean Sapphire": {
+    "ID": 39715,
+    "Creates": 32200,
+    "Learn": 375,
+    "Phase": 1,
+    "Reagents": {
+      "Empyrean Sapphire": 1
+    },
+    "Yellow": 375,
+    "Green": 380,
+    "Grey": 385,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Sparkling Empyrean Sapphire": {
+    "ID": 39716,
+    "Creates": 32201,
+    "Learn": 375,
+    "Phase": 1,
+    "Reagents": {
+      "Empyrean Sapphire": 1
+    },
+    "Yellow": 375,
+    "Green": 380,
+    "Grey": 385,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Lustrous Empyrean Sapphire": {
+    "ID": 39717,
+    "Creates": 32202,
+    "Learn": 375,
+    "Phase": 1,
+    "Reagents": {
+      "Empyrean Sapphire": 1
+    },
+    "Yellow": 375,
+    "Green": 380,
+    "Grey": 385,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Stormy Empyrean Sapphire": {
+    "ID": 39718,
+    "Creates": 32203,
+    "Learn": 375,
+    "Phase": 1,
+    "Reagents": {
+      "Empyrean Sapphire": 1
+    },
+    "Yellow": 375,
+    "Green": 380,
+    "Grey": 385,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Brilliant Lionseye": {
+    "ID": 39719,
+    "Creates": 32204,
+    "Learn": 375,
+    "Phase": 1,
+    "Reagents": {
+      "Lionseye": 1
+    },
+    "Yellow": 375,
+    "Green": 380,
+    "Grey": 385,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Smooth Lionseye": {
+    "ID": 39720,
+    "Creates": 32205,
+    "Learn": 375,
+    "Phase": 1,
+    "Reagents": {
+      "Lionseye": 1
+    },
+    "Yellow": 375,
+    "Green": 380,
+    "Grey": 385,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Rigid Lionseye": {
+    "ID": 39721,
+    "Creates": 32206,
+    "Learn": 375,
+    "Phase": 1,
+    "Reagents": {
+      "Lionseye": 1
+    },
+    "Yellow": 375,
+    "Green": 380,
+    "Grey": 385,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Gleaming Lionseye": {
+    "ID": 39722,
+    "Creates": 32207,
+    "Learn": 375,
+    "Phase": 1,
+    "Reagents": {
+      "Lionseye": 1
+    },
+    "Yellow": 375,
+    "Green": 380,
+    "Grey": 385,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Thick Lionseye": {
+    "ID": 39723,
+    "Creates": 32208,
+    "Learn": 375,
+    "Phase": 1,
+    "Reagents": {
+      "Lionseye": 1
+    },
+    "Yellow": 375,
+    "Green": 380,
+    "Grey": 385,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Mystic Lionseye": {
+    "ID": 39724,
+    "Creates": 32209,
+    "Learn": 375,
+    "Phase": 1,
+    "Reagents": {
+      "Lionseye": 1
+    },
+    "Yellow": 375,
+    "Green": 380,
+    "Grey": 385,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Great Lionseye": {
+    "ID": 39725,
+    "Creates": 32210,
+    "Learn": 375,
+    "Phase": 1,
+    "Reagents": {
+      "Lionseye": 1
+    },
+    "Yellow": 375,
+    "Green": 380,
+    "Grey": 385,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Sovereign Shadowsong Amethyst": {
+    "ID": 39727,
+    "Creates": 32211,
+    "Learn": 375,
+    "Phase": 1,
+    "Reagents": {
+      "Shadowsong Amethyst": 1
+    },
+    "Yellow": 375,
+    "Green": 380,
+    "Grey": 385,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Shifting Shadowsong Amethyst": {
+    "ID": 39728,
+    "Creates": 32212,
+    "Learn": 375,
+    "Phase": 1,
+    "Reagents": {
+      "Shadowsong Amethyst": 1
+    },
+    "Yellow": 375,
+    "Green": 380,
+    "Grey": 385,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Balanced Shadowsong Amethyst": {
+    "ID": 39729,
+    "Creates": 32213,
+    "Learn": 375,
+    "Phase": 1,
+    "Reagents": {
+      "Shadowsong Amethyst": 1
+    },
+    "Yellow": 375,
+    "Green": 380,
+    "Grey": 385,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Infused Shadowsong Amethyst": {
+    "ID": 39730,
+    "Creates": 32214,
+    "Learn": 375,
+    "Phase": 1,
+    "Reagents": {
+      "Shadowsong Amethyst": 1
+    },
+    "Yellow": 375,
+    "Green": 380,
+    "Grey": 385,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Glowing Shadowsong Amethyst": {
+    "ID": 39731,
+    "Creates": 32215,
+    "Learn": 375,
+    "Phase": 1,
+    "Reagents": {
+      "Shadowsong Amethyst": 1
+    },
+    "Yellow": 375,
+    "Green": 380,
+    "Grey": 385,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Royal Shadowsong Amethyst": {
+    "ID": 39732,
+    "Creates": 32216,
+    "Learn": 375,
+    "Phase": 1,
+    "Reagents": {
+      "Shadowsong Amethyst": 1
+    },
+    "Yellow": 375,
+    "Green": 380,
+    "Grey": 385,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Inscribed Pyrestone": {
+    "ID": 39733,
+    "Creates": 32217,
+    "Learn": 375,
+    "Phase": 1,
+    "Reagents": {
+      "Pyrestone": 1
+    },
+    "Yellow": 375,
+    "Green": 380,
+    "Grey": 385,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Potent Pyrestone": {
+    "ID": 39734,
+    "Creates": 32218,
+    "Learn": 375,
+    "Phase": 1,
+    "Reagents": {
+      "Pyrestone": 1
+    },
+    "Yellow": 375,
+    "Green": 380,
+    "Grey": 385,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Luminous Pyrestone": {
+    "ID": 39735,
+    "Creates": 32219,
+    "Learn": 375,
+    "Phase": 1,
+    "Reagents": {
+      "Pyrestone": 1
+    },
+    "Yellow": 375,
+    "Green": 380,
+    "Grey": 385,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Glinting Pyrestone": {
+    "ID": 39736,
+    "Creates": 32220,
+    "Learn": 375,
+    "Phase": 1,
+    "Reagents": {
+      "Pyrestone": 1
+    },
+    "Yellow": 375,
+    "Green": 380,
+    "Grey": 385,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Veiled Pyrestone": {
+    "ID": 39737,
+    "Creates": 32221,
+    "Learn": 375,
+    "Phase": 1,
+    "Reagents": {
+      "Pyrestone": 1
+    },
+    "Yellow": 375,
+    "Green": 380,
+    "Grey": 385,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Wicked Pyrestone": {
+    "ID": 39738,
+    "Creates": 32222,
+    "Learn": 375,
+    "Phase": 1,
+    "Reagents": {
+      "Pyrestone": 1
+    },
+    "Yellow": 375,
+    "Green": 380,
+    "Grey": 385,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Enduring Seaspray Emerald": {
+    "ID": 39739,
+    "Creates": 32223,
+    "Learn": 375,
+    "Phase": 1,
+    "Reagents": {
+      "Seaspray Emerald": 1
+    },
+    "Yellow": 375,
+    "Green": 380,
+    "Grey": 385,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Radiant Seaspray Emerald": {
+    "ID": 39740,
+    "Creates": 32224,
+    "Learn": 375,
+    "Phase": 1,
+    "Reagents": {
+      "Seaspray Emerald": 1
+    },
+    "Yellow": 375,
+    "Green": 380,
+    "Grey": 385,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Dazzling Seaspray Emerald": {
+    "ID": 39741,
+    "Creates": 32225,
+    "Learn": 375,
+    "Phase": 1,
+    "Reagents": {
+      "Seaspray Emerald": 1
+    },
+    "Yellow": 375,
+    "Green": 380,
+    "Grey": 385,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Jagged Seaspray Emerald": {
+    "ID": 39742,
+    "Creates": 32226,
+    "Learn": 375,
+    "Phase": 1,
+    "Reagents": {
+      "Seaspray Emerald": 1
+    },
+    "Yellow": 375,
+    "Green": 380,
+    "Grey": 385,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Relentless Earthstorm Diamond": {
+    "ID": 39961,
+    "Creates": 32409,
+    "Learn": 365,
+    "Phase": 1,
+    "Reagents": {
+      "Earthstorm Diamond": 1
+    },
+    "Yellow": 375,
+    "Green": 377,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Thundering Skyfire Diamond": {
+    "ID": 39963,
+    "Creates": 32410,
+    "Learn": 365,
+    "Phase": 1,
+    "Reagents": {
+      "Skyfire Diamond": 1
+    },
+    "Yellow": 375,
+    "Green": 377,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Necklace of the Deep": {
+    "ID": 40514,
+    "Creates": 32508,
+    "Learn": 340,
+    "Phase": 1,
+    "Reagents": {
+      "Mote of Water": 3,
+      "Jaggal Pearl": 10,
+      "Shadow Pearl": 1
+    },
+    "Yellow": 340,
+    "Green": 355,
+    "Grey": 370,
+    "Source": "Trainer"
+  },
+  "Brilliant Pearl Band": {
+    "ID": 41414,
+    "Creates": 32772,
+    "Learn": 325,
+    "Phase": 1,
+    "Reagents": {
+      "Jaggal Pearl": 8,
+      "Eternium Bar": 2
+    },
+    "Yellow": 335,
+    "Green": 345,
+    "Grey": 355,
+    "Source": "Trainer"
+  },
+  "The Black Pearl": {
+    "ID": 41415,
+    "Creates": 32774,
+    "Learn": 330,
+    "Phase": 1,
+    "Reagents": {
+      "Shadow Pearl": 1,
+      "Mercurial Adamantite": 4
+    },
+    "Yellow": 340,
+    "Green": 350,
+    "Grey": 360,
+    "Source": "Trainer"
+  },
+  "Crown of the Sea Witch": {
+    "ID": 41418,
+    "Creates": 32776,
+    "Learn": 365,
+    "Phase": 1,
+    "Reagents": {
+      "Khorium Bar": 12,
+      "Mercurial Adamantite": 4,
+      "Jaggal Pearl": 20,
+      "Shadow Pearl": 3
+    },
+    "Yellow": 375,
+    "Green": 380,
+    "Grey": 385,
+    "Source": "Trainer"
+  },
+  "Purified Jaggal Pearl": {
+    "ID": 41420,
+    "Creates": 32833,
+    "Learn": 325,
+    "Phase": 1,
+    "Reagents": {
+      "Jaggal Pearl": 1,
+      "Purified Draenic Water": 1
+    },
+    "Yellow": 325,
+    "Green": 332,
+    "Grey": 340,
+    "Source": "Trainer"
+  },
+  "Purified Shadow Pearl": {
+    "ID": 41429,
+    "Creates": 32836,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Shadow Pearl": 1,
+      "Purified Draenic Water": 1
+    },
+    "Yellow": 350,
+    "Green": 365,
+    "Grey": 380,
+    "Source": "Trainer"
+  },
+  "Don Julio's Heart": {
+    "ID": 42558,
+    "Creates": 33133,
+    "Learn": 360,
+    "Phase": 1,
+    "Reagents": {
+      "Living Ruby": 1
+    },
+    "Yellow": 365,
+    "Green": 370,
+    "Grey": 375,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Kailee's Rose": {
+    "ID": 42588,
+    "Creates": 33134,
+    "Learn": 360,
+    "Phase": 1,
+    "Reagents": {
+      "Living Ruby": 1
+    },
+    "Yellow": 365,
+    "Green": 370,
+    "Grey": 375,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Crimson Sun": {
+    "ID": 42589,
+    "Creates": 33131,
+    "Learn": 360,
+    "Phase": 1,
+    "Reagents": {
+      "Living Ruby": 1
+    },
+    "Yellow": 365,
+    "Green": 370,
+    "Grey": 375,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Falling Star": {
+    "ID": 42590,
+    "Creates": 33135,
+    "Learn": 360,
+    "Phase": 1,
+    "Reagents": {
+      "Star of Elune": 1
+    },
+    "Yellow": 365,
+    "Green": 370,
+    "Grey": 375,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Stone of Blades": {
+    "ID": 42591,
+    "Creates": 33143,
+    "Learn": 360,
+    "Phase": 1,
+    "Reagents": {
+      "Dawnstone": 1
+    },
+    "Yellow": 365,
+    "Green": 370,
+    "Grey": 375,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Blood of Amber": {
+    "ID": 42592,
+    "Creates": 33140,
+    "Learn": 360,
+    "Phase": 1,
+    "Reagents": {
+      "Dawnstone": 1
+    },
+    "Yellow": 365,
+    "Green": 370,
+    "Grey": 375,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Facet of Eternity": {
+    "ID": 42593,
+    "Creates": 33144,
+    "Learn": 360,
+    "Phase": 1,
+    "Reagents": {
+      "Dawnstone": 1
+    },
+    "Yellow": 365,
+    "Green": 370,
+    "Grey": 375,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Steady Talasite": {
+    "ID": 43493,
+    "Creates": 33782,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Talasite": 1
+    },
+    "Yellow": 350,
+    "Green": 365,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Chaotic Skyfire Diamond": {
+    "ID": 44794,
+    "Creates": 34220,
+    "Learn": 365,
+    "Phase": 1,
+    "Reagents": {
+      "Skyfire Diamond": 1
+    },
+    "Yellow": 375,
+    "Green": 377,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Loop of Forged Power": {
+    "ID": 46122,
+    "Creates": 34362,
+    "Learn": 365,
+    "Phase": 1,
+    "Reagents": {
+      "Hardened Khorium": 4,
+      "Primal Might": 4,
+      "Mercurial Adamantite": 12,
+      "Sunmote": 5
+    },
+    "Yellow": 375,
+    "Green": 380,
+    "Grey": 385,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Ring of Flowing Life": {
+    "ID": 46123,
+    "Creates": 34363,
+    "Learn": 365,
+    "Phase": 1,
+    "Reagents": {
+      "Hardened Khorium": 4,
+      "Primal Life": 20,
+      "Mercurial Adamantite": 12,
+      "Sunmote": 5
+    },
+    "Yellow": 375,
+    "Green": 380,
+    "Grey": 385,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Hard Khorium Band": {
+    "ID": 46124,
+    "Creates": 34361,
+    "Learn": 365,
+    "Phase": 1,
+    "Reagents": {
+      "Hardened Khorium": 4,
+      "Primal Air": 20,
+      "Mercurial Adamantite": 12,
+      "Sunmote": 5
+    },
+    "Yellow": 375,
+    "Green": 380,
+    "Grey": 385,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Pendant of Sunfire": {
+    "ID": 46125,
+    "Creates": 34359,
+    "Learn": 365,
+    "Phase": 1,
+    "Reagents": {
+      "Mercurial Adamantite": 12,
+      "Crimson Spinel": 3,
+      "Empyrean Sapphire": 3
+    },
+    "Yellow": 375,
+    "Green": 380,
+    "Grey": 385,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Amulet of Flowing Life": {
+    "ID": 46126,
+    "Creates": 34360,
+    "Learn": 365,
+    "Phase": 1,
+    "Reagents": {
+      "Mercurial Adamantite": 6,
+      "Seaspray Emerald": 6
+    },
+    "Yellow": 375,
+    "Green": 380,
+    "Grey": 385,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Hard Khorium Choker": {
+    "ID": 46127,
+    "Creates": 34358,
+    "Learn": 365,
+    "Phase": 1,
+    "Reagents": {
+      "Hardened Khorium": 6,
+      "Primal Nether": 9
+    },
+    "Yellow": 375,
+    "Green": 380,
+    "Grey": 385,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Quick Dawnstone": {
+    "ID": 46403,
+    "Creates": 35315,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Dawnstone": 1
+    },
+    "Yellow": 350,
+    "Green": 365,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Reckless Noble Topaz": {
+    "ID": 46404,
+    "Creates": 35316,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Noble Topaz": 1
+    },
+    "Yellow": 350,
+    "Green": 365,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Forceful Talasite": {
+    "ID": 46405,
+    "Creates": 35318,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Talasite": 1
+    },
+    "Yellow": 350,
+    "Green": 365,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Eternal Earthstorm Diamond": {
+    "ID": 46597,
+    "Creates": 35501,
+    "Learn": 370,
+    "Phase": 1,
+    "Reagents": {
+      "Earthstorm Diamond": 1
+    },
+    "Yellow": 375,
+    "Green": 377,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Ember Skyfire Diamond": {
+    "ID": 46601,
+    "Creates": 35503,
+    "Learn": 370,
+    "Phase": 1,
+    "Reagents": {
+      "Skyfire Diamond": 1
+    },
+    "Yellow": 375,
+    "Green": 377,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Figurine - Empyrean Tortoise": {
+    "ID": 46775,
+    "Creates": 35693,
+    "Learn": 375,
+    "Phase": 1,
+    "Reagents": {
+      "Khorium Bar": 8,
+      "Empyrean Sapphire": 2,
+      "Dawnstone": 6
+    },
+    "Yellow": 375,
+    "Green": 380,
+    "Grey": 385,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Figurine - Khorium Boar": {
+    "ID": 46776,
+    "Creates": 35694,
+    "Learn": 375,
+    "Phase": 1,
+    "Reagents": {
+      "Khorium Bar": 8,
+      "Pyrestone": 2,
+      "Primal Earth": 8
+    },
+    "Yellow": 375,
+    "Green": 380,
+    "Grey": 385,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Figurine - Crimson Serpent": {
+    "ID": 46777,
+    "Creates": 35700,
+    "Learn": 375,
+    "Phase": 1,
+    "Reagents": {
+      "Eternium Bar": 8,
+      "Crimson Spinel": 2,
+      "Primal Fire": 8
+    },
+    "Yellow": 375,
+    "Green": 380,
+    "Grey": 385,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Figurine - Shadowsong Panther": {
+    "ID": 46778,
+    "Creates": 35702,
+    "Learn": 375,
+    "Phase": 1,
+    "Reagents": {
+      "Hardened Adamantite Bar": 4,
+      "Shadowsong Amethyst": 2,
+      "Primal Shadow": 8
+    },
+    "Yellow": 375,
+    "Green": 380,
+    "Grey": 385,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Figurine - Seaspray Albatross": {
+    "ID": 46779,
+    "Creates": 35703,
+    "Learn": 375,
+    "Phase": 1,
+    "Reagents": {
+      "Eternium Bar": 8,
+      "Seaspray Emerald": 2,
+      "Primal Mana": 8
+    },
+    "Yellow": 375,
+    "Green": 380,
+    "Grey": 385,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Regal Nightseye": {
+    "ID": 46803,
+    "Creates": 35707,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Nightseye": 1
+    },
+    "Yellow": 350,
+    "Green": 365,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Forceful Seaspray Emerald": {
+    "ID": 47053,
+    "Creates": 35759,
+    "Learn": 375,
+    "Phase": 1,
+    "Reagents": {
+      "Seaspray Emerald": 1
+    },
+    "Yellow": 375,
+    "Green": 380,
+    "Grey": 385,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Steady Seaspray Emerald": {
+    "ID": 47054,
+    "Creates": 35758,
+    "Learn": 375,
+    "Phase": 1,
+    "Reagents": {
+      "Seaspray Emerald": 1
+    },
+    "Yellow": 375,
+    "Green": 380,
+    "Grey": 385,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Reckless Pyrestone": {
+    "ID": 47055,
+    "Creates": 35760,
+    "Learn": 375,
+    "Phase": 1,
+    "Reagents": {
+      "Pyrestone": 1
+    },
+    "Yellow": 375,
+    "Green": 380,
+    "Grey": 385,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Quick Lionseye": {
+    "ID": 47056,
+    "Creates": 35761,
+    "Learn": 375,
+    "Phase": 1,
+    "Reagents": {
+      "Lionseye": 1
+    },
+    "Yellow": 375,
+    "Green": 380,
+    "Grey": 385,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Brilliant Glass": {
+    "ID": 47280,
+    "Creates": 191061,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Azure Moonstone": 3,
+      "Blood Garnet": 3,
+      "Deep Peridot": 3,
+      "Flame Spessarite": 3,
+      "Golden Draenite": 3,
+      "Shadow Draenite": 3
+    },
+    "Yellow": 350,
+    "Green": 365,
+    "Grey": 380,
+    "Source": "Trainer"
+  },
+  "Purified Shadowsong Amethyst": {
+    "ID": 48789,
+    "Creates": 37503,
+    "Learn": 375,
+    "Phase": 1,
+    "Reagents": {
+      "Shadowsong Amethyst": 1
+    },
+    "Yellow": 375,
+    "Green": 380,
+    "Grey": 385,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Bold Scarlet Ruby": {
+    "ID": 53830,
+    "Creates": 39996,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Scarlet Ruby": 1
+    },
+    "Yellow": 410,
+    "Green": 425,
+    "Grey": 440,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Bold Bloodstone": {
+    "ID": 53831,
+    "Creates": 39900,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Bloodstone": 1
+    },
+    "Yellow": 375,
+    "Green": 395,
+    "Grey": 415,
+    "Source": "Trainer"
+  },
+  "Delicate Bloodstone": {
+    "ID": 53832,
+    "Creates": 39905,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Bloodstone": 1
+    },
+    "Yellow": 375,
+    "Green": 395,
+    "Grey": 415,
+    "Source": "Trainer"
+  },
+  "Runed Bloodstone": {
+    "ID": 53834,
+    "Creates": 39911,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Bloodstone": 1
+    },
+    "Yellow": 375,
+    "Green": 395,
+    "Grey": 415,
+    "Source": "Trainer"
+  },
+  "Bright Bloodstone": {
+    "ID": 53835,
+    "Creates": 39906,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Bloodstone": 1
+    },
+    "Yellow": 375,
+    "Green": 395,
+    "Grey": 415,
+    "Source": "Trainer"
+  },
+  "Subtle Bloodstone": {
+    "ID": 53843,
+    "Creates": 39907,
+    "Learn": 360,
+    "Phase": 1,
+    "Reagents": {
+      "Bloodstone": 1
+    },
+    "Yellow": 375,
+    "Green": 395,
+    "Grey": 415,
+    "Source": "Trainer"
+  },
+  "Flashing Bloodstone": {
+    "ID": 53844,
+    "Creates": 39908,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Bloodstone": 1
+    },
+    "Yellow": 375,
+    "Green": 395,
+    "Grey": 415,
+    "Source": "Trainer"
+  },
+  "Fractured Bloodstone": {
+    "ID": 53845,
+    "Creates": 39909,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Bloodstone": 1
+    },
+    "Yellow": 375,
+    "Green": 395,
+    "Grey": 415,
+    "Source": "Trainer"
+  },
+  "Brilliant Sun Crystal": {
+    "ID": 53852,
+    "Creates": 39912,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Sun Crystal": 1
+    },
+    "Yellow": 375,
+    "Green": 395,
+    "Grey": 415,
+    "Source": "Trainer"
+  },
+  "Smooth Sun Crystal": {
+    "ID": 53853,
+    "Creates": 39914,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Sun Crystal": 1
+    },
+    "Yellow": 375,
+    "Green": 395,
+    "Grey": 415,
+    "Source": "Trainer"
+  },
+  "Rigid Sun Crystal": {
+    "ID": 53854,
+    "Creates": 39915,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Sun Crystal": 1
+    },
+    "Yellow": 375,
+    "Green": 395,
+    "Grey": 415,
+    "Source": "Trainer"
+  },
+  "Thick Sun Crystal": {
+    "ID": 53855,
+    "Creates": 39916,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Sun Crystal": 1
+    },
+    "Yellow": 375,
+    "Green": 395,
+    "Grey": 415,
+    "Source": "Trainer"
+  },
+  "Quick Sun Crystal": {
+    "ID": 53856,
+    "Creates": 39918,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Sun Crystal": 1
+    },
+    "Yellow": 375,
+    "Green": 395,
+    "Grey": 415,
+    "Source": "Trainer"
+  },
+  "Mystic Sun Crystal": {
+    "ID": 53857,
+    "Creates": 39917,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Sun Crystal": 1
+    },
+    "Yellow": 375,
+    "Green": 395,
+    "Grey": 415,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Sovereign Shadow Crystal": {
+    "ID": 53859,
+    "Creates": 39934,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Shadow Crystal": 1
+    },
+    "Yellow": 375,
+    "Green": 395,
+    "Grey": 415,
+    "Source": "Trainer"
+  },
+  "Shifting Shadow Crystal": {
+    "ID": 53860,
+    "Creates": 39935,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Shadow Crystal": 1
+    },
+    "Yellow": 375,
+    "Green": 395,
+    "Grey": 415,
+    "Source": "Trainer"
+  },
+  "Tenuous Shadow Crystal": {
+    "ID": 53861,
+    "Creates": 39942,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Shadow Crystal": 1
+    },
+    "Yellow": 375,
+    "Green": 395,
+    "Grey": 415,
+    "Source": "Trainer"
+  },
+  "Glowing Shadow Crystal": {
+    "ID": 53862,
+    "Creates": 39936,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Shadow Crystal": 1
+    },
+    "Yellow": 375,
+    "Green": 395,
+    "Grey": 415,
+    "Source": "Trainer"
+  },
+  "Purified Shadow Crystal": {
+    "ID": 53863,
+    "Creates": 39941,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Shadow Crystal": 1
+    },
+    "Yellow": 375,
+    "Green": 395,
+    "Grey": 415,
+    "Source": "Trainer"
+  },
+  "Royal Shadow Crystal": {
+    "ID": 53864,
+    "Creates": 39943,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Shadow Crystal": 1
+    },
+    "Yellow": 375,
+    "Green": 395,
+    "Grey": 415,
+    "Source": "Trainer"
+  },
+  "Mysterious Shadow Crystal": {
+    "ID": 53865,
+    "Creates": 39945,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Shadow Crystal": 1
+    },
+    "Yellow": 375,
+    "Green": 395,
+    "Grey": 415,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Balanced Shadow Crystal": {
+    "ID": 53866,
+    "Creates": 39937,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Shadow Crystal": 1
+    },
+    "Yellow": 375,
+    "Green": 395,
+    "Grey": 415,
+    "Source": "Trainer"
+  },
+  "Infused Shadow Crystal": {
+    "ID": 53867,
+    "Creates": 39944,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Shadow Crystal": 1
+    },
+    "Yellow": 375,
+    "Green": 395,
+    "Grey": 415,
+    "Source": "Trainer"
+  },
+  "Regal Shadow Crystal": {
+    "ID": 53868,
+    "Creates": 39938,
+    "Learn": 360,
+    "Phase": 1,
+    "Reagents": {
+      "Shadow Crystal": 1
+    },
+    "Yellow": 375,
+    "Green": 395,
+    "Grey": 415,
+    "Source": "Trainer"
+  },
+  "Defender's Shadow Crystal": {
+    "ID": 53869,
+    "Creates": 39939,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Shadow Crystal": 1
+    },
+    "Yellow": 375,
+    "Green": 395,
+    "Grey": 415,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Puissant Shadow Crystal": {
+    "ID": 53870,
+    "Creates": 39933,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Shadow Crystal": 1
+    },
+    "Yellow": 375,
+    "Green": 395,
+    "Grey": 415,
+    "Source": "Trainer"
+  },
+  "Guardian's Shadow Crystal": {
+    "ID": 53871,
+    "Creates": 39940,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Shadow Crystal": 1
+    },
+    "Yellow": 375,
+    "Green": 395,
+    "Grey": 415,
+    "Source": "Trainer"
+  },
+  "Inscribed Huge Citrine": {
+    "ID": 53872,
+    "Creates": 39947,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Huge Citrine": 1
+    },
+    "Yellow": 375,
+    "Green": 395,
+    "Grey": 415,
+    "Source": "Trainer"
+  },
+  "Etched Huge Citrine": {
+    "ID": 53873,
+    "Creates": 39948,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Huge Citrine": 1
+    },
+    "Yellow": 375,
+    "Green": 395,
+    "Grey": 415,
+    "Source": "Trainer"
+  },
+  "Champion's Huge Citrine": {
+    "ID": 53874,
+    "Creates": 39949,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Huge Citrine": 1
+    },
+    "Yellow": 375,
+    "Green": 395,
+    "Grey": 415,
+    "Source": "Trainer"
+  },
+  "Resplendent Huge Citrine": {
+    "ID": 53875,
+    "Creates": 39950,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Huge Citrine": 1
+    },
+    "Yellow": 375,
+    "Green": 395,
+    "Grey": 415,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Fierce Huge Citrine": {
+    "ID": 53876,
+    "Creates": 39951,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Huge Citrine": 1
+    },
+    "Yellow": 375,
+    "Green": 395,
+    "Grey": 415,
+    "Source": "Trainer"
+  },
+  "Deadly Huge Citrine": {
+    "ID": 53877,
+    "Creates": 39952,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Huge Citrine": 1
+    },
+    "Yellow": 375,
+    "Green": 395,
+    "Grey": 415,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Glinting Huge Citrine": {
+    "ID": 53878,
+    "Creates": 39953,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Huge Citrine": 1
+    },
+    "Yellow": 375,
+    "Green": 395,
+    "Grey": 415,
+    "Source": "Trainer"
+  },
+  "Lucent Huge Citrine": {
+    "ID": 53879,
+    "Creates": 39954,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Huge Citrine": 1
+    },
+    "Yellow": 375,
+    "Green": 395,
+    "Grey": 415,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Deft Huge Citrine": {
+    "ID": 53880,
+    "Creates": 39955,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Huge Citrine": 1
+    },
+    "Yellow": 375,
+    "Green": 395,
+    "Grey": 415,
+    "Source": "Trainer"
+  },
+  "Luminous Huge Citrine": {
+    "ID": 53881,
+    "Creates": 39946,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Huge Citrine": 1
+    },
+    "Yellow": 375,
+    "Green": 395,
+    "Grey": 415,
+    "Source": "Trainer"
+  },
+  "Potent Huge Citrine": {
+    "ID": 53882,
+    "Creates": 39956,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Huge Citrine": 1
+    },
+    "Yellow": 375,
+    "Green": 395,
+    "Grey": 415,
+    "Source": "Trainer"
+  },
+  "Veiled Huge Citrine": {
+    "ID": 53883,
+    "Creates": 39957,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Huge Citrine": 1
+    },
+    "Yellow": 375,
+    "Green": 395,
+    "Grey": 415,
+    "Source": "Trainer"
+  },
+  "Durable Huge Citrine": {
+    "ID": 53884,
+    "Creates": 39958,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Huge Citrine": 1
+    },
+    "Yellow": 375,
+    "Green": 395,
+    "Grey": 415,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Reckless Huge Citrine": {
+    "ID": 53885,
+    "Creates": 39959,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Huge Citrine": 1
+    },
+    "Yellow": 375,
+    "Green": 395,
+    "Grey": 415,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Wicked Huge Citrine": {
+    "ID": 53886,
+    "Creates": 39960,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Huge Citrine": 1
+    },
+    "Yellow": 375,
+    "Green": 395,
+    "Grey": 415,
+    "Source": "Trainer"
+  },
+  "Pristine Huge Citrine": {
+    "ID": 53887,
+    "Creates": 39961,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Huge Citrine": 1
+    },
+    "Yellow": 375,
+    "Green": 395,
+    "Grey": 415,
+    "Source": "Trainer"
+  },
+  "Empowered Huge Citrine": {
+    "ID": 53888,
+    "Creates": 39962,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Huge Citrine": 1
+    },
+    "Yellow": 375,
+    "Green": 395,
+    "Grey": 415,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Stark Huge Citrine": {
+    "ID": 53889,
+    "Creates": 39963,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Huge Citrine": 1
+    },
+    "Yellow": 375,
+    "Green": 395,
+    "Grey": 415,
+    "Source": "Trainer"
+  },
+  "Stalwart Huge Citrine": {
+    "ID": 53890,
+    "Creates": 39964,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Huge Citrine": 1
+    },
+    "Yellow": 375,
+    "Green": 395,
+    "Grey": 415,
+    "Source": "Trainer"
+  },
+  "Glimmering Huge Citrine": {
+    "ID": 53891,
+    "Creates": 39965,
+    "Learn": 360,
+    "Phase": 1,
+    "Reagents": {
+      "Huge Citrine": 1
+    },
+    "Yellow": 375,
+    "Green": 395,
+    "Grey": 415,
+    "Source": "Trainer"
+  },
+  "Accurate Huge Citrine": {
+    "ID": 53892,
+    "Creates": 39966,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Huge Citrine": 1
+    },
+    "Yellow": 375,
+    "Green": 395,
+    "Grey": 415,
+    "Source": "Trainer"
+  },
+  "Resolute Huge Citrine": {
+    "ID": 53893,
+    "Creates": 39967,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Huge Citrine": 1
+    },
+    "Yellow": 375,
+    "Green": 395,
+    "Grey": 415,
+    "Source": "Trainer"
+  },
+  "Timeless Dark Jade": {
+    "ID": 53894,
+    "Creates": 39968,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Dark Jade": 1
+    },
+    "Yellow": 375,
+    "Green": 395,
+    "Grey": 415,
+    "Source": "Trainer"
+  },
+  "Jagged Dark Jade": {
+    "ID": 53916,
+    "Creates": 39974,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Dark Jade": 1
+    },
+    "Yellow": 375,
+    "Green": 395,
+    "Grey": 415,
+    "Source": "Trainer"
+  },
+  "Vivid Dark Jade": {
+    "ID": 53917,
+    "Creates": 39975,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Dark Jade": 1
+    },
+    "Yellow": 375,
+    "Green": 395,
+    "Grey": 415,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Enduring Dark Jade": {
+    "ID": 53918,
+    "Creates": 39976,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Dark Jade": 1
+    },
+    "Yellow": 375,
+    "Green": 395,
+    "Grey": 415,
+    "Source": "Trainer"
+  },
+  "Steady Dark Jade": {
+    "ID": 53919,
+    "Creates": 39977,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Dark Jade": 1
+    },
+    "Yellow": 375,
+    "Green": 395,
+    "Grey": 415,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Forceful Dark Jade": {
+    "ID": 53920,
+    "Creates": 39978,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Dark Jade": 1
+    },
+    "Yellow": 375,
+    "Green": 395,
+    "Grey": 415,
+    "Source": "Trainer"
+  },
+  "Seer's Dark Jade": {
+    "ID": 53921,
+    "Creates": 39979,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Dark Jade": 1
+    },
+    "Yellow": 375,
+    "Green": 395,
+    "Grey": 415,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Misty Dark Jade": {
+    "ID": 53922,
+    "Creates": 39980,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Dark Jade": 1
+    },
+    "Yellow": 375,
+    "Green": 395,
+    "Grey": 415,
+    "Source": "Trainer"
+  },
+  "Shining Dark Jade": {
+    "ID": 53923,
+    "Creates": 39981,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Dark Jade": 1
+    },
+    "Yellow": 375,
+    "Green": 395,
+    "Grey": 415,
+    "Source": "Trainer"
+  },
+  "Turbid Dark Jade": {
+    "ID": 53924,
+    "Creates": 39982,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Dark Jade": 1
+    },
+    "Yellow": 375,
+    "Green": 395,
+    "Grey": 415,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Intricate Dark Jade": {
+    "ID": 53925,
+    "Creates": 39983,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Dark Jade": 1
+    },
+    "Yellow": 375,
+    "Green": 395,
+    "Grey": 415,
+    "Source": "Trainer"
+  },
+  "Dazzling Dark Jade": {
+    "ID": 53926,
+    "Creates": 39984,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Dark Jade": 1
+    },
+    "Yellow": 375,
+    "Green": 395,
+    "Grey": 415,
+    "Source": "Trainer"
+  },
+  "Sundered Dark Jade": {
+    "ID": 53927,
+    "Creates": 39985,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Dark Jade": 1
+    },
+    "Yellow": 375,
+    "Green": 395,
+    "Grey": 415,
+    "Source": "Trainer"
+  },
+  "Lambent Dark Jade": {
+    "ID": 53928,
+    "Creates": 39986,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Dark Jade": 1
+    },
+    "Yellow": 375,
+    "Green": 395,
+    "Grey": 415,
+    "Source": "Trainer"
+  },
+  "Opaque Dark Jade": {
+    "ID": 53929,
+    "Creates": 39988,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Dark Jade": 1
+    },
+    "Yellow": 375,
+    "Green": 395,
+    "Grey": 415,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Energized Dark Jade": {
+    "ID": 53930,
+    "Creates": 39989,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Dark Jade": 1
+    },
+    "Yellow": 375,
+    "Green": 395,
+    "Grey": 415,
+    "Source": "Trainer"
+  },
+  "Radiant Dark Jade": {
+    "ID": 53931,
+    "Creates": 39990,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Dark Jade": 1
+    },
+    "Yellow": 375,
+    "Green": 395,
+    "Grey": 415,
+    "Source": "Trainer"
+  },
+  "Tense Dark Jade": {
+    "ID": 53932,
+    "Creates": 39991,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Dark Jade": 1
+    },
+    "Yellow": 375,
+    "Green": 395,
+    "Grey": 415,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Shattered Dark Jade": {
+    "ID": 53933,
+    "Creates": 39992,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Dark Jade": 1
+    },
+    "Yellow": 375,
+    "Green": 395,
+    "Grey": 415,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Solid Chalcedony": {
+    "ID": 53934,
+    "Creates": 39919,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Chalcedony": 1
+    },
+    "Yellow": 375,
+    "Green": 395,
+    "Grey": 415,
+    "Source": "Trainer"
+  },
+  "Sparkling Chalcedony": {
+    "ID": 53940,
+    "Creates": 39920,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Chalcedony": 1
+    },
+    "Yellow": 375,
+    "Green": 395,
+    "Grey": 415,
+    "Source": "Trainer"
+  },
+  "Lustrous Chalcedony": {
+    "ID": 53941,
+    "Creates": 39927,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Chalcedony": 1
+    },
+    "Yellow": 375,
+    "Green": 395,
+    "Grey": 415,
+    "Source": "Trainer"
+  },
+  "Stormy Chalcedony": {
+    "ID": 53943,
+    "Creates": 39932,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Chalcedony": 1
+    },
+    "Yellow": 375,
+    "Green": 395,
+    "Grey": 415,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Delicate Scarlet Ruby": {
+    "ID": 53945,
+    "Creates": 39997,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Scarlet Ruby": 1
+    },
+    "Yellow": 410,
+    "Green": 425,
+    "Grey": 440,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Runed Scarlet Ruby": {
+    "ID": 53946,
+    "Creates": 39998,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Scarlet Ruby": 1
+    },
+    "Yellow": 410,
+    "Green": 425,
+    "Grey": 440,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Bright Scarlet Ruby": {
+    "ID": 53947,
+    "Creates": 39999,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Scarlet Ruby": 1
+    },
+    "Yellow": 410,
+    "Green": 425,
+    "Grey": 440,
+    "Source": "Trainer"
+  },
+  "Subtle Scarlet Ruby": {
+    "ID": 53948,
+    "Creates": 40000,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Scarlet Ruby": 1
+    },
+    "Yellow": 410,
+    "Green": 425,
+    "Grey": 440,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Flashing Scarlet Ruby": {
+    "ID": 53949,
+    "Creates": 40001,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Scarlet Ruby": 1
+    },
+    "Yellow": 410,
+    "Green": 425,
+    "Grey": 440,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Fractured Scarlet Ruby": {
+    "ID": 53950,
+    "Creates": 40002,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Scarlet Ruby": 1
+    },
+    "Yellow": 410,
+    "Green": 425,
+    "Grey": 440,
+    "Source": "Trainer"
+  },
+  "Precise Scarlet Ruby": {
+    "ID": 53951,
+    "Creates": 40003,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Scarlet Ruby": 1
+    },
+    "Yellow": 410,
+    "Green": 425,
+    "Grey": 440,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Solid Sky Sapphire": {
+    "ID": 53952,
+    "Creates": 40008,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Sky Sapphire": 1
+    },
+    "Yellow": 410,
+    "Green": 425,
+    "Grey": 440,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Sparkling Sky Sapphire": {
+    "ID": 53953,
+    "Creates": 40009,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Sky Sapphire": 1
+    },
+    "Yellow": 410,
+    "Green": 425,
+    "Grey": 440,
+    "Source": "Trainer"
+  },
+  "Lustrous Sky Sapphire": {
+    "ID": 53954,
+    "Creates": 40010,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Sky Sapphire": 1
+    },
+    "Yellow": 410,
+    "Green": 425,
+    "Grey": 440,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Stormy Sky Sapphire": {
+    "ID": 53955,
+    "Creates": 40011,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Sky Sapphire": 1
+    },
+    "Yellow": 410,
+    "Green": 425,
+    "Grey": 440,
+    "Source": "Trainer"
+  },
+  "Brilliant Autumn's Glow": {
+    "ID": 53956,
+    "Creates": 40012,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Autumn's Glow": 1
+    },
+    "Yellow": 410,
+    "Green": 425,
+    "Grey": 440,
+    "Source": "Trainer"
+  },
+  "Smooth Autumn's Glow": {
+    "ID": 53957,
+    "Creates": 40013,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Autumn's Glow": 1
+    },
+    "Yellow": 410,
+    "Green": 425,
+    "Grey": 440,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Rigid Autumn's Glow": {
+    "ID": 53958,
+    "Creates": 40014,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Autumn's Glow": 1
+    },
+    "Yellow": 410,
+    "Green": 425,
+    "Grey": 440,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Thick Autumn's Glow": {
+    "ID": 53959,
+    "Creates": 40015,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Autumn's Glow": 1
+    },
+    "Yellow": 410,
+    "Green": 425,
+    "Grey": 440,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Mystic Autumn's Glow": {
+    "ID": 53960,
+    "Creates": 40016,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Autumn's Glow": 1
+    },
+    "Yellow": 410,
+    "Green": 425,
+    "Grey": 440,
+    "Source": "Trainer"
+  },
+  "Quick Autumn's Glow": {
+    "ID": 53961,
+    "Creates": 40017,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Autumn's Glow": 1
+    },
+    "Yellow": 410,
+    "Green": 425,
+    "Grey": 440,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Sovereign Twilight Opal": {
+    "ID": 53962,
+    "Creates": 40022,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Twilight Opal": 1
+    },
+    "Yellow": 410,
+    "Green": 425,
+    "Grey": 440,
+    "Source": "Trainer"
+  },
+  "Shifting Twilight Opal": {
+    "ID": 53963,
+    "Creates": 40023,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Twilight Opal": 1
+    },
+    "Yellow": 410,
+    "Green": 425,
+    "Grey": 440,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Tenuous Twilight Opal": {
+    "ID": 53964,
+    "Creates": 40024,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Twilight Opal": 1
+    },
+    "Yellow": 410,
+    "Green": 425,
+    "Grey": 440,
+    "Source": "Trainer"
+  },
+  "Glowing Twilight Opal": {
+    "ID": 53965,
+    "Creates": 40025,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Twilight Opal": 1
+    },
+    "Yellow": 410,
+    "Green": 425,
+    "Grey": 440,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Purified Twilight Opal": {
+    "ID": 53966,
+    "Creates": 40026,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Twilight Opal": 1
+    },
+    "Yellow": 410,
+    "Green": 425,
+    "Grey": 440,
+    "Source": "Trainer"
+  },
+  "Royal Twilight Opal": {
+    "ID": 53967,
+    "Creates": 40027,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Twilight Opal": 1
+    },
+    "Yellow": 410,
+    "Green": 425,
+    "Grey": 440,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Mysterious Twilight Opal": {
+    "ID": 53968,
+    "Creates": 40028,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Twilight Opal": 1
+    },
+    "Yellow": 410,
+    "Green": 425,
+    "Grey": 440,
+    "Source": "Trainer"
+  },
+  "Balanced Twilight Opal": {
+    "ID": 53969,
+    "Creates": 40029,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Twilight Opal": 1
+    },
+    "Yellow": 410,
+    "Green": 425,
+    "Grey": 440,
+    "Source": "Trainer"
+  },
+  "Infused Twilight Opal": {
+    "ID": 53970,
+    "Creates": 40030,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Twilight Opal": 1
+    },
+    "Yellow": 410,
+    "Green": 425,
+    "Grey": 440,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Regal Twilight Opal": {
+    "ID": 53971,
+    "Creates": 40031,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Twilight Opal": 1
+    },
+    "Yellow": 410,
+    "Green": 425,
+    "Grey": 440,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Defender's Twilight Opal": {
+    "ID": 53972,
+    "Creates": 40032,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Twilight Opal": 1
+    },
+    "Yellow": 410,
+    "Green": 425,
+    "Grey": 440,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Puissant Twilight Opal": {
+    "ID": 53973,
+    "Creates": 40033,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Twilight Opal": 1
+    },
+    "Yellow": 410,
+    "Green": 425,
+    "Grey": 440,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Guardian's Twilight Opal": {
+    "ID": 53974,
+    "Creates": 40034,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Twilight Opal": 1
+    },
+    "Yellow": 410,
+    "Green": 425,
+    "Grey": 440,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Inscribed Monarch Topaz": {
+    "ID": 53975,
+    "Creates": 40037,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Monarch Topaz": 1
+    },
+    "Yellow": 410,
+    "Green": 425,
+    "Grey": 440,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Etched Monarch Topaz": {
+    "ID": 53976,
+    "Creates": 40038,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Monarch Topaz": 1
+    },
+    "Yellow": 410,
+    "Green": 425,
+    "Grey": 440,
+    "Source": "Trainer"
+  },
+  "Champion's Monarch Topaz": {
+    "ID": 53977,
+    "Creates": 40039,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Monarch Topaz": 1
+    },
+    "Yellow": 410,
+    "Green": 425,
+    "Grey": 440,
+    "Source": "Trainer"
+  },
+  "Resplendent Monarch Topaz": {
+    "ID": 53978,
+    "Creates": 40040,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Monarch Topaz": 1
+    },
+    "Yellow": 410,
+    "Green": 425,
+    "Grey": 440,
+    "Source": "Trainer"
+  },
+  "Deadly Monarch Topaz": {
+    "ID": 53979,
+    "Creates": 40043,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Monarch Topaz": 1
+    },
+    "Yellow": 410,
+    "Green": 425,
+    "Grey": 440,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Glinting Monarch Topaz": {
+    "ID": 53980,
+    "Creates": 40044,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Monarch Topaz": 1
+    },
+    "Yellow": 410,
+    "Green": 425,
+    "Grey": 440,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Lucent Monarch Topaz": {
+    "ID": 53981,
+    "Creates": 40045,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Monarch Topaz": 1
+    },
+    "Yellow": 410,
+    "Green": 425,
+    "Grey": 440,
+    "Source": "Trainer"
+  },
+  "Deft Monarch Topaz": {
+    "ID": 53982,
+    "Creates": 40046,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Monarch Topaz": 1
+    },
+    "Yellow": 410,
+    "Green": 425,
+    "Grey": 440,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Luminous Monarch Topaz": {
+    "ID": 53983,
+    "Creates": 40047,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Monarch Topaz": 1
+    },
+    "Yellow": 410,
+    "Green": 425,
+    "Grey": 440,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Potent Monarch Topaz": {
+    "ID": 53984,
+    "Creates": 40048,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Monarch Topaz": 1
+    },
+    "Yellow": 410,
+    "Green": 425,
+    "Grey": 440,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Veiled Monarch Topaz": {
+    "ID": 53985,
+    "Creates": 40049,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Monarch Topaz": 1
+    },
+    "Yellow": 410,
+    "Green": 425,
+    "Grey": 440,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Durable Monarch Topaz": {
+    "ID": 53986,
+    "Creates": 40050,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Monarch Topaz": 1
+    },
+    "Yellow": 410,
+    "Green": 425,
+    "Grey": 440,
+    "Source": "Trainer"
+  },
+  "Reckless Monarch Topaz": {
+    "ID": 53987,
+    "Creates": 40051,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Monarch Topaz": 1
+    },
+    "Yellow": 410,
+    "Green": 425,
+    "Grey": 440,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Wicked Monarch Topaz": {
+    "ID": 53988,
+    "Creates": 40052,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Monarch Topaz": 1
+    },
+    "Yellow": 410,
+    "Green": 425,
+    "Grey": 440,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Pristine Monarch Topaz": {
+    "ID": 53989,
+    "Creates": 40053,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Monarch Topaz": 1
+    },
+    "Yellow": 410,
+    "Green": 425,
+    "Grey": 440,
+    "Source": "Trainer"
+  },
+  "Empowered Monarch Topaz": {
+    "ID": 53990,
+    "Creates": 40054,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Monarch Topaz": 1
+    },
+    "Yellow": 410,
+    "Green": 425,
+    "Grey": 440,
+    "Source": "Trainer"
+  },
+  "Stark Monarch Topaz": {
+    "ID": 53991,
+    "Creates": 40055,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Monarch Topaz": 1
+    },
+    "Yellow": 410,
+    "Green": 425,
+    "Grey": 440,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Stalwart Monarch Topaz": {
+    "ID": 53992,
+    "Creates": 40056,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Monarch Topaz": 1
+    },
+    "Yellow": 410,
+    "Green": 425,
+    "Grey": 440,
+    "Source": "Trainer"
+  },
+  "Glimmering Monarch Topaz": {
+    "ID": 53993,
+    "Creates": 40057,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Monarch Topaz": 1
+    },
+    "Yellow": 410,
+    "Green": 425,
+    "Grey": 440,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Accurate Monarch Topaz": {
+    "ID": 53994,
+    "Creates": 40058,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Monarch Topaz": 1
+    },
+    "Yellow": 410,
+    "Green": 425,
+    "Grey": 440,
+    "Source": "Trainer"
+  },
+  "Timeless Forest Emerald": {
+    "ID": 53995,
+    "Creates": 40085,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Forest Emerald": 1
+    },
+    "Yellow": 410,
+    "Green": 425,
+    "Grey": 440,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Jagged Forest Emerald": {
+    "ID": 53996,
+    "Creates": 40086,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Forest Emerald": 1
+    },
+    "Yellow": 410,
+    "Green": 425,
+    "Grey": 440,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Vivid Forest Emerald": {
+    "ID": 53997,
+    "Creates": 40088,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Forest Emerald": 1
+    },
+    "Yellow": 410,
+    "Green": 425,
+    "Grey": 440,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Enduring Forest Emerald": {
+    "ID": 53998,
+    "Creates": 40089,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Forest Emerald": 1
+    },
+    "Yellow": 410,
+    "Green": 425,
+    "Grey": 440,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Steady Forest Emerald": {
+    "ID": 54000,
+    "Creates": 40090,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Forest Emerald": 1
+    },
+    "Yellow": 410,
+    "Green": 425,
+    "Grey": 440,
+    "Source": "Trainer"
+  },
+  "Forceful Forest Emerald": {
+    "ID": 54001,
+    "Creates": 40091,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Forest Emerald": 1
+    },
+    "Yellow": 410,
+    "Green": 425,
+    "Grey": 440,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Seer's Forest Emerald": {
+    "ID": 54002,
+    "Creates": 40092,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Forest Emerald": 1
+    },
+    "Yellow": 410,
+    "Green": 425,
+    "Grey": 440,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Misty Forest Emerald": {
+    "ID": 54003,
+    "Creates": 40095,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Forest Emerald": 1
+    },
+    "Yellow": 410,
+    "Green": 425,
+    "Grey": 440,
+    "Source": "Trainer"
+  },
+  "Shining Forest Emerald": {
+    "ID": 54004,
+    "Creates": 40099,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Forest Emerald": 1
+    },
+    "Yellow": 410,
+    "Green": 425,
+    "Grey": 440,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Turbid Forest Emerald": {
+    "ID": 54005,
+    "Creates": 40102,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Forest Emerald": 1
+    },
+    "Yellow": 410,
+    "Green": 425,
+    "Grey": 440,
+    "Source": "Trainer"
+  },
+  "Intricate Forest Emerald": {
+    "ID": 54006,
+    "Creates": 40104,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Forest Emerald": 1
+    },
+    "Yellow": 410,
+    "Green": 425,
+    "Grey": 440,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Dazzling Forest Emerald": {
+    "ID": 54007,
+    "Creates": 40094,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Forest Emerald": 1
+    },
+    "Yellow": 410,
+    "Green": 425,
+    "Grey": 440,
+    "Source": "Trainer"
+  },
+  "Sundered Forest Emerald": {
+    "ID": 54008,
+    "Creates": 40096,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Forest Emerald": 1
+    },
+    "Yellow": 410,
+    "Green": 425,
+    "Grey": 440,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Lambent Forest Emerald": {
+    "ID": 54009,
+    "Creates": 40100,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Forest Emerald": 1
+    },
+    "Yellow": 410,
+    "Green": 425,
+    "Grey": 440,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Opaque Forest Emerald": {
+    "ID": 54010,
+    "Creates": 40103,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Forest Emerald": 1
+    },
+    "Yellow": 410,
+    "Green": 425,
+    "Grey": 440,
+    "Source": "Trainer"
+  },
+  "Energized Forest Emerald": {
+    "ID": 54011,
+    "Creates": 40105,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Forest Emerald": 1
+    },
+    "Yellow": 410,
+    "Green": 425,
+    "Grey": 440,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Radiant Forest Emerald": {
+    "ID": 54012,
+    "Creates": 40098,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Forest Emerald": 1
+    },
+    "Yellow": 410,
+    "Green": 425,
+    "Grey": 440,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Tense Forest Emerald": {
+    "ID": 54013,
+    "Creates": 40101,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Forest Emerald": 1
+    },
+    "Yellow": 410,
+    "Green": 425,
+    "Grey": 440,
+    "Source": "Trainer"
+  },
+  "Shattered Forest Emerald": {
+    "ID": 54014,
+    "Creates": 40106,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Forest Emerald": 1
+    },
+    "Yellow": 410,
+    "Green": 425,
+    "Grey": 440,
+    "Source": "Trainer"
+  },
+  "Precise Bloodstone": {
+    "ID": 54017,
+    "Creates": 39910,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Bloodstone": 1
+    },
+    "Yellow": 375,
+    "Green": 395,
+    "Grey": 415,
+    "Source": "Trainer"
+  },
+  "Fierce Monarch Topaz": {
+    "ID": 54019,
+    "Creates": 40041,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Monarch Topaz": 1
+    },
+    "Yellow": 410,
+    "Green": 425,
+    "Grey": 440,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Resolute Monarch Topaz": {
+    "ID": 54023,
+    "Creates": 40059,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Monarch Topaz": 1
+    },
+    "Yellow": 410,
+    "Green": 425,
+    "Grey": 440,
+    "Source": "Trainer"
+  },
+  "Effulgent Skyflare Diamond": {
+    "ID": 55384,
+    "Creates": 41377,
+    "Learn": 420,
+    "Phase": 1,
+    "Reagents": {
+      "Skyflare Diamond": 1
+    },
+    "Yellow": 440,
+    "Green": 450,
+    "Grey": 460,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Tireless Skyflare Diamond": {
+    "ID": 55386,
+    "Creates": 41375,
+    "Learn": 420,
+    "Phase": 1,
+    "Reagents": {
+      "Skyflare Diamond": 1
+    },
+    "Yellow": 440,
+    "Green": 450,
+    "Grey": 460,
+    "Source": "Trainer"
+  },
+  "Forlorn Skyflare Diamond": {
+    "ID": 55387,
+    "Creates": 41378,
+    "Learn": 420,
+    "Phase": 1,
+    "Reagents": {
+      "Skyflare Diamond": 1
+    },
+    "Yellow": 440,
+    "Green": 450,
+    "Grey": 460,
+    "Source": "Trainer"
+  },
+  "Impassive Skyflare Diamond": {
+    "ID": 55388,
+    "Creates": 41379,
+    "Learn": 420,
+    "Phase": 1,
+    "Reagents": {
+      "Skyflare Diamond": 1
+    },
+    "Yellow": 440,
+    "Green": 450,
+    "Grey": 460,
+    "Source": "Trainer"
+  },
+  "Chaotic Skyflare Diamond": {
+    "ID": 55389,
+    "Creates": 41285,
+    "Learn": 420,
+    "Phase": 1,
+    "Reagents": {
+      "Skyflare Diamond": 1
+    },
+    "Yellow": 440,
+    "Green": 450,
+    "Grey": 460,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Destructive Skyflare Diamond": {
+    "ID": 55390,
+    "Creates": 41307,
+    "Learn": 420,
+    "Phase": 1,
+    "Reagents": {
+      "Skyflare Diamond": 1
+    },
+    "Yellow": 440,
+    "Green": 450,
+    "Grey": 460,
+    "Source": "Trainer"
+  },
+  "Ember Skyflare Diamond": {
+    "ID": 55392,
+    "Creates": 41333,
+    "Learn": 420,
+    "Phase": 1,
+    "Reagents": {
+      "Skyflare Diamond": 1
+    },
+    "Yellow": 440,
+    "Green": 450,
+    "Grey": 460,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Enigmatic Skyflare Diamond": {
+    "ID": 55393,
+    "Creates": 41335,
+    "Learn": 420,
+    "Phase": 1,
+    "Reagents": {
+      "Skyflare Diamond": 1
+    },
+    "Yellow": 440,
+    "Green": 450,
+    "Grey": 460,
+    "Source": "Trainer"
+  },
+  "Swift Skyflare Diamond": {
+    "ID": 55394,
+    "Creates": 41339,
+    "Learn": 420,
+    "Phase": 1,
+    "Reagents": {
+      "Skyflare Diamond": 1
+    },
+    "Yellow": 440,
+    "Green": 450,
+    "Grey": 460,
+    "Source": "Trainer"
+  },
+  "Thundering Skyflare Diamond": {
+    "ID": 55395,
+    "Creates": 41400,
+    "Learn": 420,
+    "Phase": 1,
+    "Reagents": {
+      "Skyflare Diamond": 1
+    },
+    "Yellow": 440,
+    "Green": 450,
+    "Grey": 460,
+    "Source": "Trainer"
+  },
+  "Insightful Earthsiege Diamond": {
+    "ID": 55396,
+    "Creates": 41401,
+    "Learn": 420,
+    "Phase": 1,
+    "Reagents": {
+      "Earthsiege Diamond": 1
+    },
+    "Yellow": 440,
+    "Green": 450,
+    "Grey": 460,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Bracing Earthsiege Diamond": {
+    "ID": 55397,
+    "Creates": 41395,
+    "Learn": 420,
+    "Phase": 1,
+    "Reagents": {
+      "Earthsiege Diamond": 1
+    },
+    "Yellow": 440,
+    "Green": 450,
+    "Grey": 460,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Eternal Earthsiege Diamond": {
+    "ID": 55398,
+    "Creates": 41396,
+    "Learn": 420,
+    "Phase": 1,
+    "Reagents": {
+      "Earthsiege Diamond": 1
+    },
+    "Yellow": 440,
+    "Green": 450,
+    "Grey": 460,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Powerful Earthsiege Diamond": {
+    "ID": 55399,
+    "Creates": 41397,
+    "Learn": 420,
+    "Phase": 1,
+    "Reagents": {
+      "Earthsiege Diamond": 1
+    },
+    "Yellow": 440,
+    "Green": 450,
+    "Grey": 460,
+    "Source": "Trainer"
+  },
+  "Relentless Earthsiege Diamond": {
+    "ID": 55400,
+    "Creates": 41398,
+    "Learn": 420,
+    "Phase": 1,
+    "Reagents": {
+      "Earthsiege Diamond": 1
+    },
+    "Yellow": 440,
+    "Green": 450,
+    "Grey": 460,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Austere Earthsiege Diamond": {
+    "ID": 55401,
+    "Creates": 41380,
+    "Learn": 420,
+    "Phase": 1,
+    "Reagents": {
+      "Earthsiege Diamond": 1
+    },
+    "Yellow": 440,
+    "Green": 450,
+    "Grey": 460,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Persistent Earthsiege Diamond": {
+    "ID": 55402,
+    "Creates": 41381,
+    "Learn": 420,
+    "Phase": 1,
+    "Reagents": {
+      "Earthsiege Diamond": 1
+    },
+    "Yellow": 440,
+    "Green": 450,
+    "Grey": 460,
+    "Source": "Trainer"
+  },
+  "Trenchant Earthsiege Diamond": {
+    "ID": 55403,
+    "Creates": 41382,
+    "Learn": 420,
+    "Phase": 1,
+    "Reagents": {
+      "Earthsiege Diamond": 1
+    },
+    "Yellow": 440,
+    "Green": 450,
+    "Grey": 460,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Invigorating Earthsiege Diamond": {
+    "ID": 55404,
+    "Creates": 41385,
+    "Learn": 420,
+    "Phase": 1,
+    "Reagents": {
+      "Earthsiege Diamond": 1
+    },
+    "Yellow": 440,
+    "Green": 450,
+    "Grey": 460,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Beaming Earthsiege Diamond": {
+    "ID": 55405,
+    "Creates": 41389,
+    "Learn": 420,
+    "Phase": 1,
+    "Reagents": {
+      "Earthsiege Diamond": 1
+    },
+    "Yellow": 440,
+    "Green": 450,
+    "Grey": 460,
+    "Source": "Trainer"
+  },
+  "Revitalizing Skyflare Diamond": {
+    "ID": 55407,
+    "Creates": 41376,
+    "Learn": 420,
+    "Phase": 1,
+    "Reagents": {
+      "Skyflare Diamond": 1
+    },
+    "Yellow": 440,
+    "Green": 450,
+    "Grey": 460,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Bold Dragon's Eye": {
+    "ID": 56049,
+    "Creates": 42142,
+    "Learn": 370,
+    "Phase": 1,
+    "Reagents": {
+      "Dragon's Eye": 1
+    },
+    "Yellow": 390,
+    "Green": 415,
+    "Grey": 440,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Delicate Dragon's Eye": {
+    "ID": 56052,
+    "Creates": 42143,
+    "Learn": 370,
+    "Phase": 1,
+    "Reagents": {
+      "Dragon's Eye": 1
+    },
+    "Yellow": 390,
+    "Green": 415,
+    "Grey": 440,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Runed Dragon's Eye": {
+    "ID": 56053,
+    "Creates": 42144,
+    "Learn": 370,
+    "Phase": 1,
+    "Reagents": {
+      "Dragon's Eye": 1
+    },
+    "Yellow": 390,
+    "Green": 415,
+    "Grey": 440,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Bright Dragon's Eye": {
+    "ID": 56054,
+    "Creates": 36766,
+    "Learn": 370,
+    "Phase": 1,
+    "Reagents": {
+      "Dragon's Eye": 1
+    },
+    "Yellow": 390,
+    "Green": 415,
+    "Grey": 440,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Subtle Dragon's Eye": {
+    "ID": 56055,
+    "Creates": 42151,
+    "Learn": 370,
+    "Phase": 1,
+    "Reagents": {
+      "Dragon's Eye": 1
+    },
+    "Yellow": 390,
+    "Green": 415,
+    "Grey": 440,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Flashing Dragon's Eye": {
+    "ID": 56056,
+    "Creates": 42152,
+    "Learn": 370,
+    "Phase": 1,
+    "Reagents": {
+      "Dragon's Eye": 1
+    },
+    "Yellow": 390,
+    "Green": 415,
+    "Grey": 440,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Brilliant Dragon's Eye": {
+    "ID": 56074,
+    "Creates": 42148,
+    "Learn": 370,
+    "Phase": 1,
+    "Reagents": {
+      "Dragon's Eye": 1
+    },
+    "Yellow": 390,
+    "Green": 415,
+    "Grey": 440,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Fractured Dragon's Eye": {
+    "ID": 56076,
+    "Creates": 42153,
+    "Learn": 370,
+    "Phase": 1,
+    "Reagents": {
+      "Dragon's Eye": 1
+    },
+    "Yellow": 390,
+    "Green": 415,
+    "Grey": 440,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Lustrous Dragon's Eye": {
+    "ID": 56077,
+    "Creates": 42146,
+    "Learn": 370,
+    "Phase": 1,
+    "Reagents": {
+      "Dragon's Eye": 1
+    },
+    "Yellow": 390,
+    "Green": 415,
+    "Grey": 440,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Mystic Dragon's Eye": {
+    "ID": 56079,
+    "Creates": 42158,
+    "Learn": 370,
+    "Phase": 1,
+    "Reagents": {
+      "Dragon's Eye": 1
+    },
+    "Yellow": 390,
+    "Green": 415,
+    "Grey": 440,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Precise Dragon's Eye": {
+    "ID": 56081,
+    "Creates": 42154,
+    "Learn": 370,
+    "Phase": 1,
+    "Reagents": {
+      "Dragon's Eye": 1
+    },
+    "Yellow": 390,
+    "Green": 415,
+    "Grey": 440,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Quick Dragon's Eye": {
+    "ID": 56083,
+    "Creates": 42150,
+    "Learn": 370,
+    "Phase": 1,
+    "Reagents": {
+      "Dragon's Eye": 1
+    },
+    "Yellow": 390,
+    "Green": 415,
+    "Grey": 440,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Rigid Dragon's Eye": {
+    "ID": 56084,
+    "Creates": 42156,
+    "Learn": 370,
+    "Phase": 1,
+    "Reagents": {
+      "Dragon's Eye": 1
+    },
+    "Yellow": 390,
+    "Green": 415,
+    "Grey": 440,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Smooth Dragon's Eye": {
+    "ID": 56085,
+    "Creates": 42149,
+    "Learn": 370,
+    "Phase": 1,
+    "Reagents": {
+      "Dragon's Eye": 1
+    },
+    "Yellow": 390,
+    "Green": 415,
+    "Grey": 440,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Solid Dragon's Eye": {
+    "ID": 56086,
+    "Creates": 36767,
+    "Learn": 370,
+    "Phase": 1,
+    "Reagents": {
+      "Dragon's Eye": 1
+    },
+    "Yellow": 390,
+    "Green": 415,
+    "Grey": 440,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Sparkling Dragon's Eye": {
+    "ID": 56087,
+    "Creates": 42145,
+    "Learn": 370,
+    "Phase": 1,
+    "Reagents": {
+      "Dragon's Eye": 1
+    },
+    "Yellow": 390,
+    "Green": 415,
+    "Grey": 440,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Stormy Dragon's Eye": {
+    "ID": 56088,
+    "Creates": 42155,
+    "Learn": 370,
+    "Phase": 1,
+    "Reagents": {
+      "Dragon's Eye": 1
+    },
+    "Yellow": 390,
+    "Green": 415,
+    "Grey": 440,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Thick Dragon's Eye": {
+    "ID": 56089,
+    "Creates": 42157,
+    "Learn": 370,
+    "Phase": 1,
+    "Reagents": {
+      "Dragon's Eye": 1
+    },
+    "Yellow": 390,
+    "Green": 415,
+    "Grey": 440,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Bloodstone Band": {
+    "ID": 56193,
+    "Creates": 42336,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Crystallized Earth": 2,
+      "Bloodstone": 1
+    },
+    "Yellow": 380,
+    "Green": 400,
+    "Grey": 420,
+    "Source": "Trainer"
+  },
+  "Sun Rock Ring": {
+    "ID": 56194,
+    "Creates": 42337,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Crystallized Earth": 2,
+      "Sun Crystal": 1
+    },
+    "Yellow": 380,
+    "Green": 400,
+    "Grey": 420,
+    "Source": "Trainer"
+  },
+  "Jade Dagger Pendant": {
+    "ID": 56195,
+    "Creates": 42338,
+    "Learn": 380,
+    "Phase": 1,
+    "Reagents": {
+      "Eternal Earth": 1,
+      "Huge Citrine": 2,
+      "Dark Jade": 2
+    },
+    "Yellow": 400,
+    "Green": 410,
+    "Grey": 420,
+    "Source": "Trainer"
+  },
+  "Blood Sun Necklace": {
+    "ID": 56196,
+    "Creates": 42339,
+    "Learn": 380,
+    "Phase": 1,
+    "Reagents": {
+      "Eternal Earth": 1,
+      "Bloodstone": 1,
+      "Sun Crystal": 2,
+      "Chalcedony": 1
+    },
+    "Yellow": 400,
+    "Green": 410,
+    "Grey": 420,
+    "Source": "Trainer"
+  },
+  "Dream Signet": {
+    "ID": 56197,
+    "Creates": 42340,
+    "Learn": 420,
+    "Phase": 1,
+    "Reagents": {
+      "Titanium Bar": 1,
+      "Forest Emerald": 1,
+      "Dream Shard": 1
+    },
+    "Yellow": 440,
+    "Green": 450,
+    "Grey": 460,
+    "Source": "Trainer"
+  },
+  "Ruby Hare": {
+    "ID": 56199,
+    "Creates": 42341,
+    "Learn": 400,
+    "Phase": 1,
+    "Reagents": {
+      "Titanium Bar": 2,
+      "Scarlet Ruby": 2,
+      "Autumn's Glow": 1
+    },
+    "Yellow": 430,
+    "Green": 440,
+    "Grey": 450,
+    "Source": "Trainer"
+  },
+  "Twilight Serpent": {
+    "ID": 56201,
+    "Creates": 42395,
+    "Learn": 400,
+    "Phase": 1,
+    "Reagents": {
+      "Titanium Bar": 2,
+      "Twilight Opal": 2,
+      "Monarch Topaz": 1
+    },
+    "Yellow": 430,
+    "Green": 440,
+    "Grey": 450,
+    "Source": "Trainer"
+  },
+  "Sapphire Owl": {
+    "ID": 56202,
+    "Creates": 42413,
+    "Learn": 400,
+    "Phase": 1,
+    "Reagents": {
+      "Titanium Bar": 2,
+      "Sky Sapphire": 2,
+      "Forest Emerald": 1
+    },
+    "Yellow": 430,
+    "Green": 440,
+    "Grey": 450,
+    "Source": "Trainer"
+  },
+  "Emerald Boar": {
+    "ID": 56203,
+    "Creates": 42418,
+    "Learn": 400,
+    "Phase": 1,
+    "Reagents": {
+      "Titanium Bar": 2,
+      "Forest Emerald": 2,
+      "Scarlet Ruby": 1
+    },
+    "Yellow": 430,
+    "Green": 440,
+    "Grey": 450,
+    "Source": "Trainer"
+  },
+  "Dark Jade Focusing Lens": {
+    "ID": 56205,
+    "Creates": 41367,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Dark Jade": 1
+    },
+    "Yellow": 360,
+    "Green": 370,
+    "Grey": 380,
+    "Source": "Trainer"
+  },
+  "Shadow Crystal Focusing Lens": {
+    "ID": 56206,
+    "Creates": 42420,
+    "Learn": 360,
+    "Phase": 1,
+    "Reagents": {
+      "Shadow Crystal": 1
+    },
+    "Yellow": 370,
+    "Green": 380,
+    "Grey": 390,
+    "Source": "Trainer"
+  },
+  "Shadow Jade Focusing Lens": {
+    "ID": 56208,
+    "Creates": 42421,
+    "Learn": 370,
+    "Phase": 1,
+    "Reagents": {
+      "Shadow Crystal": 1,
+      "Dark Jade": 1
+    },
+    "Yellow": 380,
+    "Green": 390,
+    "Grey": 400,
+    "Source": "Trainer"
+  },
+  "Titanium Impact Band": {
+    "ID": 56496,
+    "Creates": 42642,
+    "Learn": 430,
+    "Phase": 1,
+    "Reagents": {
+      "Titanium Bar": 2,
+      "Dragon's Eye": 4,
+      "Eternal Fire": 4,
+      "Eternal Shadow": 4,
+      "Frozen Orb": 1
+    },
+    "Yellow": 450,
+    "Green": 455,
+    "Grey": 460,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Titanium Earthguard Ring": {
+    "ID": 56497,
+    "Creates": 42643,
+    "Learn": 430,
+    "Phase": 1,
+    "Reagents": {
+      "Titanium Bar": 2,
+      "Dragon's Eye": 4,
+      "Eternal Earth": 4,
+      "Eternal Life": 4,
+      "Frozen Orb": 1
+    },
+    "Yellow": 450,
+    "Green": 455,
+    "Grey": 460,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Titanium Spellshock Ring": {
+    "ID": 56498,
+    "Creates": 42644,
+    "Learn": 430,
+    "Phase": 1,
+    "Reagents": {
+      "Titanium Bar": 2,
+      "Dragon's Eye": 4,
+      "Eternal Water": 4,
+      "Eternal Air": 4,
+      "Frozen Orb": 1
+    },
+    "Yellow": 450,
+    "Green": 455,
+    "Grey": 460,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Titanium Impact Choker": {
+    "ID": 56499,
+    "Creates": 42645,
+    "Learn": 440,
+    "Phase": 1,
+    "Reagents": {
+      "Titanium Bar": 2,
+      "Dragon's Eye": 4,
+      "Eternal Air": 6,
+      "Eternal Fire": 6,
+      "Frozen Orb": 1
+    },
+    "Yellow": 450,
+    "Green": 455,
+    "Grey": 460,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Titanium Earthguard Chain": {
+    "ID": 56500,
+    "Creates": 42646,
+    "Learn": 440,
+    "Phase": 1,
+    "Reagents": {
+      "Titanium Bar": 2,
+      "Dragon's Eye": 4,
+      "Eternal Life": 6,
+      "Eternal Earth": 6,
+      "Frozen Orb": 1
+    },
+    "Yellow": 450,
+    "Green": 455,
+    "Grey": 460,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Titanium Spellshock Necklace": {
+    "ID": 56501,
+    "Creates": 42647,
+    "Learn": 440,
+    "Phase": 1,
+    "Reagents": {
+      "Titanium Bar": 2,
+      "Dragon's Eye": 4,
+      "Eternal Shadow": 6,
+      "Eternal Water": 6,
+      "Frozen Orb": 1
+    },
+    "Yellow": 450,
+    "Green": 455,
+    "Grey": 460,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Enchanted Pearl": {
+    "ID": 56530,
+    "Creates": 42701,
+    "Learn": 360,
+    "Phase": 1,
+    "Reagents": {
+      "Northsea Pearl": 1,
+      "Infinite Dust": 1
+    },
+    "Yellow": 380,
+    "Green": 400,
+    "Grey": 420,
+    "Source": "Trainer"
+  },
+  "Enchanted Tear": {
+    "ID": 56531,
+    "Creates": 42702,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Siren's Tear": 1,
+      "Infinite Dust": 4
+    },
+    "Yellow": 410,
+    "Green": 425,
+    "Grey": 440,
+    "Source": "Trainer"
+  },
+  "Crystal Citrine Necklace": {
+    "ID": 58141,
+    "Creates": 43244,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Crystallized Earth": 2,
+      "Huge Citrine": 1
+    },
+    "Yellow": 380,
+    "Green": 400,
+    "Grey": 420,
+    "Source": "Trainer"
+  },
+  "Crystal Chalcedony Amulet": {
+    "ID": 58142,
+    "Creates": 43245,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Crystallized Earth": 2,
+      "Chalcedony": 1
+    },
+    "Yellow": 380,
+    "Green": 400,
+    "Grey": 420,
+    "Source": "Trainer"
+  },
+  "Earthshadow Ring": {
+    "ID": 58143,
+    "Creates": 43246,
+    "Learn": 370,
+    "Phase": 1,
+    "Reagents": {
+      "Eternal Earth": 1,
+      "Shadow Crystal": 2
+    },
+    "Yellow": 390,
+    "Green": 405,
+    "Grey": 420,
+    "Source": "Trainer"
+  },
+  "Jade Ring of Slaying": {
+    "ID": 58144,
+    "Creates": 43247,
+    "Learn": 370,
+    "Phase": 1,
+    "Reagents": {
+      "Eternal Earth": 1,
+      "Dark Jade": 2
+    },
+    "Yellow": 390,
+    "Green": 405,
+    "Grey": 420,
+    "Source": "Trainer"
+  },
+  "Stoneguard Band": {
+    "ID": 58145,
+    "Creates": 43248,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Eternal Earth": 2
+    },
+    "Yellow": 410,
+    "Green": 420,
+    "Grey": 430,
+    "Source": "Trainer"
+  },
+  "Shadowmight Ring": {
+    "ID": 58146,
+    "Creates": 43249,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Eternal Earth": 1,
+      "Eternal Shadow": 1
+    },
+    "Yellow": 410,
+    "Green": 420,
+    "Grey": 430,
+    "Source": "Trainer"
+  },
+  "Ring of Earthen Might": {
+    "ID": 58147,
+    "Creates": 43250,
+    "Learn": 420,
+    "Phase": 1,
+    "Reagents": {
+      "Titanium Bar": 2,
+      "Eternal Earth": 2
+    },
+    "Yellow": 440,
+    "Green": 450,
+    "Grey": 460,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Ring of Scarlet Shadows": {
+    "ID": 58148,
+    "Creates": 43251,
+    "Learn": 420,
+    "Phase": 1,
+    "Reagents": {
+      "Titanium Bar": 2,
+      "Eternal Shadow": 3,
+      "Scarlet Ruby": 1
+    },
+    "Yellow": 440,
+    "Green": 450,
+    "Grey": 460,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Windfire Band": {
+    "ID": 58149,
+    "Creates": 43252,
+    "Learn": 420,
+    "Phase": 1,
+    "Reagents": {
+      "Titanium Bar": 2,
+      "Eternal Air": 1,
+      "Eternal Fire": 2
+    },
+    "Yellow": 440,
+    "Green": 450,
+    "Grey": 460,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Ring of Northern Tears": {
+    "ID": 58150,
+    "Creates": 43253,
+    "Learn": 420,
+    "Phase": 1,
+    "Reagents": {
+      "Titanium Bar": 2,
+      "Eternal Water": 1,
+      "Northsea Pearl": 4
+    },
+    "Yellow": 440,
+    "Green": 450,
+    "Grey": 460,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Savage Titanium Ring": {
+    "ID": 58492,
+    "Creates": 43482,
+    "Learn": 420,
+    "Phase": 1,
+    "Reagents": {
+      "Titanium Bar": 4,
+      "Eternal Fire": 4
+    },
+    "Yellow": 440,
+    "Green": 450,
+    "Grey": 460,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Savage Titanium Band": {
+    "ID": 58507,
+    "Creates": 43498,
+    "Learn": 420,
+    "Phase": 1,
+    "Reagents": {
+      "Titanium Bar": 4,
+      "Eternal Fire": 4
+    },
+    "Yellow": 440,
+    "Green": 450,
+    "Grey": 460,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Titanium Frostguard Ring": {
+    "ID": 58954,
+    "Creates": 43582,
+    "Learn": 420,
+    "Phase": 1,
+    "Reagents": {
+      "Titanium Bar": 2,
+      "Eternal Water": 3,
+      "Eternal Fire": 3,
+      "Frozen Orb": 1
+    },
+    "Yellow": 440,
+    "Green": 450,
+    "Grey": 460,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Monarch Crab": {
+    "ID": 59759,
+    "Creates": 44063,
+    "Learn": 400,
+    "Phase": 1,
+    "Reagents": {
+      "Titanium Bar": 2,
+      "Monarch Topaz": 2,
+      "Forest Emerald": 1
+    },
+    "Yellow": 430,
+    "Green": 440,
+    "Grey": 450,
+    "Source": "Trainer"
+  },
+  "Icy Prism": {
+    "ID": 62242,
+    "Creates": 44943,
+    "Learn": 425,
+    "Phase": 1,
+    "Reagents": {
+      "Frozen Orb": 1,
+      "Chalcedony": 1,
+      "Shadow Crystal": 1,
+      "Dark Jade": 1
+    },
+    "Yellow": 445,
+    "Green": 457,
+    "Grey": 470,
+    "Source": "Trainer"
+  },
+  "Prismatic Black Diamond": {
+    "ID": 62941,
+    "Creates": 45054,
+    "Learn": 300,
+    "Phase": 1,
+    "Reagents": {
+      "Black Diamond": 1
+    },
+    "Yellow": 310,
+    "Green": 315,
+    "Grey": 320,
+    "Source": "Trainer"
+  },
+  "Amulet of Truesight": {
+    "ID": 63743,
+    "Creates": 45627,
+    "Learn": 200,
+    "Phase": 1,
+    "Reagents": {
+      "Truesilver Bar": 8
+    },
+    "Yellow": 210,
+    "Green": 220,
+    "Grey": 230,
+    "Source": "Trainer"
+  },
+  "Emerald Choker": {
+    "ID": 64725,
+    "Creates": 45812,
+    "Learn": 420,
+    "Phase": 1,
+    "Reagents": {
+      "Titanium Bar": 1,
+      "Forest Emerald": 3
+    },
+    "Yellow": 440,
+    "Green": 450,
+    "Grey": 460,
+    "Source": "Trainer"
+  },
+  "Sky Sapphire Amulet": {
+    "ID": 64726,
+    "Creates": 45813,
+    "Learn": 420,
+    "Phase": 1,
+    "Reagents": {
+      "Titanium Bar": 2,
+      "Sky Sapphire": 2
+    },
+    "Yellow": 440,
+    "Green": 450,
+    "Grey": 460,
+    "Source": "Trainer"
+  },
+  "Runed Mana Band": {
+    "ID": 64727,
+    "Creates": 45808,
+    "Learn": 420,
+    "Phase": 1,
+    "Reagents": {
+      "Titanium Bar": 2,
+      "Twilight Opal": 2
+    },
+    "Yellow": 440,
+    "Green": 450,
+    "Grey": 460,
+    "Source": "Trainer"
+  },
+  "Scarlet Signet": {
+    "ID": 64728,
+    "Creates": 45809,
+    "Learn": 420,
+    "Phase": 1,
+    "Reagents": {
+      "Titanium Bar": 2,
+      "Scarlet Ruby": 1
+    },
+    "Yellow": 440,
+    "Green": 450,
+    "Grey": 460,
+    "Source": "Trainer"
+  },
+  "Enduring Eye of Zul": {
+    "ID": 66338,
+    "Creates": 40167,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Eye of Zul": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Steady Eye of Zul": {
+    "ID": 66428,
+    "Creates": 40168,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Eye of Zul": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Vivid Eye of Zul": {
+    "ID": 66429,
+    "Creates": 40166,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Eye of Zul": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Dazzling Eye of Zul": {
+    "ID": 66430,
+    "Creates": 40175,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Eye of Zul": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Jagged Eye of Zul": {
+    "ID": 66431,
+    "Creates": 40165,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Eye of Zul": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Timeless Eye of Zul": {
+    "ID": 66432,
+    "Creates": 40164,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Eye of Zul": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Seer's Eye of Zul": {
+    "ID": 66433,
+    "Creates": 40170,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Eye of Zul": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Forceful Eye of Zul": {
+    "ID": 66434,
+    "Creates": 40169,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Eye of Zul": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Misty Eye of Zul": {
+    "ID": 66435,
+    "Creates": 40171,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Eye of Zul": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Sundered Eye of Zul": {
+    "ID": 66436,
+    "Creates": 40176,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Eye of Zul": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Shining Eye of Zul": {
+    "ID": 66437,
+    "Creates": 40172,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Eye of Zul": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Tense Eye of Zul": {
+    "ID": 66438,
+    "Creates": 40181,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Eye of Zul": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Lambent Eye of Zul": {
+    "ID": 66439,
+    "Creates": 40177,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Eye of Zul": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Intricate Eye of Zul": {
+    "ID": 66440,
+    "Creates": 40174,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Eye of Zul": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Radiant Eye of Zul": {
+    "ID": 66441,
+    "Creates": 40180,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Eye of Zul": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Energized Eye of Zul": {
+    "ID": 66442,
+    "Creates": 40179,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Eye of Zul": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Shattered Eye of Zul": {
+    "ID": 66443,
+    "Creates": 40182,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Eye of Zul": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Opaque Eye of Zul": {
+    "ID": 66444,
+    "Creates": 40178,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Eye of Zul": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Turbid Eye of Zul": {
+    "ID": 66445,
+    "Creates": 40173,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Eye of Zul": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Runed Cardinal Ruby": {
+    "ID": 66446,
+    "Creates": 40113,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Cardinal Ruby": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Bold Cardinal Ruby": {
+    "ID": 66447,
+    "Creates": 40111,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Cardinal Ruby": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Delicate Cardinal Ruby": {
+    "ID": 66448,
+    "Creates": 40112,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Cardinal Ruby": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Bright Cardinal Ruby": {
+    "ID": 66449,
+    "Creates": 40114,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Cardinal Ruby": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Precise Cardinal Ruby": {
+    "ID": 66450,
+    "Creates": 40118,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Cardinal Ruby": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Fractured Cardinal Ruby": {
+    "ID": 66451,
+    "Creates": 40117,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Cardinal Ruby": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Subtle Cardinal Ruby": {
+    "ID": 66452,
+    "Creates": 40115,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Cardinal Ruby": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Flashing Cardinal Ruby": {
+    "ID": 66453,
+    "Creates": 40116,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Cardinal Ruby": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Solid Majestic Zircon": {
+    "ID": 66497,
+    "Creates": 40119,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Majestic Zircon": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Sparkling Majestic Zircon": {
+    "ID": 66498,
+    "Creates": 40120,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Majestic Zircon": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Stormy Majestic Zircon": {
+    "ID": 66499,
+    "Creates": 40122,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Majestic Zircon": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Lustrous Majestic Zircon": {
+    "ID": 66500,
+    "Creates": 40121,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Majestic Zircon": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Rigid King's Amber": {
+    "ID": 66501,
+    "Creates": 40125,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "King's Amber": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Smooth King's Amber": {
+    "ID": 66502,
+    "Creates": 40124,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "King's Amber": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Brilliant King's Amber": {
+    "ID": 66503,
+    "Creates": 40123,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "King's Amber": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Thick King's Amber": {
+    "ID": 66504,
+    "Creates": 40126,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "King's Amber": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Mystic King's Amber": {
+    "ID": 66505,
+    "Creates": 40127,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "King's Amber": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Quick King's Amber": {
+    "ID": 66506,
+    "Creates": 40128,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "King's Amber": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Balanced Dreadstone": {
+    "ID": 66553,
+    "Creates": 40136,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Dreadstone": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Sovereign Dreadstone": {
+    "ID": 66554,
+    "Creates": 40129,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Dreadstone": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Glowing Dreadstone": {
+    "ID": 66555,
+    "Creates": 40132,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Dreadstone": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Purified Dreadstone": {
+    "ID": 66556,
+    "Creates": 40133,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Dreadstone": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Shifting Dreadstone": {
+    "ID": 66557,
+    "Creates": 40130,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Dreadstone": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Royal Dreadstone": {
+    "ID": 66558,
+    "Creates": 40134,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Dreadstone": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Regal Dreadstone": {
+    "ID": 66559,
+    "Creates": 40138,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Dreadstone": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Defender's Dreadstone": {
+    "ID": 66560,
+    "Creates": 40139,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Dreadstone": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Guardian's Dreadstone": {
+    "ID": 66561,
+    "Creates": 40141,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Dreadstone": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Mysterious Dreadstone": {
+    "ID": 66562,
+    "Creates": 40135,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Dreadstone": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Puissant Dreadstone": {
+    "ID": 66563,
+    "Creates": 40140,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Dreadstone": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Infused Dreadstone": {
+    "ID": 66564,
+    "Creates": 40137,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Dreadstone": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Tenuous Dreadstone": {
+    "ID": 66565,
+    "Creates": 40131,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Dreadstone": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Luminous Ametrine": {
+    "ID": 66566,
+    "Creates": 40151,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Ametrine": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Inscribed Ametrine": {
+    "ID": 66567,
+    "Creates": 40142,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Ametrine": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Deadly Ametrine": {
+    "ID": 66568,
+    "Creates": 40147,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Ametrine": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Potent Ametrine": {
+    "ID": 66569,
+    "Creates": 40152,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Ametrine": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Veiled Ametrine": {
+    "ID": 66570,
+    "Creates": 40153,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Ametrine": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Durable Ametrine": {
+    "ID": 66571,
+    "Creates": 40154,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Ametrine": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Etched Ametrine": {
+    "ID": 66572,
+    "Creates": 40143,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Ametrine": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Pristine Ametrine": {
+    "ID": 66573,
+    "Creates": 40157,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Ametrine": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Reckless Ametrine": {
+    "ID": 66574,
+    "Creates": 40155,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Ametrine": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Glinting Ametrine": {
+    "ID": 66575,
+    "Creates": 40148,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Ametrine": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Accurate Ametrine": {
+    "ID": 66576,
+    "Creates": 40162,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Ametrine": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Wicked Ametrine": {
+    "ID": 66577,
+    "Creates": 40156,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Ametrine": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Glimmering Ametrine": {
+    "ID": 66578,
+    "Creates": 40161,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Ametrine": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Champion's Ametrine": {
+    "ID": 66579,
+    "Creates": 40144,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Ametrine": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Empowered Ametrine": {
+    "ID": 66580,
+    "Creates": 40158,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Ametrine": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Stalwart Ametrine": {
+    "ID": 66581,
+    "Creates": 40160,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Ametrine": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Resplendent Ametrine": {
+    "ID": 66582,
+    "Creates": 40145,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Ametrine": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Fierce Ametrine": {
+    "ID": 66583,
+    "Creates": 40146,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Ametrine": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Deft Ametrine": {
+    "ID": 66584,
+    "Creates": 40150,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Ametrine": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Lucent Ametrine": {
+    "ID": 66585,
+    "Creates": 40149,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Ametrine": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Resolute Ametrine": {
+    "ID": 66586,
+    "Creates": 40163,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Ametrine": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Stark Ametrine": {
+    "ID": 66587,
+    "Creates": 40159,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Ametrine": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Nightmare Tear": {
+    "ID": 68253,
+    "Creates": 49110,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Dragon's Eye": 1,
+      "Infinite Dust": 5
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  }
+}

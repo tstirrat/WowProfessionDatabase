@@ -1,1 +1,3798 @@
-{"Adepts Elixir": {"ID": 28103, "Learn": 300, "Yellow": 315, "Green": 322, "Grey": 330, "Source": "Trainer", "Reagents": {"Dreamfoil": 1, "Felweed": 1, "Imbued Vial": 1}, "Phase": 1}, "Arcane Elixir": {"ID": 9155, "Learn": 235, "Yellow": 250, "Green": 270, "Grey": 290, "Source": "Trainer", "Reagents": {"Blindweed": 1, "Goldthorn": 1, "Crystal Vial": 1}, "Phase": 1}, "Blackmouth Oil": {"ID": 6370, "Learn": 80, "Yellow": 80, "Green": 90, "Grey": 100, "Source": "Trainer", "Reagents": {"Oily Blackmouth": 2, "Empty Vial": 1}, "Phase": 1}, "Catseye Elixir": {"ID": 10592, "Learn": 200, "Yellow": 220, "Green": 240, "Grey": 260, "Source": "Trainer", "Reagents": {"Goldthorn": 1, "Fadeleaf": 1, "Leaded Vial": 1}, "Phase": 1}, "Destruction Potion": {"ID": 22839, "Learn": 350, "Yellow": 365, "Green": 372, "Grey": 380, "Source": "Drop", "RecipeID": 22914, "Reagents": {"Nightmare Vine": 2, "Netherbloom": 1, "Imbued Vial": 1}, "Phase": 1}, "Discolored Healing Potion": {"ID": 4596, "Learn": 50, "Yellow": 80, "Green": 100, "Grey": 120, "Source": "Quest", "Faction": "Horde", "RecipeID": 4597, "Reagents": {"Discolored Worg Heart": 1, "Peacebloom": 1, "Empty Vial": 1}, "Phase": 1}, "Dreamless Sleep Potion": {"ID": 12190, "Learn": 230, "Yellow": 245, "Green": 265, "Grey": 285, "Source": "Trainer", "Reagents": {"Purple Lotus": 3, "Crystal Vial": 1}, "Phase": 1}, "Earthen Elixir": {"ID": 32063, "Learn": 320, "Yellow": 335, "Green": 342, "Grey": 350, "Source": "Vendor", "RecipeID": 32070, "Reagents": {"Dreaming Glory": 1, "Ragveil": 2, "Imbued Vial": 1}, "Phase": 1}, "Elixir of Agility": {"ID": 8949, "Learn": 185, "Yellow": 205, "Green": 225, "Grey": 245, "Source": "Trainer", "Reagents": {"Stranglekelp": 1, "Goldthorn": 1, "Leaded Vial": 1}, "Phase": 1}, "Elixir of Brute Force": {"ID": 13453, "Learn": 275, "Yellow": 290, "Green": 310, "Grey": 330, "Source": "Quest", "Faction": "Any", "RecipeID": 13481, "Reagents": {"Gromsblood": 2, "Plaguebloom": 2, "Crystal Vial": 1}, "Phase": 1}, "Elixir of Camouflage": {"ID": 22823, "Learn": 305, "Yellow": 320, "Green": 327, "Grey": 335, "Source": "VendorLimited", "RecipeID": 22900, "Reagents": {"Ragveil": 1, "Felweed": 1, "Imbued Vial": 1}, "Phase": 1}, "Elixir of Defence": {"ID": 3389, "Learn": 130, "Yellow": 155, "Green": 175, "Grey": 195, "Source": "Trainer", "Reagents": {"Wild Steelbloom": 1, "Stranglekelp": 1, "Leaded Vial": 1}, "Phase": 1}, "Elixir of Demonslaying": {"ID": 9224, "Learn": 250, "Yellow": 265, "Green": 285, "Grey": 305, "Source": "Vendor", "RecipeID": 9300, "Reagents": {"Gromsblood": 1, "Ghost Mushroom": 1, "Crystal Vial": 1}, "Phase": 1}, "Elixir of Detect Demon": {"ID": 9233, "Learn": 250, "Yellow": 265, "Green": 285, "Grey": 305, "Source": "Trainer", "Reagents": {"Gromsblood": 2, "Crystal Vial": 1}, "Phase": 1}, "Elixir of Detect Lesser Invisibility": {"ID": 3828, "Learn": 195, "Yellow": 215, "Green": 235, "Grey": 255, "Source": "Drop", "RecipeID": 3832, "Reagents": {"Khadgars Whisker": 1, "Fadeleaf": 1, "Leaded Vial": 1}, "Phase": 1}, "Elixir of Detect Undead": {"ID": 9154, "Learn": 230, "Yellow": 245, "Green": 265, "Grey": 285, "Source": "Trainer", "Reagents": {"Arthas Tears": 1, "Crystal Vial": 1}, "Phase": 1}, "Elixir of Draenic Wisdom": {"ID": 32067, "Learn": 320, "Yellow": 335, "Green": 342, "Grey": 350, "Source": "Trainer", "Reagents": {"Felweed": 1, "Terocone": 1, "Imbued Vial": 1}, "Phase": 1}, "Elixir of Dream Vision": {"ID": 9197, "Learn": 240, "Yellow": 255, "Green": 275, "Grey": 295, "Source": "Drop", "RecipeID": 9297, "Reagents": {"Purple Lotus": 3, "Crystal Vial": 1}, "Phase": 1}, "Elixir of Empowerment": {"ID": 22848, "Learn": 365, "Yellow": 380, "Green": 387, "Grey": 395, "Source": "Drop", "RecipeID": 22926, "Reagents": {"Netherbloom": 1, "Mana Thistle": 1, "Imbued Vial": 1}, "Phase": 1}, "Elixir of Firepower": {"ID": 6373, "Learn": 140, "Yellow": 165, "Green": 185, "Grey": 205, "Source": "Trainer", "Reagents": {"Fire Oil": 2, "Kingsblood": 1, "Leaded Vial": 1}, "Phase": 1}, "Elixir of Fortitude": {"ID": 3825, "Learn": 175, "Yellow": 195, "Green": 215, "Grey": 235, "Source": "Trainer", "Reagents": {"Wild Steelbloom": 1, "Goldthorn": 1, "Leaded Vial": 1}, "Phase": 1}, "Elixir of Frost Power": {"ID": 17708, "Learn": 190, "Yellow": 210, "Green": 230, "Grey": 250, "Source": "Drop", "RecipeID": 17709, "Reagents": {"Wintersbite": 2, "Khadgars Whisker": 1, "Leaded Vial": 1}, "Phase": 1}, "Elixir of Giant Growth": {"ID": 6662, "Learn": 90, "Yellow": 120, "Green": 140, "Grey": 160, "Source": "Drop", "RecipeID": 6663, "Reagents": {"Deviate Fish": 1, "Earthroot": 1, "Empty Vial": 1}, "Phase": 1}, "Elixir of Giants": {"ID": 9206, "Learn": 245, "Yellow": 260, "Green": 280, "Grey": 300, "Source": "Drop", "RecipeID": 9298, "Reagents": {"Sungrass": 1, "Gromsblood": 1, "Crystal Vial": 1}, "Phase": 1}, "Elixir of Greater Agility": {"ID": 9187, "Learn": 240, "Yellow": 255, "Green": 275, "Grey": 295, "Source": "Trainer", "Reagents": {"Sungrass": 1, "Goldthorn": 1, "Crystal Vial": 1}, "Phase": 1}, "Elixir of Greater Defense": {"ID": 8951, "Learn": 195, "Yellow": 215, "Green": 235, "Grey": 255, "Source": "Trainer", "Reagents": {"Wild Steelbloom": 1, "Goldthorn": 1, "Leaded Vial": 1}, "Phase": 1}, "Elixir of Greater Firepower": {"ID": 21546, "Learn": 250, "Yellow": 265, "Green": 285, "Grey": 305, "Source": "Drop", "RecipeID": 21547, "Reagents": {"Fire Oil": 3, "Firebloom": 3, "Crystal Vial": 1}, "Phase": 1}, "Elixir of Greater Intellect": {"ID": 9179, "Learn": 235, "Yellow": 250, "Green": 270, "Grey": 290, "Source": "Trainer", "Reagents": {"Blindweed": 1, "Khadgars Whisker": 1, "Crystal Vial": 1}, "Phase": 1}, "Elixir of Greater Water Breathing": {"ID": 18294, "Learn": 215, "Yellow": 230, "Green": 250, "Grey": 270, "Source": "Trainer", "Reagents": {"Ichor of Undeath": 1, "Purple Lotus": 2, "Crystal Vial": 1}, "Phase": 1}, "Elixir of Healing Power": {"ID": 22825, "Learn": 310, "Yellow": 325, "Green": 332, "Grey": 340, "Source": "Trainer", "Reagents": {"Golden Sansam": 1, "Dreaming Glory": 1, "Imbued Vial": 1}, "Phase": 1}, "Elixir of Ironskin": {"ID": 32068, "Learn": 330, "Yellow": 345, "Green": 352, "Grey": 360, "Source": "Quest", "RecipeID": 32071, "Reagents": {"Ancient Lichen": 1, "Ragveil": 1, "Imbued Vial": 1}, "Phase": 1}, "Elixir of Lesser Agility": {"ID": 3390, "Learn": 140, "Yellow": 165, "Green": 185, "Grey": 205, "Source": "Drop", "RecipeID": 3396, "Reagents": {"Wild Steelbloom": 1, "Swiftthistle": 1, "Leaded Vial": 1}, "Phase": 1}, "Elixir of Lions Strength": {"ID": 2454, "Learn": 1, "Yellow": 55, "Green": 75, "Grey": 95, "Source": "Trainer", "Reagents": {"Earthroot": 1, "Silverleaf": 1, "Empty Vial": 1}, "Phase": 1}, "Elixir of Major Agility": {"ID": 22831, "Learn": 330, "Yellow": 345, "Green": 352, "Grey": 360, "Source": "Reputation", "RecipeID": 24001, "Reagents": {"Terocone": 1, "Felweed": 2, "Imbued Vial": 1}, "Phase": 1}, "Elixir of Major Defense": {"ID": 22834, "Learn": 345, "Yellow": 360, "Green": 367, "Grey": 375, "Source": "VendorLimited", "RecipeID": 22909, "Reagents": {"Ancient Lichen": 3, "Terocone": 1, "Imbued Vial": 1}, "Phase": 1}, "Elixir of Major Firepower": {"ID": 22833, "Learn": 345, "Yellow": 360, "Green": 367, "Grey": 375, "Source": "Reputation", "RecipeID": 22908, "Reagents": {"Mote of Fire": 2, "Ancient Lichen": 1, "Imbued Vial": 1}, "Phase": 1}, "Elixir of Major Fortitude": {"ID": 32062, "Learn": 310, "Yellow": 325, "Green": 332, "Grey": 340, "Source": "Trainer", "Reagents": {"Ragveil": 2, "Felweed": 1, "Imbued Vial": 1}, "Phase": 1}, "Elixir of Major Frost Power": {"ID": 22827, "Learn": 320, "Yellow": 335, "Green": 342, "Grey": 350, "Source": "VendorLimited", "RecipeID": 22902, "Reagents": {"Mote of Water": 2, "Ancient Lichen": 1, "Imbued Vial": 1}, "Phase": 1}, "Elixir of Major Mageblood": {"ID": 22840, "Learn": 355, "Yellow": 370, "Green": 377, "Grey": 385, "Source": "Drop", "RecipeID": 22919, "Reagents": {"Ancient Lichen": 1, "Netherbloom": 1, "Imbued Vial": 1}, "Phase": 1}, "Elixir of Major Shadowpower": {"ID": 22835, "Learn": 350, "Yellow": 365, "Green": 372, "Grey": 380, "Source": "Reputation", "RecipeID": 22910, "Reagents": {"Ancient Lichen": 1, "Nightmare Vine": 1, "Imbued Vial": 1}, "Phase": 1}, "Elixir of Major Strength": {"ID": 22824, "Learn": 305, "Yellow": 320, "Green": 327, "Grey": 335, "Source": "Trainer", "Reagents": {"Mountain Silversage": 1, "Felweed": 1, "Imbued Vial": 1}, "Phase": 1}, "Elixir of Mastery": {"ID": 28104, "Learn": 315, "Yellow": 330, "Green": 337, "Grey": 345, "Source": "Trainer", "Reagents": {"Terocone": 3, "Felweed": 1, "Imbued Vial": 1}, "Phase": 1}, "Elixir of Minor Agility": {"ID": 2457, "Learn": 50, "Yellow": 80, "Green": 100, "Grey": 120, "Source": "Drop", "RecipeID": 2553, "Reagents": {"Swiftthistle": 1, "Silverleaf": 1, "Empty Vial": 1}, "Phase": 1}, "Elixir of Minor Defense": {"ID": 5997, "Learn": 1, "Yellow": 55, "Green": 75, "Grey": 95, "Source": "Trainer", "Reagents": {"Silverleaf": 2, "Empty Vial": 1}, "Phase": 1}, "Elixir of Minor Fortitude": {"ID": 2458, "Learn": 50, "Yellow": 80, "Green": 100, "Grey": 120, "Source": "Trainer", "Reagents": {"Earthroot": 2, "Peacebloom": 1, "Empty Vial": 1}, "Phase": 1}, "Elixir of Ogres Strength": {"ID": 3391, "Learn": 150, "Yellow": 175, "Green": 195, "Grey": 215, "Source": "Drop", "RecipeID": 6211, "Reagents": {"Earthroot": 1, "Kingsblood": 1, "Leaded Vial": 1}, "Phase": 1}, "Elixir of Poison Resistance": {"ID": 3386, "Learn": 120, "Yellow": 145, "Green": 165, "Grey": 185, "Source": "Drop", "RecipeID": 3394, "Reagents": {"Large Venom Sac": 1, "Bruiseweed": 1, "Leaded Vial": 1}, "Phase": 1}, "Elixir of Shadow Power": {"ID": 9264, "Learn": 250, "Yellow": 265, "Green": 285, "Grey": 305, "Source": "Vendor", "RecipeID": 9301, "Reagents": {"Ghost Mushroom": 3, "Crystal Vial": 1}, "Phase": 1}, "Elixir of Superior Defense": {"ID": 13445, "Learn": 265, "Yellow": 280, "Green": 300, "Grey": 320, "Source": "Vendor", "RecipeID": 13478, "Reagents": {"Stonescale Oil": 2, "Sungrass": 1, "Crystal Vial": 1}, "Phase": 1}, "Elixir of the Mongoose": {"ID": 13452, "Learn": 280, "Yellow": 295, "Green": 315, "Grey": 335, "Source": "Drop", "RecipeID": 13491, "Reagents": {"Mountain Silversage": 2, "Plaguebloom": 2, "Crystal Vial": 1}, "Phase": 1}, "Elixir of the Sages": {"ID": 13447, "Learn": 270, "Yellow": 285, "Green": 305, "Grey": 325, "Source": "Drop", "RecipeID": 13479, "Reagents": {"Dreamfoil": 1, "Plaguebloom": 2, "Crystal Vial": 1}, "Phase": 1}, "Elixir of the Searching Eye": {"ID": 22830, "Learn": 325, "Yellow": 340, "Green": 347, "Grey": 355, "Source": "Drop", "RecipeID": 22904, "Reagents": {"Ragveil": 2, "Terocone": 1, "Imbued Vial": 1}, "Phase": 1}, "Elixir of Water Breathing": {"ID": 5996, "Learn": 90, "Yellow": 120, "Green": 140, "Grey": 160, "Source": "Trainer", "Reagents": {"Stranglekelp": 1, "Blackmouth Oil": 2, "Empty Vial": 1}, "Phase": 1}, "Elixir of Wisdom": {"ID": 3383, "Learn": 90, "Yellow": 120, "Green": 140, "Grey": 160, "Source": "Trainer", "Reagents": {"Mageroyal": 1, "Briarthorn": 2, "Empty Vial": 1}, "Phase": 1}, "Fel Mana Potion": {"ID": 31677, "Learn": 360, "Yellow": 375, "Green": 382, "Grey": 390, "Source": "Drop", "RecipeID": 31682, "Reagents": {"Mana Thistle": 2, "Nightmare Vine": 2, "Imbued Vial": 1}, "Phase": 1}, "Fel Regeneration Potion": {"ID": 31676, "Learn": 345, "Yellow": 360, "Green": 367, "Grey": 375, "Source": "Drop", "RecipeID": 31681, "Reagents": {"Felweed": 2, "Nightmare Vine": 3, "Imbued Vial": 1}, "Phase": 1}, "Fel Strength Elixir": {"ID": 31679, "Learn": 335, "Yellow": 350, "Green": 357, "Grey": 365, "Source": "Drop", "RecipeID": 31680, "Reagents": {"Terocone": 1, "Nightmare Vine": 2, "Imbued Vial": 1}, "Phase": 1}, "Fire Oil": {"ID": 6371, "Learn": 130, "Yellow": 150, "Green": 160, "Grey": 170, "Source": "Trainer", "Reagents": {"Firefin Snapper": 2, "Empty Vial": 1}, "Phase": 1}, "Fire Protection Potion": {"ID": 6049, "Learn": 165, "Yellow": 210, "Green": 230, "Grey": 250, "Source": "VendorLimited", "RecipeID": 6055, "Reagents": {"Small Flame Sac": 1, "Fire Oil": 1, "Leaded Vial": 1}, "Phase": 1}, "Free Action Potion": {"ID": 5634, "Learn": 150, "Yellow": 175, "Green": 195, "Grey": 215, "Source": "VendorLimited", "RecipeID": 5642, "Reagents": {"Blackmouth Oil": 2, "Stranglekelp": 1, "Leaded Vial": 1}, "Phase": 1}, "Frost Oil": {"ID": 3829, "Learn": 200, "Yellow": 220, "Green": 240, "Grey": 260, "Source": "VendorLimited", "RecipeID": 14634, "Reagents": {"Khadgars Whisker": 4, "Wintersbite": 2, "Leaded Vial": 1}, "Phase": 1}, "Frost Protection Potion": {"ID": 6050, "Learn": 190, "Yellow": 205, "Green": 225, "Grey": 245, "Source": "Vendor", "RecipeID": 6056, "Reagents": {"Wintersbite": 1, "Goldthorn": 1, "Leaded Vial": 1}, "Phase": 1}, "Ghost Dye": {"ID": 9210, "Learn": 245, "Yellow": 260, "Green": 280, "Grey": 300, "Source": "VendorLimited", "RecipeID": 9302, "Reagents": {"Ghost Mushroom": 2, "Purple Dye": 1, "Crystal Vial": 1}, "Phase": 1}, "Gift of Arthas": {"ID": 9088, "Learn": 240, "Yellow": 255, "Green": 275, "Grey": 295, "Source": "Drop", "RecipeID": 9296, "Reagents": {"Arthas Tears": 1, "Blindweed": 1, "Crystal Vial": 1}, "Phase": 1}, "Goblin Rocket Fuel": {"ID": 9061, "Learn": 210, "Yellow": 225, "Green": 245, "Grey": 265, "Source": "Drop", "RecipeID": 10644, "Reagents": {"Firebloom": 1, "Volatile Rum": 1, "Leaded Vial": 1}, "Phase": 1}, "Great Rage Potion": {"ID": 5633, "Learn": 175, "Yellow": 195, "Green": 215, "Grey": 235, "Source": "Vendor", "RecipeID": 5643, "Reagents": {"Large Fang": 1, "Kingsblood": 1, "Leaded Vial": 1}, "Phase": 1}, "Greater Arcane Elixir": {"ID": 13454, "Learn": 285, "Yellow": 300, "Green": 320, "Grey": 340, "Source": "Drop", "RecipeID": 13493, "Reagents": {"Dreamfoil": 3, "Mountain Silversage": 1, "Crystal Vial": 1}, "Phase": 1}, "Greater Arcane Protection Potion": {"ID": 13461, "Learn": 290, "Yellow": 305, "Green": 325, "Grey": 345, "Source": "Drop", "RecipeID": 13497, "Reagents": {"Dream Dust": 1, "Dreamfoil": 1, "Crystal Vial": 1}, "Phase": 1}, "Greater Dreamless Sleep Potion": {"ID": 20002, "Learn": 275, "Yellow": 290, "Green": 310, "Grey": 330, "Source": "Reputation", "RecipeID": 20012, "Reagents": {"Dreamfoil": 2, "Golden Sansam": 1, "Crystal Vial": 1}, "Phase": 1}, "Greater Fire Protection Potion": {"ID": 13457, "Learn": 290, "Yellow": 305, "Green": 325, "Grey": 345, "Source": "Drop", "RecipeID": 13494, "Reagents": {"Elemental Fire": 1, "Dreamfoil": 1, "Crystal Vial": 1}, "Phase": 1}, "Greater Frost Protection Potion": {"ID": 13456, "Learn": 290, "Yellow": 305, "Green": 325, "Grey": 345, "Source": "Drop", "RecipeID": 13495, "Reagents": {"Elemental Water": 1, "Dreamfoil": 1, "Crystal Vial": 1}, "Phase": 1}, "Greater Healing Potion": {"ID": 1710, "Learn": 155, "Yellow": 175, "Green": 195, "Grey": 215, "Source": "Trainer", "Reagents": {"Liferoot": 1, "Kingsblood": 1, "Leaded Vial": 1}, "Phase": 1}, "Greater Mana Potion": {"ID": 6149, "Learn": 205, "Yellow": 220, "Green": 240, "Grey": 260, "Source": "Trainer", "Reagents": {"Khadgars Whisker": 1, "Goldthorn": 1, "Leaded Vial": 1}, "Phase": 1}, "Greater Nature Protection Potion": {"ID": 13458, "Learn": 290, "Yellow": 305, "Green": 325, "Grey": 345, "Source": "Drop", "RecipeID": 13496, "Reagents": {"Elemental Earth": 1, "Dreamfoil": 1, "Crystal Vial": 1}, "Phase": 1}, "Greater Shadow Protection Potion": {"ID": 13459, "Learn": 290, "Yellow": 305, "Green": 325, "Grey": 345, "Source": "Drop", "RecipeID": 13499, "Reagents": {"Shadow Oil": 1, "Dreamfoil": 1, "Crystal Vial": 1}, "Phase": 1}, "Greater Stoneshield Potion": {"ID": 13455, "Learn": 280, "Yellow": 295, "Green": 315, "Grey": 335, "Source": "Drop", "RecipeID": 13490, "Reagents": {"Stonescale Oil": 3, "Thorium Ore": 1, "Crystal Vial": 1}, "Phase": 1}, "Haste Potion": {"ID": 22838, "Learn": 350, "Yellow": 365, "Green": 372, "Grey": 380, "Source": "Drop", "RecipeID": 22913, "Reagents": {"Terocone": 2, "Netherbloom": 1, "Crystal Vial": 1}, "Phase": 1}, "Healing Potion": {"ID": 929, "Learn": 110, "Yellow": 135, "Green": 155, "Grey": 175, "Source": "Trainer", "Reagents": {"Bruiseweed": 1, "Briarthorn": 1, "Leaded Vial": 1}, "Phase": 1}, "Heroic Potion": {"ID": 22837, "Learn": 350, "Yellow": 365, "Green": 372, "Grey": 380, "Source": "Drop", "RecipeID": 22912, "Reagents": {"Terocone": 2, "Ancient Lichen": 1, "Imbued Vial": 1}, "Phase": 1}, "Holy Protection Potion": {"ID": 6051, "Learn": 100, "Yellow": 130, "Green": 150, "Grey": 170, "Source": "VendorLimited", "RecipeID": 6053, "Reagents": {"Bruiseweed": 1, "Swiftthistle": 1, "Empty Vial": 1}, "Phase": 1}, "Insane Strength Potion": {"ID": 22828, "Learn": 320, "Yellow": 335, "Green": 342, "Grey": 350, "Source": "Drop", "RecipeID": 22903, "Reagents": {"Terocone": 3, "Imbued Vial": 1}, "Phase": 1}, "Invisibility Potion": {"ID": 9172, "Learn": 235, "Yellow": 250, "Green": 270, "Grey": 290, "Source": "Drop", "RecipeID": 9295, "Reagents": {"Ghost Mushroom": 1, "Sungrass": 1, "Crystal Vial": 1}, "Phase": 1}, "Ironshield Potion": {"ID": 22849, "Learn": 365, "Yellow": 380, "Green": 387, "Grey": 395, "Source": "Drop", "RecipeID": 22927, "Reagents": {"Ancient Lichen": 2, "Mote of Earth": 3, "Imbued Vial": 1}, "Phase": 1}, "Lesser Healing Potion": {"ID": 858, "Learn": 55, "Yellow": 85, "Green": 105, "Grey": 125, "Source": "Trainer", "Reagents": {"Minor Healing Potion": 1, "Briarthorn": 1}, "Phase": 1}, "Lesser Invisibility Potion": {"ID": 3823, "Learn": 165, "Yellow": 185, "Green": 205, "Grey": 225, "Source": "Trainer", "Reagents": {"Fadeleaf": 1, "Wild Steelbloom": 1, "Leaded Vial": 1}, "Phase": 1}, "Lesser Mana Potion": {"ID": 3385, "Learn": 120, "Yellow": 145, "Green": 165, "Grey": 185, "Source": "Trainer", "Reagents": {"Mageroyal": 1, "Stranglekelp": 1, "Empty Vial": 1}, "Phase": 1}, "Lesser Stoneshield Potion": {"ID": 4623, "Learn": 215, "Yellow": 230, "Green": 250, "Grey": 270, "Source": "Quest", "Faction": "Any", "RecipeID": 4624, "Reagents": {"Mithril Ore": 1, "Goldthorn": 1, "Leaded Vial": 1}, "Phase": 1}, "Limited Invulnerability Potion": {"ID": 3387, "Learn": 250, "Yellow": 275, "Green": 295, "Grey": 315, "Source": "Drop", "RecipeID": 3395, "Reagents": {"Blindweed": 2, "Ghost Mushroom": 1, "Crystal Vial": 1}, "Phase": 1}, "Living Action Potion": {"ID": 20008, "Learn": 285, "Yellow": 300, "Green": 320, "Grey": 340, "Source": "Reputation", "RecipeID": 20013, "Reagents": {"Icecap": 2, "Mountain Silversage": 2, "Heart of the Wild": 2, "Crystal Vial": 1}, "Phase": 1}, "Mad Alchemists Potion": {"ID": 34440, "Learn": 325, "Yellow": 335, "Green": 342, "Grey": 350, "Source": "Reputation", "RecipeID": 34481, "Reagents": {"Crystal Vial": 1, "Ragveil": 2}, "Phase": 1}, "Mageblood Potion": {"ID": 20007, "Learn": 275, "Yellow": 290, "Green": 310, "Grey": 330, "Source": "Reputation", "RecipeID": 20011, "Reagents": {"Dreamfoil": 1, "Plaguebloom": 2, "Crystal Vial": 1}, "Phase": 1}, "Magic Resistance Potion": {"ID": 9036, "Learn": 210, "Yellow": 225, "Green": 245, "Grey": 265, "Source": "Drop", "RecipeID": 9293, "Reagents": {"Khadgars Whisker": 1, "Purple Lotus": 1, "Crystal Vial": 1}, "Phase": 1}, "Major Arcane Protection Potion": {"ID": 22845, "Learn": 360, "Yellow": 375, "Green": 382, "Grey": 390, "Source": "Drop", "RecipeID": 22923, "Reagents": {"Primal Mana": 1, "Mana Thistle": 3, "Imbued Vial": 5}, "Phase": 1}, "Major Dreamless Sleep Potion": {"ID": 22836, "Learn": 350, "Yellow": 365, "Green": 372, "Grey": 380, "Source": "VendorLimited", "RecipeID": 22911, "Reagents": {"Dreaming Glory": 1, "Nightmare Vine": 1, "Imbued Vial": 5}, "Phase": 1}, "Major Fire Protection Potion": {"ID": 22841, "Learn": 360, "Yellow": 375, "Green": 382, "Grey": 390, "Source": "Drop", "RecipeID": 22920, "Reagents": {"Primal Fire": 1, "Mana Thistle": 3, "Imbued Vial": 5}, "Phase": 1}, "Major Frost Protection Potion": {"ID": 22921, "Learn": 360, "Yellow": 375, "Green": 382, "Grey": 390, "Source": "Drop", "RecipeID": 22921, "Reagents": {"Primal Water": 1, "Mana Thistle": 3, "Imbued Vial": 5}, "Phase": 1}, "Major Healing Potion": {"ID": 13446, "Learn": 275, "Yellow": 290, "Green": 310, "Grey": 330, "Source": "Trainer", "RecipeID": 13480, "Reagents": {"Golden Sansam": 2, "Mountain Silversage": 1, "Crystal Vial": 1}, "Phase": 1}, "Major Holy Protection Potion": {"ID": 22847, "Learn": 360, "Yellow": 375, "Green": 382, "Grey": 390, "Source": "Drop", "RecipeID": 22925, "Reagents": {"Primal Life": 1, "Mana Thistle": 3, "Imbued Vial": 5}, "Phase": 1}, "Major Mana Potion": {"ID": 13444, "Learn": 295, "Yellow": 310, "Green": 325, "Grey": 345, "Source": "Quest", "RecipeID": 13501, "Reagents": {"Dreamfoil": 3, "Icecap": 2, "Crystal Vial": 1}, "Phase": 1}, "Major Nature Protection Potion": {"ID": 22844, "Learn": 360, "Yellow": 375, "Green": 382, "Grey": 390, "Source": "Drop", "RecipeID": 22922, "Reagents": {"Primal Life": 1, "Mana Thistle": 3, "Imbued Vial": 5}, "Phase": 1}, "Major Shadow Protection Potion": {"ID": 33846, "Learn": 360, "Yellow": 375, "Green": 382, "Grey": 390, "Source": "Drop", "RecipeID": 22924, "Reagents": {"Primal Shadow": 1, "Mana Thistle": 3, "Imbued Vial": 5}, "Phase": 1}, "Major Trolls Blood Potion": {"ID": 20004, "Learn": 290, "Yellow": 305, "Green": 325, "Grey": 345, "Source": "Reputation", "RecipeID": 20014, "Reagents": {"Gromsblood": 1, "Plaguebloom": 2, "Crystal Vial": 1}, "Phase": 1}, "Mana Potion": {"ID": 3827, "Learn": 160, "Yellow": 180, "Green": 200, "Grey": 220, "Source": "Trainer", "Reagents": {"Stranglekelp": 1, "Kingsblood": 1, "Leaded Vial": 1}, "Phase": 1}, "Mighty Rage Potion": {"ID": 13442, "Learn": 255, "Yellow": 270, "Green": 290, "Grey": 310, "Source": "Drop", "RecipeID": 13476, "Reagents": {"Gromsblood": 3, "Crystal Vial": 1}, "Phase": 1}, "Mighty Trolls Blood Potion": {"ID": 3826, "Learn": 180, "Yellow": 200, "Green": 220, "Grey": 240, "Source": "Drop", "RecipeID": 3831, "Reagents": {"Liferoot": 1, "Bruiseweed": 1, "Leaded Vial": 1}, "Phase": 1}, "Minor Healing Potion": {"ID": 118, "Learn": 1, "Yellow": 55, "Green": 75, "Grey": 95, "Source": "Trainer", "Reagents": {"Peacebloom": 1, "Silverleaf": 1, "Empty Vial": 1}, "Phase": 1}, "Minor Magic Resistance Potion": {"ID": 3384, "Learn": 110, "Yellow": 135, "Green": 155, "Grey": 175, "Source": "Drop", "RecipeID": 3393, "Reagents": {"Mageroyal": 3, "Wild Steelbloom": 1, "Empty Vial": 1}, "Phase": 1}, "Minor Mana Potion": {"ID": 2455, "Learn": 25, "Yellow": 65, "Green": 85, "Grey": 105, "Source": "Trainer", "Reagents": {"Mageroyal": 1, "Silverleaf": 1, "Empty Vial": 1}, "Phase": 1}, "Minor Rejuvenation Potion": {"ID": 2456, "Learn": 40, "Yellow": 70, "Green": 90, "Grey": 110, "Source": "Trainer", "Reagents": {"Mageroyal": 2, "Peacebloom": 1, "Empty Vial": 1}, "Phase": 1}, "Nature Protection Potion": {"ID": 6052, "Learn": 190, "Yellow": 210, "Green": 230, "Grey": 250, "Source": "VendorLimited", "RecipeID": 6057, "Reagents": {"Liferoot": 1, "Stranglekelp": 1, "Leaded Vial": 1}, "Phase": 1}, "Oil of Immolation": {"ID": 8956, "Learn": 205, "Yellow": 220, "Green": 240, "Grey": 260, "Source": "Trainer", "Reagents": {"Firebloom": 1, "Goldthorn": 1, "Crystal Vial": 1}, "Phase": 1}, "Onslaught Elixir": {"ID": 28102, "Learn": 300, "Yellow": 315, "Green": 322, "Grey": 330, "Source": "Trainer", "Reagents": {"Mountain Silversage": 1, "Felweed": 1, "Imbued Vial": 1}, "Phase": 1}, "Philosophers Stone": {"ID": 9149, "Learn": 225, "Yellow": 240, "Green": 260, "Grey": 280, "Source": "Vendor", "RecipeID": 9303, "Reagents": {"Iron Bar": 4, "Black Vitriol": 1, "Purple Lotus": 4, "Firebloom": 4}, "Phase": 1}, "Potion of Curing": {"ID": 3386, "Learn": 120, "Yellow": 145, "Green": 165, "Grey": 185, "Source": "Drop", "RecipeID": 3394, "Reagents": {"Large Venom Sac": 1, "Bruiseweed": 1, "Leaded Vial": 1}, "Phase": 1}, "Purification Potion": {"ID": 13462, "Learn": 285, "Yellow": 300, "Green": 320, "Grey": 340, "Source": "Drop", "RecipeID": 13492, "Reagents": {"Icecap": 2, "Plaguebloom": 2, "Crystal Vial": 1}, "Phase": 1}, "Rage Potion": {"ID": 5631, "Learn": 60, "Yellow": 90, "Green": 110, "Grey": 130, "Source": "VendorLimited", "RecipeID": 5640, "Reagents": {"Sharp Claw": 1, "Briarthorn": 1, "Empty Vial": 1}, "Phase": 1}, "Restorative Potion": {"ID": 9030, "Learn": 215, "Yellow": 225, "Green": 245, "Grey": 265, "Source": "Quest", "Faction": "Any", "RecipeID": 9030, "Reagents": {"Elemental Earth": 1, "Goldthorn": 1, "Crystal Vial": 1}, "Phase": 1}, "Shadow Oil": {"ID": 3824, "Learn": 165, "Yellow": 190, "Green": 210, "Grey": 230, "Source": "Vendor", "RecipeID": 6068, "Reagents": {"Fadeleaf": 4, "Grave Moss": 4, "Leaded Vial": 1}, "Phase": 1}, "Shadow Protection Potion": {"ID": 6048, "Learn": 135, "Yellow": 160, "Green": 180, "Grey": 200, "Source": "VendorLimited", "RecipeID": 6054, "Reagents": {"Grave Moss": 1, "Kingsblood": 1, "Leaded Vial": 1}, "Phase": 1}, "Shrouding Potion": {"ID": 22871, "Learn": 335, "Yellow": 350, "Green": 357, "Grey": 365, "Source": "Reputation", "RecipeID": 22906, "Reagents": {"Ragveil": 3, "Netherbloom": 1, "Imbued Vial": 1}, "Phase": 1}, "Sneaking Potion": {"ID": 22826, "Learn": 315, "Yellow": 330, "Green": 337, "Grey": 345, "Source": "VendorLimited", "RecipeID": 22901, "Reagents": {"Ragveil": 2, "Felweed": 1, "Imbued Vial": 1}, "Phase": 1}, "Stonescale Oil": {"ID": 13423, "Learn": 250, "Yellow": 250, "Green": 255, "Grey": 260, "Source": "Trainer", "Reagents": {"Stonescale Eel": 1, "Leaded Vial": 1}, "Phase": 1}, "Strong Trolls Blood Potion": {"ID": 3388, "Learn": 125, "Yellow": 150, "Green": 170, "Grey": 190, "Source": "Trainer", "Reagents": {"Bruiseweed": 2, "Briarthorn": 2, "Leaded Vial": 1}, "Phase": 1}, "Super Healing Potion": {"ID": 22829, "Learn": 325, "Yellow": 340, "Green": 347, "Grey": 355, "Source": "Trainer", "Reagents": {"Netherbloom": 2, "Felweed": 1, "Imbued Vial": 1}, "Phase": 1}, "Super Mana Potion": {"ID": 22832, "Learn": 340, "Yellow": 355, "Green": 362, "Grey": 370, "Source": "VendorLimited", "RecipeID": 22907, "Reagents": {"Dreaming Glory": 2, "Felweed": 1, "Imbued Vial": 1}, "Phase": 1}, "Superior Healing Potion": {"ID": 3928, "Learn": 215, "Yellow": 230, "Green": 250, "Grey": 270, "Source": "Trainer", "Reagents": {"Sungrass": 1, "Khadgars Whisker": 1, "Crystal Vial": 1}, "Phase": 1}, "Superior Mana Potion": {"ID": 13443, "Learn": 260, "Yellow": 275, "Green": 295, "Grey": 315, "Source": "Trainer", "RecipeID": 13477, "Reagents": {"Sungrass": 2, "Blindweed": 2, "Crystal Vial": 1}, "Phase": 1}, "Swiftness Potion": {"ID": 2459, "Learn": 60, "Yellow": 90, "Green": 110, "Grey": 130, "Source": "Drop", "RecipeID": 2555, "Reagents": {"Swiftthistle": 1, "Briarthorn": 1, "Empty Vial": 1}, "Phase": 1}, "Swim Speed Potion": {"ID": 6372, "Learn": 100, "Yellow": 130, "Green": 150, "Grey": 170, "Source": "Trainer", "Reagents": {"Swiftthistle": 1, "Blackmouth Oil": 1, "Empty Vial": 1}, "Phase": 1}, "Unstable Mana Potion": {"ID": 28101, "Learn": 310, "Yellow": 325, "Green": 332, "Grey": 340, "Source": "Trainer", "Reagents": {"Ragveil": 2, "Felweed": 1, "Imbued Vial": 1}, "Phase": 1}, "Volatile Healing Potion": {"ID": 28100, "Learn": 300, "Yellow": 315, "Green": 322, "Grey": 330, "Source": "Trainer", "Reagents": {"Golden Sansam": 1, "Felweed": 1, "Imbued Vial": 1}, "Phase": 1}, "Weak Trolls Blood Potion": {"ID": 3382, "Learn": 15, "Yellow": 60, "Green": 80, "Grey": 100, "Source": "Trainer", "Reagents": {"Peacebloom": 1, "Earthroot": 2, "Empty Vial": 1}, "Phase": 1}, "Wildvine Potion": {"ID": 9144, "Learn": 225, "Yellow": 240, "Green": 260, "Grey": 280, "Source": "Drop", "RecipeID": 9294, "Reagents": {"Wildvine": 1, "Purple Lotus": 1, "Crystal Vial": 1}, "Phase": 1}}
+{
+  "Elixir of Lion's Strength": {
+    "ID": 2329,
+    "Creates": 2454,
+    "Learn": 1,
+    "Phase": 1,
+    "Reagents": {
+      "Earthroot": 1,
+      "Silverleaf": 1,
+      "Empty Vial": 1
+    },
+    "Yellow": 55,
+    "Green": 75,
+    "Grey": 95,
+    "Source": "Trainer"
+  },
+  "Minor Healing Potion": {
+    "ID": 2330,
+    "Creates": 118,
+    "Learn": 1,
+    "Phase": 1,
+    "Reagents": {
+      "Peacebloom": 1,
+      "Silverleaf": 1,
+      "Empty Vial": 1
+    },
+    "Yellow": 55,
+    "Green": 75,
+    "Grey": 95,
+    "Source": "Trainer"
+  },
+  "Minor Mana Potion": {
+    "ID": 2331,
+    "Creates": 2455,
+    "Learn": 25,
+    "Phase": 1,
+    "Reagents": {
+      "Mageroyal": 1,
+      "Silverleaf": 1,
+      "Empty Vial": 1
+    },
+    "Yellow": 65,
+    "Green": 85,
+    "Grey": 105,
+    "Source": "Trainer"
+  },
+  "Minor Rejuvenation Potion": {
+    "ID": 2332,
+    "Creates": 2456,
+    "Learn": 40,
+    "Phase": 1,
+    "Reagents": {
+      "Mageroyal": 2,
+      "Peacebloom": 1,
+      "Empty Vial": 1
+    },
+    "Yellow": 70,
+    "Green": 90,
+    "Grey": 110,
+    "Source": "Trainer"
+  },
+  "Elixir of Lesser Agility": {
+    "ID": 2333,
+    "Creates": 3390,
+    "Learn": 140,
+    "Phase": 1,
+    "Reagents": {
+      "Wild Steelbloom": 1,
+      "Swiftthistle": 1,
+      "Leaded Vial": 1
+    },
+    "Yellow": 165,
+    "Green": 185,
+    "Grey": 205,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Elixir of Minor Fortitude": {
+    "ID": 2334,
+    "Creates": 2458,
+    "Learn": 50,
+    "Phase": 1,
+    "Reagents": {
+      "Earthroot": 2,
+      "Peacebloom": 1,
+      "Empty Vial": 1
+    },
+    "Yellow": 80,
+    "Green": 100,
+    "Grey": 120,
+    "Source": "Trainer"
+  },
+  "Swiftness Potion": {
+    "ID": 2335,
+    "Creates": 2459,
+    "Learn": 60,
+    "Phase": 1,
+    "Reagents": {
+      "Swiftthistle": 1,
+      "Briarthorn": 1,
+      "Empty Vial": 1
+    },
+    "Yellow": 90,
+    "Green": 110,
+    "Grey": 130,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Lesser Healing Potion": {
+    "ID": 2337,
+    "Creates": 858,
+    "Learn": 55,
+    "Phase": 1,
+    "Reagents": {
+      "Minor Healing Potion": 1,
+      "Briarthorn": 1
+    },
+    "Yellow": 85,
+    "Green": 105,
+    "Grey": 125,
+    "Source": "Trainer"
+  },
+  "Weak Troll's Blood Elixir": {
+    "ID": 3170,
+    "Creates": 3382,
+    "Learn": 15,
+    "Phase": 1,
+    "Reagents": {
+      "Peacebloom": 1,
+      "Earthroot": 2,
+      "Empty Vial": 1
+    },
+    "Yellow": 60,
+    "Green": 80,
+    "Grey": 100,
+    "Source": "Trainer"
+  },
+  "Elixir of Wisdom": {
+    "ID": 3171,
+    "Creates": 3383,
+    "Learn": 90,
+    "Phase": 1,
+    "Reagents": {
+      "Mageroyal": 1,
+      "Briarthorn": 2,
+      "Empty Vial": 1
+    },
+    "Yellow": 120,
+    "Green": 140,
+    "Grey": 160,
+    "Source": "Trainer"
+  },
+  "Minor Magic Resistance Potion": {
+    "ID": 3172,
+    "Creates": 3384,
+    "Learn": 110,
+    "Phase": 1,
+    "Reagents": {
+      "Mageroyal": 3,
+      "Wild Steelbloom": 1,
+      "Empty Vial": 1
+    },
+    "Yellow": 135,
+    "Green": 155,
+    "Grey": 175,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Lesser Mana Potion": {
+    "ID": 3173,
+    "Creates": 3385,
+    "Learn": 120,
+    "Phase": 1,
+    "Reagents": {
+      "Mageroyal": 1,
+      "Stranglekelp": 1,
+      "Empty Vial": 1
+    },
+    "Yellow": 145,
+    "Green": 165,
+    "Grey": 185,
+    "Source": "Trainer"
+  },
+  "Potion of Curing": {
+    "ID": 3174,
+    "Creates": 3386,
+    "Learn": 120,
+    "Phase": 1,
+    "Reagents": {
+      "Large Venom Sac": 1,
+      "Bruiseweed": 1,
+      "Leaded Vial": 1
+    },
+    "Yellow": 145,
+    "Green": 165,
+    "Grey": 185,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Limited Invulnerability Potion": {
+    "ID": 3175,
+    "Creates": 3387,
+    "Learn": 250,
+    "Phase": 1,
+    "Reagents": {
+      "Blindweed": 2,
+      "Ghost Mushroom": 1,
+      "Crystal Vial": 1
+    },
+    "Yellow": 275,
+    "Green": 295,
+    "Grey": 315,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Strong Troll's Blood Elixir": {
+    "ID": 3176,
+    "Creates": 3388,
+    "Learn": 125,
+    "Phase": 1,
+    "Reagents": {
+      "Bruiseweed": 2,
+      "Briarthorn": 2,
+      "Leaded Vial": 1
+    },
+    "Yellow": 150,
+    "Green": 170,
+    "Grey": 190,
+    "Source": "Trainer"
+  },
+  "Elixir of Defense": {
+    "ID": 3177,
+    "Creates": 3389,
+    "Learn": 130,
+    "Phase": 1,
+    "Reagents": {
+      "Wild Steelbloom": 1,
+      "Stranglekelp": 1,
+      "Leaded Vial": 1
+    },
+    "Yellow": 155,
+    "Green": 175,
+    "Grey": 195,
+    "Source": "Trainer"
+  },
+  "Elixir of Ogre's Strength": {
+    "ID": 3188,
+    "Creates": 3391,
+    "Learn": 150,
+    "Phase": 1,
+    "Reagents": {
+      "Earthroot": 1,
+      "Kingsblood": 1,
+      "Leaded Vial": 1
+    },
+    "Yellow": 175,
+    "Green": 195,
+    "Grey": 215,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Elixir of Minor Agility": {
+    "ID": 3230,
+    "Creates": 2457,
+    "Learn": 50,
+    "Phase": 1,
+    "Reagents": {
+      "Swiftthistle": 1,
+      "Silverleaf": 1,
+      "Empty Vial": 1
+    },
+    "Yellow": 80,
+    "Green": 100,
+    "Grey": 120,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Healing Potion": {
+    "ID": 3447,
+    "Creates": 929,
+    "Learn": 110,
+    "Phase": 1,
+    "Reagents": {
+      "Bruiseweed": 1,
+      "Briarthorn": 1,
+      "Leaded Vial": 1
+    },
+    "Yellow": 135,
+    "Green": 155,
+    "Grey": 175,
+    "Source": "Trainer"
+  },
+  "Lesser Invisibility Potion": {
+    "ID": 3448,
+    "Creates": 3823,
+    "Learn": 165,
+    "Phase": 1,
+    "Reagents": {
+      "Fadeleaf": 1,
+      "Wild Steelbloom": 1,
+      "Leaded Vial": 1
+    },
+    "Yellow": 185,
+    "Green": 205,
+    "Grey": 225,
+    "Source": "Trainer"
+  },
+  "Shadow Oil": {
+    "ID": 3449,
+    "Creates": 3824,
+    "Learn": 165,
+    "Phase": 1,
+    "Reagents": {
+      "Fadeleaf": 4,
+      "Grave Moss": 4,
+      "Leaded Vial": 1
+    },
+    "Yellow": 190,
+    "Green": 210,
+    "Grey": 230,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Elixir of Fortitude": {
+    "ID": 3450,
+    "Creates": 3825,
+    "Learn": 175,
+    "Phase": 1,
+    "Reagents": {
+      "Wild Steelbloom": 1,
+      "Goldthorn": 1,
+      "Leaded Vial": 1
+    },
+    "Yellow": 195,
+    "Green": 215,
+    "Grey": 235,
+    "Source": "Trainer"
+  },
+  "Major Troll's Blood Elixir": {
+    "ID": 3451,
+    "Creates": 3826,
+    "Learn": 180,
+    "Phase": 1,
+    "Reagents": {
+      "Liferoot": 1,
+      "Bruiseweed": 1,
+      "Leaded Vial": 1
+    },
+    "Yellow": 200,
+    "Green": 220,
+    "Grey": 240,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Mana Potion": {
+    "ID": 3452,
+    "Creates": 3827,
+    "Learn": 160,
+    "Phase": 1,
+    "Reagents": {
+      "Stranglekelp": 1,
+      "Kingsblood": 1,
+      "Leaded Vial": 1
+    },
+    "Yellow": 180,
+    "Green": 200,
+    "Grey": 220,
+    "Source": "Trainer"
+  },
+  "Elixir of Detect Lesser Invisibility": {
+    "ID": 3453,
+    "Creates": 3828,
+    "Learn": 195,
+    "Phase": 1,
+    "Reagents": {
+      "Khadgar's Whisker": 1,
+      "Fadeleaf": 1,
+      "Leaded Vial": 1
+    },
+    "Yellow": 215,
+    "Green": 235,
+    "Grey": 255,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Frost Oil": {
+    "ID": 3454,
+    "Creates": 3829,
+    "Learn": 200,
+    "Phase": 1,
+    "Reagents": {
+      "Khadgar's Whisker": 4,
+      "Wintersbite": 2,
+      "Leaded Vial": 1
+    },
+    "Yellow": 220,
+    "Green": 240,
+    "Grey": 260,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Discolored Healing Potion": {
+    "ID": 4508,
+    "Creates": 4596,
+    "Learn": 50,
+    "Phase": 1,
+    "Reagents": {
+      "Discolored Worg Heart": 1,
+      "Peacebloom": 1,
+      "Empty Vial": 1
+    },
+    "Yellow": 80,
+    "Green": 100,
+    "Grey": 120,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Lesser Stoneshield Potion": {
+    "ID": 4942,
+    "Creates": 4623,
+    "Learn": 215,
+    "Phase": 1,
+    "Reagents": {
+      "Mithril Ore": 1,
+      "Goldthorn": 1,
+      "Leaded Vial": 1
+    },
+    "Yellow": 230,
+    "Green": 250,
+    "Grey": 270,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Rage Potion": {
+    "ID": 6617,
+    "Creates": 5631,
+    "Learn": 60,
+    "Phase": 1,
+    "Reagents": {
+      "Sharp Claw": 2,
+      "Empty Vial": 1
+    },
+    "Yellow": 90,
+    "Green": 110,
+    "Grey": 130,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Great Rage Potion": {
+    "ID": 6618,
+    "Creates": 5633,
+    "Learn": 175,
+    "Phase": 1,
+    "Reagents": {
+      "Large Fang": 1,
+      "Kingsblood": 1,
+      "Leaded Vial": 1
+    },
+    "Yellow": 195,
+    "Green": 215,
+    "Grey": 235,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Free Action Potion": {
+    "ID": 6624,
+    "Creates": 5634,
+    "Learn": 150,
+    "Phase": 1,
+    "Reagents": {
+      "Blackmouth Oil": 2,
+      "Stranglekelp": 1,
+      "Leaded Vial": 1
+    },
+    "Yellow": 175,
+    "Green": 195,
+    "Grey": 215,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Elixir of Water Breathing": {
+    "ID": 7179,
+    "Creates": 5996,
+    "Learn": 90,
+    "Phase": 1,
+    "Reagents": {
+      "Stranglekelp": 1,
+      "Blackmouth Oil": 2,
+      "Empty Vial": 1
+    },
+    "Yellow": 120,
+    "Green": 140,
+    "Grey": 160,
+    "Source": "Trainer"
+  },
+  "Greater Healing Potion": {
+    "ID": 7181,
+    "Creates": 1710,
+    "Learn": 155,
+    "Phase": 1,
+    "Reagents": {
+      "Liferoot": 1,
+      "Kingsblood": 1,
+      "Leaded Vial": 1
+    },
+    "Yellow": 175,
+    "Green": 195,
+    "Grey": 215,
+    "Source": "Trainer"
+  },
+  "Elixir of Minor Defense": {
+    "ID": 7183,
+    "Creates": 5997,
+    "Learn": 1,
+    "Phase": 1,
+    "Reagents": {
+      "Silverleaf": 2,
+      "Empty Vial": 1
+    },
+    "Yellow": 55,
+    "Green": 75,
+    "Grey": 95,
+    "Source": "Trainer"
+  },
+  "Holy Protection Potion": {
+    "ID": 7255,
+    "Creates": 6051,
+    "Learn": 100,
+    "Phase": 1,
+    "Reagents": {
+      "Bruiseweed": 1,
+      "Swiftthistle": 1,
+      "Empty Vial": 1
+    },
+    "Yellow": 130,
+    "Green": 150,
+    "Grey": 170,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Shadow Protection Potion": {
+    "ID": 7256,
+    "Creates": 6048,
+    "Learn": 135,
+    "Phase": 1,
+    "Reagents": {
+      "Grave Moss": 1,
+      "Kingsblood": 1,
+      "Leaded Vial": 1
+    },
+    "Yellow": 160,
+    "Green": 180,
+    "Grey": 200,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Fire Protection Potion": {
+    "ID": 7257,
+    "Creates": 6049,
+    "Learn": 165,
+    "Phase": 1,
+    "Reagents": {
+      "Small Flame Sac": 1,
+      "Fire Oil": 1,
+      "Leaded Vial": 1
+    },
+    "Yellow": 210,
+    "Green": 230,
+    "Grey": 250,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Frost Protection Potion": {
+    "ID": 7258,
+    "Creates": 6050,
+    "Learn": 190,
+    "Phase": 1,
+    "Reagents": {
+      "Wintersbite": 1,
+      "Goldthorn": 1,
+      "Leaded Vial": 1
+    },
+    "Yellow": 205,
+    "Green": 225,
+    "Grey": 245,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Nature Protection Potion": {
+    "ID": 7259,
+    "Creates": 6052,
+    "Learn": 190,
+    "Phase": 1,
+    "Reagents": {
+      "Liferoot": 1,
+      "Stranglekelp": 1,
+      "Leaded Vial": 1
+    },
+    "Yellow": 210,
+    "Green": 230,
+    "Grey": 250,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Blackmouth Oil": {
+    "ID": 7836,
+    "Creates": 6370,
+    "Learn": 80,
+    "Phase": 1,
+    "Reagents": {
+      "Oily Blackmouth": 2
+    },
+    "Yellow": 80,
+    "Green": 90,
+    "Grey": 100,
+    "Source": "Trainer"
+  },
+  "Fire Oil": {
+    "ID": 7837,
+    "Creates": 6371,
+    "Learn": 130,
+    "Phase": 1,
+    "Reagents": {
+      "Firefin Snapper": 2
+    },
+    "Yellow": 150,
+    "Green": 160,
+    "Grey": 170,
+    "Source": "Trainer"
+  },
+  "Swim Speed Potion": {
+    "ID": 7841,
+    "Creates": 6372,
+    "Learn": 100,
+    "Phase": 1,
+    "Reagents": {
+      "Swiftthistle": 1,
+      "Blackmouth Oil": 1,
+      "Empty Vial": 1
+    },
+    "Yellow": 130,
+    "Green": 150,
+    "Grey": 170,
+    "Source": "Trainer"
+  },
+  "Elixir of Firepower": {
+    "ID": 7845,
+    "Creates": 6373,
+    "Learn": 140,
+    "Phase": 1,
+    "Reagents": {
+      "Fire Oil": 2,
+      "Kingsblood": 1,
+      "Leaded Vial": 1
+    },
+    "Yellow": 165,
+    "Green": 185,
+    "Grey": 205,
+    "Source": "Trainer"
+  },
+  "Elixir of Giant Growth": {
+    "ID": 8240,
+    "Creates": 6662,
+    "Learn": 90,
+    "Phase": 1,
+    "Reagents": {
+      "Deviate Fish": 1,
+      "Earthroot": 1,
+      "Empty Vial": 1
+    },
+    "Yellow": 120,
+    "Green": 140,
+    "Grey": 160,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Greater Mana Potion": {
+    "ID": 11448,
+    "Creates": 6149,
+    "Learn": 205,
+    "Phase": 1,
+    "Reagents": {
+      "Khadgar's Whisker": 1,
+      "Goldthorn": 1,
+      "Leaded Vial": 1
+    },
+    "Yellow": 220,
+    "Green": 240,
+    "Grey": 260,
+    "Source": "Trainer"
+  },
+  "Elixir of Agility": {
+    "ID": 11449,
+    "Creates": 8949,
+    "Learn": 185,
+    "Phase": 1,
+    "Reagents": {
+      "Stranglekelp": 1,
+      "Goldthorn": 1,
+      "Leaded Vial": 1
+    },
+    "Yellow": 205,
+    "Green": 225,
+    "Grey": 245,
+    "Source": "Trainer"
+  },
+  "Elixir of Greater Defense": {
+    "ID": 11450,
+    "Creates": 8951,
+    "Learn": 195,
+    "Phase": 1,
+    "Reagents": {
+      "Wild Steelbloom": 1,
+      "Goldthorn": 1,
+      "Leaded Vial": 1
+    },
+    "Yellow": 215,
+    "Green": 235,
+    "Grey": 255,
+    "Source": "Trainer"
+  },
+  "Oil of Immolation": {
+    "ID": 11451,
+    "Creates": 8956,
+    "Learn": 205,
+    "Phase": 1,
+    "Reagents": {
+      "Firebloom": 1,
+      "Goldthorn": 1,
+      "Crystal Vial": 1
+    },
+    "Yellow": 220,
+    "Green": 240,
+    "Grey": 260,
+    "Source": "Trainer"
+  },
+  "Restorative Potion": {
+    "ID": 11452,
+    "Creates": 9030,
+    "Learn": 215,
+    "Phase": 1,
+    "Reagents": {
+      "Elemental Earth": 1,
+      "Goldthorn": 1,
+      "Crystal Vial": 1
+    },
+    "Yellow": 225,
+    "Green": 245,
+    "Grey": 265,
+    "Source": "Trainer"
+  },
+  "Magic Resistance Potion": {
+    "ID": 11453,
+    "Creates": 9036,
+    "Learn": 210,
+    "Phase": 1,
+    "Reagents": {
+      "Khadgar's Whisker": 1,
+      "Purple Lotus": 1,
+      "Crystal Vial": 1
+    },
+    "Yellow": 225,
+    "Green": 245,
+    "Grey": 265,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Goblin Rocket Fuel": {
+    "ID": 11456,
+    "Creates": 9061,
+    "Learn": 210,
+    "Phase": 1,
+    "Reagents": {
+      "Firebloom": 1,
+      "Volatile Rum": 1,
+      "Leaded Vial": 1
+    },
+    "Yellow": 225,
+    "Green": 245,
+    "Grey": 265,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Superior Healing Potion": {
+    "ID": 11457,
+    "Creates": 3928,
+    "Learn": 215,
+    "Phase": 1,
+    "Reagents": {
+      "Sungrass": 1,
+      "Khadgar's Whisker": 1,
+      "Crystal Vial": 1
+    },
+    "Yellow": 230,
+    "Green": 250,
+    "Grey": 270,
+    "Source": "Trainer"
+  },
+  "Wildvine Potion": {
+    "ID": 11458,
+    "Creates": 9144,
+    "Learn": 225,
+    "Phase": 1,
+    "Reagents": {
+      "Wildvine": 1,
+      "Purple Lotus": 1,
+      "Crystal Vial": 1
+    },
+    "Yellow": 240,
+    "Green": 260,
+    "Grey": 280,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Philosopher's Stone": {
+    "ID": 11459,
+    "Creates": 9149,
+    "Learn": 225,
+    "Phase": 1,
+    "Reagents": {
+      "Iron Bar": 4,
+      "Black Vitriol": 1,
+      "Purple Lotus": 4,
+      "Firebloom": 4
+    },
+    "Yellow": 240,
+    "Green": 260,
+    "Grey": 280,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Elixir of Detect Undead": {
+    "ID": 11460,
+    "Creates": 9154,
+    "Learn": 230,
+    "Phase": 1,
+    "Reagents": {
+      "Arthas' Tears": 1,
+      "Crystal Vial": 1
+    },
+    "Yellow": 245,
+    "Green": 265,
+    "Grey": 285,
+    "Source": "Trainer"
+  },
+  "Arcane Elixir": {
+    "ID": 11461,
+    "Creates": 9155,
+    "Learn": 235,
+    "Phase": 1,
+    "Reagents": {
+      "Blindweed": 1,
+      "Goldthorn": 1,
+      "Crystal Vial": 1
+    },
+    "Yellow": 250,
+    "Green": 270,
+    "Grey": 290,
+    "Source": "Trainer"
+  },
+  "Invisibility Potion": {
+    "ID": 11464,
+    "Creates": 9172,
+    "Learn": 235,
+    "Phase": 1,
+    "Reagents": {
+      "Ghost Mushroom": 1,
+      "Sungrass": 1,
+      "Crystal Vial": 1
+    },
+    "Yellow": 250,
+    "Green": 270,
+    "Grey": 290,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Elixir of Greater Intellect": {
+    "ID": 11465,
+    "Creates": 9179,
+    "Learn": 235,
+    "Phase": 1,
+    "Reagents": {
+      "Blindweed": 1,
+      "Khadgar's Whisker": 1,
+      "Crystal Vial": 1
+    },
+    "Yellow": 250,
+    "Green": 270,
+    "Grey": 290,
+    "Source": "Trainer"
+  },
+  "Gift of Arthas": {
+    "ID": 11466,
+    "Creates": 9088,
+    "Learn": 240,
+    "Phase": 1,
+    "Reagents": {
+      "Arthas' Tears": 1,
+      "Blindweed": 1,
+      "Crystal Vial": 1
+    },
+    "Yellow": 255,
+    "Green": 275,
+    "Grey": 295,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Elixir of Greater Agility": {
+    "ID": 11467,
+    "Creates": 9187,
+    "Learn": 240,
+    "Phase": 1,
+    "Reagents": {
+      "Sungrass": 1,
+      "Goldthorn": 1,
+      "Crystal Vial": 1
+    },
+    "Yellow": 255,
+    "Green": 275,
+    "Grey": 295,
+    "Source": "Trainer"
+  },
+  "Elixir of Dream Vision": {
+    "ID": 11468,
+    "Creates": 9197,
+    "Learn": 240,
+    "Phase": 1,
+    "Reagents": {
+      "Purple Lotus": 3,
+      "Crystal Vial": 1
+    },
+    "Yellow": 255,
+    "Green": 275,
+    "Grey": 295,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Elixir of Giants": {
+    "ID": 11472,
+    "Creates": 9206,
+    "Learn": 245,
+    "Phase": 1,
+    "Reagents": {
+      "Sungrass": 1,
+      "Gromsblood": 1,
+      "Crystal Vial": 1
+    },
+    "Yellow": 260,
+    "Green": 280,
+    "Grey": 300,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Ghost Dye": {
+    "ID": 11473,
+    "Creates": 9210,
+    "Learn": 245,
+    "Phase": 1,
+    "Reagents": {
+      "Ghost Mushroom": 2,
+      "Purple Dye": 1,
+      "Crystal Vial": 1
+    },
+    "Yellow": 260,
+    "Green": 280,
+    "Grey": 300,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Elixir of Shadow Power": {
+    "ID": 11476,
+    "Creates": 9264,
+    "Learn": 250,
+    "Phase": 1,
+    "Reagents": {
+      "Ghost Mushroom": 3,
+      "Crystal Vial": 1
+    },
+    "Yellow": 265,
+    "Green": 285,
+    "Grey": 305,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Elixir of Demonslaying": {
+    "ID": 11477,
+    "Creates": 9224,
+    "Learn": 250,
+    "Phase": 1,
+    "Reagents": {
+      "Gromsblood": 1,
+      "Ghost Mushroom": 1,
+      "Crystal Vial": 1
+    },
+    "Yellow": 265,
+    "Green": 285,
+    "Grey": 305,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Elixir of Detect Demon": {
+    "ID": 11478,
+    "Creates": 9233,
+    "Learn": 250,
+    "Phase": 1,
+    "Reagents": {
+      "Gromsblood": 2,
+      "Crystal Vial": 1
+    },
+    "Yellow": 265,
+    "Green": 285,
+    "Grey": 305,
+    "Source": "Trainer"
+  },
+  "Transmute: Iron to Gold": {
+    "ID": 11479,
+    "Creates": 3577,
+    "Learn": 225,
+    "Phase": 1,
+    "Reagents": {
+      "Iron Bar": 1
+    },
+    "Yellow": 240,
+    "Green": 260,
+    "Grey": 280,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Transmute: Mithril to Truesilver": {
+    "ID": 11480,
+    "Creates": 6037,
+    "Learn": 225,
+    "Phase": 1,
+    "Reagents": {
+      "Mithril Bar": 1
+    },
+    "Yellow": 240,
+    "Green": 260,
+    "Grey": 280,
+    "Source": "Trainer"
+  },
+  "Catseye Elixir": {
+    "ID": 12609,
+    "Creates": 10592,
+    "Learn": 200,
+    "Phase": 1,
+    "Reagents": {
+      "Goldthorn": 1,
+      "Fadeleaf": 1,
+      "Leaded Vial": 1
+    },
+    "Yellow": 220,
+    "Green": 240,
+    "Grey": 260,
+    "Source": "Trainer"
+  },
+  "Dreamless Sleep Potion": {
+    "ID": 15833,
+    "Creates": 12190,
+    "Learn": 230,
+    "Phase": 1,
+    "Reagents": {
+      "Purple Lotus": 3,
+      "Crystal Vial": 1
+    },
+    "Yellow": 245,
+    "Green": 265,
+    "Grey": 285,
+    "Source": "Trainer"
+  },
+  "Transmute: Arcanite": {
+    "ID": 17187,
+    "Creates": 12360,
+    "Learn": 275,
+    "Phase": 1,
+    "Reagents": {
+      "Thorium Bar": 1,
+      "Arcane Crystal": 1
+    },
+    "Yellow": 275,
+    "Green": 282,
+    "Grey": 290,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Stonescale Oil": {
+    "ID": 17551,
+    "Creates": 13423,
+    "Learn": 250,
+    "Phase": 1,
+    "Reagents": {
+      "Stonescale Eel": 1
+    },
+    "Yellow": 250,
+    "Green": 255,
+    "Grey": 260,
+    "Source": "Trainer"
+  },
+  "Mighty Rage Potion": {
+    "ID": 17552,
+    "Creates": 13442,
+    "Learn": 255,
+    "Phase": 1,
+    "Reagents": {
+      "Gromsblood": 3,
+      "Crystal Vial": 1
+    },
+    "Yellow": 270,
+    "Green": 290,
+    "Grey": 310,
+    "Source": "Trainer"
+  },
+  "Superior Mana Potion": {
+    "ID": 17553,
+    "Creates": 13443,
+    "Learn": 260,
+    "Phase": 1,
+    "Reagents": {
+      "Sungrass": 2,
+      "Blindweed": 2,
+      "Crystal Vial": 1
+    },
+    "Yellow": 275,
+    "Green": 295,
+    "Grey": 315,
+    "Source": "Trainer"
+  },
+  "Elixir of Superior Defense": {
+    "ID": 17554,
+    "Creates": 13445,
+    "Learn": 265,
+    "Phase": 1,
+    "Reagents": {
+      "Stonescale Oil": 2,
+      "Sungrass": 1,
+      "Crystal Vial": 1
+    },
+    "Yellow": 280,
+    "Green": 300,
+    "Grey": 320,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Elixir of the Sages": {
+    "ID": 17555,
+    "Creates": 13447,
+    "Learn": 270,
+    "Phase": 1,
+    "Reagents": {
+      "Dreamfoil": 1,
+      "Plaguebloom": 2,
+      "Crystal Vial": 1
+    },
+    "Yellow": 285,
+    "Green": 305,
+    "Grey": 325,
+    "Source": "Trainer"
+  },
+  "Major Healing Potion": {
+    "ID": 17556,
+    "Creates": 13446,
+    "Learn": 275,
+    "Phase": 1,
+    "Reagents": {
+      "Golden Sansam": 2,
+      "Mountain Silversage": 1,
+      "Crystal Vial": 1
+    },
+    "Yellow": 290,
+    "Green": 310,
+    "Grey": 330,
+    "Source": "Trainer"
+  },
+  "Elixir of Brute Force": {
+    "ID": 17557,
+    "Creates": 13453,
+    "Learn": 275,
+    "Phase": 1,
+    "Reagents": {
+      "Gromsblood": 2,
+      "Plaguebloom": 2,
+      "Crystal Vial": 1
+    },
+    "Yellow": 290,
+    "Green": 310,
+    "Grey": 330,
+    "Source": "Trainer"
+  },
+  "Transmute: Air to Fire": {
+    "ID": 17559,
+    "Creates": 7078,
+    "Learn": 275,
+    "Phase": 1,
+    "Reagents": {
+      "Essence of Air": 1
+    },
+    "Yellow": 275,
+    "Green": 282,
+    "Grey": 290,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Transmute: Fire to Earth": {
+    "ID": 17560,
+    "Creates": 7076,
+    "Learn": 275,
+    "Phase": 1,
+    "Reagents": {
+      "Essence of Fire": 1
+    },
+    "Yellow": 275,
+    "Green": 282,
+    "Grey": 290,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Transmute: Earth to Water": {
+    "ID": 17561,
+    "Creates": 7080,
+    "Learn": 275,
+    "Phase": 1,
+    "Reagents": {
+      "Essence of Earth": 1
+    },
+    "Yellow": 275,
+    "Green": 282,
+    "Grey": 290,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Transmute: Water to Air": {
+    "ID": 17562,
+    "Creates": 7082,
+    "Learn": 275,
+    "Phase": 1,
+    "Reagents": {
+      "Essence of Water": 1
+    },
+    "Yellow": 275,
+    "Green": 282,
+    "Grey": 290,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Transmute: Undeath to Water": {
+    "ID": 17563,
+    "Creates": 7080,
+    "Learn": 275,
+    "Phase": 1,
+    "Reagents": {
+      "Essence of Undeath": 1
+    },
+    "Yellow": 275,
+    "Green": 282,
+    "Grey": 290,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Transmute: Water to Undeath": {
+    "ID": 17564,
+    "Creates": 12808,
+    "Learn": 275,
+    "Phase": 1,
+    "Reagents": {
+      "Essence of Water": 1
+    },
+    "Yellow": 275,
+    "Green": 282,
+    "Grey": 290,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Transmute: Life to Earth": {
+    "ID": 17565,
+    "Creates": 7076,
+    "Learn": 275,
+    "Phase": 1,
+    "Reagents": {
+      "Living Essence": 1
+    },
+    "Yellow": 275,
+    "Green": 282,
+    "Grey": 290,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Transmute: Earth to Life": {
+    "ID": 17566,
+    "Creates": 12803,
+    "Learn": 275,
+    "Phase": 1,
+    "Reagents": {
+      "Essence of Earth": 1
+    },
+    "Yellow": 275,
+    "Green": 282,
+    "Grey": 290,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Greater Stoneshield Potion": {
+    "ID": 17570,
+    "Creates": 13455,
+    "Learn": 280,
+    "Phase": 1,
+    "Reagents": {
+      "Stonescale Oil": 2,
+      "Thorium Ore": 1,
+      "Crystal Vial": 1
+    },
+    "Yellow": 295,
+    "Green": 315,
+    "Grey": 335,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Elixir of the Mongoose": {
+    "ID": 17571,
+    "Creates": 13452,
+    "Learn": 280,
+    "Phase": 1,
+    "Reagents": {
+      "Mountain Silversage": 2,
+      "Plaguebloom": 2,
+      "Crystal Vial": 1
+    },
+    "Yellow": 295,
+    "Green": 315,
+    "Grey": 335,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Purification Potion": {
+    "ID": 17572,
+    "Creates": 13462,
+    "Learn": 285,
+    "Phase": 1,
+    "Reagents": {
+      "Icecap": 2,
+      "Plaguebloom": 2,
+      "Crystal Vial": 1
+    },
+    "Yellow": 300,
+    "Green": 320,
+    "Grey": 340,
+    "Source": "Trainer"
+  },
+  "Greater Arcane Elixir": {
+    "ID": 17573,
+    "Creates": 13454,
+    "Learn": 285,
+    "Phase": 1,
+    "Reagents": {
+      "Dreamfoil": 3,
+      "Mountain Silversage": 1,
+      "Crystal Vial": 1
+    },
+    "Yellow": 300,
+    "Green": 320,
+    "Grey": 340,
+    "Source": "Trainer"
+  },
+  "Greater Fire Protection Potion": {
+    "ID": 17574,
+    "Creates": 13457,
+    "Learn": 290,
+    "Phase": 1,
+    "Reagents": {
+      "Elemental Fire": 1,
+      "Dreamfoil": 1,
+      "Crystal Vial": 1
+    },
+    "Yellow": 305,
+    "Green": 325,
+    "Grey": 345,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Greater Frost Protection Potion": {
+    "ID": 17575,
+    "Creates": 13456,
+    "Learn": 290,
+    "Phase": 1,
+    "Reagents": {
+      "Elemental Water": 1,
+      "Dreamfoil": 1,
+      "Crystal Vial": 1
+    },
+    "Yellow": 305,
+    "Green": 325,
+    "Grey": 345,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Greater Nature Protection Potion": {
+    "ID": 17576,
+    "Creates": 13458,
+    "Learn": 290,
+    "Phase": 1,
+    "Reagents": {
+      "Elemental Earth": 1,
+      "Dreamfoil": 1,
+      "Crystal Vial": 1
+    },
+    "Yellow": 305,
+    "Green": 325,
+    "Grey": 345,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Greater Arcane Protection Potion": {
+    "ID": 17577,
+    "Creates": 13461,
+    "Learn": 290,
+    "Phase": 1,
+    "Reagents": {
+      "Dream Dust": 1,
+      "Dreamfoil": 1,
+      "Crystal Vial": 1
+    },
+    "Yellow": 305,
+    "Green": 325,
+    "Grey": 345,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Greater Shadow Protection Potion": {
+    "ID": 17578,
+    "Creates": 13459,
+    "Learn": 290,
+    "Phase": 1,
+    "Reagents": {
+      "Shadow Oil": 1,
+      "Dreamfoil": 1,
+      "Crystal Vial": 1
+    },
+    "Yellow": 305,
+    "Green": 325,
+    "Grey": 345,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Major Mana Potion": {
+    "ID": 17580,
+    "Creates": 13444,
+    "Learn": 295,
+    "Phase": 1,
+    "Reagents": {
+      "Dreamfoil": 3,
+      "Icecap": 2,
+      "Crystal Vial": 1
+    },
+    "Yellow": 310,
+    "Green": 330,
+    "Grey": 350,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Alchemist's Stone": {
+    "ID": 17632,
+    "Creates": 13503,
+    "Learn": 300,
+    "Phase": 1,
+    "Reagents": {
+      "Philosopher's Stone": 1,
+      "Earthstorm Diamond": 1,
+      "Skyfire Diamond": 1,
+      "Fel Lotus": 2,
+      "Primal Might": 5
+    },
+    "Yellow": 365,
+    "Green": 372,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Potion of Petrification": {
+    "ID": 17634,
+    "Creates": 13506,
+    "Learn": 300,
+    "Phase": 1,
+    "Reagents": {
+      "Stonescale Oil": 7,
+      "Crystal Vial": 1
+    },
+    "Yellow": 315,
+    "Green": 322,
+    "Grey": 330,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Flask of the Titans": {
+    "ID": 17635,
+    "Creates": 13510,
+    "Learn": 300,
+    "Phase": 1,
+    "Reagents": {
+      "Gromsblood": 7,
+      "Stonescale Oil": 3,
+      "Black Lotus": 1,
+      "Crystal Vial": 1
+    },
+    "Yellow": 315,
+    "Green": 322,
+    "Grey": 330,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Flask of Distilled Wisdom": {
+    "ID": 17636,
+    "Creates": 13511,
+    "Learn": 300,
+    "Phase": 1,
+    "Reagents": {
+      "Dreamfoil": 7,
+      "Icecap": 3,
+      "Black Lotus": 1,
+      "Crystal Vial": 1
+    },
+    "Yellow": 315,
+    "Green": 322,
+    "Grey": 330,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Flask of Supreme Power": {
+    "ID": 17637,
+    "Creates": 13512,
+    "Learn": 300,
+    "Phase": 1,
+    "Reagents": {
+      "Dreamfoil": 7,
+      "Mountain Silversage": 3,
+      "Black Lotus": 1,
+      "Crystal Vial": 1
+    },
+    "Yellow": 315,
+    "Green": 322,
+    "Grey": 330,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Flask of Chromatic Resistance": {
+    "ID": 17638,
+    "Creates": 13513,
+    "Learn": 300,
+    "Phase": 1,
+    "Reagents": {
+      "Icecap": 7,
+      "Mountain Silversage": 3,
+      "Black Lotus": 1,
+      "Crystal Vial": 1
+    },
+    "Yellow": 315,
+    "Green": 322,
+    "Grey": 330,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Elixir of Frost Power": {
+    "ID": 21923,
+    "Creates": 17708,
+    "Learn": 190,
+    "Phase": 1,
+    "Reagents": {
+      "Wintersbite": 2,
+      "Khadgar's Whisker": 1,
+      "Leaded Vial": 1
+    },
+    "Yellow": 210,
+    "Green": 230,
+    "Grey": 250,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Major Rejuvenation Potion": {
+    "ID": 22732,
+    "Creates": 18253,
+    "Learn": 300,
+    "Phase": 1,
+    "Reagents": {
+      "Heart of the Wild": 1,
+      "Golden Sansam": 4,
+      "Dreamfoil": 4,
+      "Imbued Vial": 1
+    },
+    "Yellow": 310,
+    "Green": 320,
+    "Grey": 330,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Elixir of Greater Water Breathing": {
+    "ID": 22808,
+    "Creates": 18294,
+    "Learn": 215,
+    "Phase": 1,
+    "Reagents": {
+      "Ichor of Undeath": 1,
+      "Purple Lotus": 2,
+      "Crystal Vial": 1
+    },
+    "Yellow": 230,
+    "Green": 250,
+    "Grey": 270,
+    "Source": "Trainer"
+  },
+  "Gurubashi Mojo Madness": {
+    "ID": 24266,
+    "Creates": 19931,
+    "Learn": 315,
+    "Phase": 1,
+    "Reagents": {
+      "Blood of Heroes": 1,
+      "Massive Mojo": 1,
+      "Powerful Mojo": 6,
+      "Black Lotus": 1
+    },
+    "Yellow": 315,
+    "Green": 322,
+    "Grey": 330,
+    "Source": "Trainer"
+  },
+  "Mageblood Elixir": {
+    "ID": 24365,
+    "Creates": 20007,
+    "Learn": 275,
+    "Phase": 1,
+    "Reagents": {
+      "Dreamfoil": 1,
+      "Plaguebloom": 2,
+      "Crystal Vial": 1
+    },
+    "Yellow": 290,
+    "Green": 310,
+    "Grey": 330,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Greater Dreamless Sleep Potion": {
+    "ID": 24366,
+    "Creates": 20002,
+    "Learn": 275,
+    "Phase": 1,
+    "Reagents": {
+      "Dreamfoil": 2,
+      "Golden Sansam": 1,
+      "Crystal Vial": 1
+    },
+    "Yellow": 290,
+    "Green": 310,
+    "Grey": 330,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Living Action Potion": {
+    "ID": 24367,
+    "Creates": 20008,
+    "Learn": 285,
+    "Phase": 1,
+    "Reagents": {
+      "Icecap": 2,
+      "Mountain Silversage": 2,
+      "Heart of the Wild": 2,
+      "Crystal Vial": 1
+    },
+    "Yellow": 300,
+    "Green": 320,
+    "Grey": 340,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Mighty Troll's Blood Elixir": {
+    "ID": 24368,
+    "Creates": 20004,
+    "Learn": 290,
+    "Phase": 1,
+    "Reagents": {
+      "Gromsblood": 1,
+      "Plaguebloom": 2,
+      "Crystal Vial": 1
+    },
+    "Yellow": 305,
+    "Green": 325,
+    "Grey": 345,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Transmute: Elemental Fire": {
+    "ID": 25146,
+    "Creates": 7068,
+    "Learn": 300,
+    "Phase": 1,
+    "Reagents": {
+      "Heart of Fire": 1
+    },
+    "Yellow": 301,
+    "Green": 305,
+    "Grey": 310,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Elixir of Greater Firepower": {
+    "ID": 26277,
+    "Creates": 21546,
+    "Learn": 250,
+    "Phase": 1,
+    "Reagents": {
+      "Fire Oil": 3,
+      "Firebloom": 3,
+      "Crystal Vial": 1
+    },
+    "Yellow": 265,
+    "Green": 285,
+    "Grey": 305,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Elixir of Camouflage": {
+    "ID": 28543,
+    "Creates": 22823,
+    "Learn": 305,
+    "Phase": 1,
+    "Reagents": {
+      "Ragveil": 1,
+      "Felweed": 1,
+      "Imbued Vial": 1
+    },
+    "Yellow": 320,
+    "Green": 327,
+    "Grey": 335,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Elixir of Major Strength": {
+    "ID": 28544,
+    "Creates": 22824,
+    "Learn": 305,
+    "Phase": 1,
+    "Reagents": {
+      "Mountain Silversage": 1,
+      "Felweed": 1,
+      "Imbued Vial": 1
+    },
+    "Yellow": 320,
+    "Green": 327,
+    "Grey": 335,
+    "Source": "Trainer"
+  },
+  "Elixir of Healing Power": {
+    "ID": 28545,
+    "Creates": 22825,
+    "Learn": 310,
+    "Phase": 1,
+    "Reagents": {
+      "Golden Sansam": 1,
+      "Dreaming Glory": 1,
+      "Imbued Vial": 1
+    },
+    "Yellow": 325,
+    "Green": 332,
+    "Grey": 340,
+    "Source": "Trainer"
+  },
+  "Sneaking Potion": {
+    "ID": 28546,
+    "Creates": 22826,
+    "Learn": 315,
+    "Phase": 1,
+    "Reagents": {
+      "Ragveil": 2,
+      "Felweed": 1,
+      "Imbued Vial": 1
+    },
+    "Yellow": 330,
+    "Green": 337,
+    "Grey": 345,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Elixir of Major Frost Power": {
+    "ID": 28549,
+    "Creates": 22827,
+    "Learn": 320,
+    "Phase": 1,
+    "Reagents": {
+      "Mote of Water": 2,
+      "Ancient Lichen": 1,
+      "Imbued Vial": 1
+    },
+    "Yellow": 335,
+    "Green": 342,
+    "Grey": 350,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Insane Strength Potion": {
+    "ID": 28550,
+    "Creates": 22828,
+    "Learn": 320,
+    "Phase": 1,
+    "Reagents": {
+      "Terocone": 3,
+      "Imbued Vial": 1
+    },
+    "Yellow": 335,
+    "Green": 342,
+    "Grey": 350,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Super Healing Potion": {
+    "ID": 28551,
+    "Creates": 22829,
+    "Learn": 325,
+    "Phase": 1,
+    "Reagents": {
+      "Netherbloom": 2,
+      "Felweed": 1,
+      "Imbued Vial": 1
+    },
+    "Yellow": 340,
+    "Green": 347,
+    "Grey": 355,
+    "Source": "Trainer"
+  },
+  "Elixir of the Searching Eye": {
+    "ID": 28552,
+    "Creates": 22830,
+    "Learn": 325,
+    "Phase": 1,
+    "Reagents": {
+      "Ragveil": 2,
+      "Terocone": 1,
+      "Imbued Vial": 1
+    },
+    "Yellow": 340,
+    "Green": 347,
+    "Grey": 355,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Elixir of Major Agility": {
+    "ID": 28553,
+    "Creates": 22831,
+    "Learn": 330,
+    "Phase": 1,
+    "Reagents": {
+      "Terocone": 1,
+      "Felweed": 2,
+      "Imbued Vial": 1
+    },
+    "Yellow": 345,
+    "Green": 352,
+    "Grey": 360,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Shrouding Potion": {
+    "ID": 28554,
+    "Creates": 22871,
+    "Learn": 335,
+    "Phase": 1,
+    "Reagents": {
+      "Ragveil": 3,
+      "Netherbloom": 1,
+      "Imbued Vial": 1
+    },
+    "Yellow": 350,
+    "Green": 357,
+    "Grey": 365,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Super Mana Potion": {
+    "ID": 28555,
+    "Creates": 22832,
+    "Learn": 340,
+    "Phase": 1,
+    "Reagents": {
+      "Dreaming Glory": 2,
+      "Felweed": 1,
+      "Imbued Vial": 1
+    },
+    "Yellow": 355,
+    "Green": 362,
+    "Grey": 370,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Elixir of Major Firepower": {
+    "ID": 28556,
+    "Creates": 22833,
+    "Learn": 345,
+    "Phase": 1,
+    "Reagents": {
+      "Mote of Fire": 2,
+      "Ancient Lichen": 1,
+      "Imbued Vial": 1
+    },
+    "Yellow": 360,
+    "Green": 367,
+    "Grey": 375,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Elixir of Major Defense": {
+    "ID": 28557,
+    "Creates": 22834,
+    "Learn": 345,
+    "Phase": 1,
+    "Reagents": {
+      "Ancient Lichen": 3,
+      "Terocone": 1,
+      "Imbued Vial": 1
+    },
+    "Yellow": 360,
+    "Green": 367,
+    "Grey": 375,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Elixir of Major Shadow Power": {
+    "ID": 28558,
+    "Creates": 22835,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Ancient Lichen": 1,
+      "Nightmare Vine": 1,
+      "Imbued Vial": 1
+    },
+    "Yellow": 365,
+    "Green": 372,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Major Dreamless Sleep Potion": {
+    "ID": 28562,
+    "Creates": 22836,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Dreaming Glory": 1,
+      "Nightmare Vine": 1,
+      "Imbued Vial": 1
+    },
+    "Yellow": 365,
+    "Green": 372,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Heroic Potion": {
+    "ID": 28563,
+    "Creates": 22837,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Terocone": 2,
+      "Ancient Lichen": 1,
+      "Imbued Vial": 1
+    },
+    "Yellow": 365,
+    "Green": 372,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Haste Potion": {
+    "ID": 28564,
+    "Creates": 22838,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Terocone": 2,
+      "Netherbloom": 1,
+      "Imbued Vial": 1
+    },
+    "Yellow": 365,
+    "Green": 372,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Destruction Potion": {
+    "ID": 28565,
+    "Creates": 22839,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Nightmare Vine": 2,
+      "Netherbloom": 1,
+      "Imbued Vial": 1
+    },
+    "Yellow": 365,
+    "Green": 372,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Transmute: Primal Air to Fire": {
+    "ID": 28566,
+    "Creates": 21884,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Primal Air": 1
+    },
+    "Yellow": 365,
+    "Green": 372,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Transmute: Primal Earth to Water": {
+    "ID": 28567,
+    "Creates": 21885,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Primal Earth": 1
+    },
+    "Yellow": 365,
+    "Green": 372,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Transmute: Primal Fire to Earth": {
+    "ID": 28568,
+    "Creates": 22452,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Primal Fire": 1
+    },
+    "Yellow": 365,
+    "Green": 372,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Transmute: Primal Water to Air": {
+    "ID": 28569,
+    "Creates": 22451,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Primal Water": 1
+    },
+    "Yellow": 365,
+    "Green": 372,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Elixir of Major Mageblood": {
+    "ID": 28570,
+    "Creates": 22840,
+    "Learn": 355,
+    "Phase": 1,
+    "Reagents": {
+      "Ancient Lichen": 1,
+      "Netherbloom": 1,
+      "Imbued Vial": 1
+    },
+    "Yellow": 370,
+    "Green": 375,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Major Fire Protection Potion": {
+    "ID": 28571,
+    "Creates": 22841,
+    "Learn": 360,
+    "Phase": 1,
+    "Reagents": {
+      "Primal Fire": 1,
+      "Mana Thistle": 3,
+      "Imbued Vial": 5
+    },
+    "Yellow": 375,
+    "Green": 377,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Major Frost Protection Potion": {
+    "ID": 28572,
+    "Creates": 22842,
+    "Learn": 360,
+    "Phase": 1,
+    "Reagents": {
+      "Primal Water": 1,
+      "Mana Thistle": 3,
+      "Imbued Vial": 5
+    },
+    "Yellow": 375,
+    "Green": 377,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Major Nature Protection Potion": {
+    "ID": 28573,
+    "Creates": 22844,
+    "Learn": 360,
+    "Phase": 1,
+    "Reagents": {
+      "Primal Life": 1,
+      "Mana Thistle": 3,
+      "Imbued Vial": 5
+    },
+    "Yellow": 375,
+    "Green": 377,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Major Arcane Protection Potion": {
+    "ID": 28575,
+    "Creates": 22845,
+    "Learn": 360,
+    "Phase": 1,
+    "Reagents": {
+      "Primal Mana": 1,
+      "Mana Thistle": 3,
+      "Imbued Vial": 5
+    },
+    "Yellow": 375,
+    "Green": 377,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Major Shadow Protection Potion": {
+    "ID": 28576,
+    "Creates": 22846,
+    "Learn": 360,
+    "Phase": 1,
+    "Reagents": {
+      "Primal Shadow": 1,
+      "Mana Thistle": 3,
+      "Imbued Vial": 5
+    },
+    "Yellow": 375,
+    "Green": 377,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Major Holy Protection Potion": {
+    "ID": 28577,
+    "Creates": 22847,
+    "Learn": 360,
+    "Phase": 1,
+    "Reagents": {
+      "Primal Life": 1,
+      "Mana Thistle": 3,
+      "Imbued Vial": 5
+    },
+    "Yellow": 375,
+    "Green": 377,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Elixir of Empowerment": {
+    "ID": 28578,
+    "Creates": 22848,
+    "Learn": 365,
+    "Phase": 1,
+    "Reagents": {
+      "Netherbloom": 1,
+      "Mana Thistle": 1,
+      "Imbued Vial": 1
+    },
+    "Yellow": 375,
+    "Green": 377,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Ironshield Potion": {
+    "ID": 28579,
+    "Creates": 22849,
+    "Learn": 365,
+    "Phase": 1,
+    "Reagents": {
+      "Ancient Lichen": 2,
+      "Mote of Earth": 3,
+      "Imbued Vial": 1
+    },
+    "Yellow": 375,
+    "Green": 377,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Transmute: Primal Shadow to Water": {
+    "ID": 28580,
+    "Creates": 21885,
+    "Learn": 375,
+    "Phase": 1,
+    "Reagents": {
+      "Primal Shadow": 1
+    },
+    "Yellow": 375,
+    "Green": 377,
+    "Grey": 380,
+    "Source": "Trainer"
+  },
+  "Transmute: Primal Water to Shadow": {
+    "ID": 28581,
+    "Creates": 22456,
+    "Learn": 375,
+    "Phase": 1,
+    "Reagents": {
+      "Primal Water": 1
+    },
+    "Yellow": 375,
+    "Green": 377,
+    "Grey": 380,
+    "Source": "Trainer"
+  },
+  "Transmute: Primal Mana to Fire": {
+    "ID": 28582,
+    "Creates": 21884,
+    "Learn": 375,
+    "Phase": 1,
+    "Reagents": {
+      "Primal Mana": 1
+    },
+    "Yellow": 375,
+    "Green": 377,
+    "Grey": 380,
+    "Source": "Trainer"
+  },
+  "Transmute: Primal Fire to Mana": {
+    "ID": 28583,
+    "Creates": 22457,
+    "Learn": 375,
+    "Phase": 1,
+    "Reagents": {
+      "Primal Fire": 1
+    },
+    "Yellow": 375,
+    "Green": 377,
+    "Grey": 380,
+    "Source": "Trainer"
+  },
+  "Transmute: Primal Life to Earth": {
+    "ID": 28584,
+    "Creates": 22452,
+    "Learn": 375,
+    "Phase": 1,
+    "Reagents": {
+      "Primal Life": 1
+    },
+    "Yellow": 375,
+    "Green": 377,
+    "Grey": 380,
+    "Source": "Trainer"
+  },
+  "Transmute: Primal Earth to Life": {
+    "ID": 28585,
+    "Creates": 21886,
+    "Learn": 375,
+    "Phase": 1,
+    "Reagents": {
+      "Primal Earth": 1
+    },
+    "Yellow": 375,
+    "Green": 377,
+    "Grey": 380,
+    "Source": "Trainer"
+  },
+  "Super Rejuvenation Potion": {
+    "ID": 28586,
+    "Creates": 22850,
+    "Learn": 375,
+    "Phase": 1,
+    "Reagents": {
+      "Mana Thistle": 2,
+      "Dreaming Glory": 1,
+      "Netherbloom": 1,
+      "Imbued Vial": 1
+    },
+    "Yellow": 375,
+    "Green": 377,
+    "Grey": 380,
+    "Source": "Trainer"
+  },
+  "Flask of Fortification": {
+    "ID": 28587,
+    "Creates": 22851,
+    "Learn": 375,
+    "Phase": 1,
+    "Reagents": {
+      "Fel Lotus": 1,
+      "Mana Thistle": 3,
+      "Ancient Lichen": 7,
+      "Imbued Vial": 1
+    },
+    "Yellow": 375,
+    "Green": 377,
+    "Grey": 380,
+    "Source": "Trainer"
+  },
+  "Flask of Mighty Restoration": {
+    "ID": 28588,
+    "Creates": 22853,
+    "Learn": 375,
+    "Phase": 1,
+    "Reagents": {
+      "Fel Lotus": 1,
+      "Mana Thistle": 3,
+      "Dreaming Glory": 7,
+      "Imbued Vial": 1
+    },
+    "Yellow": 375,
+    "Green": 377,
+    "Grey": 380,
+    "Source": "Trainer"
+  },
+  "Flask of Relentless Assault": {
+    "ID": 28589,
+    "Creates": 22854,
+    "Learn": 375,
+    "Phase": 1,
+    "Reagents": {
+      "Fel Lotus": 1,
+      "Mana Thistle": 3,
+      "Terocone": 7,
+      "Imbued Vial": 1
+    },
+    "Yellow": 375,
+    "Green": 377,
+    "Grey": 380,
+    "Source": "Trainer"
+  },
+  "Flask of Blinding Light": {
+    "ID": 28590,
+    "Creates": 22861,
+    "Learn": 375,
+    "Phase": 1,
+    "Reagents": {
+      "Fel Lotus": 1,
+      "Mana Thistle": 3,
+      "Netherbloom": 7,
+      "Imbued Vial": 1
+    },
+    "Yellow": 375,
+    "Green": 377,
+    "Grey": 380,
+    "Source": "Trainer"
+  },
+  "Flask of Pure Death": {
+    "ID": 28591,
+    "Creates": 22866,
+    "Learn": 375,
+    "Phase": 1,
+    "Reagents": {
+      "Fel Lotus": 1,
+      "Mana Thistle": 3,
+      "Nightmare Vine": 7,
+      "Imbued Vial": 1
+    },
+    "Yellow": 375,
+    "Green": 377,
+    "Grey": 380,
+    "Source": "Trainer"
+  },
+  "Transmute: Primal Might": {
+    "ID": 29688,
+    "Creates": 23571,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Primal Earth": 1,
+      "Primal Water": 1,
+      "Primal Air": 1,
+      "Primal Fire": 1,
+      "Primal Mana": 1
+    },
+    "Yellow": 365,
+    "Green": 372,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Transmute: Earthstorm Diamond": {
+    "ID": 32765,
+    "Creates": 25867,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Deep Peridot": 3,
+      "Shadow Draenite": 3,
+      "Golden Draenite": 3,
+      "Primal Earth": 2,
+      "Primal Water": 2
+    },
+    "Yellow": 365,
+    "Green": 372,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Transmute: Skyfire Diamond": {
+    "ID": 32766,
+    "Creates": 25868,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Blood Garnet": 3,
+      "Flame Spessarite": 3,
+      "Azure Moonstone": 3,
+      "Primal Fire": 2,
+      "Primal Air": 2
+    },
+    "Yellow": 365,
+    "Green": 372,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Volatile Healing Potion": {
+    "ID": 33732,
+    "Creates": 28100,
+    "Learn": 300,
+    "Phase": 1,
+    "Reagents": {
+      "Golden Sansam": 1,
+      "Felweed": 1,
+      "Imbued Vial": 1
+    },
+    "Yellow": 315,
+    "Green": 322,
+    "Grey": 330,
+    "Source": "Trainer"
+  },
+  "Unstable Mana Potion": {
+    "ID": 33733,
+    "Creates": 28101,
+    "Learn": 310,
+    "Phase": 1,
+    "Reagents": {
+      "Ragveil": 2,
+      "Felweed": 1,
+      "Imbued Vial": 1
+    },
+    "Yellow": 325,
+    "Green": 332,
+    "Grey": 340,
+    "Source": "Trainer"
+  },
+  "Onslaught Elixir": {
+    "ID": 33738,
+    "Creates": 28102,
+    "Learn": 300,
+    "Phase": 1,
+    "Reagents": {
+      "Mountain Silversage": 1,
+      "Felweed": 1,
+      "Imbued Vial": 1
+    },
+    "Yellow": 315,
+    "Green": 322,
+    "Grey": 330,
+    "Source": "Trainer"
+  },
+  "Adept's Elixir": {
+    "ID": 33740,
+    "Creates": 28103,
+    "Learn": 300,
+    "Phase": 1,
+    "Reagents": {
+      "Dreamfoil": 1,
+      "Felweed": 1,
+      "Imbued Vial": 1
+    },
+    "Yellow": 315,
+    "Green": 322,
+    "Grey": 330,
+    "Source": "Trainer"
+  },
+  "Elixir of Mastery": {
+    "ID": 33741,
+    "Creates": 28104,
+    "Learn": 315,
+    "Phase": 1,
+    "Reagents": {
+      "Terocone": 1,
+      "Felweed": 1,
+      "Imbued Vial": 1
+    },
+    "Yellow": 330,
+    "Green": 337,
+    "Grey": 345,
+    "Source": "Trainer"
+  },
+  "Mercurial Stone": {
+    "ID": 38070,
+    "Creates": 31080,
+    "Learn": 325,
+    "Phase": 1,
+    "Reagents": {
+      "Primal Earth": 1,
+      "Primal Life": 1,
+      "Primal Mana": 1
+    },
+    "Yellow": 340,
+    "Green": 347,
+    "Grey": 355,
+    "Source": "Trainer"
+  },
+  "Fel Strength Elixir": {
+    "ID": 38960,
+    "Creates": 31679,
+    "Learn": 335,
+    "Phase": 1,
+    "Reagents": {
+      "Terocone": 1,
+      "Nightmare Vine": 2,
+      "Imbued Vial": 1
+    },
+    "Yellow": 350,
+    "Green": 357,
+    "Grey": 365,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Fel Mana Potion": {
+    "ID": 38961,
+    "Creates": 31677,
+    "Learn": 360,
+    "Phase": 1,
+    "Reagents": {
+      "Mana Thistle": 1,
+      "Nightmare Vine": 2,
+      "Imbued Vial": 1
+    },
+    "Yellow": 375,
+    "Green": 377,
+    "Grey": 380,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Fel Regeneration Potion": {
+    "ID": 38962,
+    "Creates": 31676,
+    "Learn": 345,
+    "Phase": 1,
+    "Reagents": {
+      "Felweed": 2,
+      "Nightmare Vine": 3,
+      "Imbued Vial": 1
+    },
+    "Yellow": 360,
+    "Green": 367,
+    "Grey": 375,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Elixir of Major Fortitude": {
+    "ID": 39636,
+    "Creates": 32062,
+    "Learn": 310,
+    "Phase": 1,
+    "Reagents": {
+      "Ragveil": 2,
+      "Felweed": 1,
+      "Imbued Vial": 1
+    },
+    "Yellow": 325,
+    "Green": 332,
+    "Grey": 340,
+    "Source": "Trainer"
+  },
+  "Earthen Elixir": {
+    "ID": 39637,
+    "Creates": 32063,
+    "Learn": 320,
+    "Phase": 1,
+    "Reagents": {
+      "Dreaming Glory": 1,
+      "Ragveil": 2,
+      "Imbued Vial": 1
+    },
+    "Yellow": 335,
+    "Green": 342,
+    "Grey": 350,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Elixir of Draenic Wisdom": {
+    "ID": 39638,
+    "Creates": 32067,
+    "Learn": 320,
+    "Phase": 1,
+    "Reagents": {
+      "Felweed": 1,
+      "Terocone": 1,
+      "Imbued Vial": 1
+    },
+    "Yellow": 335,
+    "Green": 342,
+    "Grey": 350,
+    "Source": "Trainer"
+  },
+  "Elixir of Ironskin": {
+    "ID": 39639,
+    "Creates": 32068,
+    "Learn": 330,
+    "Phase": 1,
+    "Reagents": {
+      "Ancient Lichen": 1,
+      "Ragveil": 1,
+      "Imbued Vial": 1
+    },
+    "Yellow": 345,
+    "Green": 352,
+    "Grey": 360,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Cauldron of Major Arcane Protection": {
+    "ID": 41458,
+    "Creates": 32839,
+    "Learn": 360,
+    "Phase": 1,
+    "Reagents": {
+      "Primal Mana": 2,
+      "Mana Thistle": 7,
+      "Fel Iron Casing": 1
+    },
+    "Yellow": 360,
+    "Green": 370,
+    "Grey": 380,
+    "Source": "Trainer"
+  },
+  "Cauldron of Major Fire Protection": {
+    "ID": 41500,
+    "Creates": 32849,
+    "Learn": 360,
+    "Phase": 1,
+    "Reagents": {
+      "Primal Fire": 2,
+      "Mana Thistle": 7,
+      "Fel Iron Casing": 1
+    },
+    "Yellow": 360,
+    "Green": 370,
+    "Grey": 380,
+    "Source": "Trainer"
+  },
+  "Cauldron of Major Frost Protection": {
+    "ID": 41501,
+    "Creates": 32850,
+    "Learn": 360,
+    "Phase": 1,
+    "Reagents": {
+      "Primal Water": 2,
+      "Mana Thistle": 7,
+      "Fel Iron Casing": 1
+    },
+    "Yellow": 360,
+    "Green": 370,
+    "Grey": 380,
+    "Source": "Trainer"
+  },
+  "Cauldron of Major Nature Protection": {
+    "ID": 41502,
+    "Creates": 32851,
+    "Learn": 360,
+    "Phase": 1,
+    "Reagents": {
+      "Primal Life": 2,
+      "Mana Thistle": 7,
+      "Fel Iron Casing": 1
+    },
+    "Yellow": 360,
+    "Green": 370,
+    "Grey": 380,
+    "Source": "Trainer"
+  },
+  "Cauldron of Major Shadow Protection": {
+    "ID": 41503,
+    "Creates": 32852,
+    "Learn": 360,
+    "Phase": 1,
+    "Reagents": {
+      "Primal Shadow": 2,
+      "Mana Thistle": 7,
+      "Fel Iron Casing": 1
+    },
+    "Yellow": 360,
+    "Green": 370,
+    "Grey": 380,
+    "Source": "Trainer"
+  },
+  "Flask of Chromatic Wonder": {
+    "ID": 42736,
+    "Creates": 33208,
+    "Learn": 375,
+    "Phase": 1,
+    "Reagents": {
+      "Dreaming Glory": 7,
+      "Netherbloom": 3,
+      "Fel Lotus": 1,
+      "Imbued Vial": 1
+    },
+    "Yellow": 390,
+    "Green": 397,
+    "Grey": 405,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Mad Alchemist's Potion": {
+    "ID": 45061,
+    "Creates": 34440,
+    "Learn": 325,
+    "Phase": 1,
+    "Reagents": {
+      "Crystal Vial": 1,
+      "Ragveil": 2
+    },
+    "Yellow": 335,
+    "Green": 342,
+    "Grey": 350,
+    "Source": "Trainer"
+  },
+  "Guardian's Alchemist Stone": {
+    "ID": 47046,
+    "Creates": 35748,
+    "Learn": 375,
+    "Phase": 1,
+    "Reagents": {
+      "Alchemist's Stone": 1,
+      "Primal Air": 6,
+      "Nether Vortex": 2
+    },
+    "Yellow": 380,
+    "Green": 385,
+    "Grey": 390,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Sorcerer's Alchemist Stone": {
+    "ID": 47048,
+    "Creates": 35749,
+    "Learn": 375,
+    "Phase": 1,
+    "Reagents": {
+      "Alchemist's Stone": 1,
+      "Primal Fire": 6,
+      "Nether Vortex": 2
+    },
+    "Yellow": 380,
+    "Green": 385,
+    "Grey": 390,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Redeemer's Alchemist Stone": {
+    "ID": 47049,
+    "Creates": 35750,
+    "Learn": 375,
+    "Phase": 1,
+    "Reagents": {
+      "Alchemist's Stone": 1,
+      "Primal Life": 6,
+      "Nether Vortex": 2
+    },
+    "Yellow": 380,
+    "Green": 385,
+    "Grey": 390,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Assassin's Alchemist Stone": {
+    "ID": 47050,
+    "Creates": 35751,
+    "Learn": 375,
+    "Phase": 1,
+    "Reagents": {
+      "Alchemist's Stone": 1,
+      "Primal Shadow": 6,
+      "Nether Vortex": 2
+    },
+    "Yellow": 380,
+    "Green": 385,
+    "Grey": 390,
+    "RecipeID": 1,
+    "Source": "Vendor"
+  },
+  "Transmute: Eternal Life to Shadow": {
+    "ID": 53771,
+    "Creates": 35627,
+    "Learn": 405,
+    "Phase": 1,
+    "Reagents": {
+      "Eternal Life": 1
+    },
+    "Yellow": 405,
+    "Green": 415,
+    "Grey": 425,
+    "Source": "Trainer"
+  },
+  "Transmute: Eternal Life to Fire": {
+    "ID": 53773,
+    "Creates": 36860,
+    "Learn": 405,
+    "Phase": 1,
+    "Reagents": {
+      "Eternal Life": 1
+    },
+    "Yellow": 405,
+    "Green": 415,
+    "Grey": 425,
+    "Source": "Trainer"
+  },
+  "Transmute: Eternal Fire to Water": {
+    "ID": 53774,
+    "Creates": 35622,
+    "Learn": 405,
+    "Phase": 1,
+    "Reagents": {
+      "Eternal Fire": 1
+    },
+    "Yellow": 405,
+    "Green": 415,
+    "Grey": 425,
+    "Source": "Trainer"
+  },
+  "Transmute: Eternal Fire to Life": {
+    "ID": 53775,
+    "Creates": 35625,
+    "Learn": 405,
+    "Phase": 1,
+    "Reagents": {
+      "Eternal Fire": 1
+    },
+    "Yellow": 405,
+    "Green": 415,
+    "Grey": 425,
+    "Source": "Trainer"
+  },
+  "Transmute: Eternal Air to Water": {
+    "ID": 53776,
+    "Creates": 35622,
+    "Learn": 405,
+    "Phase": 1,
+    "Reagents": {
+      "Eternal Air": 1
+    },
+    "Yellow": 405,
+    "Green": 415,
+    "Grey": 425,
+    "Source": "Trainer"
+  },
+  "Transmute: Eternal Air to Earth": {
+    "ID": 53777,
+    "Creates": 35624,
+    "Learn": 405,
+    "Phase": 1,
+    "Reagents": {
+      "Eternal Air": 1
+    },
+    "Yellow": 405,
+    "Green": 415,
+    "Grey": 425,
+    "Source": "Trainer"
+  },
+  "Transmute: Eternal Shadow to Earth": {
+    "ID": 53779,
+    "Creates": 35624,
+    "Learn": 405,
+    "Phase": 1,
+    "Reagents": {
+      "Eternal Shadow": 1
+    },
+    "Yellow": 405,
+    "Green": 415,
+    "Grey": 425,
+    "Source": "Trainer"
+  },
+  "Transmute: Eternal Shadow to Life": {
+    "ID": 53780,
+    "Creates": 35625,
+    "Learn": 405,
+    "Phase": 1,
+    "Reagents": {
+      "Eternal Shadow": 1
+    },
+    "Yellow": 405,
+    "Green": 415,
+    "Grey": 425,
+    "Source": "Trainer"
+  },
+  "Transmute: Eternal Earth to Air": {
+    "ID": 53781,
+    "Creates": 35623,
+    "Learn": 405,
+    "Phase": 1,
+    "Reagents": {
+      "Eternal Earth": 1
+    },
+    "Yellow": 405,
+    "Green": 415,
+    "Grey": 425,
+    "Source": "Trainer"
+  },
+  "Transmute: Eternal Earth to Shadow": {
+    "ID": 53782,
+    "Creates": 35627,
+    "Learn": 405,
+    "Phase": 1,
+    "Reagents": {
+      "Eternal Earth": 1
+    },
+    "Yellow": 405,
+    "Green": 415,
+    "Grey": 425,
+    "Source": "Trainer"
+  },
+  "Transmute: Eternal Water to Air": {
+    "ID": 53783,
+    "Creates": 35623,
+    "Learn": 405,
+    "Phase": 1,
+    "Reagents": {
+      "Eternal Water": 1
+    },
+    "Yellow": 405,
+    "Green": 415,
+    "Grey": 425,
+    "Source": "Trainer"
+  },
+  "Transmute: Eternal Water to Fire": {
+    "ID": 53784,
+    "Creates": 36860,
+    "Learn": 405,
+    "Phase": 1,
+    "Reagents": {
+      "Eternal Water": 1
+    },
+    "Yellow": 405,
+    "Green": 415,
+    "Grey": 425,
+    "Source": "Trainer"
+  },
+  "Pygmy Oil": {
+    "ID": 53812,
+    "Creates": 40195,
+    "Learn": 375,
+    "Phase": 1,
+    "Reagents": {
+      "Pygmy Suckerfish": 1
+    },
+    "Yellow": 380,
+    "Green": 385,
+    "Grey": 390,
+    "Source": "Trainer"
+  },
+  "Runic Healing Potion": {
+    "ID": 53836,
+    "Creates": 33447,
+    "Learn": 405,
+    "Phase": 1,
+    "Reagents": {
+      "Goldclover": 1,
+      "Icethorn": 2,
+      "Imbued Vial": 1
+    },
+    "Yellow": 410,
+    "Green": 417,
+    "Grey": 425,
+    "Source": "Trainer"
+  },
+  "Runic Mana Potion": {
+    "ID": 53837,
+    "Creates": 33448,
+    "Learn": 410,
+    "Phase": 1,
+    "Reagents": {
+      "Lichbloom": 2,
+      "Goldclover": 1,
+      "Imbued Vial": 1
+    },
+    "Yellow": 415,
+    "Green": 422,
+    "Grey": 430,
+    "Source": "Trainer"
+  },
+  "Resurgent Healing Potion": {
+    "ID": 53838,
+    "Creates": 39671,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Goldclover": 2,
+      "Imbued Vial": 1
+    },
+    "Yellow": 360,
+    "Green": 370,
+    "Grey": 380,
+    "Source": "Trainer"
+  },
+  "Icy Mana Potion": {
+    "ID": 53839,
+    "Creates": 40067,
+    "Learn": 360,
+    "Phase": 1,
+    "Reagents": {
+      "Talandra's Rose": 2,
+      "Imbued Vial": 1
+    },
+    "Yellow": 365,
+    "Green": 375,
+    "Grey": 385,
+    "Source": "Trainer"
+  },
+  "Elixir of Mighty Agility": {
+    "ID": 53840,
+    "Creates": 39666,
+    "Learn": 395,
+    "Phase": 1,
+    "Reagents": {
+      "Goldclover": 2,
+      "Adder's Tongue": 2,
+      "Imbued Vial": 1
+    },
+    "Yellow": 400,
+    "Green": 407,
+    "Grey": 415,
+    "Source": "Trainer"
+  },
+  "Wrath Elixir": {
+    "ID": 53841,
+    "Creates": 40068,
+    "Learn": 355,
+    "Phase": 1,
+    "Reagents": {
+      "Goldclover": 1,
+      "Deadnettle": 2,
+      "Imbued Vial": 1
+    },
+    "Yellow": 365,
+    "Green": 375,
+    "Grey": 385,
+    "Source": "Trainer"
+  },
+  "Spellpower Elixir": {
+    "ID": 53842,
+    "Creates": 40070,
+    "Learn": 365,
+    "Phase": 1,
+    "Reagents": {
+      "Goldclover": 1,
+      "Tiger Lily": 1,
+      "Imbued Vial": 1
+    },
+    "Yellow": 375,
+    "Green": 382,
+    "Grey": 390,
+    "Source": "Trainer"
+  },
+  "Elixir of Spirit": {
+    "ID": 53847,
+    "Creates": 40072,
+    "Learn": 385,
+    "Phase": 1,
+    "Reagents": {
+      "Talandra's Rose": 3,
+      "Imbued Vial": 1
+    },
+    "Yellow": 390,
+    "Green": 395,
+    "Grey": 400,
+    "Source": "Trainer"
+  },
+  "Guru's Elixir": {
+    "ID": 53848,
+    "Creates": 40076,
+    "Learn": 375,
+    "Phase": 1,
+    "Reagents": {
+      "Pygmy Oil": 3,
+      "Imbued Vial": 1
+    },
+    "Yellow": 380,
+    "Green": 385,
+    "Grey": 390,
+    "Source": "Trainer"
+  },
+  "Crazy Alchemist's Potion": {
+    "ID": 53895,
+    "Creates": 40077,
+    "Learn": 400,
+    "Phase": 1,
+    "Reagents": {
+      "Goldclover": 2,
+      "Imbued Vial": 1
+    },
+    "Yellow": 415,
+    "Green": 422,
+    "Grey": 430,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Elixir of Mighty Fortitude": {
+    "ID": 53898,
+    "Creates": 40078,
+    "Learn": 390,
+    "Phase": 1,
+    "Reagents": {
+      "Goldclover": 4,
+      "Imbued Vial": 1
+    },
+    "Yellow": 395,
+    "Green": 400,
+    "Grey": 405,
+    "Source": "Trainer"
+  },
+  "Lesser Flask of Toughness": {
+    "ID": 53899,
+    "Creates": 40079,
+    "Learn": 375,
+    "Phase": 1,
+    "Reagents": {
+      "Deadnettle": 4,
+      "Goldclover": 1,
+      "Imbued Vial": 1
+    },
+    "Yellow": 380,
+    "Green": 385,
+    "Grey": 390,
+    "Source": "Trainer"
+  },
+  "Potion of Nightmares": {
+    "ID": 53900,
+    "Creates": 40081,
+    "Learn": 380,
+    "Phase": 1,
+    "Reagents": {
+      "Goldclover": 1,
+      "Talandra's Rose": 2,
+      "Imbued Vial": 1
+    },
+    "Yellow": 385,
+    "Green": 390,
+    "Grey": 395,
+    "Source": "Trainer"
+  },
+  "Flask of the Frost Wyrm": {
+    "ID": 53901,
+    "Creates": 46376,
+    "Learn": 435,
+    "Phase": 1,
+    "Reagents": {
+      "Icethorn": 5,
+      "Lichbloom": 5,
+      "Frost Lotus": 1,
+      "Enchanted Vial": 1
+    },
+    "Yellow": 450,
+    "Green": 457,
+    "Grey": 465,
+    "Source": "Trainer"
+  },
+  "Flask of Stoneblood": {
+    "ID": 53902,
+    "Creates": 46379,
+    "Learn": 435,
+    "Phase": 1,
+    "Reagents": {
+      "Lichbloom": 7,
+      "Crystallized Life": 3,
+      "Frost Lotus": 1,
+      "Enchanted Vial": 1
+    },
+    "Yellow": 450,
+    "Green": 457,
+    "Grey": 465,
+    "Source": "Trainer"
+  },
+  "Flask of Endless Rage": {
+    "ID": 53903,
+    "Creates": 46377,
+    "Learn": 435,
+    "Phase": 1,
+    "Reagents": {
+      "Lichbloom": 7,
+      "Goldclover": 3,
+      "Frost Lotus": 1,
+      "Enchanted Vial": 1
+    },
+    "Yellow": 450,
+    "Green": 457,
+    "Grey": 465,
+    "Source": "Trainer"
+  },
+  "Powerful Rejuvenation Potion": {
+    "ID": 53904,
+    "Creates": 40087,
+    "Learn": 400,
+    "Phase": 1,
+    "Reagents": {
+      "Talandra's Rose": 2,
+      "Lichbloom": 2,
+      "Imbued Vial": 1
+    },
+    "Yellow": 415,
+    "Green": 422,
+    "Grey": 430,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Indestructible Potion": {
+    "ID": 53905,
+    "Creates": 40093,
+    "Learn": 395,
+    "Phase": 1,
+    "Reagents": {
+      "Icethorn": 2,
+      "Imbued Vial": 1
+    },
+    "Yellow": 415,
+    "Green": 422,
+    "Grey": 430,
+    "Source": "Trainer"
+  },
+  "Mighty Arcane Protection Potion": {
+    "ID": 53936,
+    "Creates": 40213,
+    "Learn": 400,
+    "Phase": 1,
+    "Reagents": {
+      "Crystallized Earth": 2,
+      "Imbued Vial": 1
+    },
+    "Yellow": 410,
+    "Green": 415,
+    "Grey": 420,
+    "Source": "Trainer"
+  },
+  "Mighty Frost Protection Potion": {
+    "ID": 53937,
+    "Creates": 40215,
+    "Learn": 400,
+    "Phase": 1,
+    "Reagents": {
+      "Crystallized Fire": 2,
+      "Imbued Vial": 1
+    },
+    "Yellow": 410,
+    "Green": 415,
+    "Grey": 420,
+    "Source": "Trainer"
+  },
+  "Mighty Shadow Protection Potion": {
+    "ID": 53938,
+    "Creates": 40217,
+    "Learn": 400,
+    "Phase": 1,
+    "Reagents": {
+      "Crystallized Life": 2,
+      "Imbued Vial": 1
+    },
+    "Yellow": 410,
+    "Green": 415,
+    "Grey": 420,
+    "Source": "Trainer"
+  },
+  "Mighty Fire Protection Potion": {
+    "ID": 53939,
+    "Creates": 40214,
+    "Learn": 400,
+    "Phase": 1,
+    "Reagents": {
+      "Crystallized Water": 2,
+      "Imbued Vial": 1
+    },
+    "Yellow": 410,
+    "Green": 415,
+    "Grey": 420,
+    "Source": "Trainer"
+  },
+  "Mighty Nature Protection Potion": {
+    "ID": 53942,
+    "Creates": 40216,
+    "Learn": 400,
+    "Phase": 1,
+    "Reagents": {
+      "Crystallized Shadow": 2,
+      "Imbued Vial": 1
+    },
+    "Yellow": 410,
+    "Green": 415,
+    "Grey": 420,
+    "Source": "Trainer"
+  },
+  "Flask of Pure Mojo": {
+    "ID": 54213,
+    "Creates": 46378,
+    "Learn": 435,
+    "Phase": 1,
+    "Reagents": {
+      "Icethorn": 7,
+      "Pygmy Oil": 3,
+      "Frost Lotus": 1,
+      "Enchanted Vial": 1
+    },
+    "Yellow": 450,
+    "Green": 457,
+    "Grey": 465,
+    "Source": "Trainer"
+  },
+  "Elixir of Mighty Strength": {
+    "ID": 54218,
+    "Creates": 40073,
+    "Learn": 385,
+    "Phase": 1,
+    "Reagents": {
+      "Tiger Lily": 2,
+      "Imbued Vial": 1
+    },
+    "Yellow": 390,
+    "Green": 395,
+    "Grey": 400,
+    "Source": "Trainer"
+  },
+  "Elixir of Protection": {
+    "ID": 54220,
+    "Creates": 40097,
+    "Learn": 400,
+    "Phase": 1,
+    "Reagents": {
+      "Icethorn": 2,
+      "Crystallized Earth": 1,
+      "Imbued Vial": 1
+    },
+    "Yellow": 415,
+    "Green": 422,
+    "Grey": 430,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Potion of Speed": {
+    "ID": 54221,
+    "Creates": 40211,
+    "Learn": 400,
+    "Phase": 1,
+    "Reagents": {
+      "Adder's Tongue": 2,
+      "Pygmy Oil": 1,
+      "Imbued Vial": 1
+    },
+    "Yellow": 415,
+    "Green": 422,
+    "Grey": 430,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Potion of Wild Magic": {
+    "ID": 54222,
+    "Creates": 40212,
+    "Learn": 400,
+    "Phase": 1,
+    "Reagents": {
+      "Lichbloom": 2,
+      "Pygmy Oil": 1,
+      "Imbued Vial": 1
+    },
+    "Yellow": 415,
+    "Green": 422,
+    "Grey": 430,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Elixir of Mighty Mageblood": {
+    "ID": 56519,
+    "Creates": 40109,
+    "Learn": 400,
+    "Phase": 1,
+    "Reagents": {
+      "Goldclover": 1,
+      "Lichbloom": 2,
+      "Imbued Vial": 1
+    },
+    "Yellow": 415,
+    "Green": 422,
+    "Grey": 430,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Transmute: Skyflare Diamond": {
+    "ID": 57425,
+    "Creates": 41266,
+    "Learn": 430,
+    "Phase": 1,
+    "Reagents": {
+      "Bloodstone": 1,
+      "Chalcedony": 1,
+      "Eternal Air": 1
+    },
+    "Yellow": 440,
+    "Green": 445,
+    "Grey": 450,
+    "Source": "Trainer"
+  },
+  "Transmute: Earthsiege Diamond": {
+    "ID": 57427,
+    "Creates": 41334,
+    "Learn": 425,
+    "Phase": 1,
+    "Reagents": {
+      "Dark Jade": 1,
+      "Huge Citrine": 1,
+      "Eternal Fire": 1
+    },
+    "Yellow": 435,
+    "Green": 440,
+    "Grey": 445,
+    "Source": "Trainer"
+  },
+  "Endless Mana Potion": {
+    "ID": 58868,
+    "Creates": 43570,
+    "Learn": 410,
+    "Phase": 1,
+    "Reagents": {
+      "Runic Mana Potion": 10,
+      "Enchanted Vial": 1
+    },
+    "Yellow": 415,
+    "Green": 417,
+    "Grey": 420,
+    "Source": "Trainer"
+  },
+  "Endless Healing Potion": {
+    "ID": 58871,
+    "Creates": 43569,
+    "Learn": 410,
+    "Phase": 1,
+    "Reagents": {
+      "Runic Healing Potion": 10,
+      "Enchanted Vial": 1
+    },
+    "Yellow": 410,
+    "Green": 412,
+    "Grey": 415,
+    "Source": "Trainer"
+  },
+  "Transmute: Titanium": {
+    "ID": 60350,
+    "Creates": 41163,
+    "Learn": 395,
+    "Phase": 1,
+    "Reagents": {
+      "Saronite Bar": 8
+    },
+    "Yellow": 420,
+    "Green": 430,
+    "Grey": 440,
+    "Source": "Trainer"
+  },
+  "Elixir of Accuracy": {
+    "ID": 60354,
+    "Creates": 44325,
+    "Learn": 400,
+    "Phase": 1,
+    "Reagents": {
+      "Tiger Lily": 2,
+      "Talandra's Rose": 1,
+      "Imbued Vial": 1
+    },
+    "Yellow": 415,
+    "Green": 422,
+    "Grey": 430,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Elixir of Deadly Strikes": {
+    "ID": 60355,
+    "Creates": 44327,
+    "Learn": 400,
+    "Phase": 1,
+    "Reagents": {
+      "Goldclover": 1,
+      "Adder's Tongue": 2,
+      "Imbued Vial": 1
+    },
+    "Yellow": 415,
+    "Green": 422,
+    "Grey": 430,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Elixir of Mighty Defense": {
+    "ID": 60356,
+    "Creates": 44328,
+    "Learn": 400,
+    "Phase": 1,
+    "Reagents": {
+      "Icethorn": 2,
+      "Crystallized Life": 1,
+      "Imbued Vial": 1
+    },
+    "Yellow": 415,
+    "Green": 422,
+    "Grey": 430,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Elixir of Expertise": {
+    "ID": 60357,
+    "Creates": 44329,
+    "Learn": 400,
+    "Phase": 1,
+    "Reagents": {
+      "Goldclover": 1,
+      "Adder's Tongue": 2,
+      "Imbued Vial": 1
+    },
+    "Yellow": 415,
+    "Green": 422,
+    "Grey": 430,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Elixir of Armor Piercing": {
+    "ID": 60365,
+    "Creates": 44330,
+    "Learn": 400,
+    "Phase": 1,
+    "Reagents": {
+      "Tiger Lily": 2,
+      "Imbued Vial": 1
+    },
+    "Yellow": 415,
+    "Green": 422,
+    "Grey": 430,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Elixir of Lightning Speed": {
+    "ID": 60366,
+    "Creates": 44331,
+    "Learn": 400,
+    "Phase": 1,
+    "Reagents": {
+      "Deadnettle": 1,
+      "Crystallized Life": 1,
+      "Imbued Vial": 1
+    },
+    "Yellow": 415,
+    "Green": 422,
+    "Grey": 430,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Elixir of Mighty Thoughts": {
+    "ID": 60367,
+    "Creates": 44332,
+    "Learn": 395,
+    "Phase": 1,
+    "Reagents": {
+      "Deadnettle": 2,
+      "Talandra's Rose": 1,
+      "Imbued Vial": 1
+    },
+    "Yellow": 400,
+    "Green": 407,
+    "Grey": 415,
+    "Source": "Trainer"
+  },
+  "Mercurial Alchemist Stone": {
+    "ID": 60396,
+    "Creates": 44322,
+    "Learn": 400,
+    "Phase": 1,
+    "Reagents": {
+      "Goldclover": 20,
+      "Eternal Life": 2,
+      "Frost Lotus": 1
+    },
+    "Yellow": 420,
+    "Green": 425,
+    "Grey": 430,
+    "Source": "Trainer"
+  },
+  "Indestructible Alchemist Stone": {
+    "ID": 60403,
+    "Creates": 44323,
+    "Learn": 400,
+    "Phase": 1,
+    "Reagents": {
+      "Deadnettle": 20,
+      "Pygmy Oil": 12,
+      "Frost Lotus": 1
+    },
+    "Yellow": 420,
+    "Green": 425,
+    "Grey": 430,
+    "Source": "Trainer"
+  },
+  "Mighty Alchemist Stone": {
+    "ID": 60405,
+    "Creates": 44324,
+    "Learn": 400,
+    "Phase": 1,
+    "Reagents": {
+      "Adder's Tongue": 15,
+      "Tiger Lily": 15,
+      "Frost Lotus": 1
+    },
+    "Yellow": 420,
+    "Green": 425,
+    "Grey": 430,
+    "Source": "Trainer"
+  },
+  "Northrend Alchemy Research": {
+    "ID": 60893,
+    "Learn": 400,
+    "Phase": 1,
+    "Reagents": {
+      "Goldclover": 10,
+      "Adder's Tongue": 10,
+      "Talandra's Rose": 4,
+      "Enchanted Vial": 4
+    },
+    "Yellow": 415,
+    "Green": 422,
+    "Grey": 430,
+    "Source": "Trainer"
+  },
+  "Lesser Flask of Resistance": {
+    "ID": 62213,
+    "Creates": 44939,
+    "Learn": 385,
+    "Phase": 1,
+    "Reagents": {
+      "Fire Leaf": 4,
+      "Imbued Vial": 1
+    },
+    "Yellow": 390,
+    "Green": 395,
+    "Grey": 400,
+    "Source": "Trainer"
+  },
+  "Ethereal Oil": {
+    "ID": 62409,
+    "Creates": 44958,
+    "Learn": 375,
+    "Phase": 1,
+    "Reagents": {
+      "Glassfin Minnow": 2
+    },
+    "Yellow": 380,
+    "Green": 385,
+    "Grey": 390,
+    "Source": "Trainer"
+  },
+  "Elixir of Water Walking": {
+    "ID": 62410,
+    "Creates": 8827,
+    "Learn": 400,
+    "Phase": 1,
+    "Reagents": {
+      "Ethereal Oil": 3,
+      "Imbued Vial": 1
+    },
+    "Yellow": 415,
+    "Green": 422,
+    "Grey": 430,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Elixir of Minor Accuracy": {
+    "ID": 63732,
+    "Creates": 45621,
+    "Learn": 135,
+    "Phase": 1,
+    "Reagents": {
+      "Fire Oil": 1,
+      "Bruiseweed": 1,
+      "Empty Vial": 1
+    },
+    "Yellow": 160,
+    "Green": 180,
+    "Grey": 200,
+    "Source": "Trainer"
+  },
+  "Transmute: Ametrine": {
+    "ID": 66658,
+    "Creates": 36931,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Monarch Topaz": 1,
+      "Eternal Shadow": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "Source": "Trainer"
+  },
+  "Transmute: Cardinal Ruby": {
+    "ID": 66659,
+    "Creates": 36919,
+    "Learn": 440,
+    "Phase": 1,
+    "Reagents": {
+      "Eternal Fire": 1,
+      "Scarlet Ruby": 1
+    },
+    "Yellow": 440,
+    "Green": 452,
+    "Grey": 465,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Transmute: King's Amber": {
+    "ID": 66660,
+    "Creates": 36922,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Autumn's Glow": 1,
+      "Eternal Life": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "Source": "Trainer"
+  },
+  "Transmute: Dreadstone": {
+    "ID": 66662,
+    "Creates": 36928,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Eternal Shadow": 1,
+      "Twilight Opal": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "Source": "Trainer"
+  },
+  "Transmute: Majestic Zircon": {
+    "ID": 66663,
+    "Creates": 36925,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Eternal Air": 1,
+      "Sky Sapphire": 1
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "Source": "Trainer"
+  },
+  "Transmute: Eye of Zul": {
+    "ID": 66664,
+    "Creates": 36934,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Forest Emerald": 3
+    },
+    "Yellow": 450,
+    "Green": 452,
+    "Grey": 465,
+    "Source": "Trainer"
+  },
+  "Flask of the North": {
+    "ID": 67025,
+    "Creates": 47499,
+    "Learn": 425,
+    "Phase": 1,
+    "Reagents": {
+      "Frost Lotus": 4,
+      "Enchanted Vial": 1
+    },
+    "Yellow": 440,
+    "Green": 445,
+    "Grey": 450,
+    "Source": "Trainer"
+  }
+}

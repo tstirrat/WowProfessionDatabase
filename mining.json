@@ -1,0 +1,362 @@
+{
+  "Smelt Copper": {
+    "ID": 2657,
+    "Creates": 2840,
+    "Learn": 25,
+    "Phase": 1,
+    "Reagents": {
+      "Copper Ore": 1
+    },
+    "Yellow": 25,
+    "Green": 47,
+    "Grey": 70,
+    "Source": "Trainer"
+  },
+  "Smelt Silver": {
+    "ID": 2658,
+    "Creates": 2842,
+    "Learn": 75,
+    "Phase": 1,
+    "Reagents": {
+      "Silver Ore": 1
+    },
+    "Yellow": 115,
+    "Green": 122,
+    "Grey": 130,
+    "Source": "Trainer"
+  },
+  "Smelt Bronze": {
+    "ID": 2659,
+    "Creates": 2841,
+    "Learn": 65,
+    "Phase": 1,
+    "Reagents": {
+      "Copper Bar": 1,
+      "Tin Bar": 1
+    },
+    "Yellow": 65,
+    "Green": 90,
+    "Grey": 115,
+    "Source": "Trainer"
+  },
+  "Smelt Tin": {
+    "ID": 3304,
+    "Creates": 3576,
+    "Learn": 65,
+    "Phase": 1,
+    "Reagents": {
+      "Tin Ore": 1
+    },
+    "Yellow": 65,
+    "Green": 70,
+    "Grey": 75,
+    "Source": "Trainer"
+  },
+  "Smelt Iron": {
+    "ID": 3307,
+    "Creates": 3575,
+    "Learn": 125,
+    "Phase": 1,
+    "Reagents": {
+      "Iron Ore": 1
+    },
+    "Yellow": 130,
+    "Green": 145,
+    "Grey": 160,
+    "Source": "Trainer"
+  },
+  "Smelt Gold": {
+    "ID": 3308,
+    "Creates": 3577,
+    "Learn": 155,
+    "Phase": 1,
+    "Reagents": {
+      "Gold Ore": 1
+    },
+    "Yellow": 170,
+    "Green": 177,
+    "Grey": 185,
+    "Source": "Trainer"
+  },
+  "Smelt Steel": {
+    "ID": 3569,
+    "Creates": 3859,
+    "Learn": 165,
+    "Phase": 1,
+    "Reagents": {
+      "Iron Bar": 1,
+      "Coal": 1
+    },
+    "Yellow": 165,
+    "Green": 165,
+    "Grey": 165,
+    "Source": "Trainer"
+  },
+  "Smelt Mithril": {
+    "ID": 10097,
+    "Creates": 3860,
+    "Learn": 175,
+    "Phase": 1,
+    "Reagents": {
+      "Mithril Ore": 1
+    },
+    "Yellow": 175,
+    "Green": 202,
+    "Grey": 230,
+    "Source": "Trainer"
+  },
+  "Smelt Truesilver": {
+    "ID": 10098,
+    "Creates": 6037,
+    "Learn": 230,
+    "Phase": 1,
+    "Reagents": {
+      "Truesilver Ore": 1
+    },
+    "Yellow": 250,
+    "Green": 270,
+    "Grey": 290,
+    "Source": "Trainer"
+  },
+  "Smelt Dark Iron": {
+    "ID": 14891,
+    "Creates": 11371,
+    "Learn": 300,
+    "Phase": 1,
+    "Reagents": {
+      "Dark Iron Ore": 8
+    },
+    "Yellow": 300,
+    "Green": 305,
+    "Grey": 310,
+    "Source": "Trainer"
+  },
+  "Smelt Thorium": {
+    "ID": 16153,
+    "Creates": 12359,
+    "Learn": 230,
+    "Phase": 1,
+    "Reagents": {
+      "Thorium Ore": 1
+    },
+    "Yellow": 250,
+    "Green": 270,
+    "Grey": 290,
+    "Source": "Trainer"
+  },
+  "Smelt Elementium": {
+    "ID": 22967,
+    "Creates": 17771,
+    "Learn": 300,
+    "Phase": 1,
+    "Reagents": {
+      "Elementium Ore": 1,
+      "Arcanite Bar": 10,
+      "Fiery Core": 1,
+      "Elemental Flux": 3
+    },
+    "Yellow": 350,
+    "Green": 362,
+    "Grey": 375,
+    "Source": "Trainer"
+  },
+  "Smelt Fel Iron": {
+    "ID": 29356,
+    "Creates": 23445,
+    "Learn": 275,
+    "Phase": 1,
+    "Reagents": {
+      "Fel Iron Ore": 2
+    },
+    "Yellow": 275,
+    "Green": 300,
+    "Grey": 325,
+    "Source": "Trainer"
+  },
+  "Smelt Adamantite": {
+    "ID": 29358,
+    "Creates": 23446,
+    "Learn": 325,
+    "Phase": 1,
+    "Reagents": {
+      "Adamantite Ore": 2
+    },
+    "Yellow": 325,
+    "Green": 332,
+    "Grey": 340,
+    "Source": "Trainer"
+  },
+  "Smelt Eternium": {
+    "ID": 29359,
+    "Creates": 23447,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Eternium Ore": 2
+    },
+    "Yellow": 350,
+    "Green": 357,
+    "Grey": 365,
+    "Source": "Trainer"
+  },
+  "Smelt Felsteel": {
+    "ID": 29360,
+    "Creates": 23448,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Fel Iron Bar": 3,
+      "Eternium Bar": 2
+    },
+    "Yellow": 350,
+    "Green": 357,
+    "Grey": 375,
+    "Source": "Trainer"
+  },
+  "Smelt Khorium": {
+    "ID": 29361,
+    "Creates": 23449,
+    "Learn": 375,
+    "Phase": 1,
+    "Reagents": {
+      "Khorium Ore": 2
+    },
+    "Yellow": 375,
+    "Green": 375,
+    "Grey": 375,
+    "Source": "Trainer"
+  },
+  "Smelt Hardened Adamantite": {
+    "ID": 29686,
+    "Creates": 23573,
+    "Learn": 375,
+    "Phase": 1,
+    "Reagents": {
+      "Adamantite Bar": 10
+    },
+    "Yellow": 375,
+    "Green": 375,
+    "Grey": 375,
+    "Source": "Trainer"
+  },
+  "Earth Shatter": {
+    "ID": 35750,
+    "Creates": 22573,
+    "Learn": 300,
+    "Phase": 1,
+    "Reagents": {
+      "Primal Earth": 1
+    },
+    "Yellow": 300,
+    "Green": 300,
+    "Grey": 300,
+    "Source": "Trainer"
+  },
+  "Fire Sunder": {
+    "ID": 35751,
+    "Creates": 22574,
+    "Learn": 300,
+    "Phase": 1,
+    "Reagents": {
+      "Primal Fire": 1
+    },
+    "Yellow": 300,
+    "Green": 300,
+    "Grey": 300,
+    "Source": "Trainer"
+  },
+  "Smelt Hardened Khorium": {
+    "ID": 46353,
+    "Creates": 35128,
+    "Learn": 375,
+    "Phase": 1,
+    "Reagents": {
+      "Khorium Bar": 3,
+      "Hardened Adamantite Bar": 1
+    },
+    "Yellow": 375,
+    "Green": 375,
+    "Grey": 375,
+    "RecipeID": 1,
+    "Source": "Drop"
+  },
+  "Smelt Cobalt": {
+    "ID": 49252,
+    "Creates": 36916,
+    "Learn": 350,
+    "Phase": 1,
+    "Reagents": {
+      "Cobalt Ore": 1
+    },
+    "Yellow": 350,
+    "Green": 362,
+    "Grey": 375,
+    "Source": "Trainer"
+  },
+  "Smelt Saronite": {
+    "ID": 49258,
+    "Creates": 36913,
+    "Learn": 400,
+    "Phase": 1,
+    "Reagents": {
+      "Saronite Ore": 2
+    },
+    "Yellow": 400,
+    "Green": 400,
+    "Grey": 400,
+    "Source": "Trainer"
+  },
+  "Toughness": {
+    "ID": 53124,
+    "Learn": 9999,
+    "Phase": 1,
+    "Reagents": {},
+    "Yellow": 0,
+    "Green": 0,
+    "Grey": 375,
+    "Source": "Trainer"
+  },
+  "Smelt Titansteel": {
+    "ID": 55208,
+    "Creates": 37663,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Titanium Bar": 3,
+      "Eternal Fire": 1,
+      "Eternal Earth": 1,
+      "Eternal Shadow": 1
+    },
+    "Yellow": 450,
+    "Green": 450,
+    "Grey": 450,
+    "Source": "Trainer"
+  },
+  "Smelt Titanium": {
+    "ID": 55211,
+    "Creates": 41163,
+    "Learn": 450,
+    "Phase": 1,
+    "Reagents": {
+      "Titanium Ore": 2
+    },
+    "Yellow": 450,
+    "Green": 450,
+    "Grey": 450,
+    "Source": "Trainer"
+  },
+  "Enchanted Thorium": {
+    "ID": 70524,
+    "Creates": 12655,
+    "Learn": 250,
+    "Phase": 1,
+    "Reagents": {
+      "Thorium Bar": 1,
+      "Dream Dust": 3
+    },
+    "Yellow": 250,
+    "Green": 255,
+    "Grey": 260,
+    "Source": "Trainer"
+  }
+}
