@@ -3,7 +3,7 @@
     "ID": 2660,
     "Creates": 2862,
     "Learn": 1,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Rough Stone": 1
     },
@@ -16,7 +16,7 @@
     "ID": 2661,
     "Creates": 2851,
     "Learn": 35,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Copper Bar": 6
     },
@@ -29,7 +29,7 @@
     "ID": 2662,
     "Creates": 2852,
     "Learn": 1,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Copper Bar": 4
     },
@@ -42,7 +42,7 @@
     "ID": 2663,
     "Creates": 2853,
     "Learn": 1,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Copper Bar": 2
     },
@@ -55,7 +55,7 @@
     "ID": 2664,
     "Creates": 2854,
     "Learn": 90,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Copper Bar": 10,
       "Rough Grinding Stone": 3
@@ -69,7 +69,7 @@
     "ID": 2665,
     "Creates": 2863,
     "Learn": 65,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Coarse Stone": 1
     },
@@ -82,7 +82,7 @@
     "ID": 2666,
     "Creates": 2857,
     "Learn": 70,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Copper Bar": 10
     },
@@ -95,7 +95,7 @@
     "ID": 2667,
     "Creates": 2864,
     "Learn": 80,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Copper Bar": 12,
       "Shadowgem": 1,
@@ -111,7 +111,7 @@
     "ID": 2668,
     "Creates": 2865,
     "Learn": 105,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bronze Bar": 6
     },
@@ -124,7 +124,7 @@
     "ID": 2670,
     "Creates": 2866,
     "Learn": 105,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bronze Bar": 7
     },
@@ -137,7 +137,7 @@
     "ID": 2672,
     "Creates": 2868,
     "Learn": 120,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bronze Bar": 5,
       "Coarse Grinding Stone": 2
@@ -151,7 +151,7 @@
     "ID": 2673,
     "Creates": 2869,
     "Learn": 130,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bronze Bar": 10,
       "Silver Bar": 2,
@@ -167,7 +167,7 @@
     "ID": 2674,
     "Creates": 2871,
     "Learn": 125,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Heavy Stone": 1
     },
@@ -180,7 +180,7 @@
     "ID": 2675,
     "Creates": 2870,
     "Learn": 145,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bronze Bar": 20,
       "Moss Agate": 2,
@@ -197,7 +197,7 @@
     "ID": 2737,
     "Creates": 2844,
     "Learn": 15,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Copper Bar": 6,
       "Weak Flux": 1,
@@ -212,7 +212,7 @@
     "ID": 2738,
     "Creates": 2845,
     "Learn": 20,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Copper Bar": 6,
       "Weak Flux": 1,
@@ -227,7 +227,7 @@
     "ID": 2739,
     "Creates": 2847,
     "Learn": 25,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Copper Bar": 6,
       "Weak Flux": 1,
@@ -242,7 +242,7 @@
     "ID": 2740,
     "Creates": 2848,
     "Learn": 110,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bronze Bar": 6,
       "Weak Flux": 4,
@@ -257,7 +257,7 @@
     "ID": 2741,
     "Creates": 2849,
     "Learn": 115,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bronze Bar": 7,
       "Weak Flux": 4,
@@ -272,7 +272,7 @@
     "ID": 2742,
     "Creates": 2850,
     "Learn": 120,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bronze Bar": 5,
       "Weak Flux": 4,
@@ -287,7 +287,7 @@
     "ID": 3115,
     "Creates": 3239,
     "Learn": 1,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Rough Stone": 1,
       "Linen Cloth": 1
@@ -301,7 +301,7 @@
     "ID": 3116,
     "Creates": 3240,
     "Learn": 65,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Coarse Stone": 1,
       "Wool Cloth": 1
@@ -315,7 +315,7 @@
     "ID": 3117,
     "Creates": 3241,
     "Learn": 125,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Heavy Stone": 1,
       "Wool Cloth": 1
@@ -329,7 +329,7 @@
     "ID": 3292,
     "Creates": 3487,
     "Learn": 95,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Copper Bar": 14,
       "Weak Flux": 2,
@@ -345,7 +345,7 @@
     "ID": 3293,
     "Creates": 3488,
     "Learn": 35,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Copper Bar": 12,
       "Weak Flux": 2,
@@ -362,7 +362,7 @@
     "ID": 3294,
     "Creates": 3489,
     "Learn": 70,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Copper Bar": 10,
       "Weak Flux": 2,
@@ -379,7 +379,7 @@
     "ID": 3295,
     "Creates": 3490,
     "Learn": 125,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bronze Bar": 4,
       "Strong Flux": 1,
@@ -398,7 +398,7 @@
     "ID": 3296,
     "Creates": 3491,
     "Learn": 130,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bronze Bar": 8,
       "Strong Flux": 1,
@@ -416,7 +416,7 @@
     "ID": 3297,
     "Creates": 3492,
     "Learn": 145,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Iron Bar": 6,
       "Strong Flux": 2,
@@ -435,7 +435,7 @@
     "ID": 3319,
     "Creates": 3469,
     "Learn": 20,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Copper Bar": 8
     },
@@ -448,7 +448,7 @@
     "ID": 3320,
     "Creates": 3470,
     "Learn": 25,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Rough Stone": 2
     },
@@ -461,7 +461,7 @@
     "ID": 3321,
     "Creates": 3471,
     "Learn": 35,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Copper Bar": 8,
       "Rough Grinding Stone": 2
@@ -476,7 +476,7 @@
     "ID": 3323,
     "Creates": 3472,
     "Learn": 40,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Copper Bar": 8,
       "Rough Grinding Stone": 2
@@ -490,7 +490,7 @@
     "ID": 3324,
     "Creates": 3473,
     "Learn": 45,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Copper Bar": 8,
       "Fine Thread": 2,
@@ -505,7 +505,7 @@
     "ID": 3325,
     "Creates": 3474,
     "Learn": 60,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Copper Bar": 8,
       "Tigerseye": 1,
@@ -521,7 +521,7 @@
     "ID": 3326,
     "Creates": 3478,
     "Learn": 75,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Coarse Stone": 2
     },
@@ -534,7 +534,7 @@
     "ID": 3328,
     "Creates": 3480,
     "Learn": 110,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bronze Bar": 5,
       "Coarse Grinding Stone": 1
@@ -548,7 +548,7 @@
     "ID": 3330,
     "Creates": 3481,
     "Learn": 125,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bronze Bar": 8,
       "Silver Bar": 2,
@@ -564,7 +564,7 @@
     "ID": 3331,
     "Creates": 3482,
     "Learn": 130,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bronze Bar": 6,
       "Silver Bar": 1,
@@ -579,7 +579,7 @@
     "ID": 3333,
     "Creates": 3483,
     "Learn": 135,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bronze Bar": 8,
       "Silver Bar": 1,
@@ -594,7 +594,7 @@
     "ID": 3334,
     "Creates": 3484,
     "Learn": 145,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Iron Bar": 6,
       "Coarse Grinding Stone": 2,
@@ -610,7 +610,7 @@
     "ID": 3336,
     "Creates": 3485,
     "Learn": 150,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Iron Bar": 4,
       "Small Lustrous Pearl": 2,
@@ -627,7 +627,7 @@
     "ID": 3337,
     "Creates": 3486,
     "Learn": 125,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Heavy Stone": 3
     },
@@ -640,7 +640,7 @@
     "ID": 3491,
     "Creates": 3848,
     "Learn": 105,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bronze Bar": 6,
       "Weak Flux": 4,
@@ -657,7 +657,7 @@
     "ID": 3492,
     "Creates": 3849,
     "Learn": 160,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Iron Bar": 6,
       "Strong Flux": 2,
@@ -675,7 +675,7 @@
     "ID": 3493,
     "Creates": 3850,
     "Learn": 175,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Iron Bar": 8,
       "Strong Flux": 2,
@@ -693,7 +693,7 @@
     "ID": 3494,
     "Creates": 3851,
     "Learn": 155,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Iron Bar": 8,
       "Strong Flux": 2,
@@ -711,7 +711,7 @@
     "ID": 3495,
     "Creates": 3852,
     "Learn": 170,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Iron Bar": 10,
       "Gold Bar": 4,
@@ -730,7 +730,7 @@
     "ID": 3496,
     "Creates": 3853,
     "Learn": 180,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Steel Bar": 8,
       "Strong Flux": 2,
@@ -748,7 +748,7 @@
     "ID": 3497,
     "Creates": 3854,
     "Learn": 200,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Steel Bar": 12,
       "Jade": 2,
@@ -764,7 +764,7 @@
     "ID": 3498,
     "Creates": 3855,
     "Learn": 185,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Iron Bar": 14,
       "Strong Flux": 2,
@@ -782,7 +782,7 @@
     "ID": 3500,
     "Creates": 3856,
     "Learn": 200,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Steel Bar": 10,
       "Citrine": 2,
@@ -798,7 +798,7 @@
     "ID": 3501,
     "Creates": 3835,
     "Learn": 165,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Iron Bar": 6,
       "Green Dye": 1
@@ -812,7 +812,7 @@
     "ID": 3502,
     "Creates": 3836,
     "Learn": 170,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Iron Bar": 12,
       "Citrine": 1,
@@ -827,7 +827,7 @@
     "ID": 3503,
     "Creates": 3837,
     "Learn": 190,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Steel Bar": 8,
       "Gold Bar": 2,
@@ -843,7 +843,7 @@
     "ID": 3504,
     "Creates": 3840,
     "Learn": 160,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Iron Bar": 7,
       "Heavy Grinding Stone": 1,
@@ -859,7 +859,7 @@
     "ID": 3505,
     "Creates": 3841,
     "Learn": 175,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Steel Bar": 6,
       "Gold Bar": 2,
@@ -875,7 +875,7 @@
     "ID": 3506,
     "Creates": 3842,
     "Learn": 155,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Iron Bar": 8,
       "Heavy Grinding Stone": 1,
@@ -890,7 +890,7 @@
     "ID": 3507,
     "Creates": 3843,
     "Learn": 170,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Iron Bar": 10,
       "Gold Bar": 2,
@@ -906,7 +906,7 @@
     "ID": 3508,
     "Creates": 3844,
     "Learn": 180,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Iron Bar": 20,
       "Heavy Grinding Stone": 4,
@@ -923,7 +923,7 @@
     "ID": 3511,
     "Creates": 3845,
     "Learn": 195,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Steel Bar": 12,
       "Gold Bar": 2,
@@ -939,7 +939,7 @@
     "ID": 3513,
     "Creates": 3846,
     "Learn": 185,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Steel Bar": 8,
       "Citrine": 1,
@@ -956,7 +956,7 @@
     "ID": 3515,
     "Creates": 3847,
     "Learn": 200,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Steel Bar": 10,
       "Gold Bar": 4,
@@ -972,7 +972,7 @@
     "ID": 6517,
     "Creates": 5540,
     "Learn": 110,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bronze Bar": 6,
       "Strong Flux": 1,
@@ -988,7 +988,7 @@
     "ID": 6518,
     "Creates": 5541,
     "Learn": 140,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bronze Bar": 10,
       "Strong Flux": 1,
@@ -1006,7 +1006,7 @@
     "ID": 7221,
     "Creates": 6042,
     "Learn": 150,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Iron Bar": 6,
       "Coarse Grinding Stone": 4
@@ -1021,7 +1021,7 @@
     "ID": 7222,
     "Creates": 6043,
     "Learn": 165,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Iron Bar": 4,
       "Coarse Grinding Stone": 2,
@@ -1037,7 +1037,7 @@
     "ID": 7223,
     "Creates": 6040,
     "Learn": 185,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Steel Bar": 5,
       "Heavy Grinding Stone": 2
@@ -1051,7 +1051,7 @@
     "ID": 7224,
     "Creates": 6041,
     "Learn": 190,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Steel Bar": 8,
       "Heavy Grinding Stone": 2,
@@ -1067,7 +1067,7 @@
     "ID": 7408,
     "Creates": 6214,
     "Learn": 65,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Copper Bar": 12,
       "Weak Flux": 2,
@@ -1082,7 +1082,7 @@
     "ID": 7817,
     "Creates": 6350,
     "Learn": 95,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bronze Bar": 6,
       "Rough Grinding Stone": 6
@@ -1096,7 +1096,7 @@
     "ID": 7818,
     "Creates": 6338,
     "Learn": 100,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Silver Bar": 1,
       "Rough Grinding Stone": 2
@@ -1110,7 +1110,7 @@
     "ID": 8367,
     "Creates": 6731,
     "Learn": 100,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Copper Bar": 16,
       "Tigerseye": 2,
@@ -1126,7 +1126,7 @@
     "ID": 8768,
     "Creates": 7071,
     "Learn": 150,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Iron Bar": 1
     },
@@ -1139,7 +1139,7 @@
     "ID": 8880,
     "Creates": 7166,
     "Learn": 30,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Copper Bar": 6,
       "Weak Flux": 1,
@@ -1155,7 +1155,7 @@
     "ID": 9811,
     "Creates": 7913,
     "Learn": 160,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Iron Bar": 8,
       "Sharp Claw": 4,
@@ -1171,7 +1171,7 @@
     "ID": 9813,
     "Creates": 7914,
     "Learn": 160,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Iron Bar": 20,
       "Heavy Grinding Stone": 4
@@ -1186,7 +1186,7 @@
     "ID": 9814,
     "Creates": 7915,
     "Learn": 175,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Iron Bar": 10,
       "Large Fang": 2,
@@ -1202,7 +1202,7 @@
     "ID": 9818,
     "Creates": 7916,
     "Learn": 180,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Iron Bar": 12,
       "Large Fang": 4,
@@ -1218,7 +1218,7 @@
     "ID": 9820,
     "Creates": 7917,
     "Learn": 185,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Iron Bar": 14,
       "Heavy Grinding Stone": 3,
@@ -1234,7 +1234,7 @@
     "ID": 9916,
     "Creates": 7963,
     "Learn": 200,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Steel Bar": 16,
       "Heavy Grinding Stone": 3
@@ -1248,7 +1248,7 @@
     "ID": 9918,
     "Creates": 7964,
     "Learn": 200,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Solid Stone": 1
     },
@@ -1261,7 +1261,7 @@
     "ID": 9920,
     "Creates": 7966,
     "Learn": 200,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Solid Stone": 4
     },
@@ -1274,7 +1274,7 @@
     "ID": 9921,
     "Creates": 7965,
     "Learn": 200,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Solid Stone": 1,
       "Silk Cloth": 1
@@ -1288,7 +1288,7 @@
     "ID": 9926,
     "Creates": 7918,
     "Learn": 205,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Mithril Bar": 8,
       "Heavy Leather": 6
@@ -1302,7 +1302,7 @@
     "ID": 9928,
     "Creates": 7919,
     "Learn": 205,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Mithril Bar": 6,
       "Mageweave Cloth": 4
@@ -1316,7 +1316,7 @@
     "ID": 9931,
     "Creates": 7920,
     "Learn": 210,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Mithril Bar": 12
     },
@@ -1329,7 +1329,7 @@
     "ID": 9933,
     "Creates": 7921,
     "Learn": 210,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Mithril Bar": 10
     },
@@ -1343,7 +1343,7 @@
     "ID": 9935,
     "Creates": 7922,
     "Learn": 215,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Steel Bar": 14,
       "Citrine": 1,
@@ -1358,7 +1358,7 @@
     "ID": 9937,
     "Creates": 7924,
     "Learn": 215,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Mithril Bar": 8
     },
@@ -1372,7 +1372,7 @@
     "ID": 9939,
     "Creates": 7967,
     "Learn": 215,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Mithril Bar": 4,
       "Truesilver Bar": 2,
@@ -1388,7 +1388,7 @@
     "ID": 9945,
     "Creates": 7926,
     "Learn": 220,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Mithril Bar": 12,
       "Truesilver Bar": 1,
@@ -1404,7 +1404,7 @@
     "ID": 9950,
     "Creates": 7927,
     "Learn": 220,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Mithril Bar": 10,
       "Mageweave Cloth": 6,
@@ -1421,7 +1421,7 @@
     "ID": 9952,
     "Creates": 7928,
     "Learn": 225,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Mithril Bar": 12,
       "Truesilver Bar": 1,
@@ -1437,7 +1437,7 @@
     "ID": 9954,
     "Creates": 7938,
     "Learn": 225,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Mithril Bar": 10,
       "Truesilver Bar": 8,
@@ -1455,7 +1455,7 @@
     "ID": 9957,
     "Creates": 7929,
     "Learn": 230,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Mithril Bar": 12,
       "Elemental Earth": 1
@@ -1470,7 +1470,7 @@
     "ID": 9959,
     "Creates": 7930,
     "Learn": 230,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Mithril Bar": 16
     },
@@ -1483,7 +1483,7 @@
     "ID": 9961,
     "Creates": 7931,
     "Learn": 230,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Mithril Bar": 10,
       "Mageweave Cloth": 6
@@ -1497,7 +1497,7 @@
     "ID": 9964,
     "Creates": 7969,
     "Learn": 235,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Mithril Bar": 4,
       "Solid Grinding Stone": 3
@@ -1512,7 +1512,7 @@
     "ID": 9966,
     "Creates": 7932,
     "Learn": 235,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Mithril Bar": 14,
       "Thick Leather": 4
@@ -1527,7 +1527,7 @@
     "ID": 9968,
     "Creates": 7933,
     "Learn": 235,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Mithril Bar": 14,
       "Thick Leather": 4
@@ -1541,7 +1541,7 @@
     "ID": 9970,
     "Creates": 7934,
     "Learn": 245,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Mithril Bar": 14,
       "Aquamarine": 1
@@ -1556,7 +1556,7 @@
     "ID": 9972,
     "Creates": 7935,
     "Learn": 240,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Mithril Bar": 16,
       "Truesilver Bar": 6,
@@ -1573,7 +1573,7 @@
     "ID": 9974,
     "Creates": 7939,
     "Learn": 245,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Mithril Bar": 12,
       "Truesilver Bar": 12,
@@ -1590,7 +1590,7 @@
     "ID": 9979,
     "Creates": 7936,
     "Learn": 245,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Mithril Bar": 14,
       "Truesilver Bar": 2,
@@ -1608,7 +1608,7 @@
     "ID": 9980,
     "Creates": 7937,
     "Learn": 245,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Mithril Bar": 16,
       "Truesilver Bar": 2,
@@ -1624,7 +1624,7 @@
     "ID": 9983,
     "Creates": 7955,
     "Learn": 30,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Copper Bar": 10,
       "Weak Flux": 2,
@@ -1640,7 +1640,7 @@
     "ID": 9985,
     "Creates": 7956,
     "Learn": 125,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bronze Bar": 8,
       "Strong Flux": 1,
@@ -1655,7 +1655,7 @@
     "ID": 9986,
     "Creates": 7957,
     "Learn": 130,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bronze Bar": 12,
       "Strong Flux": 2,
@@ -1670,7 +1670,7 @@
     "ID": 9987,
     "Creates": 7958,
     "Learn": 135,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bronze Bar": 14,
       "Strong Flux": 1,
@@ -1685,7 +1685,7 @@
     "ID": 9993,
     "Creates": 7941,
     "Learn": 210,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Mithril Bar": 12,
       "Citrine": 2,
@@ -1701,7 +1701,7 @@
     "ID": 9995,
     "Creates": 7942,
     "Learn": 220,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Mithril Bar": 16,
       "Aquamarine": 2,
@@ -1718,7 +1718,7 @@
     "ID": 9997,
     "Creates": 7943,
     "Learn": 225,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Mithril Bar": 14,
       "Truesilver Bar": 4,
@@ -1735,7 +1735,7 @@
     "ID": 10001,
     "Creates": 7945,
     "Learn": 230,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Mithril Bar": 16,
       "Black Pearl": 1,
@@ -1752,7 +1752,7 @@
     "ID": 10003,
     "Creates": 7954,
     "Learn": 235,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Mithril Bar": 24,
       "Core of Earth": 4,
@@ -1771,7 +1771,7 @@
     "ID": 10005,
     "Creates": 7944,
     "Learn": 240,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Mithril Bar": 14,
       "Aquamarine": 1,
@@ -1790,7 +1790,7 @@
     "ID": 10007,
     "Creates": 7961,
     "Learn": 245,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Mithril Bar": 28,
       "Breath of Wind": 6,
@@ -1809,7 +1809,7 @@
     "ID": 10009,
     "Creates": 7946,
     "Learn": 245,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Mithril Bar": 18,
       "Core of Earth": 2,
@@ -1826,7 +1826,7 @@
     "ID": 10011,
     "Creates": 7959,
     "Learn": 250,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Mithril Bar": 28,
       "Ichor of Undeath": 10,
@@ -1843,7 +1843,7 @@
     "ID": 10013,
     "Creates": 7947,
     "Learn": 255,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Mithril Bar": 12,
       "Truesilver Bar": 6,
@@ -1861,7 +1861,7 @@
     "ID": 10015,
     "Creates": 7960,
     "Learn": 260,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Mithril Bar": 30,
       "Truesilver Bar": 16,
@@ -1879,7 +1879,7 @@
     "ID": 11454,
     "Creates": 9060,
     "Learn": 200,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Mithril Bar": 5,
       "Gold Bar": 1,
@@ -1895,7 +1895,7 @@
     "ID": 11643,
     "Creates": 9366,
     "Learn": 205,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Steel Bar": 10,
       "Gold Bar": 4,
@@ -1911,7 +1911,7 @@
     "ID": 12259,
     "Creates": 10423,
     "Learn": 155,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bronze Bar": 12,
       "Silver Bar": 4,
@@ -1927,7 +1927,7 @@
     "ID": 12260,
     "Creates": 10421,
     "Learn": 1,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Copper Bar": 4
     },
@@ -1940,7 +1940,7 @@
     "ID": 14379,
     "Creates": 11128,
     "Learn": 150,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Gold Bar": 1,
       "Coarse Grinding Stone": 2
@@ -1954,7 +1954,7 @@
     "ID": 14380,
     "Creates": 11144,
     "Learn": 200,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Truesilver Bar": 1,
       "Heavy Grinding Stone": 1
@@ -1968,7 +1968,7 @@
     "ID": 15292,
     "Creates": 11608,
     "Learn": 265,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Dark Iron Bar": 18,
       "Heart of Fire": 4
@@ -1983,7 +1983,7 @@
     "ID": 15293,
     "Creates": 11606,
     "Learn": 270,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Dark Iron Bar": 10,
       "Heart of Fire": 2
@@ -1998,7 +1998,7 @@
     "ID": 15294,
     "Creates": 11607,
     "Learn": 275,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Dark Iron Bar": 26,
       "Heart of Fire": 4
@@ -2013,7 +2013,7 @@
     "ID": 15295,
     "Creates": 11605,
     "Learn": 280,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Dark Iron Bar": 6,
       "Heart of Fire": 1
@@ -2028,7 +2028,7 @@
     "ID": 15296,
     "Creates": 11604,
     "Learn": 285,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Dark Iron Bar": 20,
       "Heart of Fire": 8
@@ -2043,7 +2043,7 @@
     "ID": 15972,
     "Creates": 12259,
     "Learn": 180,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Steel Bar": 10,
       "Strong Flux": 2,
@@ -2060,7 +2060,7 @@
     "ID": 15973,
     "Creates": 12260,
     "Learn": 190,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Steel Bar": 10,
       "Gold Bar": 4,
@@ -2077,7 +2077,7 @@
     "ID": 16639,
     "Creates": 12644,
     "Learn": 250,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Dense Stone": 4
     },
@@ -2090,7 +2090,7 @@
     "ID": 16640,
     "Creates": 12643,
     "Learn": 250,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Dense Stone": 1,
       "Runecloth": 1
@@ -2104,7 +2104,7 @@
     "ID": 16641,
     "Creates": 12404,
     "Learn": 250,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Dense Stone": 1
     },
@@ -2117,7 +2117,7 @@
     "ID": 16642,
     "Creates": 12405,
     "Learn": 250,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Thorium Bar": 16,
       "Blue Sapphire": 1
@@ -2132,7 +2132,7 @@
     "ID": 16643,
     "Creates": 12406,
     "Learn": 250,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Thorium Bar": 8
     },
@@ -2146,7 +2146,7 @@
     "ID": 16644,
     "Creates": 12408,
     "Learn": 255,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Thorium Bar": 8
     },
@@ -2160,7 +2160,7 @@
     "ID": 16645,
     "Creates": 12416,
     "Learn": 260,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Thorium Bar": 10,
       "Heart of Fire": 2
@@ -2175,7 +2175,7 @@
     "ID": 16646,
     "Creates": 12428,
     "Learn": 265,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Thorium Bar": 12,
       "Rugged Leather": 6
@@ -2190,7 +2190,7 @@
     "ID": 16647,
     "Creates": 12424,
     "Learn": 265,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Thorium Bar": 10,
       "Rugged Leather": 6
@@ -2205,7 +2205,7 @@
     "ID": 16648,
     "Creates": 12415,
     "Learn": 270,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Thorium Bar": 18,
       "Heart of Fire": 2,
@@ -2221,7 +2221,7 @@
     "ID": 16649,
     "Creates": 12425,
     "Learn": 270,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Thorium Bar": 12
     },
@@ -2235,7 +2235,7 @@
     "ID": 16650,
     "Creates": 12624,
     "Learn": 270,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Thorium Bar": 40,
       "Enchanted Thorium Bar": 2,
@@ -2253,7 +2253,7 @@
     "ID": 16651,
     "Creates": 12645,
     "Learn": 275,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Thorium Bar": 4,
       "Dense Grinding Stone": 4,
@@ -2269,7 +2269,7 @@
     "ID": 16652,
     "Creates": 12409,
     "Learn": 280,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Thorium Bar": 12,
       "Rugged Leather": 8
@@ -2284,7 +2284,7 @@
     "ID": 16653,
     "Creates": 12410,
     "Learn": 280,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Thorium Bar": 12,
       "Star Ruby": 1
@@ -2299,7 +2299,7 @@
     "ID": 16654,
     "Creates": 12418,
     "Learn": 285,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Thorium Bar": 18,
       "Heart of Fire": 4
@@ -2314,7 +2314,7 @@
     "ID": 16655,
     "Creates": 12631,
     "Learn": 290,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Thorium Bar": 20,
       "Enchanted Thorium Bar": 6,
@@ -2331,7 +2331,7 @@
     "ID": 16656,
     "Creates": 12419,
     "Learn": 290,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Thorium Bar": 14,
       "Heart of Fire": 4
@@ -2346,7 +2346,7 @@
     "ID": 16657,
     "Creates": 12426,
     "Learn": 295,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Thorium Bar": 18
     },
@@ -2360,7 +2360,7 @@
     "ID": 16658,
     "Creates": 12427,
     "Learn": 295,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Thorium Bar": 18,
       "Star Ruby": 1
@@ -2375,7 +2375,7 @@
     "ID": 16659,
     "Creates": 12417,
     "Learn": 295,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Thorium Bar": 18,
       "Heart of Fire": 4
@@ -2390,7 +2390,7 @@
     "ID": 16660,
     "Creates": 12625,
     "Learn": 290,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Thorium Bar": 20,
       "Arcanite Bar": 4,
@@ -2407,7 +2407,7 @@
     "ID": 16661,
     "Creates": 12632,
     "Learn": 295,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Thorium Bar": 20,
       "Enchanted Thorium Bar": 4,
@@ -2424,7 +2424,7 @@
     "ID": 16662,
     "Creates": 12414,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Thorium Bar": 12
     },
@@ -2438,7 +2438,7 @@
     "ID": 16663,
     "Creates": 12422,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Thorium Bar": 20
     },
@@ -2452,7 +2452,7 @@
     "ID": 16664,
     "Creates": 12610,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Thorium Bar": 20,
       "Arcanite Bar": 2,
@@ -2468,7 +2468,7 @@
     "ID": 16665,
     "Creates": 12611,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Thorium Bar": 20,
       "Arcanite Bar": 2,
@@ -2484,7 +2484,7 @@
     "ID": 16667,
     "Creates": 12628,
     "Learn": 285,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Thorium Bar": 40,
       "Demonic Rune": 10,
@@ -2501,7 +2501,7 @@
     "ID": 16724,
     "Creates": 12633,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Thorium Bar": 20,
       "Enchanted Thorium Bar": 4,
@@ -2519,7 +2519,7 @@
     "ID": 16725,
     "Creates": 12420,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Thorium Bar": 20,
       "Heart of Fire": 4
@@ -2534,7 +2534,7 @@
     "ID": 16726,
     "Creates": 12612,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Thorium Bar": 30,
       "Arcanite Bar": 2,
@@ -2551,7 +2551,7 @@
     "ID": 16728,
     "Creates": 12636,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Thorium Bar": 40,
       "Enchanted Thorium Bar": 4,
@@ -2568,7 +2568,7 @@
     "ID": 16729,
     "Creates": 12640,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Thorium Bar": 80,
       "Arcanite Bar": 12,
@@ -2585,7 +2585,7 @@
     "ID": 16730,
     "Creates": 12429,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Thorium Bar": 24
     },
@@ -2599,7 +2599,7 @@
     "ID": 16731,
     "Creates": 12613,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Thorium Bar": 40,
       "Arcanite Bar": 2,
@@ -2615,7 +2615,7 @@
     "ID": 16732,
     "Creates": 12614,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Thorium Bar": 40,
       "Arcanite Bar": 2,
@@ -2631,7 +2631,7 @@
     "ID": 16741,
     "Creates": 12639,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Arcanite Bar": 15,
       "Enchanted Thorium Bar": 20,
@@ -2649,7 +2649,7 @@
     "ID": 16742,
     "Creates": 12620,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Arcanite Bar": 6,
       "Enchanted Thorium Bar": 16,
@@ -2667,7 +2667,7 @@
     "ID": 16744,
     "Creates": 12619,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Arcanite Bar": 10,
       "Enchanted Thorium Bar": 20,
@@ -2685,7 +2685,7 @@
     "ID": 16745,
     "Creates": 12618,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Arcanite Bar": 8,
       "Enchanted Thorium Bar": 24,
@@ -2704,7 +2704,7 @@
     "ID": 16746,
     "Creates": 12641,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Arcanite Bar": 30,
       "Enchanted Thorium Bar": 30,
@@ -2721,7 +2721,7 @@
     "ID": 16969,
     "Creates": 12773,
     "Learn": 275,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Thorium Bar": 10,
       "Large Opal": 2,
@@ -2738,7 +2738,7 @@
     "ID": 16970,
     "Creates": 12774,
     "Learn": 275,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Thorium Bar": 30,
       "Enchanted Thorium Bar": 4,
@@ -2757,7 +2757,7 @@
     "ID": 16971,
     "Creates": 12775,
     "Learn": 280,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Thorium Bar": 12,
       "Dense Grinding Stone": 6,
@@ -2773,7 +2773,7 @@
     "ID": 16973,
     "Creates": 12776,
     "Learn": 280,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Thorium Bar": 20,
       "Enchanted Thorium Bar": 6,
@@ -2791,7 +2791,7 @@
     "ID": 16978,
     "Creates": 12777,
     "Learn": 280,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Enchanted Thorium Bar": 10,
       "Essence of Fire": 4,
@@ -2809,7 +2809,7 @@
     "ID": 16983,
     "Creates": 12781,
     "Learn": 285,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Enchanted Thorium Bar": 6,
       "Arcanite Bar": 2,
@@ -2828,7 +2828,7 @@
     "ID": 16984,
     "Creates": 12792,
     "Learn": 290,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Thorium Bar": 30,
       "Heart of Fire": 4,
@@ -2845,7 +2845,7 @@
     "ID": 16985,
     "Creates": 12782,
     "Learn": 290,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Thorium Bar": 40,
       "Arcanite Bar": 2,
@@ -2865,7 +2865,7 @@
     "ID": 16988,
     "Creates": 12796,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Thorium Bar": 50,
       "Arcanite Bar": 15,
@@ -2883,7 +2883,7 @@
     "ID": 16990,
     "Creates": 12790,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Arcanite Bar": 15,
       "Azerothian Diamond": 8,
@@ -2902,7 +2902,7 @@
     "ID": 16991,
     "Creates": 12798,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Thorium Bar": 40,
       "Arcanite Bar": 12,
@@ -2921,7 +2921,7 @@
     "ID": 16992,
     "Creates": 12797,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Arcanite Bar": 18,
       "Blue Sapphire": 8,
@@ -2940,7 +2940,7 @@
     "ID": 16993,
     "Creates": 12794,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Enchanted Thorium Bar": 20,
       "Huge Emerald": 8,
@@ -2958,7 +2958,7 @@
     "ID": 16994,
     "Creates": 12784,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Arcanite Bar": 20,
       "Enchanted Leather": 6,
@@ -2974,7 +2974,7 @@
     "ID": 16995,
     "Creates": 12783,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Arcanite Bar": 10,
       "Enchanted Thorium Bar": 10,
@@ -2994,7 +2994,7 @@
     "ID": 19666,
     "Creates": 15869,
     "Learn": 100,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Silver Bar": 1,
       "Rough Grinding Stone": 1
@@ -3008,7 +3008,7 @@
     "ID": 19667,
     "Creates": 15870,
     "Learn": 150,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Gold Bar": 1,
       "Heavy Grinding Stone": 1
@@ -3022,7 +3022,7 @@
     "ID": 19668,
     "Creates": 15871,
     "Learn": 200,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Truesilver Bar": 1,
       "Solid Grinding Stone": 1
@@ -3036,7 +3036,7 @@
     "ID": 19669,
     "Creates": 15872,
     "Learn": 275,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Arcanite Bar": 1,
       "Dense Grinding Stone": 1
@@ -3050,7 +3050,7 @@
     "ID": 20201,
     "Creates": 16206,
     "Learn": 275,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Arcanite Bar": 3,
       "Dense Grinding Stone": 1
@@ -3064,7 +3064,7 @@
     "ID": 20872,
     "Creates": 16989,
     "Learn": 295,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Dark Iron Bar": 6,
       "Fiery Core": 3,
@@ -3080,7 +3080,7 @@
     "ID": 20873,
     "Creates": 16988,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Dark Iron Bar": 16,
       "Fiery Core": 4,
@@ -3096,7 +3096,7 @@
     "ID": 20874,
     "Creates": 17014,
     "Learn": 295,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Dark Iron Bar": 4,
       "Fiery Core": 2,
@@ -3112,7 +3112,7 @@
     "ID": 20876,
     "Creates": 17013,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Dark Iron Bar": 16,
       "Fiery Core": 4,
@@ -3128,7 +3128,7 @@
     "ID": 20890,
     "Creates": 17015,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Dark Iron Bar": 16,
       "Fiery Core": 12,
@@ -3145,7 +3145,7 @@
     "ID": 20897,
     "Creates": 17016,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Dark Iron Bar": 18,
       "Lava Core": 12,
@@ -3162,7 +3162,7 @@
     "ID": 21161,
     "Creates": 17193,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Sulfuron Ingot": 8,
       "Dark Iron Bar": 20,
@@ -3182,7 +3182,7 @@
     "ID": 21913,
     "Creates": 17704,
     "Learn": 190,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Steel Bar": 10,
       "Frost Oil": 1,
@@ -3200,7 +3200,7 @@
     "ID": 22757,
     "Creates": 18262,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Elemental Earth": 2,
       "Dense Stone": 3
@@ -3215,7 +3215,7 @@
     "ID": 23628,
     "Creates": 19043,
     "Learn": 290,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Thorium Bar": 12,
       "Essence of Earth": 3,
@@ -3231,7 +3231,7 @@
     "ID": 23629,
     "Creates": 19048,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Arcanite Bar": 4,
       "Essence of Earth": 6,
@@ -3247,7 +3247,7 @@
     "ID": 23632,
     "Creates": 19051,
     "Learn": 290,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Thorium Bar": 8,
       "Truesilver Bar": 6,
@@ -3263,7 +3263,7 @@
     "ID": 23633,
     "Creates": 19057,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Arcanite Bar": 2,
       "Truesilver Bar": 10,
@@ -3279,7 +3279,7 @@
     "ID": 23636,
     "Creates": 19148,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Lava Core": 4,
       "Fiery Core": 2,
@@ -3295,7 +3295,7 @@
     "ID": 23637,
     "Creates": 19164,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Lava Core": 3,
       "Fiery Core": 5,
@@ -3313,7 +3313,7 @@
     "ID": 23638,
     "Creates": 19166,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Lava Core": 3,
       "Fiery Core": 6,
@@ -3331,7 +3331,7 @@
     "ID": 23639,
     "Creates": 19167,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Lava Core": 5,
       "Fiery Core": 2,
@@ -3348,7 +3348,7 @@
     "ID": 23650,
     "Creates": 19170,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Lava Core": 4,
       "Fiery Core": 7,
@@ -3366,7 +3366,7 @@
     "ID": 23652,
     "Creates": 19168,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Lava Core": 6,
       "Fiery Core": 6,
@@ -3384,7 +3384,7 @@
     "ID": 23653,
     "Creates": 19169,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Lava Core": 8,
       "Fiery Core": 5,
@@ -3402,7 +3402,7 @@
     "ID": 24136,
     "Creates": 19690,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Thorium Bar": 20,
       "Souldarite": 10,
@@ -3418,7 +3418,7 @@
     "ID": 24137,
     "Creates": 19691,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Thorium Bar": 16,
       "Souldarite": 8,
@@ -3434,7 +3434,7 @@
     "ID": 24138,
     "Creates": 19692,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Thorium Bar": 12,
       "Souldarite": 6,
@@ -3450,7 +3450,7 @@
     "ID": 24139,
     "Creates": 19693,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Thorium Bar": 20,
       "Souldarite": 14,
@@ -3466,7 +3466,7 @@
     "ID": 24140,
     "Creates": 19694,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Thorium Bar": 18,
       "Souldarite": 12,
@@ -3482,7 +3482,7 @@
     "ID": 24141,
     "Creates": 19695,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Thorium Bar": 16,
       "Souldarite": 10,
@@ -3498,7 +3498,7 @@
     "ID": 24399,
     "Creates": 20039,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Lava Core": 3,
       "Fiery Core": 3,
@@ -3515,7 +3515,7 @@
     "ID": 24912,
     "Creates": 20549,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Thorium Bar": 12,
       "Dark Rune": 6,
@@ -3532,7 +3532,7 @@
     "ID": 24913,
     "Creates": 20551,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Thorium Bar": 16,
       "Dark Rune": 8,
@@ -3549,7 +3549,7 @@
     "ID": 24914,
     "Creates": 20550,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Thorium Bar": 20,
       "Dark Rune": 10,
@@ -3565,7 +3565,7 @@
     "ID": 27585,
     "Creates": 22197,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Small Obsidian Shard": 14,
       "Enchanted Thorium Bar": 4,
@@ -3581,7 +3581,7 @@
     "ID": 27586,
     "Creates": 22198,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Large Obsidian Shard": 8,
       "Small Obsidian Shard": 24,
@@ -3598,7 +3598,7 @@
     "ID": 27587,
     "Creates": 22196,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Large Obsidian Shard": 18,
       "Small Obsidian Shard": 40,
@@ -3616,7 +3616,7 @@
     "ID": 27588,
     "Creates": 22195,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Small Obsidian Shard": 14,
       "Enchanted Leather": 4
@@ -3631,7 +3631,7 @@
     "ID": 27589,
     "Creates": 22194,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Large Obsidian Shard": 8,
       "Small Obsidian Shard": 24,
@@ -3648,7 +3648,7 @@
     "ID": 27590,
     "Creates": 22191,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Large Obsidian Shard": 15,
       "Small Obsidian Shard": 36,
@@ -3666,7 +3666,7 @@
     "ID": 27829,
     "Creates": 22385,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Arcanite Bar": 12,
       "Enchanted Thorium Bar": 20,
@@ -3683,7 +3683,7 @@
     "ID": 27830,
     "Creates": 22384,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Arcanite Bar": 15,
       "Dark Iron Bar": 10,
@@ -3702,7 +3702,7 @@
     "ID": 27832,
     "Creates": 22383,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Arcanite Bar": 12,
       "Nexus Crystal": 2,
@@ -3719,7 +3719,7 @@
     "ID": 28242,
     "Creates": 22669,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Frozen Rune": 7,
       "Thorium Bar": 16,
@@ -3736,7 +3736,7 @@
     "ID": 28243,
     "Creates": 22670,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Frozen Rune": 5,
       "Thorium Bar": 12,
@@ -3753,7 +3753,7 @@
     "ID": 28244,
     "Creates": 22671,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Frozen Rune": 4,
       "Thorium Bar": 12,
@@ -3770,7 +3770,7 @@
     "ID": 28461,
     "Creates": 22762,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Enchanted Thorium Bar": 6,
       "Bloodvine": 2,
@@ -3787,7 +3787,7 @@
     "ID": 28462,
     "Creates": 22763,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Enchanted Thorium Bar": 8,
       "Bloodvine": 1,
@@ -3803,7 +3803,7 @@
     "ID": 28463,
     "Creates": 22764,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Enchanted Thorium Bar": 6,
       "Living Essence": 2
@@ -3818,7 +3818,7 @@
     "ID": 29545,
     "Creates": 23482,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Fel Iron Bar": 4
     },
@@ -3831,7 +3831,7 @@
     "ID": 29547,
     "Creates": 23484,
     "Learn": 305,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Fel Iron Bar": 4
     },
@@ -3844,7 +3844,7 @@
     "ID": 29548,
     "Creates": 23487,
     "Learn": 315,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Fel Iron Bar": 6
     },
@@ -3857,7 +3857,7 @@
     "ID": 29549,
     "Creates": 23488,
     "Learn": 315,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Fel Iron Bar": 8
     },
@@ -3870,7 +3870,7 @@
     "ID": 29550,
     "Creates": 23489,
     "Learn": 325,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Fel Iron Bar": 10
     },
@@ -3883,7 +3883,7 @@
     "ID": 29551,
     "Creates": 23493,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Fel Iron Bar": 4
     },
@@ -3896,7 +3896,7 @@
     "ID": 29552,
     "Creates": 23491,
     "Learn": 310,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Fel Iron Bar": 5
     },
@@ -3909,7 +3909,7 @@
     "ID": 29553,
     "Creates": 23494,
     "Learn": 315,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Fel Iron Bar": 6
     },
@@ -3922,7 +3922,7 @@
     "ID": 29556,
     "Creates": 23490,
     "Learn": 320,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Fel Iron Bar": 9
     },
@@ -3935,7 +3935,7 @@
     "ID": 29557,
     "Creates": 23497,
     "Learn": 310,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Fel Iron Bar": 9
     },
@@ -3948,7 +3948,7 @@
     "ID": 29558,
     "Creates": 23498,
     "Learn": 315,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Fel Iron Bar": 10
     },
@@ -3961,7 +3961,7 @@
     "ID": 29565,
     "Creates": 23499,
     "Learn": 320,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Fel Iron Bar": 12
     },
@@ -3974,7 +3974,7 @@
     "ID": 29566,
     "Creates": 23502,
     "Learn": 325,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Adamantite Bar": 8
     },
@@ -3988,7 +3988,7 @@
     "ID": 29568,
     "Creates": 23503,
     "Learn": 330,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Adamantite Bar": 8
     },
@@ -4002,7 +4002,7 @@
     "ID": 29569,
     "Creates": 23504,
     "Learn": 330,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Adamantite Bar": 7,
       "Knothide Leather": 2
@@ -4017,7 +4017,7 @@
     "ID": 29571,
     "Creates": 23505,
     "Learn": 335,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Adamantite Bar": 12
     },
@@ -4031,7 +4031,7 @@
     "ID": 29603,
     "Creates": 23506,
     "Learn": 335,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Adamantite Bar": 6,
       "Primal Earth": 2,
@@ -4047,7 +4047,7 @@
     "ID": 29605,
     "Creates": 23508,
     "Learn": 335,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Adamantite Bar": 8,
       "Knothide Leather": 2,
@@ -4064,7 +4064,7 @@
     "ID": 29606,
     "Creates": 23507,
     "Learn": 340,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Adamantite Bar": 12,
       "Primal Earth": 4,
@@ -4080,7 +4080,7 @@
     "ID": 29608,
     "Creates": 23510,
     "Learn": 355,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Hardened Adamantite Bar": 2,
       "Arcane Dust": 8,
@@ -4096,7 +4096,7 @@
     "ID": 29610,
     "Creates": 23509,
     "Learn": 360,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Hardened Adamantite Bar": 4,
       "Arcane Dust": 20,
@@ -4112,7 +4112,7 @@
     "ID": 29611,
     "Creates": 23511,
     "Learn": 355,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Hardened Adamantite Bar": 3,
       "Arcane Dust": 12,
@@ -4128,7 +4128,7 @@
     "ID": 29613,
     "Creates": 23512,
     "Learn": 365,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Hardened Adamantite Bar": 4,
       "Arcane Dust": 24,
@@ -4144,7 +4144,7 @@
     "ID": 29614,
     "Creates": 23515,
     "Learn": 350,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Fel Iron Bar": 6,
       "Primal Water": 3,
@@ -4160,7 +4160,7 @@
     "ID": 29615,
     "Creates": 23516,
     "Learn": 355,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Fel Iron Bar": 12,
       "Primal Water": 5,
@@ -4176,7 +4176,7 @@
     "ID": 29616,
     "Creates": 23514,
     "Learn": 360,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Fel Iron Bar": 8,
       "Primal Water": 4,
@@ -4192,7 +4192,7 @@
     "ID": 29617,
     "Creates": 23513,
     "Learn": 365,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Fel Iron Bar": 16,
       "Primal Water": 6,
@@ -4208,7 +4208,7 @@
     "ID": 29619,
     "Creates": 23517,
     "Learn": 360,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Felsteel Bar": 6
     },
@@ -4222,7 +4222,7 @@
     "ID": 29620,
     "Creates": 23518,
     "Learn": 360,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Felsteel Bar": 8
     },
@@ -4236,7 +4236,7 @@
     "ID": 29621,
     "Creates": 23519,
     "Learn": 365,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Felsteel Bar": 8
     },
@@ -4250,7 +4250,7 @@
     "ID": 29622,
     "Creates": 23532,
     "Learn": 365,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Hardened Adamantite Bar": 10,
       "Primal Might": 2,
@@ -4267,7 +4267,7 @@
     "ID": 29628,
     "Creates": 23524,
     "Learn": 360,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Khorium Bar": 3,
       "Primal Water": 2,
@@ -4283,7 +4283,7 @@
     "ID": 29629,
     "Creates": 23523,
     "Learn": 360,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Khorium Bar": 6,
       "Primal Water": 4,
@@ -4299,7 +4299,7 @@
     "ID": 29630,
     "Creates": 23525,
     "Learn": 365,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Khorium Bar": 4,
       "Primal Water": 3,
@@ -4315,7 +4315,7 @@
     "ID": 29642,
     "Creates": 23520,
     "Learn": 365,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Fel Iron Bar": 8,
       "Primal Fire": 6,
@@ -4332,7 +4332,7 @@
     "ID": 29643,
     "Creates": 23521,
     "Learn": 365,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Fel Iron Bar": 10,
       "Primal Fire": 10,
@@ -4349,7 +4349,7 @@
     "ID": 29645,
     "Creates": 23522,
     "Learn": 370,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Fel Iron Bar": 12,
       "Primal Fire": 10,
@@ -4366,7 +4366,7 @@
     "ID": 29648,
     "Creates": 23526,
     "Learn": 370,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Felsteel Bar": 6,
       "Large Prismatic Shard": 2,
@@ -4383,7 +4383,7 @@
     "ID": 29649,
     "Creates": 23527,
     "Learn": 370,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Hardened Adamantite Bar": 4,
       "Primal Life": 6,
@@ -4399,7 +4399,7 @@
     "ID": 29654,
     "Creates": 23528,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Fel Iron Bar": 1,
       "Mote of Earth": 1
@@ -4413,7 +4413,7 @@
     "ID": 29656,
     "Creates": 23529,
     "Learn": 350,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Adamantite Bar": 1,
       "Mote of Earth": 2
@@ -4428,7 +4428,7 @@
     "ID": 29657,
     "Creates": 23530,
     "Learn": 360,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Felsteel Bar": 4,
       "Primal Fire": 4,
@@ -4444,7 +4444,7 @@
     "ID": 29658,
     "Creates": 23531,
     "Learn": 365,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Felsteel Bar": 10,
       "Primal Might": 3,
@@ -4460,7 +4460,7 @@
     "ID": 29662,
     "Creates": 23533,
     "Learn": 365,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Felsteel Bar": 10,
       "Primal Might": 5,
@@ -4476,7 +4476,7 @@
     "ID": 29663,
     "Creates": 23534,
     "Learn": 365,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Hardened Adamantite Bar": 8,
       "Primal Air": 16,
@@ -4493,7 +4493,7 @@
     "ID": 29664,
     "Creates": 23535,
     "Learn": 365,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Hardened Adamantite Bar": 8,
       "Primal Earth": 22,
@@ -4510,7 +4510,7 @@
     "ID": 29668,
     "Creates": 23536,
     "Learn": 365,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Hardened Adamantite Bar": 8,
       "Primal Might": 3,
@@ -4527,7 +4527,7 @@
     "ID": 29669,
     "Creates": 23537,
     "Learn": 365,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Felsteel Bar": 6,
       "Primal Shadow": 15,
@@ -4543,7 +4543,7 @@
     "ID": 29671,
     "Creates": 23538,
     "Learn": 365,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Hardened Adamantite Bar": 6,
       "Primal Life": 20,
@@ -4559,7 +4559,7 @@
     "ID": 29672,
     "Creates": 23539,
     "Learn": 365,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Hardened Adamantite Bar": 6,
       "Primal Might": 2,
@@ -4576,7 +4576,7 @@
     "ID": 29692,
     "Creates": 23540,
     "Learn": 365,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Khorium Bar": 10,
       "Felsteel Bar": 10,
@@ -4593,7 +4593,7 @@
     "ID": 29693,
     "Creates": 23541,
     "Learn": 365,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Khorium Bar": 20,
       "Hardened Adamantite Bar": 2,
@@ -4610,7 +4610,7 @@
     "ID": 29694,
     "Creates": 23542,
     "Learn": 365,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Khorium Bar": 10,
       "Felsteel Bar": 10,
@@ -4627,7 +4627,7 @@
     "ID": 29695,
     "Creates": 23543,
     "Learn": 365,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Khorium Bar": 10,
       "Felsteel Bar": 10,
@@ -4644,7 +4644,7 @@
     "ID": 29696,
     "Creates": 23544,
     "Learn": 365,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Khorium Bar": 10,
       "Felsteel Bar": 10,
@@ -4661,7 +4661,7 @@
     "ID": 29697,
     "Creates": 23546,
     "Learn": 365,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Khorium Bar": 10,
       "Felsteel Bar": 10,
@@ -4678,7 +4678,7 @@
     "ID": 29698,
     "Creates": 23554,
     "Learn": 365,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Khorium Bar": 10,
       "Hardened Adamantite Bar": 4,
@@ -4696,7 +4696,7 @@
     "ID": 29699,
     "Creates": 23555,
     "Learn": 365,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Khorium Bar": 10,
       "Felsteel Bar": 10,
@@ -4713,7 +4713,7 @@
     "ID": 29700,
     "Creates": 23556,
     "Learn": 365,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Khorium Bar": 10,
       "Hardened Adamantite Bar": 4,
@@ -4731,7 +4731,7 @@
     "ID": 29728,
     "Creates": 23575,
     "Learn": 340,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Adamantite Bar": 1
     },
@@ -4745,7 +4745,7 @@
     "ID": 29729,
     "Creates": 23576,
     "Learn": 375,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Eternium Bar": 1
     },
@@ -4759,7 +4759,7 @@
     "ID": 32284,
     "Creates": 23559,
     "Learn": 325,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Adamantite Bar": 1
     },
@@ -4772,7 +4772,7 @@
     "ID": 32285,
     "Creates": 25521,
     "Learn": 350,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Khorium Bar": 1
     },
@@ -4786,7 +4786,7 @@
     "ID": 32655,
     "Creates": 25843,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Fel Iron Bar": 6
     },
@@ -4799,7 +4799,7 @@
     "ID": 32656,
     "Creates": 25844,
     "Learn": 350,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Adamantite Bar": 10
     },
@@ -4813,7 +4813,7 @@
     "ID": 32657,
     "Creates": 25845,
     "Learn": 360,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Eternium Bar": 4
     },
@@ -4827,7 +4827,7 @@
     "ID": 34529,
     "Creates": 23563,
     "Learn": 350,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Primal Shadow": 20,
       "Primal Air": 20,
@@ -4844,7 +4844,7 @@
     "ID": 34530,
     "Creates": 23564,
     "Learn": 375,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Nether Chain Shirt": 1,
       "Primal Nether": 10,
@@ -4859,7 +4859,7 @@
     "ID": 34533,
     "Creates": 28483,
     "Learn": 350,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Primal Might": 8,
       "Hardened Adamantite Bar": 6,
@@ -4875,7 +4875,7 @@
     "ID": 34534,
     "Creates": 28484,
     "Learn": 375,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Breastplate of Kings": 1,
       "Primal Nether": 10,
@@ -4890,7 +4890,7 @@
     "ID": 34535,
     "Creates": 28425,
     "Learn": 350,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Primal Shadow": 20,
       "Primal Mana": 20,
@@ -4905,7 +4905,7 @@
     "ID": 34537,
     "Creates": 28426,
     "Learn": 375,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Fireguard": 1,
       "Primal Nether": 8,
@@ -4920,7 +4920,7 @@
     "ID": 34538,
     "Creates": 28428,
     "Learn": 350,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Primal Might": 10,
       "Khorium Bar": 14,
@@ -4935,7 +4935,7 @@
     "ID": 34540,
     "Creates": 28429,
     "Learn": 375,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Lionheart Blade": 1,
       "Primal Nether": 8,
@@ -4950,7 +4950,7 @@
     "ID": 34541,
     "Creates": 28431,
     "Learn": 350,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Primal Might": 5,
       "Primal Shadow": 20,
@@ -4966,7 +4966,7 @@
     "ID": 34542,
     "Creates": 28432,
     "Learn": 375,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "The Planar Edge": 1,
       "Primal Nether": 8,
@@ -4981,7 +4981,7 @@
     "ID": 34543,
     "Creates": 28434,
     "Learn": 350,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Primal Air": 12,
       "Primal Earth": 12,
@@ -4997,7 +4997,7 @@
     "ID": 34544,
     "Creates": 28435,
     "Learn": 375,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Lunar Crescent": 1,
       "Primal Nether": 8,
@@ -5012,7 +5012,7 @@
     "ID": 34545,
     "Creates": 28437,
     "Learn": 350,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Primal Fire": 20,
       "Primal Earth": 20,
@@ -5028,7 +5028,7 @@
     "ID": 34546,
     "Creates": 28438,
     "Learn": 375,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Drakefist Hammer": 1,
       "Primal Nether": 8,
@@ -5043,7 +5043,7 @@
     "ID": 34547,
     "Creates": 28440,
     "Learn": 350,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Primal Air": 20,
       "Primal Water": 20,
@@ -5059,7 +5059,7 @@
     "ID": 34548,
     "Creates": 28441,
     "Learn": 375,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Thunder": 1,
       "Primal Nether": 8,
@@ -5074,7 +5074,7 @@
     "ID": 34607,
     "Creates": 28420,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Fel Iron Bar": 1,
       "Netherweave Cloth": 1
@@ -5088,7 +5088,7 @@
     "ID": 34608,
     "Creates": 28421,
     "Learn": 350,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Adamantite Bar": 1,
       "Netherweave Cloth": 2
@@ -5103,7 +5103,7 @@
     "ID": 34979,
     "Creates": 29201,
     "Learn": 100,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bronze Bar": 6,
       "Rough Grinding Stone": 2,
@@ -5118,7 +5118,7 @@
     "ID": 34981,
     "Creates": 29202,
     "Learn": 200,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Steel Bar": 5,
       "Elemental Air": 2,
@@ -5134,7 +5134,7 @@
     "ID": 34982,
     "Creates": 29203,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Enchanted Thorium Bar": 2,
       "Thorium Bar": 6,
@@ -5149,7 +5149,7 @@
     "ID": 34983,
     "Creates": 29204,
     "Learn": 350,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Felsteel Bar": 6,
       "Primal Air": 2,
@@ -5165,7 +5165,7 @@
     "ID": 36122,
     "Creates": 30069,
     "Learn": 260,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Mithril Bar": 16,
       "Core of Earth": 2
@@ -5179,7 +5179,7 @@
     "ID": 36124,
     "Creates": 30070,
     "Learn": 260,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Mithril Bar": 16,
       "Breath of Wind": 2
@@ -5193,7 +5193,7 @@
     "ID": 36125,
     "Creates": 30071,
     "Learn": 260,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Mithril Bar": 12,
       "Core of Earth": 4
@@ -5207,7 +5207,7 @@
     "ID": 36126,
     "Creates": 30072,
     "Learn": 260,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Mithril Bar": 12,
       "Breath of Wind": 4
@@ -5221,7 +5221,7 @@
     "ID": 36128,
     "Creates": 30073,
     "Learn": 260,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Mithril Bar": 12,
       "Heart of Fire": 4
@@ -5235,7 +5235,7 @@
     "ID": 36129,
     "Creates": 30074,
     "Learn": 330,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Adamantite Bar": 8,
       "Primal Earth": 4
@@ -5249,7 +5249,7 @@
     "ID": 36130,
     "Creates": 30076,
     "Learn": 330,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Adamantite Bar": 8,
       "Primal Water": 2,
@@ -5264,7 +5264,7 @@
     "ID": 36131,
     "Creates": 30077,
     "Learn": 330,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Adamantite Bar": 6,
       "Primal Air": 6
@@ -5278,7 +5278,7 @@
     "ID": 36133,
     "Creates": 30086,
     "Learn": 330,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Adamantite Bar": 10,
       "Primal Earth": 6
@@ -5292,7 +5292,7 @@
     "ID": 36134,
     "Creates": 30087,
     "Learn": 330,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Adamantite Bar": 8,
       "Primal Water": 3,
@@ -5307,7 +5307,7 @@
     "ID": 36135,
     "Creates": 30088,
     "Learn": 330,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Adamantite Bar": 10,
       "Primal Air": 6
@@ -5321,7 +5321,7 @@
     "ID": 36136,
     "Creates": 30089,
     "Learn": 330,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Adamantite Bar": 8,
       "Primal Fire": 6
@@ -5335,7 +5335,7 @@
     "ID": 36137,
     "Creates": 30093,
     "Learn": 330,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Adamantite Bar": 12,
       "Primal Earth": 6
@@ -5349,7 +5349,7 @@
     "ID": 36256,
     "Creates": 23565,
     "Learn": 375,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Twisting Nether Chain Shirt": 1,
       "Nether Vortex": 2
@@ -5363,7 +5363,7 @@
     "ID": 36257,
     "Creates": 28485,
     "Learn": 375,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bulwark of Kings": 1,
       "Nether Vortex": 2
@@ -5377,7 +5377,7 @@
     "ID": 36258,
     "Creates": 28427,
     "Learn": 375,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Blazeguard": 1,
       "Nether Vortex": 5
@@ -5391,7 +5391,7 @@
     "ID": 36259,
     "Creates": 28430,
     "Learn": 375,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Lionheart Champion": 1,
       "Nether Vortex": 5
@@ -5405,7 +5405,7 @@
     "ID": 36260,
     "Creates": 28433,
     "Learn": 375,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Black Planar Edge": 1,
       "Nether Vortex": 5
@@ -5419,7 +5419,7 @@
     "ID": 36261,
     "Creates": 28436,
     "Learn": 375,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Mooncleaver": 1,
       "Nether Vortex": 5
@@ -5433,7 +5433,7 @@
     "ID": 36262,
     "Creates": 28439,
     "Learn": 375,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Dragonmaw": 1,
       "Nether Vortex": 5
@@ -5447,7 +5447,7 @@
     "ID": 36263,
     "Creates": 28442,
     "Learn": 375,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Deep Thunder": 1,
       "Nether Vortex": 5
@@ -5461,7 +5461,7 @@
     "ID": 36389,
     "Creates": 30034,
     "Learn": 375,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Nether Vortex": 2,
       "Hardened Adamantite Bar": 5,
@@ -5478,7 +5478,7 @@
     "ID": 36390,
     "Creates": 30032,
     "Learn": 375,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Nether Vortex": 2,
       "Hardened Adamantite Bar": 5,
@@ -5494,7 +5494,7 @@
     "ID": 36391,
     "Creates": 30033,
     "Learn": 375,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Primal Nether": 2,
       "Hardened Adamantite Bar": 4,
@@ -5510,7 +5510,7 @@
     "ID": 36392,
     "Creates": 30031,
     "Learn": 375,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Primal Nether": 2,
       "Hardened Adamantite Bar": 4,
@@ -5526,7 +5526,7 @@
     "ID": 38473,
     "Creates": 31364,
     "Learn": 375,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Felsteel Bar": 8,
       "Primal Life": 12,
@@ -5543,7 +5543,7 @@
     "ID": 38475,
     "Creates": 31367,
     "Learn": 375,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Felsteel Bar": 8,
       "Primal Life": 12,
@@ -5560,7 +5560,7 @@
     "ID": 38476,
     "Creates": 31368,
     "Learn": 375,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Felsteel Bar": 8,
       "Primal Life": 12,
@@ -5577,7 +5577,7 @@
     "ID": 38477,
     "Creates": 31369,
     "Learn": 375,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Khorium Bar": 8,
       "Primal Water": 12,
@@ -5594,7 +5594,7 @@
     "ID": 38478,
     "Creates": 31370,
     "Learn": 375,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Khorium Bar": 8,
       "Primal Water": 12,
@@ -5611,7 +5611,7 @@
     "ID": 38479,
     "Creates": 31371,
     "Learn": 375,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Khorium Bar": 8,
       "Primal Water": 12,
@@ -5628,7 +5628,7 @@
     "ID": 40033,
     "Creates": 32402,
     "Learn": 375,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Heart of Darkness": 2,
       "Void Crystal": 1,
@@ -5646,7 +5646,7 @@
     "ID": 40034,
     "Creates": 32403,
     "Learn": 375,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Heart of Darkness": 1,
       "Void Crystal": 1,
@@ -5664,7 +5664,7 @@
     "ID": 40035,
     "Creates": 32404,
     "Learn": 375,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Heart of Darkness": 3,
       "Void Crystal": 1,
@@ -5682,7 +5682,7 @@
     "ID": 40036,
     "Creates": 32401,
     "Learn": 375,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Heart of Darkness": 2,
       "Void Crystal": 1,
@@ -5700,7 +5700,7 @@
     "ID": 41132,
     "Creates": 32568,
     "Learn": 375,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Felsteel Bar": 14,
       "Hardened Adamantite Bar": 2,
@@ -5717,7 +5717,7 @@
     "ID": 41133,
     "Creates": 32570,
     "Learn": 375,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Felsteel Bar": 18,
       "Hardened Adamantite Bar": 2,
@@ -5734,7 +5734,7 @@
     "ID": 41134,
     "Creates": 32571,
     "Learn": 375,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Khorium Bar": 14,
       "Hardened Adamantite Bar": 2,
@@ -5751,7 +5751,7 @@
     "ID": 41135,
     "Creates": 32573,
     "Learn": 375,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Khorium Bar": 18,
       "Hardened Adamantite Bar": 2,
@@ -5768,7 +5768,7 @@
     "ID": 42662,
     "Creates": 33173,
     "Learn": 365,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Fel Iron Bar": 12,
       "Primal Fire": 2,
@@ -5785,7 +5785,7 @@
     "ID": 42688,
     "Creates": 33185,
     "Learn": 335,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Hardened Adamantite Bar": 2,
       "Khorium Bar": 1
@@ -5800,7 +5800,7 @@
     "ID": 43549,
     "Creates": 33791,
     "Learn": 35,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Copper Bar": 10,
       "Tigerseye": 1,
@@ -5816,7 +5816,7 @@
     "ID": 43846,
     "Creates": 32854,
     "Learn": 365,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Khorium Bar": 16,
       "Felsteel Bar": 12,
@@ -5833,7 +5833,7 @@
     "ID": 46140,
     "Creates": 34380,
     "Learn": 365,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Hardened Khorium": 8,
       "Primal Life": 20,
@@ -5850,7 +5850,7 @@
     "ID": 46141,
     "Creates": 34378,
     "Learn": 365,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Hardened Khorium": 10,
       "Primal Fire": 12,
@@ -5868,7 +5868,7 @@
     "ID": 46142,
     "Creates": 34379,
     "Learn": 365,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Khorium Bar": 20,
       "Hardened Adamantite Bar": 4,
@@ -5886,7 +5886,7 @@
     "ID": 46144,
     "Creates": 34377,
     "Learn": 365,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Khorium Bar": 20,
       "Hardened Adamantite Bar": 4,
@@ -5904,7 +5904,7 @@
     "ID": 52567,
     "Creates": 39086,
     "Learn": 370,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Cobalt Bar": 5
     },
@@ -5917,7 +5917,7 @@
     "ID": 52568,
     "Creates": 39087,
     "Learn": 350,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Cobalt Bar": 4
     },
@@ -5930,7 +5930,7 @@
     "ID": 52569,
     "Creates": 39088,
     "Learn": 350,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Cobalt Bar": 4
     },
@@ -5943,7 +5943,7 @@
     "ID": 52570,
     "Creates": 39085,
     "Learn": 375,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Cobalt Bar": 6
     },
@@ -5956,7 +5956,7 @@
     "ID": 52571,
     "Creates": 39084,
     "Learn": 370,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Cobalt Bar": 5
     },
@@ -5969,7 +5969,7 @@
     "ID": 52572,
     "Creates": 39083,
     "Learn": 360,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Cobalt Bar": 4
     },
@@ -5982,7 +5982,7 @@
     "ID": 54550,
     "Creates": 40668,
     "Learn": 360,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Cobalt Bar": 4
     },
@@ -5995,7 +5995,7 @@
     "ID": 54551,
     "Creates": 40669,
     "Learn": 395,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Cobalt Bar": 6,
       "Saronite Bar": 5
@@ -6009,7 +6009,7 @@
     "ID": 54552,
     "Creates": 40671,
     "Learn": 400,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Cobalt Bar": 3,
       "Saronite Bar": 8
@@ -6023,7 +6023,7 @@
     "ID": 54553,
     "Creates": 40672,
     "Learn": 400,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Cobalt Bar": 6,
       "Saronite Bar": 5,
@@ -6038,7 +6038,7 @@
     "ID": 54554,
     "Creates": 40674,
     "Learn": 395,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Cobalt Bar": 5,
       "Saronite Bar": 5,
@@ -6053,7 +6053,7 @@
     "ID": 54555,
     "Creates": 40673,
     "Learn": 405,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Saronite Bar": 12,
       "Crystallized Earth": 1
@@ -6067,7 +6067,7 @@
     "ID": 54556,
     "Creates": 40675,
     "Learn": 405,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Saronite Bar": 12
     },
@@ -6080,7 +6080,7 @@
     "ID": 54557,
     "Creates": 40670,
     "Learn": 390,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Cobalt Bar": 6,
       "Saronite Bar": 4
@@ -6094,7 +6094,7 @@
     "ID": 54917,
     "Creates": 40942,
     "Learn": 375,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Cobalt Bar": 7
     },
@@ -6107,7 +6107,7 @@
     "ID": 54918,
     "Creates": 40949,
     "Learn": 380,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Cobalt Bar": 7
     },
@@ -6120,7 +6120,7 @@
     "ID": 54941,
     "Creates": 40950,
     "Learn": 385,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Cobalt Bar": 7
     },
@@ -6133,7 +6133,7 @@
     "ID": 54944,
     "Creates": 40951,
     "Learn": 385,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Cobalt Bar": 8
     },
@@ -6146,7 +6146,7 @@
     "ID": 54945,
     "Creates": 40952,
     "Learn": 390,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Cobalt Bar": 12
     },
@@ -6159,7 +6159,7 @@
     "ID": 54946,
     "Creates": 40953,
     "Learn": 395,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Cobalt Bar": 12
     },
@@ -6172,7 +6172,7 @@
     "ID": 54947,
     "Creates": 40943,
     "Learn": 395,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Cobalt Bar": 12
     },
@@ -6185,7 +6185,7 @@
     "ID": 54948,
     "Creates": 40954,
     "Learn": 400,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Cobalt Bar": 12
     },
@@ -6198,7 +6198,7 @@
     "ID": 54949,
     "Creates": 40955,
     "Learn": 400,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Cobalt Bar": 8
     },
@@ -6211,7 +6211,7 @@
     "ID": 54978,
     "Creates": 40956,
     "Learn": 375,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Cobalt Bar": 8,
       "Crystallized Water": 2
@@ -6226,7 +6226,7 @@
     "ID": 54979,
     "Creates": 40957,
     "Learn": 375,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Cobalt Bar": 8,
       "Crystallized Water": 2
@@ -6241,7 +6241,7 @@
     "ID": 54980,
     "Creates": 40958,
     "Learn": 375,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Cobalt Bar": 8,
       "Crystallized Water": 2
@@ -6256,7 +6256,7 @@
     "ID": 54981,
     "Creates": 40959,
     "Learn": 375,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Cobalt Bar": 8,
       "Crystallized Water": 2
@@ -6271,7 +6271,7 @@
     "ID": 55013,
     "Creates": 41117,
     "Learn": 390,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Cobalt Bar": 6,
       "Saronite Bar": 4
@@ -6285,7 +6285,7 @@
     "ID": 55014,
     "Creates": 41113,
     "Learn": 410,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Saronite Bar": 14
     },
@@ -6298,7 +6298,7 @@
     "ID": 55015,
     "Creates": 41114,
     "Learn": 415,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Saronite Bar": 14
     },
@@ -6311,7 +6311,7 @@
     "ID": 55017,
     "Creates": 41116,
     "Learn": 410,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Saronite Bar": 13
     },
@@ -6324,7 +6324,7 @@
     "ID": 55055,
     "Creates": 41126,
     "Learn": 395,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Cobalt Bar": 5,
       "Saronite Bar": 5,
@@ -6339,7 +6339,7 @@
     "ID": 55056,
     "Creates": 41127,
     "Learn": 400,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Cobalt Bar": 3,
       "Saronite Bar": 8
@@ -6353,7 +6353,7 @@
     "ID": 55057,
     "Creates": 41128,
     "Learn": 405,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Saronite Bar": 12
     },
@@ -6366,7 +6366,7 @@
     "ID": 55058,
     "Creates": 41129,
     "Learn": 415,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Saronite Bar": 14,
       "Crystallized Water": 1
@@ -6380,7 +6380,7 @@
     "ID": 55174,
     "Creates": 41181,
     "Learn": 390,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Cobalt Bar": 12,
       "Saronite Bar": 4,
@@ -6395,7 +6395,7 @@
     "ID": 55177,
     "Creates": 41182,
     "Learn": 395,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Cobalt Bar": 8,
       "Saronite Bar": 6,
@@ -6410,7 +6410,7 @@
     "ID": 55179,
     "Creates": 41183,
     "Learn": 400,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Cobalt Bar": 12,
       "Saronite Bar": 4,
@@ -6425,7 +6425,7 @@
     "ID": 55181,
     "Creates": 41184,
     "Learn": 405,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Saronite Bar": 12,
       "Crystallized Shadow": 2
@@ -6439,7 +6439,7 @@
     "ID": 55182,
     "Creates": 41185,
     "Learn": 410,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Saronite Bar": 15,
       "Crystallized Earth": 2
@@ -6453,7 +6453,7 @@
     "ID": 55183,
     "Creates": 41186,
     "Learn": 415,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Saronite Bar": 16,
       "Crystallized Fire": 1
@@ -6467,7 +6467,7 @@
     "ID": 55184,
     "Creates": 41187,
     "Learn": 415,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Saronite Bar": 14,
       "Crystallized Fire": 1
@@ -6481,7 +6481,7 @@
     "ID": 55185,
     "Creates": 41188,
     "Learn": 415,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Saronite Bar": 20,
       "Crystallized Fire": 2
@@ -6495,7 +6495,7 @@
     "ID": 55186,
     "Creates": 41189,
     "Learn": 415,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Saronite Bar": 14,
       "Crystallized Earth": 2
@@ -6509,7 +6509,7 @@
     "ID": 55187,
     "Creates": 41190,
     "Learn": 415,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Saronite Bar": 13,
       "Crystallized Earth": 2
@@ -6523,7 +6523,7 @@
     "ID": 55200,
     "Creates": 41239,
     "Learn": 380,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Cobalt Bar": 8
     },
@@ -6536,7 +6536,7 @@
     "ID": 55201,
     "Creates": 41240,
     "Learn": 380,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Cobalt Bar": 8
     },
@@ -6549,7 +6549,7 @@
     "ID": 55202,
     "Creates": 41241,
     "Learn": 385,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Cobalt Bar": 7
     },
@@ -6562,7 +6562,7 @@
     "ID": 55203,
     "Creates": 41242,
     "Learn": 385,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Cobalt Bar": 10
     },
@@ -6575,7 +6575,7 @@
     "ID": 55204,
     "Creates": 41243,
     "Learn": 390,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Cobalt Bar": 10
     },
@@ -6588,7 +6588,7 @@
     "ID": 55206,
     "Creates": 41245,
     "Learn": 405,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Saronite Bar": 7,
       "Crystallized Air": 2
@@ -6602,7 +6602,7 @@
     "ID": 55298,
     "Creates": 41355,
     "Learn": 420,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Saronite Bar": 12,
       "Eternal Fire": 1
@@ -6616,7 +6616,7 @@
     "ID": 55300,
     "Creates": 41356,
     "Learn": 420,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Saronite Bar": 12,
       "Eternal Water": 1
@@ -6630,7 +6630,7 @@
     "ID": 55301,
     "Creates": 41357,
     "Learn": 420,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Saronite Bar": 12,
       "Eternal Earth": 1
@@ -6644,7 +6644,7 @@
     "ID": 55302,
     "Creates": 41344,
     "Learn": 425,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Saronite Bar": 14,
       "Eternal Fire": 1
@@ -6658,7 +6658,7 @@
     "ID": 55303,
     "Creates": 41345,
     "Learn": 425,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Saronite Bar": 14,
       "Eternal Earth": 1
@@ -6672,7 +6672,7 @@
     "ID": 55304,
     "Creates": 41346,
     "Learn": 425,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Saronite Bar": 14,
       "Eternal Water": 1
@@ -6686,7 +6686,7 @@
     "ID": 55305,
     "Creates": 41354,
     "Learn": 420,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Saronite Bar": 12,
       "Eternal Air": 1
@@ -6700,7 +6700,7 @@
     "ID": 55306,
     "Creates": 41351,
     "Learn": 420,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Saronite Bar": 12,
       "Eternal Water": 1
@@ -6714,7 +6714,7 @@
     "ID": 55307,
     "Creates": 41352,
     "Learn": 420,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Saronite Bar": 12,
       "Eternal Water": 1
@@ -6728,7 +6728,7 @@
     "ID": 55308,
     "Creates": 41348,
     "Learn": 420,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Saronite Bar": 12,
       "Eternal Shadow": 1
@@ -6742,7 +6742,7 @@
     "ID": 55309,
     "Creates": 41349,
     "Learn": 420,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Saronite Bar": 12,
       "Eternal Fire": 1
@@ -6756,7 +6756,7 @@
     "ID": 55310,
     "Creates": 41347,
     "Learn": 425,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Saronite Bar": 14,
       "Eternal Air": 1
@@ -6770,7 +6770,7 @@
     "ID": 55311,
     "Creates": 41353,
     "Learn": 425,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Saronite Bar": 14,
       "Eternal Earth": 1
@@ -6784,7 +6784,7 @@
     "ID": 55312,
     "Creates": 41350,
     "Learn": 425,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Saronite Bar": 14,
       "Eternal Shadow": 1
@@ -6798,7 +6798,7 @@
     "ID": 55369,
     "Creates": 41257,
     "Learn": 440,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Saronite Bar": 8,
       "Titansteel Bar": 8,
@@ -6813,7 +6813,7 @@
     "ID": 55370,
     "Creates": 41383,
     "Learn": 440,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Saronite Bar": 6,
       "Titansteel Bar": 6,
@@ -6828,7 +6828,7 @@
     "ID": 55371,
     "Creates": 41384,
     "Learn": 440,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Saronite Bar": 6,
       "Titansteel Bar": 6,
@@ -6843,7 +6843,7 @@
     "ID": 55372,
     "Creates": 41386,
     "Learn": 440,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Saronite Bar": 4,
       "Titansteel Bar": 4,
@@ -6858,7 +6858,7 @@
     "ID": 55373,
     "Creates": 41387,
     "Learn": 440,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Saronite Bar": 4,
       "Titansteel Bar": 4,
@@ -6873,7 +6873,7 @@
     "ID": 55374,
     "Creates": 41388,
     "Learn": 440,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Saronite Bar": 4,
       "Titansteel Bar": 4,
@@ -6888,7 +6888,7 @@
     "ID": 55375,
     "Creates": 41391,
     "Learn": 440,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Saronite Bar": 4,
       "Titansteel Bar": 3,
@@ -6903,7 +6903,7 @@
     "ID": 55376,
     "Creates": 41392,
     "Learn": 440,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Saronite Bar": 4,
       "Titansteel Bar": 3,
@@ -6918,7 +6918,7 @@
     "ID": 55377,
     "Creates": 41394,
     "Learn": 440,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Saronite Bar": 4,
       "Titansteel Bar": 3,
@@ -6932,7 +6932,7 @@
   "Socket Bracer": {
     "ID": 55628,
     "Learn": 400,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Saronite Bar": 4,
       "Eternal Earth": 1
@@ -6945,7 +6945,7 @@
   "Socket Gloves": {
     "ID": 55641,
     "Learn": 400,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Saronite Bar": 4,
       "Eternal Shadow": 1
@@ -6959,7 +6959,7 @@
     "ID": 55656,
     "Creates": 41611,
     "Learn": 415,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Saronite Bar": 4,
       "Eternal Earth": 1,
@@ -6975,7 +6975,7 @@
     "ID": 55732,
     "Creates": 41745,
     "Learn": 420,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Saronite Bar": 2,
       "Titanium Bar": 1
@@ -6989,7 +6989,7 @@
     "ID": 55834,
     "Creates": 41974,
     "Learn": 360,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Cobalt Bar": 4
     },
@@ -7002,7 +7002,7 @@
     "ID": 55835,
     "Creates": 41975,
     "Learn": 370,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Cobalt Bar": 5
     },
@@ -7015,7 +7015,7 @@
     "ID": 55839,
     "Creates": 41976,
     "Learn": 420,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Saronite Bar": 2,
       "Titanium Bar": 1
@@ -7029,7 +7029,7 @@
     "ID": 56234,
     "Creates": 42435,
     "Learn": 440,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Saronite Bar": 6,
       "Titansteel Bar": 6,
@@ -7044,7 +7044,7 @@
     "ID": 56280,
     "Creates": 42443,
     "Learn": 410,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Saronite Bar": 15,
       "Crystallized Water": 2
@@ -7058,7 +7058,7 @@
     "ID": 56357,
     "Creates": 42500,
     "Learn": 420,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Saronite Bar": 2,
       "Titanium Bar": 1
@@ -7072,7 +7072,7 @@
     "ID": 56400,
     "Creates": 42508,
     "Learn": 440,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Saronite Bar": 4,
       "Titansteel Bar": 3,
@@ -7087,7 +7087,7 @@
     "ID": 56549,
     "Creates": 42723,
     "Learn": 420,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Saronite Bar": 12,
       "Eternal Air": 1
@@ -7101,7 +7101,7 @@
     "ID": 56550,
     "Creates": 42727,
     "Learn": 420,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Saronite Bar": 12,
       "Eternal Water": 1
@@ -7115,7 +7115,7 @@
     "ID": 56551,
     "Creates": 42729,
     "Learn": 420,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Saronite Bar": 12,
       "Eternal Water": 1
@@ -7129,7 +7129,7 @@
     "ID": 56552,
     "Creates": 42730,
     "Learn": 420,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Saronite Bar": 12,
       "Eternal Shadow": 1
@@ -7143,7 +7143,7 @@
     "ID": 56553,
     "Creates": 42724,
     "Learn": 420,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Saronite Bar": 12,
       "Eternal Fire": 1
@@ -7157,7 +7157,7 @@
     "ID": 56554,
     "Creates": 42726,
     "Learn": 425,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Saronite Bar": 14,
       "Eternal Air": 1
@@ -7171,7 +7171,7 @@
     "ID": 56555,
     "Creates": 42725,
     "Learn": 425,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Saronite Bar": 14,
       "Eternal Earth": 1
@@ -7185,7 +7185,7 @@
     "ID": 56556,
     "Creates": 42728,
     "Learn": 425,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Saronite Bar": 14,
       "Eternal Shadow": 1
@@ -7199,7 +7199,7 @@
     "ID": 59405,
     "Creates": 43854,
     "Learn": 350,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Cobalt Bar": 4
     },
@@ -7212,7 +7212,7 @@
     "ID": 59406,
     "Creates": 43853,
     "Learn": 430,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Saronite Bar": 4,
       "Titanium Bar": 1
@@ -7226,7 +7226,7 @@
     "ID": 59436,
     "Creates": 43860,
     "Learn": 395,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Cobalt Bar": 6,
       "Saronite Bar": 5
@@ -7240,7 +7240,7 @@
     "ID": 59438,
     "Creates": 43864,
     "Learn": 400,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Cobalt Bar": 3,
       "Saronite Bar": 8
@@ -7254,7 +7254,7 @@
     "ID": 59440,
     "Creates": 43865,
     "Learn": 405,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Saronite Bar": 12
     },
@@ -7267,7 +7267,7 @@
     "ID": 59441,
     "Creates": 43870,
     "Learn": 415,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Saronite Bar": 14,
       "Crystallized Water": 1
@@ -7281,7 +7281,7 @@
     "ID": 59442,
     "Creates": 43871,
     "Learn": 410,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Saronite Bar": 15,
       "Crystallized Fire": 2
@@ -7295,7 +7295,7 @@
     "ID": 61008,
     "Creates": 43586,
     "Learn": 425,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Saronite Bar": 16,
       "Eternal Fire": 3,
@@ -7311,7 +7311,7 @@
     "ID": 61009,
     "Creates": 43587,
     "Learn": 420,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Saronite Bar": 12,
       "Eternal Fire": 2,
@@ -7327,7 +7327,7 @@
     "ID": 61010,
     "Creates": 43588,
     "Learn": 420,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Saronite Bar": 12,
       "Eternal Fire": 2,
@@ -7343,7 +7343,7 @@
     "ID": 62202,
     "Creates": 44936,
     "Learn": 450,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Titanium Bar": 4,
       "Eternal Shadow": 4
@@ -7358,7 +7358,7 @@
     "ID": 63182,
     "Creates": 45085,
     "Learn": 440,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Titansteel Bar": 6,
       "Infinite Dust": 6,
@@ -7373,7 +7373,7 @@
     "ID": 63187,
     "Creates": 45550,
     "Learn": 450,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Titansteel Bar": 5,
       "Runed Orb": 6
@@ -7388,7 +7388,7 @@
     "ID": 63188,
     "Creates": 45559,
     "Learn": 450,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Titansteel Bar": 5,
       "Runed Orb": 6
@@ -7403,7 +7403,7 @@
     "ID": 63189,
     "Creates": 45552,
     "Learn": 450,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Titansteel Bar": 5,
       "Runed Orb": 6
@@ -7418,7 +7418,7 @@
     "ID": 63190,
     "Creates": 45561,
     "Learn": 450,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Titansteel Bar": 5,
       "Runed Orb": 6
@@ -7433,7 +7433,7 @@
     "ID": 63191,
     "Creates": 45551,
     "Learn": 450,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Titansteel Bar": 5,
       "Runed Orb": 6
@@ -7448,7 +7448,7 @@
     "ID": 63192,
     "Creates": 45560,
     "Learn": 450,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Titansteel Bar": 5,
       "Runed Orb": 6
@@ -7463,7 +7463,7 @@
     "ID": 67130,
     "Creates": 47592,
     "Learn": 450,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Titansteel Bar": 12,
       "Eternal Life": 8,
@@ -7480,7 +7480,7 @@
     "ID": 67131,
     "Creates": 47571,
     "Learn": 450,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Titansteel Bar": 8,
       "Saronite Bar": 20,
@@ -7496,7 +7496,7 @@
     "ID": 67132,
     "Creates": 47590,
     "Learn": 450,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Titansteel Bar": 10,
       "Deadly Saronite Dirk": 4,
@@ -7512,7 +7512,7 @@
     "ID": 67133,
     "Creates": 47573,
     "Learn": 450,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Titansteel Bar": 8,
       "Vengeance Bindings": 1,
@@ -7528,7 +7528,7 @@
     "ID": 67134,
     "Creates": 47594,
     "Learn": 450,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Titansteel Bar": 10,
       "Eternal Life": 20,
@@ -7544,7 +7544,7 @@
     "ID": 67135,
     "Creates": 47575,
     "Learn": 450,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Titansteel Bar": 8,
       "Eternal Life": 12,
@@ -7560,7 +7560,7 @@
     "ID": 70562,
     "Creates": 49902,
     "Learn": 450,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Titansteel Bar": 12,
       "Eternal Air": 20,
@@ -7576,7 +7576,7 @@
     "ID": 70563,
     "Creates": 49905,
     "Learn": 450,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Titansteel Bar": 8,
       "Eternal Earth": 12,
@@ -7592,7 +7592,7 @@
     "ID": 70565,
     "Creates": 49903,
     "Learn": 450,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Titansteel Bar": 12,
       "Eternal Shadow": 20,
@@ -7608,7 +7608,7 @@
     "ID": 70566,
     "Creates": 49906,
     "Learn": 450,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Titansteel Bar": 8,
       "Eternal Water": 6,
@@ -7625,7 +7625,7 @@
     "ID": 70567,
     "Creates": 49904,
     "Learn": 450,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Titansteel Bar": 12,
       "Eternal Earth": 20,
@@ -7641,7 +7641,7 @@
     "ID": 70568,
     "Creates": 49907,
     "Learn": 450,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Titansteel Bar": 8,
       "Eternal Earth": 12,

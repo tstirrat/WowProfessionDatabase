@@ -100,7 +100,7 @@ export interface Spell {
   readonly Source: SourceString;
   readonly RecipeID?: ItemId;
   readonly Reagents: ReagentMap;
-  readonly Phase: 1;
+  readonly Phase: 0 | 1;
 }
 
 type ReagentMap = { [name: string]: number };
@@ -141,7 +141,7 @@ export function toSpell(
     ID: s.id,
     Creates: createdItemId,
     Learn: s.learnedat,
-    Phase: 1,
+    Phase: 0,
     Reagents,
     Yellow,
     Green,

@@ -3,7 +3,7 @@
     "ID": 2385,
     "Creates": 2568,
     "Learn": 10,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Linen Cloth": 1,
       "Coarse Thread": 1
@@ -17,7 +17,7 @@
     "ID": 2386,
     "Creates": 2569,
     "Learn": 65,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Linen Cloth": 3,
       "Coarse Thread": 1,
@@ -32,7 +32,7 @@
     "ID": 2387,
     "Creates": 2570,
     "Learn": 1,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Linen Cloth": 1,
       "Coarse Thread": 1
@@ -46,7 +46,7 @@
     "ID": 2389,
     "Creates": 2572,
     "Learn": 40,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Linen Cloth": 3,
       "Coarse Thread": 2,
@@ -62,7 +62,7 @@
     "ID": 2392,
     "Creates": 2575,
     "Learn": 40,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Linen Cloth": 2,
       "Coarse Thread": 1,
@@ -77,7 +77,7 @@
     "ID": 2393,
     "Creates": 2576,
     "Learn": 1,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Linen Cloth": 1,
       "Coarse Thread": 1,
@@ -92,7 +92,7 @@
     "ID": 2394,
     "Creates": 2577,
     "Learn": 40,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Linen Cloth": 2,
       "Coarse Thread": 1,
@@ -107,7 +107,7 @@
     "ID": 2395,
     "Creates": 2578,
     "Learn": 70,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Linen Cloth": 4,
       "Light Leather": 1,
@@ -122,7 +122,7 @@
     "ID": 2396,
     "Creates": 2579,
     "Learn": 70,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Linen Cloth": 3,
       "Fine Thread": 1,
@@ -137,7 +137,7 @@
     "ID": 2397,
     "Creates": 2580,
     "Learn": 60,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Linen Cloth": 2,
       "Coarse Thread": 3
@@ -151,7 +151,7 @@
     "ID": 2399,
     "Creates": 2582,
     "Learn": 85,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Woolen Cloth": 2,
       "Fine Thread": 2,
@@ -166,7 +166,7 @@
     "ID": 2401,
     "Creates": 2583,
     "Learn": 95,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Woolen Cloth": 4,
       "Fine Thread": 2,
@@ -181,7 +181,7 @@
     "ID": 2402,
     "Creates": 2584,
     "Learn": 75,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Woolen Cloth": 1,
       "Fine Thread": 1
@@ -195,7 +195,7 @@
     "ID": 2403,
     "Creates": 2585,
     "Learn": 105,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Woolen Cloth": 4,
       "Fine Thread": 3,
@@ -211,7 +211,7 @@
     "ID": 2406,
     "Creates": 2587,
     "Learn": 100,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Woolen Cloth": 2,
       "Fine Thread": 1,
@@ -226,7 +226,7 @@
     "ID": 2963,
     "Creates": 2996,
     "Learn": 1,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Linen Cloth": 2
     },
@@ -239,7 +239,7 @@
     "ID": 2964,
     "Creates": 2997,
     "Learn": 75,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Wool Cloth": 3
     },
@@ -252,7 +252,7 @@
     "ID": 3755,
     "Creates": 4238,
     "Learn": 45,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Linen Cloth": 3,
       "Coarse Thread": 3
@@ -266,7 +266,7 @@
     "ID": 3757,
     "Creates": 4240,
     "Learn": 80,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Woolen Cloth": 3,
       "Fine Thread": 1
@@ -280,7 +280,7 @@
     "ID": 3758,
     "Creates": 4241,
     "Learn": 95,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Woolen Cloth": 4,
       "Green Dye": 1,
@@ -296,7 +296,7 @@
     "ID": 3813,
     "Creates": 4245,
     "Learn": 150,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Silk Cloth": 3,
       "Heavy Leather": 2,
@@ -311,7 +311,7 @@
     "ID": 3839,
     "Creates": 4305,
     "Learn": 125,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Silk Cloth": 4
     },
@@ -324,7 +324,7 @@
     "ID": 3840,
     "Creates": 4307,
     "Learn": 35,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Linen Cloth": 2,
       "Coarse Thread": 1
@@ -338,7 +338,7 @@
     "ID": 3841,
     "Creates": 4308,
     "Learn": 60,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Linen Cloth": 3,
       "Coarse Thread": 2,
@@ -353,7 +353,7 @@
     "ID": 3842,
     "Creates": 4309,
     "Learn": 70,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Linen Cloth": 4,
       "Fine Thread": 2
@@ -367,7 +367,7 @@
     "ID": 3843,
     "Creates": 4310,
     "Learn": 85,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Woolen Cloth": 3,
       "Fine Thread": 1
@@ -381,7 +381,7 @@
     "ID": 3844,
     "Creates": 4311,
     "Learn": 100,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Woolen Cloth": 3,
       "Fine Thread": 2,
@@ -397,7 +397,7 @@
     "ID": 3845,
     "Creates": 4312,
     "Learn": 80,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Linen Cloth": 5,
       "Light Leather": 2,
@@ -412,7 +412,7 @@
     "ID": 3847,
     "Creates": 4313,
     "Learn": 95,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Woolen Cloth": 4,
       "Light Leather": 2,
@@ -429,7 +429,7 @@
     "ID": 3848,
     "Creates": 4314,
     "Learn": 110,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Woolen Cloth": 3,
       "Fine Thread": 2
@@ -443,7 +443,7 @@
     "ID": 3849,
     "Creates": 4315,
     "Learn": 120,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Woolen Cloth": 6,
       "Medium Leather": 2,
@@ -459,7 +459,7 @@
     "ID": 3850,
     "Creates": 4316,
     "Learn": 110,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Woolen Cloth": 5,
       "Fine Thread": 4
@@ -473,7 +473,7 @@
     "ID": 3851,
     "Creates": 4317,
     "Learn": 125,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Woolen Cloth": 6,
       "Iridescent Pearl": 1,
@@ -489,7 +489,7 @@
     "ID": 3852,
     "Creates": 4318,
     "Learn": 130,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Woolen Cloth": 4,
       "Fine Thread": 3,
@@ -504,7 +504,7 @@
     "ID": 3854,
     "Creates": 4319,
     "Learn": 145,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Silk Cloth": 3,
       "Heavy Leather": 2,
@@ -521,7 +521,7 @@
     "ID": 3855,
     "Creates": 4320,
     "Learn": 125,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Silk Cloth": 2,
       "Medium Leather": 4,
@@ -537,7 +537,7 @@
     "ID": 3856,
     "Creates": 4321,
     "Learn": 140,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Silk Cloth": 3,
       "Spider's Silk": 1,
@@ -553,7 +553,7 @@
     "ID": 3857,
     "Creates": 4322,
     "Learn": 165,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Silk Cloth": 3,
       "Fine Thread": 2,
@@ -569,7 +569,7 @@
     "ID": 3858,
     "Creates": 4323,
     "Learn": 170,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Silk Cloth": 4,
       "Silken Thread": 1,
@@ -585,7 +585,7 @@
     "ID": 3859,
     "Creates": 4324,
     "Learn": 150,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Silk Cloth": 5,
       "Blue Dye": 4
@@ -599,7 +599,7 @@
     "ID": 3860,
     "Creates": 4325,
     "Learn": 175,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Silk Cloth": 4,
       "Silken Thread": 1,
@@ -615,7 +615,7 @@
     "ID": 3861,
     "Creates": 4326,
     "Learn": 185,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Silk Cloth": 4,
       "Mana Potion": 1,
@@ -630,7 +630,7 @@
     "ID": 3862,
     "Creates": 4327,
     "Learn": 200,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Mageweave": 3,
       "Silken Thread": 2,
@@ -647,7 +647,7 @@
     "ID": 3863,
     "Creates": 4328,
     "Learn": 180,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Silk Cloth": 4,
       "Thick Spider's Silk": 2,
@@ -663,7 +663,7 @@
     "ID": 3864,
     "Creates": 4329,
     "Learn": 200,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Mageweave": 4,
       "Heavy Leather": 4,
@@ -681,7 +681,7 @@
     "ID": 3865,
     "Creates": 4339,
     "Learn": 175,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Mageweave Cloth": 4
     },
@@ -694,7 +694,7 @@
     "ID": 3866,
     "Creates": 4330,
     "Learn": 110,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Woolen Cloth": 3,
       "Red Dye": 2,
@@ -709,7 +709,7 @@
     "ID": 3868,
     "Creates": 4331,
     "Learn": 125,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Woolen Cloth": 4,
       "Iridescent Pearl": 1,
@@ -726,7 +726,7 @@
     "ID": 3869,
     "Creates": 4332,
     "Learn": 135,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Silk Cloth": 1,
       "Yellow Dye": 1,
@@ -742,7 +742,7 @@
     "ID": 3870,
     "Creates": 4333,
     "Learn": 155,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Silk Cloth": 2,
       "Gray Dye": 2,
@@ -758,7 +758,7 @@
     "ID": 3871,
     "Creates": 4334,
     "Learn": 170,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Silk Cloth": 3,
       "Bleach": 2,
@@ -773,7 +773,7 @@
     "ID": 3872,
     "Creates": 4335,
     "Learn": 185,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Silk Cloth": 4,
       "Purple Dye": 1,
@@ -789,7 +789,7 @@
     "ID": 3873,
     "Creates": 4336,
     "Learn": 200,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Silk Cloth": 5,
       "Black Dye": 1,
@@ -805,7 +805,7 @@
     "ID": 3914,
     "Creates": 4343,
     "Learn": 30,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Linen Cloth": 2,
       "Coarse Thread": 1
@@ -819,7 +819,7 @@
     "ID": 3915,
     "Creates": 4344,
     "Learn": 1,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Linen Cloth": 1,
       "Coarse Thread": 1
@@ -833,7 +833,7 @@
     "ID": 6521,
     "Creates": 5542,
     "Learn": 90,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Woolen Cloth": 3,
       "Fine Thread": 2,
@@ -848,7 +848,7 @@
     "ID": 6686,
     "Creates": 5762,
     "Learn": 70,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Linen Cloth": 4,
       "Fine Thread": 1,
@@ -864,7 +864,7 @@
     "ID": 6688,
     "Creates": 5763,
     "Learn": 115,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Woolen Cloth": 4,
       "Red Dye": 1,
@@ -880,7 +880,7 @@
     "ID": 6690,
     "Creates": 5766,
     "Learn": 135,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Silk Cloth": 2,
       "Fine Thread": 2,
@@ -895,7 +895,7 @@
     "ID": 6692,
     "Creates": 5770,
     "Learn": 150,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Silk Cloth": 4,
       "Fine Thread": 2,
@@ -911,7 +911,7 @@
     "ID": 6693,
     "Creates": 5764,
     "Learn": 175,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Silk Cloth": 4,
       "Heavy Leather": 3,
@@ -928,7 +928,7 @@
     "ID": 6695,
     "Creates": 5765,
     "Learn": 185,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Silk Cloth": 5,
       "Black Dye": 1,
@@ -944,7 +944,7 @@
     "ID": 7623,
     "Creates": 6238,
     "Learn": 30,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Linen Cloth": 3,
       "Coarse Thread": 1
@@ -958,7 +958,7 @@
     "ID": 7624,
     "Creates": 6241,
     "Learn": 30,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Linen Cloth": 3,
       "Coarse Thread": 1,
@@ -973,7 +973,7 @@
     "ID": 7629,
     "Creates": 6239,
     "Learn": 55,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Linen Cloth": 3,
       "Coarse Thread": 1,
@@ -989,7 +989,7 @@
     "ID": 7630,
     "Creates": 6240,
     "Learn": 55,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Linen Cloth": 3,
       "Coarse Thread": 1,
@@ -1005,7 +1005,7 @@
     "ID": 7633,
     "Creates": 6242,
     "Learn": 70,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Linen Cloth": 4,
       "Coarse Thread": 2,
@@ -1021,7 +1021,7 @@
     "ID": 7639,
     "Creates": 6263,
     "Learn": 100,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Woolen Cloth": 4,
       "Fine Thread": 2,
@@ -1037,7 +1037,7 @@
     "ID": 7643,
     "Creates": 6264,
     "Learn": 115,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Woolen Cloth": 5,
       "Fine Thread": 3,
@@ -1053,7 +1053,7 @@
     "ID": 7892,
     "Creates": 6384,
     "Learn": 120,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Woolen Cloth": 4,
       "Blue Dye": 2,
@@ -1070,7 +1070,7 @@
     "ID": 7893,
     "Creates": 6385,
     "Learn": 120,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Woolen Cloth": 4,
       "Green Dye": 2,
@@ -1087,7 +1087,7 @@
     "ID": 8465,
     "Creates": 6786,
     "Learn": 40,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Linen Cloth": 2,
       "Coarse Thread": 1,
@@ -1103,7 +1103,7 @@
     "ID": 8467,
     "Creates": 6787,
     "Learn": 110,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Woolen Cloth": 3,
       "Bleach": 4,
@@ -1118,7 +1118,7 @@
     "ID": 8483,
     "Creates": 6795,
     "Learn": 160,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Silk Cloth": 3,
       "Bleach": 2,
@@ -1133,7 +1133,7 @@
     "ID": 8489,
     "Creates": 6796,
     "Learn": 175,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Silk Cloth": 3,
       "Red Dye": 2,
@@ -1148,7 +1148,7 @@
     "ID": 8758,
     "Creates": 7046,
     "Learn": 140,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Silk Cloth": 4,
       "Blue Dye": 2,
@@ -1163,7 +1163,7 @@
     "ID": 8760,
     "Creates": 7048,
     "Learn": 145,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Silk Cloth": 2,
       "Blue Dye": 2,
@@ -1178,7 +1178,7 @@
     "ID": 8762,
     "Creates": 7050,
     "Learn": 160,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Silk Cloth": 3,
       "Fine Thread": 2
@@ -1192,7 +1192,7 @@
     "ID": 8764,
     "Creates": 7051,
     "Learn": 170,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Silk Cloth": 3,
       "Elemental Earth": 1,
@@ -1207,7 +1207,7 @@
     "ID": 8766,
     "Creates": 7052,
     "Learn": 175,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Silk Cloth": 4,
       "Elemental Water": 1,
@@ -1224,7 +1224,7 @@
     "ID": 8770,
     "Creates": 7054,
     "Learn": 190,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Mageweave": 2,
       "Elemental Earth": 2,
@@ -1242,7 +1242,7 @@
     "ID": 8772,
     "Creates": 7055,
     "Learn": 175,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Silk Cloth": 4,
       "Iron Buckle": 1,
@@ -1258,7 +1258,7 @@
     "ID": 8774,
     "Creates": 7057,
     "Learn": 180,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Silk Cloth": 5,
       "Silken Thread": 2
@@ -1272,7 +1272,7 @@
     "ID": 8776,
     "Creates": 7026,
     "Learn": 15,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Linen Cloth": 1,
       "Coarse Thread": 1
@@ -1286,7 +1286,7 @@
     "ID": 8780,
     "Creates": 7047,
     "Learn": 145,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Silk Cloth": 3,
       "Heavy Leather": 2,
@@ -1303,7 +1303,7 @@
     "ID": 8782,
     "Creates": 7049,
     "Learn": 150,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Silk Cloth": 3,
       "Heavy Leather": 2,
@@ -1320,7 +1320,7 @@
     "ID": 8784,
     "Creates": 7065,
     "Learn": 165,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Silk Cloth": 5,
       "Green Dye": 2,
@@ -1336,7 +1336,7 @@
     "ID": 8786,
     "Creates": 7053,
     "Learn": 175,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Silk Cloth": 3,
       "Blue Dye": 2,
@@ -1352,7 +1352,7 @@
     "ID": 8789,
     "Creates": 7056,
     "Learn": 180,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Silk Cloth": 5,
       "Red Dye": 2,
@@ -1369,7 +1369,7 @@
     "ID": 8791,
     "Creates": 7058,
     "Learn": 185,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Silk Cloth": 4,
       "Red Dye": 2,
@@ -1384,7 +1384,7 @@
     "ID": 8793,
     "Creates": 7059,
     "Learn": 190,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Silk Cloth": 5,
       "Fire Oil": 2,
@@ -1401,7 +1401,7 @@
     "ID": 8795,
     "Creates": 7060,
     "Learn": 190,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Silk Cloth": 6,
       "Naga Scale": 2,
@@ -1418,7 +1418,7 @@
     "ID": 8797,
     "Creates": 7061,
     "Learn": 195,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Silk Cloth": 5,
       "Elemental Earth": 4,
@@ -1436,7 +1436,7 @@
     "ID": 8799,
     "Creates": 7062,
     "Learn": 195,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Silk Cloth": 4,
       "Red Dye": 2,
@@ -1451,7 +1451,7 @@
     "ID": 8802,
     "Creates": 7063,
     "Learn": 205,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Silk Cloth": 8,
       "Elemental Fire": 4,
@@ -1469,7 +1469,7 @@
     "ID": 8804,
     "Creates": 7064,
     "Learn": 210,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Silk Cloth": 6,
       "Elemental Fire": 2,
@@ -1487,7 +1487,7 @@
     "ID": 12044,
     "Creates": 10045,
     "Learn": 1,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Linen Cloth": 1,
       "Coarse Thread": 1
@@ -1501,7 +1501,7 @@
     "ID": 12045,
     "Creates": 10046,
     "Learn": 20,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Linen Cloth": 2,
       "Light Leather": 1,
@@ -1516,7 +1516,7 @@
     "ID": 12046,
     "Creates": 10047,
     "Learn": 75,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Linen Cloth": 4,
       "Fine Thread": 1
@@ -1530,7 +1530,7 @@
     "ID": 12047,
     "Creates": 10048,
     "Learn": 120,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Woolen Cloth": 5,
       "Red Dye": 3,
@@ -1546,7 +1546,7 @@
     "ID": 12048,
     "Creates": 9998,
     "Learn": 205,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Mageweave": 2,
       "Silken Thread": 3
@@ -1560,7 +1560,7 @@
     "ID": 12049,
     "Creates": 9999,
     "Learn": 205,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Mageweave": 2,
       "Silken Thread": 3
@@ -1574,7 +1574,7 @@
     "ID": 12050,
     "Creates": 10001,
     "Learn": 210,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Mageweave": 3,
       "Heavy Silken Thread": 1
@@ -1588,7 +1588,7 @@
     "ID": 12052,
     "Creates": 10002,
     "Learn": 210,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Mageweave": 3,
       "Shadow Silk": 2,
@@ -1603,7 +1603,7 @@
     "ID": 12053,
     "Creates": 10003,
     "Learn": 215,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Mageweave": 2,
       "Heavy Silken Thread": 2
@@ -1617,7 +1617,7 @@
     "ID": 12055,
     "Creates": 10004,
     "Learn": 215,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Mageweave": 3,
       "Shadow Silk": 2,
@@ -1632,7 +1632,7 @@
     "ID": 12056,
     "Creates": 10007,
     "Learn": 215,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Mageweave": 3,
       "Red Dye": 2,
@@ -1648,7 +1648,7 @@
     "ID": 12059,
     "Creates": 10008,
     "Learn": 215,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Mageweave": 1,
       "Bleach": 1,
@@ -1664,7 +1664,7 @@
     "ID": 12060,
     "Creates": 10009,
     "Learn": 215,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Mageweave": 3,
       "Red Dye": 2,
@@ -1680,7 +1680,7 @@
     "ID": 12061,
     "Creates": 10056,
     "Learn": 215,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Mageweave": 1,
       "Orange Dye": 1,
@@ -1695,7 +1695,7 @@
     "ID": 12064,
     "Creates": 10052,
     "Learn": 220,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Mageweave": 2,
       "Orange Dye": 2,
@@ -1711,7 +1711,7 @@
     "ID": 12065,
     "Creates": 10050,
     "Learn": 225,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Mageweave": 4,
       "Silken Thread": 2
@@ -1725,7 +1725,7 @@
     "ID": 12066,
     "Creates": 10018,
     "Learn": 225,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Mageweave": 3,
       "Red Dye": 2,
@@ -1741,7 +1741,7 @@
     "ID": 12067,
     "Creates": 10019,
     "Learn": 225,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Mageweave": 4,
       "Wildvine": 4,
@@ -1757,7 +1757,7 @@
     "ID": 12069,
     "Creates": 10042,
     "Learn": 225,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Mageweave": 5,
       "Heart of Fire": 2,
@@ -1772,7 +1772,7 @@
     "ID": 12070,
     "Creates": 10021,
     "Learn": 225,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Mageweave": 6,
       "Wildvine": 6,
@@ -1788,7 +1788,7 @@
     "ID": 12071,
     "Creates": 10023,
     "Learn": 225,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Mageweave": 5,
       "Shadow Silk": 5,
@@ -1803,7 +1803,7 @@
     "ID": 12072,
     "Creates": 10024,
     "Learn": 230,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Mageweave": 3,
       "Heavy Silken Thread": 2
@@ -1817,7 +1817,7 @@
     "ID": 12073,
     "Creates": 10026,
     "Learn": 230,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Mageweave": 3,
       "Heavy Silken Thread": 2,
@@ -1832,7 +1832,7 @@
     "ID": 12074,
     "Creates": 10027,
     "Learn": 230,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Mageweave": 3,
       "Heavy Silken Thread": 2
@@ -1846,7 +1846,7 @@
     "ID": 12075,
     "Creates": 10054,
     "Learn": 230,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Mageweave": 2,
       "Purple Dye": 2,
@@ -1862,7 +1862,7 @@
     "ID": 12076,
     "Creates": 10028,
     "Learn": 235,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Mageweave": 5,
       "Shadow Silk": 4,
@@ -1877,7 +1877,7 @@
     "ID": 12077,
     "Creates": 10053,
     "Learn": 235,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Mageweave": 3,
       "Black Dye": 1,
@@ -1893,7 +1893,7 @@
     "ID": 12078,
     "Creates": 10029,
     "Learn": 235,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Mageweave": 4,
       "Red Dye": 2,
@@ -1909,7 +1909,7 @@
     "ID": 12079,
     "Creates": 10051,
     "Learn": 235,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Mageweave": 4,
       "Red Dye": 2,
@@ -1924,7 +1924,7 @@
     "ID": 12080,
     "Creates": 10055,
     "Learn": 235,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Mageweave": 3,
       "Pink Dye": 1,
@@ -1940,7 +1940,7 @@
     "ID": 12081,
     "Creates": 10030,
     "Learn": 240,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Mageweave": 3,
       "Long Elegant Feather": 6,
@@ -1956,7 +1956,7 @@
     "ID": 12082,
     "Creates": 10031,
     "Learn": 240,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Mageweave": 6,
       "Shadow Silk": 6,
@@ -1972,7 +1972,7 @@
     "ID": 12084,
     "Creates": 10033,
     "Learn": 240,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Mageweave": 4,
       "Red Dye": 2,
@@ -1988,7 +1988,7 @@
     "ID": 12085,
     "Creates": 10034,
     "Learn": 240,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Mageweave": 4,
       "Heavy Silken Thread": 2
@@ -2003,7 +2003,7 @@
     "ID": 12086,
     "Creates": 10025,
     "Learn": 245,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Mageweave": 2,
       "Shadow Silk": 8,
@@ -2019,7 +2019,7 @@
     "ID": 12088,
     "Creates": 10044,
     "Learn": 245,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Mageweave": 5,
       "Heavy Silken Thread": 3
@@ -2033,7 +2033,7 @@
     "ID": 12089,
     "Creates": 10035,
     "Learn": 245,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Mageweave": 4,
       "Heavy Silken Thread": 3
@@ -2048,7 +2048,7 @@
     "ID": 12091,
     "Creates": 10040,
     "Learn": 250,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Mageweave": 5,
       "Heavy Silken Thread": 3,
@@ -2064,7 +2064,7 @@
     "ID": 12092,
     "Creates": 10041,
     "Learn": 250,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Mageweave": 8,
       "Wildvine": 4,
@@ -2082,7 +2082,7 @@
     "ID": 12093,
     "Creates": 10036,
     "Learn": 250,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Mageweave": 5,
       "Heavy Silken Thread": 3
@@ -2097,7 +2097,7 @@
     "ID": 18401,
     "Creates": 14048,
     "Learn": 250,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Runecloth": 4
     },
@@ -2110,7 +2110,7 @@
     "ID": 18402,
     "Creates": 13856,
     "Learn": 255,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Runecloth": 3,
       "Rune Thread": 1
@@ -2124,7 +2124,7 @@
     "ID": 18403,
     "Creates": 13869,
     "Learn": 255,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Runecloth": 5,
       "Blue Dye": 2,
@@ -2140,7 +2140,7 @@
     "ID": 18404,
     "Creates": 13868,
     "Learn": 255,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Runecloth": 5,
       "Globe of Water": 2,
@@ -2156,7 +2156,7 @@
     "ID": 18405,
     "Creates": 14046,
     "Learn": 260,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Runecloth": 5,
       "Rugged Leather": 2,
@@ -2172,7 +2172,7 @@
     "ID": 18406,
     "Creates": 13858,
     "Learn": 260,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Runecloth": 5,
       "Ironweb Spider Silk": 1,
@@ -2188,7 +2188,7 @@
     "ID": 18407,
     "Creates": 13857,
     "Learn": 260,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Runecloth": 5,
       "Ironweb Spider Silk": 1,
@@ -2204,7 +2204,7 @@
     "ID": 18408,
     "Creates": 14042,
     "Learn": 260,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Runecloth": 5,
       "Heart of Fire": 2,
@@ -2220,7 +2220,7 @@
     "ID": 18409,
     "Creates": 13860,
     "Learn": 265,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Runecloth": 4,
       "Ironweb Spider Silk": 1
@@ -2235,7 +2235,7 @@
     "ID": 18410,
     "Creates": 14143,
     "Learn": 265,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Runecloth": 2,
       "Ghost Dye": 2
@@ -2250,7 +2250,7 @@
     "ID": 18411,
     "Creates": 13870,
     "Learn": 265,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Runecloth": 5,
       "Blue Dye": 2,
@@ -2266,7 +2266,7 @@
     "ID": 18412,
     "Creates": 14043,
     "Learn": 270,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Runecloth": 4,
       "Heart of Fire": 2,
@@ -2282,7 +2282,7 @@
     "ID": 18413,
     "Creates": 14142,
     "Learn": 270,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Runecloth": 2,
       "Ghost Dye": 2
@@ -2297,7 +2297,7 @@
     "ID": 18414,
     "Creates": 14100,
     "Learn": 270,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Runecloth": 4,
       "Gold Bar": 2
@@ -2312,7 +2312,7 @@
     "ID": 18415,
     "Creates": 14101,
     "Learn": 270,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Runecloth": 4,
       "Gold Bar": 2
@@ -2327,7 +2327,7 @@
     "ID": 18416,
     "Creates": 14141,
     "Learn": 275,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Runecloth": 2,
       "Ghost Dye": 3
@@ -2342,7 +2342,7 @@
     "ID": 18417,
     "Creates": 13863,
     "Learn": 275,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Runecloth": 5,
       "Rune Thread": 2
@@ -2357,7 +2357,7 @@
     "ID": 18418,
     "Creates": 14044,
     "Learn": 275,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Runecloth": 5,
       "Essence of Fire": 1,
@@ -2373,7 +2373,7 @@
     "ID": 18419,
     "Creates": 14107,
     "Learn": 275,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Runecloth": 5,
       "Felcloth": 2,
@@ -2389,7 +2389,7 @@
     "ID": 18420,
     "Creates": 14103,
     "Learn": 275,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Runecloth": 4,
       "Gold Bar": 2
@@ -2404,7 +2404,7 @@
     "ID": 18421,
     "Creates": 14132,
     "Learn": 275,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Runecloth": 4,
       "Dream Dust": 1,
@@ -2420,7 +2420,7 @@
     "ID": 18422,
     "Creates": 14134,
     "Learn": 275,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Runecloth": 6,
       "Essence of Fire": 4,
@@ -2438,7 +2438,7 @@
     "ID": 18423,
     "Creates": 13864,
     "Learn": 280,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Runecloth": 4,
       "Rugged Leather": 2,
@@ -2454,7 +2454,7 @@
     "ID": 18424,
     "Creates": 13871,
     "Learn": 280,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Runecloth": 6,
       "Blue Dye": 2,
@@ -2470,7 +2470,7 @@
     "ID": 18434,
     "Creates": 14045,
     "Learn": 280,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Runecloth": 6,
       "Essence of Fire": 1,
@@ -2486,7 +2486,7 @@
     "ID": 18436,
     "Creates": 14136,
     "Learn": 285,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Runecloth": 10,
       "Felcloth": 12,
@@ -2504,7 +2504,7 @@
     "ID": 18437,
     "Creates": 14108,
     "Learn": 285,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Runecloth": 2,
       "Felcloth": 2,
@@ -2521,7 +2521,7 @@
     "ID": 18438,
     "Creates": 13865,
     "Learn": 285,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Runecloth": 5,
       "Ironweb Spider Silk": 2,
@@ -2537,7 +2537,7 @@
     "ID": 18439,
     "Creates": 14104,
     "Learn": 290,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Runecloth": 6,
       "Gold Bar": 4
@@ -2552,7 +2552,7 @@
     "ID": 18440,
     "Creates": 14137,
     "Learn": 290,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Runecloth": 6,
       "Mooncloth": 4,
@@ -2568,7 +2568,7 @@
     "ID": 18441,
     "Creates": 14144,
     "Learn": 290,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Runecloth": 3,
       "Ghost Dye": 4
@@ -2583,7 +2583,7 @@
     "ID": 18442,
     "Creates": 14111,
     "Learn": 290,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Runecloth": 2,
       "Felcloth": 2,
@@ -2599,7 +2599,7 @@
     "ID": 18444,
     "Creates": 13866,
     "Learn": 295,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Runecloth": 6,
       "Rune Thread": 2
@@ -2614,7 +2614,7 @@
     "ID": 18445,
     "Creates": 14155,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Runecloth": 4,
       "Mooncloth": 1,
@@ -2630,7 +2630,7 @@
     "ID": 18446,
     "Creates": 14128,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Runecloth": 8,
       "Dream Dust": 2,
@@ -2646,7 +2646,7 @@
     "ID": 18447,
     "Creates": 14138,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Runecloth": 6,
       "Mooncloth": 4,
@@ -2662,7 +2662,7 @@
     "ID": 18448,
     "Creates": 14139,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Runecloth": 5,
       "Mooncloth": 5,
@@ -2678,7 +2678,7 @@
     "ID": 18449,
     "Creates": 13867,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Runecloth": 7,
       "Ironweb Spider Silk": 2,
@@ -2695,7 +2695,7 @@
     "ID": 18450,
     "Creates": 14130,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Runecloth": 6,
       "Dream Dust": 4,
@@ -2712,7 +2712,7 @@
     "ID": 18451,
     "Creates": 14106,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Runecloth": 8,
       "Felcloth": 3,
@@ -2729,7 +2729,7 @@
     "ID": 18452,
     "Creates": 14140,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Runecloth": 4,
       "Mooncloth": 6,
@@ -2747,7 +2747,7 @@
     "ID": 18453,
     "Creates": 14112,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Runecloth": 7,
       "Felcloth": 3,
@@ -2765,7 +2765,7 @@
     "ID": 18454,
     "Creates": 14146,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Runecloth": 10,
       "Mooncloth": 10,
@@ -2785,7 +2785,7 @@
     "ID": 18455,
     "Creates": 14156,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Runecloth": 8,
       "Mooncloth": 12,
@@ -2803,7 +2803,7 @@
     "ID": 18456,
     "Creates": 14154,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Runecloth": 12,
       "Mooncloth": 10,
@@ -2822,7 +2822,7 @@
     "ID": 18457,
     "Creates": 14152,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Runecloth": 12,
       "Essence of Fire": 10,
@@ -2841,7 +2841,7 @@
     "ID": 18458,
     "Creates": 14153,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Runecloth": 12,
       "Demonic Rune": 20,
@@ -2860,7 +2860,7 @@
     "ID": 18560,
     "Creates": 14342,
     "Learn": 250,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Felcloth": 2
     },
@@ -2874,7 +2874,7 @@
     "ID": 19435,
     "Creates": 15802,
     "Learn": 290,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Runecloth": 6,
       "Mooncloth": 4,
@@ -2890,7 +2890,7 @@
     "ID": 20848,
     "Creates": 16980,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Runecloth": 12,
       "Fiery Core": 4,
@@ -2908,7 +2908,7 @@
     "ID": 20849,
     "Creates": 16979,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Runecloth": 8,
       "Fiery Core": 6,
@@ -2926,7 +2926,7 @@
     "ID": 21945,
     "Creates": 17723,
     "Learn": 190,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Silk Cloth": 5,
       "Green Dye": 4,
@@ -2942,7 +2942,7 @@
     "ID": 22759,
     "Creates": 18263,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Mooncloth": 6,
       "Fiery Core": 8,
@@ -2960,7 +2960,7 @@
     "ID": 22813,
     "Creates": 18258,
     "Learn": 285,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Runecloth": 2,
       "Rugged Leather": 4,
@@ -2976,7 +2976,7 @@
     "ID": 22866,
     "Creates": 18405,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Runecloth": 16,
       "Ghost Dye": 10,
@@ -2996,7 +2996,7 @@
     "ID": 22867,
     "Creates": 18407,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Runecloth": 12,
       "Felcloth": 20,
@@ -3014,7 +3014,7 @@
     "ID": 22868,
     "Creates": 18408,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Runecloth": 12,
       "Essence of Fire": 10,
@@ -3031,7 +3031,7 @@
     "ID": 22869,
     "Creates": 18409,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Runecloth": 12,
       "Mooncloth": 6,
@@ -3048,7 +3048,7 @@
     "ID": 22870,
     "Creates": 18413,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Runecloth": 12,
       "Guardian Stone": 4,
@@ -3065,7 +3065,7 @@
     "ID": 22902,
     "Creates": 18486,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Runecloth": 6,
       "Mooncloth": 4,
@@ -3082,7 +3082,7 @@
     "ID": 23662,
     "Creates": 19047,
     "Learn": 290,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Runecloth": 8,
       "Essence of Earth": 3,
@@ -3099,7 +3099,7 @@
     "ID": 23663,
     "Creates": 19050,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Mooncloth": 5,
       "Essence of Earth": 5,
@@ -3116,7 +3116,7 @@
     "ID": 23664,
     "Creates": 19056,
     "Learn": 290,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Runecloth": 6,
       "Enchanted Leather": 4,
@@ -3134,7 +3134,7 @@
     "ID": 23665,
     "Creates": 19059,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Mooncloth": 5,
       "Guardian Stone": 2,
@@ -3150,7 +3150,7 @@
     "ID": 23666,
     "Creates": 19156,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Mooncloth": 10,
       "Fiery Core": 2,
@@ -3168,7 +3168,7 @@
     "ID": 23667,
     "Creates": 19165,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Mooncloth": 8,
       "Fiery Core": 5,
@@ -3186,7 +3186,7 @@
     "ID": 24091,
     "Creates": 19682,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Mooncloth": 3,
       "Bloodvine": 3,
@@ -3203,7 +3203,7 @@
     "ID": 24092,
     "Creates": 19683,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Mooncloth": 4,
       "Bloodvine": 4,
@@ -3220,7 +3220,7 @@
     "ID": 24093,
     "Creates": 19684,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Mooncloth": 4,
       "Bloodvine": 4,
@@ -3236,7 +3236,7 @@
     "ID": 24901,
     "Creates": 20538,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Runecloth": 6,
       "Dark Rune": 8,
@@ -3253,7 +3253,7 @@
     "ID": 24902,
     "Creates": 20539,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Runecloth": 2,
       "Dark Rune": 6,
@@ -3271,7 +3271,7 @@
     "ID": 24903,
     "Creates": 20537,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Runecloth": 4,
       "Dark Rune": 6,
@@ -3289,7 +3289,7 @@
     "ID": 26085,
     "Creates": 21340,
     "Learn": 260,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Runecloth": 6,
       "Rugged Leather": 4,
@@ -3306,7 +3306,7 @@
     "ID": 26086,
     "Creates": 21341,
     "Learn": 285,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Felcloth": 12,
       "Enchanted Leather": 6,
@@ -3323,7 +3323,7 @@
     "ID": 26087,
     "Creates": 21342,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Felcloth": 20,
       "Core Leather": 16,
@@ -3340,7 +3340,7 @@
     "ID": 26403,
     "Creates": 21154,
     "Learn": 250,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Runecloth": 4,
       "Firebloom": 2,
@@ -3357,7 +3357,7 @@
     "ID": 26407,
     "Creates": 21542,
     "Learn": 250,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Runecloth": 4,
       "Firebloom": 2,
@@ -3374,7 +3374,7 @@
     "ID": 26745,
     "Creates": 21840,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Netherweave Cloth": 5
     },
@@ -3387,7 +3387,7 @@
     "ID": 26746,
     "Creates": 21841,
     "Learn": 315,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Netherweave": 4,
       "Rune Thread": 1
@@ -3401,7 +3401,7 @@
     "ID": 26747,
     "Creates": 21842,
     "Learn": 325,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Netherweave": 3,
       "Arcane Dust": 2
@@ -3416,7 +3416,7 @@
     "ID": 26749,
     "Creates": 21843,
     "Learn": 340,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Imbued Netherweave": 4,
       "Netherweb Spider Silk": 2,
@@ -3432,7 +3432,7 @@
     "ID": 26750,
     "Creates": 21844,
     "Learn": 345,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Netherweave": 1,
       "Soul Essence": 8
@@ -3447,7 +3447,7 @@
     "ID": 26751,
     "Creates": 21845,
     "Learn": 350,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Imbued Netherweave": 1,
       "Primal Life": 1,
@@ -3463,7 +3463,7 @@
     "ID": 26752,
     "Creates": 21846,
     "Learn": 355,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Spellcloth": 4,
       "Primal Fire": 10,
@@ -3479,7 +3479,7 @@
     "ID": 26753,
     "Creates": 21847,
     "Learn": 365,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Spellcloth": 8,
       "Primal Fire": 12,
@@ -3495,7 +3495,7 @@
     "ID": 26754,
     "Creates": 21848,
     "Learn": 375,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Spellcloth": 14,
       "Primal Fire": 16,
@@ -3511,7 +3511,7 @@
     "ID": 26755,
     "Creates": 21858,
     "Learn": 375,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Spellcloth": 6,
       "Greater Planar Essence": 4,
@@ -3527,7 +3527,7 @@
     "ID": 26756,
     "Creates": 21869,
     "Learn": 355,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Shadowcloth": 4,
       "Primal Water": 10,
@@ -3543,7 +3543,7 @@
     "ID": 26757,
     "Creates": 21870,
     "Learn": 365,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Shadowcloth": 8,
       "Primal Water": 12,
@@ -3559,7 +3559,7 @@
     "ID": 26758,
     "Creates": 21871,
     "Learn": 375,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Shadowcloth": 14,
       "Primal Water": 16,
@@ -3575,7 +3575,7 @@
     "ID": 26759,
     "Creates": 21872,
     "Learn": 375,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Shadowcloth": 6,
       "Netherweb Spider Silk": 4
@@ -3590,7 +3590,7 @@
     "ID": 26760,
     "Creates": 21873,
     "Learn": 355,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Primal Mooncloth": 4,
       "Netherweb Spider Silk": 2,
@@ -3606,7 +3606,7 @@
     "ID": 26761,
     "Creates": 21874,
     "Learn": 365,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Primal Mooncloth": 8,
       "Netherweb Spider Silk": 2,
@@ -3622,7 +3622,7 @@
     "ID": 26762,
     "Creates": 21875,
     "Learn": 375,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Primal Mooncloth": 14,
       "Primal Mana": 12,
@@ -3638,7 +3638,7 @@
     "ID": 26763,
     "Creates": 21876,
     "Learn": 375,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Primal Mooncloth": 8,
       "Netherweb Spider Silk": 4
@@ -3653,7 +3653,7 @@
     "ID": 26764,
     "Creates": 21849,
     "Learn": 310,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Netherweave": 3,
       "Rune Thread": 1
@@ -3667,7 +3667,7 @@
     "ID": 26765,
     "Creates": 21850,
     "Learn": 310,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Netherweave": 3,
       "Rune Thread": 1
@@ -3681,7 +3681,7 @@
     "ID": 26770,
     "Creates": 21851,
     "Learn": 320,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Netherweave": 4,
       "Knothide Leather": 2,
@@ -3696,7 +3696,7 @@
     "ID": 26771,
     "Creates": 21852,
     "Learn": 325,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Netherweave": 6,
       "Rune Thread": 1
@@ -3710,7 +3710,7 @@
     "ID": 26772,
     "Creates": 21853,
     "Learn": 335,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Netherweave": 6,
       "Knothide Leather": 2,
@@ -3725,7 +3725,7 @@
     "ID": 26773,
     "Creates": 21854,
     "Learn": 340,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Netherweave": 8,
       "Rune Thread": 2
@@ -3740,7 +3740,7 @@
     "ID": 26774,
     "Creates": 21855,
     "Learn": 345,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Netherweave": 8,
       "Rune Thread": 2
@@ -3755,7 +3755,7 @@
     "ID": 26775,
     "Creates": 21859,
     "Learn": 340,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Imbued Netherweave": 5,
       "Netherweb Spider Silk": 2,
@@ -3771,7 +3771,7 @@
     "ID": 26776,
     "Creates": 21860,
     "Learn": 350,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Imbued Netherweave": 4,
       "Knothide Leather": 6,
@@ -3788,7 +3788,7 @@
     "ID": 26777,
     "Creates": 21861,
     "Learn": 360,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Imbued Netherweave": 6,
       "Netherweb Spider Silk": 2,
@@ -3804,7 +3804,7 @@
     "ID": 26778,
     "Creates": 21862,
     "Learn": 360,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Imbued Netherweave": 6,
       "Netherweb Spider Silk": 2,
@@ -3820,7 +3820,7 @@
     "ID": 26779,
     "Creates": 21863,
     "Learn": 355,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Soulcloth": 5,
       "Knothide Leather": 6,
@@ -3836,7 +3836,7 @@
     "ID": 26780,
     "Creates": 21864,
     "Learn": 365,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Soulcloth": 6,
       "Rune Thread": 4
@@ -3851,7 +3851,7 @@
     "ID": 26781,
     "Creates": 21865,
     "Learn": 375,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Soulcloth": 8,
       "Rune Thread": 4
@@ -3866,7 +3866,7 @@
     "ID": 26782,
     "Creates": 21866,
     "Learn": 350,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Netherweave": 6,
       "Arcane Dust": 12,
@@ -3882,7 +3882,7 @@
     "ID": 26783,
     "Creates": 21867,
     "Learn": 360,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Netherweave": 8,
       "Arcane Dust": 16,
@@ -3898,7 +3898,7 @@
     "ID": 26784,
     "Creates": 21868,
     "Learn": 370,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Netherweave": 12,
       "Arcane Dust": 20,
@@ -3914,7 +3914,7 @@
     "ID": 27658,
     "Creates": 22246,
     "Learn": 225,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Mageweave": 4,
       "Vision Dust": 4,
@@ -3930,7 +3930,7 @@
     "ID": 27659,
     "Creates": 22248,
     "Learn": 275,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Runecloth": 5,
       "Greater Eternal Essence": 2,
@@ -3946,7 +3946,7 @@
     "ID": 27660,
     "Creates": 22249,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Runecloth": 6,
       "Large Brilliant Shard": 4,
@@ -3963,7 +3963,7 @@
     "ID": 27724,
     "Creates": 22251,
     "Learn": 275,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Runecloth": 5,
       "Purple Lotus": 10,
@@ -3980,7 +3980,7 @@
     "ID": 27725,
     "Creates": 22252,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Runecloth": 6,
       "Mooncloth": 2,
@@ -3997,7 +3997,7 @@
     "ID": 28205,
     "Creates": 22654,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Frozen Rune": 5,
       "Bolt of Runecloth": 4,
@@ -4014,7 +4014,7 @@
     "ID": 28207,
     "Creates": 22652,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Frozen Rune": 7,
       "Bolt of Runecloth": 8,
@@ -4031,7 +4031,7 @@
     "ID": 28208,
     "Creates": 22658,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Frozen Rune": 5,
       "Bolt of Runecloth": 4,
@@ -4048,7 +4048,7 @@
     "ID": 28209,
     "Creates": 22655,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Frozen Rune": 4,
       "Bolt of Runecloth": 2,
@@ -4065,7 +4065,7 @@
     "ID": 28210,
     "Creates": 22660,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bloodvine": 1,
       "Bolt of Runecloth": 2,
@@ -4082,7 +4082,7 @@
     "ID": 28480,
     "Creates": 22756,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Runecloth": 4,
       "Bloodvine": 2,
@@ -4099,7 +4099,7 @@
     "ID": 28481,
     "Creates": 22757,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Runecloth": 4,
       "Mooncloth": 2,
@@ -4116,7 +4116,7 @@
     "ID": 28482,
     "Creates": 22758,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Runecloth": 2,
       "Living Essence": 4,
@@ -4132,7 +4132,7 @@
     "ID": 31373,
     "Creates": 24271,
     "Learn": 350,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Imbued Netherweave": 1,
       "Primal Mana": 1,
@@ -4148,7 +4148,7 @@
     "ID": 31430,
     "Creates": 24273,
     "Learn": 335,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Rune Thread": 1,
       "Primal Mana": 5
@@ -4163,7 +4163,7 @@
     "ID": 31431,
     "Creates": 24275,
     "Learn": 335,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Rune Thread": 1,
       "Primal Life": 5
@@ -4178,7 +4178,7 @@
     "ID": 31432,
     "Creates": 24274,
     "Learn": 375,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Rune Thread": 1,
       "Primal Mana": 10,
@@ -4194,7 +4194,7 @@
     "ID": 31433,
     "Creates": 24276,
     "Learn": 375,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Rune Thread": 1,
       "Primal Life": 10,
@@ -4210,7 +4210,7 @@
     "ID": 31434,
     "Creates": 24249,
     "Learn": 350,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Imbued Netherweave": 4,
       "Primal Earth": 8
@@ -4225,7 +4225,7 @@
     "ID": 31435,
     "Creates": 24250,
     "Learn": 350,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Imbued Netherweave": 4,
       "Primal Earth": 4,
@@ -4241,7 +4241,7 @@
     "ID": 31437,
     "Creates": 24251,
     "Learn": 350,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Imbued Netherweave": 4,
       "Primal Fire": 8
@@ -4256,7 +4256,7 @@
     "ID": 31438,
     "Creates": 24252,
     "Learn": 350,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Imbued Netherweave": 6,
       "Primal Mana": 3,
@@ -4272,7 +4272,7 @@
     "ID": 31440,
     "Creates": 24253,
     "Learn": 350,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Imbued Netherweave": 6,
       "Primal Earth": 6
@@ -4287,7 +4287,7 @@
     "ID": 31441,
     "Creates": 24254,
     "Learn": 350,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Imbued Netherweave": 6,
       "Primal Life": 6
@@ -4302,7 +4302,7 @@
     "ID": 31442,
     "Creates": 24255,
     "Learn": 365,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Primal Mooncloth": 8,
       "Primal Earth": 16,
@@ -4318,7 +4318,7 @@
     "ID": 31443,
     "Creates": 24256,
     "Learn": 365,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Shadowcloth": 10,
       "Primal Fire": 16,
@@ -4334,7 +4334,7 @@
     "ID": 31444,
     "Creates": 24257,
     "Learn": 365,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Imbued Netherweave": 6,
       "Primal Mana": 14,
@@ -4350,7 +4350,7 @@
     "ID": 31448,
     "Creates": 24258,
     "Learn": 365,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Primal Mooncloth": 10,
       "Primal Earth": 12,
@@ -4366,7 +4366,7 @@
     "ID": 31449,
     "Creates": 24259,
     "Learn": 365,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Shadowcloth": 10,
       "Primal Air": 14,
@@ -4382,7 +4382,7 @@
     "ID": 31450,
     "Creates": 24260,
     "Learn": 365,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Spellcloth": 10,
       "Primal Mana": 12,
@@ -4398,7 +4398,7 @@
     "ID": 31451,
     "Creates": 24261,
     "Learn": 375,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Primal Mooncloth": 10,
       "Primal Might": 5,
@@ -4414,7 +4414,7 @@
     "ID": 31452,
     "Creates": 24262,
     "Learn": 375,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Spellcloth": 10,
       "Primal Might": 5,
@@ -4430,7 +4430,7 @@
     "ID": 31453,
     "Creates": 24263,
     "Learn": 375,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Imbued Netherweave": 12,
       "Primal Might": 8,
@@ -4446,7 +4446,7 @@
     "ID": 31454,
     "Creates": 24264,
     "Learn": 375,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Primal Mooncloth": 10,
       "Primal Might": 5,
@@ -4462,7 +4462,7 @@
     "ID": 31455,
     "Creates": 24266,
     "Learn": 375,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Spellcloth": 10,
       "Primal Might": 5,
@@ -4478,7 +4478,7 @@
     "ID": 31456,
     "Creates": 24267,
     "Learn": 375,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Imbued Netherweave": 12,
       "Primal Might": 8,
@@ -4494,7 +4494,7 @@
     "ID": 31459,
     "Creates": 24270,
     "Learn": 340,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Imbued Netherweave": 6,
       "Knothide Leather": 4
@@ -4509,7 +4509,7 @@
     "ID": 31460,
     "Creates": 24268,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Netherweave Cloth": 3
     },
@@ -4522,7 +4522,7 @@
     "ID": 36315,
     "Creates": 30038,
     "Learn": 375,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Nether Vortex": 2,
       "Bolt of Imbued Netherweave": 4,
@@ -4539,7 +4539,7 @@
     "ID": 36316,
     "Creates": 30036,
     "Learn": 375,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Nether Vortex": 2,
       "Bolt of Imbued Netherweave": 4,
@@ -4557,7 +4557,7 @@
     "ID": 36317,
     "Creates": 30037,
     "Learn": 375,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Primal Nether": 2,
       "Shadowcloth": 4,
@@ -4574,7 +4574,7 @@
     "ID": 36318,
     "Creates": 30035,
     "Learn": 375,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Primal Nether": 2,
       "Primal Mooncloth": 4,
@@ -4591,7 +4591,7 @@
     "ID": 36686,
     "Creates": 24272,
     "Learn": 350,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Imbued Netherweave": 1,
       "Primal Shadow": 1,
@@ -4607,7 +4607,7 @@
     "ID": 37873,
     "Creates": 30831,
     "Learn": 350,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Imbued Netherweave": 4,
       "Primal Mana": 3,
@@ -4624,7 +4624,7 @@
     "ID": 37882,
     "Creates": 30837,
     "Learn": 350,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Netherweave": 5,
       "Primal Fire": 5,
@@ -4640,7 +4640,7 @@
     "ID": 37883,
     "Creates": 30838,
     "Learn": 360,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Netherweave": 7,
       "Primal Fire": 7,
@@ -4656,7 +4656,7 @@
     "ID": 37884,
     "Creates": 30839,
     "Learn": 370,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Netherweave": 9,
       "Primal Fire": 9,
@@ -4672,7 +4672,7 @@
     "ID": 40020,
     "Creates": 32391,
     "Learn": 375,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Heart of Darkness": 2,
       "Void Crystal": 1,
@@ -4690,7 +4690,7 @@
     "ID": 40021,
     "Creates": 32392,
     "Learn": 375,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Heart of Darkness": 1,
       "Void Crystal": 1,
@@ -4708,7 +4708,7 @@
     "ID": 40023,
     "Creates": 32389,
     "Learn": 375,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Heart of Darkness": 3,
       "Void Crystal": 1,
@@ -4726,7 +4726,7 @@
     "ID": 40024,
     "Creates": 32390,
     "Learn": 375,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Heart of Darkness": 2,
       "Void Crystal": 1,
@@ -4744,7 +4744,7 @@
     "ID": 40060,
     "Creates": 32420,
     "Learn": 375,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Heart of Darkness": 1,
       "Void Crystal": 1,
@@ -4762,7 +4762,7 @@
     "ID": 41205,
     "Creates": 32586,
     "Learn": 375,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Imbued Netherweave": 3,
       "Spellcloth": 4,
@@ -4779,7 +4779,7 @@
     "ID": 41206,
     "Creates": 32587,
     "Learn": 375,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Imbued Netherweave": 4,
       "Spellcloth": 2,
@@ -4796,7 +4796,7 @@
     "ID": 41207,
     "Creates": 32584,
     "Learn": 375,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Imbued Netherweave": 3,
       "Primal Mooncloth": 4,
@@ -4813,7 +4813,7 @@
     "ID": 41208,
     "Creates": 32585,
     "Learn": 375,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Imbued Netherweave": 4,
       "Primal Mooncloth": 2,
@@ -4830,7 +4830,7 @@
     "ID": 44950,
     "Creates": 34087,
     "Learn": 250,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Runecloth": 4,
       "Bolt of Woolen Cloth": 1,
@@ -4847,7 +4847,7 @@
     "ID": 44958,
     "Creates": 34085,
     "Learn": 250,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Runecloth": 4,
       "Bolt of Woolen Cloth": 1,
@@ -4864,7 +4864,7 @@
     "ID": 46128,
     "Creates": 34366,
     "Learn": 365,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Spellcloth": 10,
       "Shadowcloth": 10,
@@ -4880,7 +4880,7 @@
     "ID": 46129,
     "Creates": 34367,
     "Learn": 365,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Primal Mooncloth": 18,
       "Primal Life": 12,
@@ -4897,7 +4897,7 @@
     "ID": 46130,
     "Creates": 34364,
     "Learn": 365,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Spellcloth": 12,
       "Shadowcloth": 12,
@@ -4913,7 +4913,7 @@
     "ID": 46131,
     "Creates": 34365,
     "Learn": 365,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Primal Mooncloth": 20,
       "Primal Nether": 2
@@ -4928,7 +4928,7 @@
     "ID": 49677,
     "Creates": 6836,
     "Learn": 250,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Mageweave": 4,
       "Thick Leather": 2
@@ -4943,7 +4943,7 @@
     "ID": 50194,
     "Creates": 38225,
     "Learn": 375,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Primal Mooncloth": 4,
       "Fel Lotus": 2
@@ -4958,7 +4958,7 @@
     "ID": 50644,
     "Creates": 38277,
     "Learn": 250,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Mageweave": 5,
       "Black Dye": 2,
@@ -4975,7 +4975,7 @@
     "ID": 50647,
     "Creates": 38278,
     "Learn": 245,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Mageweave": 4,
       "Heavy Silken Thread": 3,
@@ -4990,7 +4990,7 @@
   "Lightweave Embroidery": {
     "ID": 55642,
     "Learn": 420,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Moonshroud": 1,
       "Eternium Thread": 1
@@ -5003,7 +5003,7 @@
   "Darkglow Embroidery": {
     "ID": 55769,
     "Learn": 420,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Ebonweave": 1,
       "Eternium Thread": 1
@@ -5016,7 +5016,7 @@
   "Swordguard Embroidery": {
     "ID": 55777,
     "Learn": 420,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Spellweave": 1,
       "Eternium Thread": 1
@@ -5030,7 +5030,7 @@
     "ID": 55898,
     "Creates": 41509,
     "Learn": 360,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Frostweave Cloth": 6
     },
@@ -5043,7 +5043,7 @@
     "ID": 55899,
     "Creates": 41510,
     "Learn": 350,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Frostweave Cloth": 5
     },
@@ -5056,7 +5056,7 @@
     "ID": 55900,
     "Creates": 41511,
     "Learn": 400,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Frostweave": 2,
       "Infinite Dust": 2
@@ -5070,7 +5070,7 @@
     "ID": 55901,
     "Creates": 41548,
     "Learn": 395,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Frostweave": 8,
       "Eternium Thread": 1
@@ -5084,7 +5084,7 @@
     "ID": 55902,
     "Creates": 41513,
     "Learn": 350,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Frostweave": 3,
       "Eternium Thread": 1
@@ -5098,7 +5098,7 @@
     "ID": 55903,
     "Creates": 41515,
     "Learn": 360,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Frostweave": 4,
       "Eternium Thread": 1
@@ -5112,7 +5112,7 @@
     "ID": 55904,
     "Creates": 44211,
     "Learn": 360,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Frostweave": 3,
       "Eternium Thread": 1
@@ -5126,7 +5126,7 @@
     "ID": 55906,
     "Creates": 41520,
     "Learn": 375,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Frostweave": 4,
       "Eternium Thread": 1
@@ -5140,7 +5140,7 @@
     "ID": 55907,
     "Creates": 41521,
     "Learn": 380,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Frostweave": 5,
       "Eternium Thread": 1
@@ -5154,7 +5154,7 @@
     "ID": 55908,
     "Creates": 41522,
     "Learn": 370,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Frostweave": 3,
       "Eternium Thread": 1
@@ -5168,7 +5168,7 @@
     "ID": 55910,
     "Creates": 41523,
     "Learn": 385,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Frostweave": 7,
       "Eternium Thread": 4,
@@ -5183,7 +5183,7 @@
     "ID": 55911,
     "Creates": 41525,
     "Learn": 390,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Frostweave": 8,
       "Eternium Thread": 4,
@@ -5198,7 +5198,7 @@
     "ID": 55913,
     "Creates": 41528,
     "Learn": 385,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Frostweave": 5,
       "Eternium Thread": 4,
@@ -5213,7 +5213,7 @@
     "ID": 55914,
     "Creates": 41543,
     "Learn": 395,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Frostweave": 7,
       "Eternium Thread": 1
@@ -5227,7 +5227,7 @@
     "ID": 55919,
     "Creates": 41546,
     "Learn": 395,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Frostweave": 8,
       "Eternium Thread": 1
@@ -5241,7 +5241,7 @@
     "ID": 55920,
     "Creates": 41551,
     "Learn": 400,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Frostweave": 8,
       "Eternium Thread": 1
@@ -5255,7 +5255,7 @@
     "ID": 55921,
     "Creates": 41549,
     "Learn": 405,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Frostweave": 10,
       "Eternium Thread": 1
@@ -5269,7 +5269,7 @@
     "ID": 55922,
     "Creates": 41545,
     "Learn": 405,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Frostweave": 9,
       "Eternium Thread": 1
@@ -5283,7 +5283,7 @@
     "ID": 55923,
     "Creates": 41550,
     "Learn": 410,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Frostweave": 10,
       "Eternium Thread": 1
@@ -5297,7 +5297,7 @@
     "ID": 56048,
     "Creates": 41544,
     "Learn": 400,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Frostwoven Boots": 1,
       "Crystallized Shadow": 2
@@ -5311,7 +5311,7 @@
     "ID": 55925,
     "Creates": 41553,
     "Learn": 415,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Imbued Frostweave": 5,
       "Iceweb Spider Silk": 2,
@@ -5326,7 +5326,7 @@
     "ID": 55941,
     "Creates": 41554,
     "Learn": 420,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Imbued Frostweave": 5,
       "Iceweb Spider Silk": 2,
@@ -5341,7 +5341,7 @@
     "ID": 55943,
     "Creates": 41555,
     "Learn": 415,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Imbued Frostweave": 4,
       "Iceweb Spider Silk": 2,
@@ -5356,7 +5356,7 @@
     "ID": 55993,
     "Creates": 41248,
     "Learn": 400,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Frostweave": 4,
       "Red Dye": 1
@@ -5371,7 +5371,7 @@
     "ID": 55994,
     "Creates": 41249,
     "Learn": 400,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Frostweave": 4,
       "Blue Dye": 1
@@ -5386,7 +5386,7 @@
     "ID": 55995,
     "Creates": 41251,
     "Learn": 400,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Frostweave": 4,
       "Yellow Dye": 1
@@ -5401,7 +5401,7 @@
     "ID": 55996,
     "Creates": 41250,
     "Learn": 400,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Frostweave": 4,
       "Green Dye": 1
@@ -5416,7 +5416,7 @@
     "ID": 55997,
     "Creates": 41252,
     "Learn": 400,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Frostweave": 4,
       "Red Dye": 1
@@ -5431,7 +5431,7 @@
     "ID": 55998,
     "Creates": 41253,
     "Learn": 400,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Frostweave": 4,
       "Blue Dye": 1
@@ -5446,7 +5446,7 @@
     "ID": 55999,
     "Creates": 41254,
     "Learn": 400,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Frostweave": 4,
       "Yellow Dye": 1
@@ -5461,7 +5461,7 @@
     "ID": 56000,
     "Creates": 41255,
     "Learn": 400,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Frostweave": 4,
       "Green Dye": 1
@@ -5476,7 +5476,7 @@
     "ID": 56001,
     "Creates": 41594,
     "Learn": 415,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Imbued Frostweave": 1,
       "Eternal Life": 2
@@ -5491,7 +5491,7 @@
     "ID": 56002,
     "Creates": 41593,
     "Learn": 415,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Imbued Frostweave": 1,
       "Eternal Shadow": 2
@@ -5506,7 +5506,7 @@
     "ID": 56003,
     "Creates": 41595,
     "Learn": 415,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Imbued Frostweave": 1,
       "Eternal Fire": 2
@@ -5521,7 +5521,7 @@
     "ID": 56004,
     "Creates": 41597,
     "Learn": 435,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Ebonweave": 4,
       "Spellweave": 2,
@@ -5537,7 +5537,7 @@
     "ID": 56005,
     "Creates": 41600,
     "Learn": 445,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Moonshroud": 4,
       "Ebonweave": 4,
@@ -5553,7 +5553,7 @@
     "ID": 56006,
     "Creates": 41598,
     "Learn": 440,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Spellweave": 4,
       "Moonshroud": 2,
@@ -5569,7 +5569,7 @@
     "ID": 56007,
     "Creates": 41599,
     "Learn": 410,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Imbued Frostweave": 6,
       "Eternium Thread": 2
@@ -5584,7 +5584,7 @@
     "ID": 56008,
     "Creates": 41601,
     "Learn": 400,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Crystallized Life": 2,
       "Iceweb Spider Silk": 2
@@ -5598,7 +5598,7 @@
     "ID": 56009,
     "Creates": 41602,
     "Learn": 430,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Eternal Life": 4,
       "Iceweb Spider Silk": 4,
@@ -5614,7 +5614,7 @@
     "ID": 56010,
     "Creates": 41603,
     "Learn": 400,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Crystallized Fire": 2,
       "Iceweb Spider Silk": 2
@@ -5628,7 +5628,7 @@
     "ID": 56011,
     "Creates": 41604,
     "Learn": 430,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Eternal Fire": 4,
       "Iceweb Spider Silk": 4,
@@ -5644,7 +5644,7 @@
     "ID": 56014,
     "Creates": 41607,
     "Learn": 390,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Frostweave": 7,
       "Northsea Pearl": 1
@@ -5658,7 +5658,7 @@
     "ID": 56015,
     "Creates": 41608,
     "Learn": 395,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Frostweave": 8,
       "Northsea Pearl": 1
@@ -5672,7 +5672,7 @@
     "ID": 56016,
     "Creates": 41609,
     "Learn": 415,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Imbued Frostweave": 5,
       "Eternal Life": 6,
@@ -5690,7 +5690,7 @@
     "ID": 56017,
     "Creates": 41610,
     "Learn": 420,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Imbued Frostweave": 5,
       "Eternal Fire": 6,
@@ -5708,7 +5708,7 @@
     "ID": 56018,
     "Creates": 41984,
     "Learn": 425,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Ebonweave": 1,
       "Bolt of Imbued Frostweave": 6,
@@ -5725,7 +5725,7 @@
     "ID": 56019,
     "Creates": 41985,
     "Learn": 420,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Spellweave": 1,
       "Bolt of Imbued Frostweave": 5,
@@ -5743,7 +5743,7 @@
     "ID": 56020,
     "Creates": 41986,
     "Learn": 420,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Spellweave": 1,
       "Bolt of Imbued Frostweave": 4,
@@ -5759,7 +5759,7 @@
     "ID": 56021,
     "Creates": 42093,
     "Learn": 425,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Moonshroud": 1,
       "Bolt of Imbued Frostweave": 6,
@@ -5776,7 +5776,7 @@
     "ID": 56022,
     "Creates": 42095,
     "Learn": 420,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Moonshroud": 1,
       "Bolt of Imbued Frostweave": 4,
@@ -5793,7 +5793,7 @@
     "ID": 56023,
     "Creates": 42096,
     "Learn": 420,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Moonshroud": 1,
       "Bolt of Imbued Frostweave": 4,
@@ -5811,7 +5811,7 @@
     "ID": 56024,
     "Creates": 42100,
     "Learn": 440,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Moonshroud": 8,
       "Bolt of Imbued Frostweave": 6,
@@ -5828,7 +5828,7 @@
     "ID": 56025,
     "Creates": 42103,
     "Learn": 435,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Moonshroud": 4,
       "Bolt of Imbued Frostweave": 4,
@@ -5845,7 +5845,7 @@
     "ID": 56026,
     "Creates": 42101,
     "Learn": 440,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Ebonweave": 8,
       "Bolt of Imbued Frostweave": 6,
@@ -5862,7 +5862,7 @@
     "ID": 56027,
     "Creates": 42111,
     "Learn": 435,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Ebonweave": 4,
       "Bolt of Imbued Frostweave": 4,
@@ -5879,7 +5879,7 @@
     "ID": 56028,
     "Creates": 42102,
     "Learn": 440,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Spellweave": 8,
       "Bolt of Imbued Frostweave": 6,
@@ -5896,7 +5896,7 @@
     "ID": 56029,
     "Creates": 42113,
     "Learn": 435,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Spellweave": 4,
       "Bolt of Imbued Frostweave": 4,
@@ -5913,7 +5913,7 @@
     "ID": 56030,
     "Creates": 41519,
     "Learn": 380,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Frostweave": 5,
       "Eternium Thread": 1
@@ -5927,7 +5927,7 @@
     "ID": 56031,
     "Creates": 41512,
     "Learn": 350,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Frostweave": 3,
       "Eternium Thread": 1
@@ -5940,7 +5940,7 @@
   "Master's Spellthread": {
     "ID": 56034,
     "Learn": 405,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Eternium Thread": 1
     },
@@ -5952,7 +5952,7 @@
   "Sanctified Spellthread": {
     "ID": 56039,
     "Learn": 405,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Eternium Thread": 1
     },
@@ -5965,7 +5965,7 @@
     "ID": 59582,
     "Creates": 43969,
     "Learn": 415,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Imbued Frostweave": 3,
       "Crystallized Fire": 3,
@@ -5981,7 +5981,7 @@
     "ID": 59583,
     "Creates": 43974,
     "Learn": 415,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Imbued Frostweave": 3,
       "Crystallized Fire": 3,
@@ -5997,7 +5997,7 @@
     "ID": 59584,
     "Creates": 43973,
     "Learn": 420,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Imbued Frostweave": 3,
       "Crystallized Fire": 4,
@@ -6013,7 +6013,7 @@
     "ID": 59585,
     "Creates": 43970,
     "Learn": 420,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Imbued Frostweave": 3,
       "Crystallized Fire": 4,
@@ -6029,7 +6029,7 @@
     "ID": 59586,
     "Creates": 41516,
     "Learn": 420,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Imbued Frostweave": 3,
       "Crystallized Fire": 4,
@@ -6045,7 +6045,7 @@
     "ID": 59587,
     "Creates": 43972,
     "Learn": 420,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Imbued Frostweave": 4,
       "Crystallized Fire": 5,
@@ -6061,7 +6061,7 @@
     "ID": 59588,
     "Creates": 43975,
     "Learn": 420,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Imbued Frostweave": 4,
       "Crystallized Fire": 5,
@@ -6077,7 +6077,7 @@
     "ID": 59589,
     "Creates": 43971,
     "Learn": 420,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Imbued Frostweave": 4,
       "Crystallized Fire": 5,
@@ -6093,7 +6093,7 @@
     "ID": 60969,
     "Creates": 44554,
     "Learn": 300,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Netherweave": 6,
       "Golden Draenite": 4,
@@ -6109,7 +6109,7 @@
     "ID": 60971,
     "Creates": 44558,
     "Learn": 425,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Imbued Frostweave": 12,
       "Monarch Topaz": 4,
@@ -6126,7 +6126,7 @@
     "ID": 60990,
     "Creates": 43584,
     "Learn": 420,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Imbued Frostweave": 4,
       "Eternal Fire": 2,
@@ -6143,7 +6143,7 @@
     "ID": 60993,
     "Creates": 43583,
     "Learn": 425,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Imbued Frostweave": 6,
       "Eternal Fire": 3,
@@ -6160,7 +6160,7 @@
     "ID": 60994,
     "Creates": 43585,
     "Learn": 420,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Imbued Frostweave": 4,
       "Eternal Fire": 2,
@@ -6177,7 +6177,7 @@
     "ID": 63203,
     "Creates": 45557,
     "Learn": 450,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Spellweave": 4,
       "Ebonweave": 4,
@@ -6193,7 +6193,7 @@
     "ID": 63204,
     "Creates": 45566,
     "Learn": 450,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Spellweave": 4,
       "Ebonweave": 4,
@@ -6209,7 +6209,7 @@
     "ID": 63205,
     "Creates": 45558,
     "Learn": 450,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Moonshroud": 8,
       "Runed Orb": 6
@@ -6224,7 +6224,7 @@
     "ID": 63206,
     "Creates": 45567,
     "Learn": 450,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Moonshroud": 8,
       "Runed Orb": 6
@@ -6239,7 +6239,7 @@
     "ID": 63742,
     "Creates": 45626,
     "Learn": 125,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Silk Cloth": 3,
       "Spider's Silk": 6,
@@ -6254,7 +6254,7 @@
     "ID": 63924,
     "Creates": 45773,
     "Learn": 435,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Moonshroud": 4,
       "Frost Lotus": 6
@@ -6269,7 +6269,7 @@
     "ID": 64729,
     "Creates": 45811,
     "Learn": 400,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Imbued Frostweave": 4,
       "Iceweb Spider Silk": 4,
@@ -6284,7 +6284,7 @@
     "ID": 64730,
     "Creates": 45810,
     "Learn": 405,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Bolt of Imbued Frostweave": 4,
       "Iceweb Spider Silk": 4,
@@ -6299,7 +6299,7 @@
     "ID": 67144,
     "Creates": 47606,
     "Learn": 450,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Moonshroud": 20,
       "King's Amber": 2,
@@ -6315,7 +6315,7 @@
     "ID": 67147,
     "Creates": 47588,
     "Learn": 450,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Moonshroud": 12,
       "Crusader Orb": 4
@@ -6330,7 +6330,7 @@
     "ID": 67146,
     "Creates": 47604,
     "Learn": 450,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Ebonweave": 8,
       "Spellweave": 8,
@@ -6347,7 +6347,7 @@
     "ID": 67145,
     "Creates": 47586,
     "Learn": 450,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Spellweave": 8,
       "Eye of Zul": 1,
@@ -6365,7 +6365,7 @@
     "ID": 70550,
     "Creates": 49891,
     "Learn": 450,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Spellweave": 10,
       "Ebonweave": 10,
@@ -6381,7 +6381,7 @@
     "ID": 70551,
     "Creates": 49890,
     "Learn": 450,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Spellweave": 6,
       "Ebonweave": 6,
@@ -6397,7 +6397,7 @@
     "ID": 70552,
     "Creates": 49892,
     "Learn": 450,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Moonshroud": 20,
       "Primordial Saronite": 8
@@ -6412,7 +6412,7 @@
     "ID": 70553,
     "Creates": 49893,
     "Learn": 450,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Moonshroud": 10,
       "Primordial Saronite": 5
@@ -6427,7 +6427,7 @@
     "ID": 75597,
     "Creates": 54797,
     "Learn": 425,
-    "Phase": 1,
+    "Phase": 0,
     "Reagents": {
       "Moonshroud": 1,
       "Spellweave": 1,
