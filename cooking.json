@@ -52,6 +52,7 @@
     "Yellow": 90,
     "Green": 110,
     "Grey": 130,
+    "RecipeID": 2697,
     "Source": "Vendor"
   },
   "Westfall Stew": {
@@ -63,6 +64,7 @@
     "Yellow": 115,
     "Green": 135,
     "Grey": 155,
+    "RecipeID": 728,
     "Source": "Vendor"
   },
   "Crab Cake": {
@@ -85,6 +87,7 @@
     "Yellow": 125,
     "Green": 145,
     "Grey": 165,
+    "RecipeID": 2698,
     "Source": "Vendor"
   },
   "Dry Pork Ribs": {
@@ -107,6 +110,7 @@
     "Yellow": 135,
     "Green": 155,
     "Grey": 175,
+    "RecipeID": 2699,
     "Source": "Vendor"
   },
   "Succulent Pork Ribs": {
@@ -118,6 +122,7 @@
     "Yellow": 130,
     "Green": 150,
     "Grey": 170,
+    "RecipeID": 2700,
     "Source": "Vendor"
   },
   "Seasoned Wolf Kabob": {
@@ -129,6 +134,7 @@
     "Yellow": 140,
     "Green": 160,
     "Grey": 180,
+    "RecipeID": 2701,
     "Source": "Vendor"
   },
   "Beer Basted Boar Ribs": {
@@ -140,6 +146,7 @@
     "Yellow": 60,
     "Green": 80,
     "Grey": 100,
+    "RecipeID": 2889,
     "Source": "Vendor"
   },
   "Crocolisk Steak": {
@@ -151,6 +158,7 @@
     "Yellow": 120,
     "Green": 140,
     "Grey": 160,
+    "RecipeID": 3678,
     "Source": "Vendor"
   },
   "Blood Sausage": {
@@ -162,6 +170,7 @@
     "Yellow": 100,
     "Green": 120,
     "Grey": 140,
+    "RecipeID": 3679,
     "Source": "Vendor"
   },
   "Murloc Fin Soup": {
@@ -173,6 +182,7 @@
     "Yellow": 130,
     "Green": 150,
     "Grey": 170,
+    "RecipeID": 3680,
     "Source": "Vendor"
   },
   "Crocolisk Gumbo": {
@@ -184,6 +194,7 @@
     "Yellow": 160,
     "Green": 180,
     "Grey": 200,
+    "RecipeID": 3681,
     "Source": "Vendor"
   },
   "Curiously Tasty Omelet": {
@@ -195,6 +206,7 @@
     "Yellow": 170,
     "Green": 190,
     "Grey": 210,
+    "RecipeID": 3682,
     "Source": "Vendor"
   },
   "Gooey Spider Cake": {
@@ -206,6 +218,7 @@
     "Yellow": 150,
     "Green": 170,
     "Grey": 190,
+    "RecipeID": 3683,
     "Source": "Vendor"
   },
   "Big Bear Steak": {
@@ -217,6 +230,7 @@
     "Yellow": 150,
     "Green": 170,
     "Grey": 190,
+    "RecipeID": 3734,
     "Source": "Vendor"
   },
   "Hot Lion Chops": {
@@ -228,6 +242,7 @@
     "Yellow": 175,
     "Green": 195,
     "Grey": 215,
+    "RecipeID": 3735,
     "Source": "Vendor"
   },
   "Tasty Lion Steak": {
@@ -239,6 +254,7 @@
     "Yellow": 190,
     "Green": 210,
     "Grey": 230,
+    "RecipeID": 3736,
     "Source": "Drop"
   },
   "Soothing Turtle Bisque": {
@@ -250,6 +266,7 @@
     "Yellow": 215,
     "Green": 235,
     "Grey": 255,
+    "RecipeID": 3737,
     "Source": "Drop"
   },
   "Barbecued Buzzard Wing": {
@@ -261,6 +278,7 @@
     "Yellow": 215,
     "Green": 235,
     "Grey": 255,
+    "RecipeID": 4609,
     "Source": "Trainer"
   },
   "Kaldorei Spider Kabob": {
@@ -272,6 +290,7 @@
     "Yellow": 50,
     "Green": 70,
     "Grey": 90,
+    "RecipeID": 5482,
     "Source": "Drop"
   },
   "Scorpid Surprise": {
@@ -283,6 +302,7 @@
     "Yellow": 60,
     "Green": 80,
     "Grey": 100,
+    "RecipeID": 5483,
     "Source": "Vendor"
   },
   "Roasted Kodo Meat": {
@@ -294,6 +314,7 @@
     "Yellow": 75,
     "Green": 95,
     "Grey": 115,
+    "RecipeID": 5484,
     "Source": "Vendor"
   },
   "Fillet of Frenzy": {
@@ -305,6 +326,7 @@
     "Yellow": 90,
     "Green": 110,
     "Grey": 130,
+    "RecipeID": 5485,
     "Source": "Vendor"
   },
   "Strider Stew": {
@@ -316,6 +338,7 @@
     "Yellow": 90,
     "Green": 110,
     "Grey": 130,
+    "RecipeID": 5486,
     "Source": "Vendor"
   },
   "Dig Rat Stew": {
@@ -327,6 +350,7 @@
     "Yellow": 130,
     "Green": 150,
     "Grey": 170,
+    "RecipeID": 44977,
     "Source": "Vendor"
   },
   "Crispy Lizard Tail": {
@@ -338,6 +362,7 @@
     "Yellow": 140,
     "Green": 160,
     "Grey": 180,
+    "RecipeID": 5488,
     "Source": "Vendor"
   },
   "Lean Venison": {
@@ -349,6 +374,7 @@
     "Yellow": 150,
     "Green": 170,
     "Grey": 190,
+    "RecipeID": 5489,
     "Source": "Vendor"
   },
   "Boiled Clams": {
@@ -382,6 +408,7 @@
     "Yellow": 130,
     "Green": 150,
     "Grey": 170,
+    "RecipeID": 5528,
     "Source": "Vendor"
   },
   "Giant Clam Scorcho": {
@@ -393,6 +420,7 @@
     "Yellow": 215,
     "Green": 235,
     "Grey": 255,
+    "RecipeID": 6039,
     "Source": "Vendor"
   },
   "Brilliant Smallfish": {
@@ -404,6 +432,7 @@
     "Yellow": 45,
     "Green": 65,
     "Grey": 85,
+    "RecipeID": 6325,
     "Source": "Vendor"
   },
   "Slitherskin Mackerel": {
@@ -415,6 +444,7 @@
     "Yellow": 45,
     "Green": 65,
     "Grey": 85,
+    "RecipeID": 6326,
     "Source": "Vendor"
   },
   "Longjaw Mud Snapper": {
@@ -426,6 +456,7 @@
     "Yellow": 90,
     "Green": 110,
     "Grey": 130,
+    "RecipeID": 6328,
     "Source": "Vendor"
   },
   "Loch Frenzy Delight": {
@@ -437,6 +468,7 @@
     "Yellow": 90,
     "Green": 110,
     "Grey": 130,
+    "RecipeID": 6329,
     "Source": "Vendor"
   },
   "Bristle Whisker Catfish": {
@@ -448,6 +480,7 @@
     "Yellow": 140,
     "Green": 160,
     "Grey": 180,
+    "RecipeID": 6330,
     "Source": "Vendor"
   },
   "Rainbow Fin Albacore": {
@@ -459,6 +492,7 @@
     "Yellow": 90,
     "Green": 110,
     "Grey": 130,
+    "RecipeID": 6368,
     "Source": "Vendor"
   },
   "Rockscale Cod": {
@@ -470,6 +504,7 @@
     "Yellow": 190,
     "Green": 210,
     "Grey": 230,
+    "RecipeID": 6369,
     "Source": "Vendor"
   },
   "Savory Deviate Delight": {
@@ -481,6 +516,7 @@
     "Yellow": 125,
     "Green": 145,
     "Grey": 165,
+    "RecipeID": 6661,
     "Source": "Drop"
   },
   "Herb Baked Egg": {
@@ -492,6 +528,7 @@
     "Yellow": 45,
     "Green": 65,
     "Grey": 85,
+    "RecipeID": 6891,
     "Source": "Trainer"
   },
   "Smoked Bear Meat": {
@@ -503,6 +540,7 @@
     "Yellow": 80,
     "Green": 100,
     "Grey": 120,
+    "RecipeID": 6892,
     "Source": "Vendor"
   },
   "Thistle Tea": {
@@ -514,6 +552,7 @@
     "Yellow": 100,
     "Green": 120,
     "Grey": 140,
+    "RecipeID": 18160,
     "Source": "Vendor"
   },
   "Goldthorn Tea": {
@@ -536,6 +575,7 @@
     "Yellow": 165,
     "Green": 185,
     "Grey": 205,
+    "RecipeID": 12227,
     "Source": "Vendor"
   },
   "Roast Raptor": {
@@ -547,6 +587,7 @@
     "Yellow": 215,
     "Green": 235,
     "Grey": 255,
+    "RecipeID": 12228,
     "Source": "Vendor"
   },
   "Hot Wolf Ribs": {
@@ -558,6 +599,7 @@
     "Yellow": 215,
     "Green": 235,
     "Grey": 255,
+    "RecipeID": 12229,
     "Source": "Vendor"
   },
   "Jungle Stew": {
@@ -569,6 +611,7 @@
     "Yellow": 215,
     "Green": 235,
     "Grey": 255,
+    "RecipeID": 12231,
     "Source": "Vendor"
   },
   "Carrion Surprise": {
@@ -580,6 +623,7 @@
     "Yellow": 215,
     "Green": 235,
     "Grey": 255,
+    "RecipeID": 12232,
     "Source": "Vendor"
   },
   "Mystery Stew": {
@@ -591,6 +635,7 @@
     "Yellow": 215,
     "Green": 235,
     "Grey": 255,
+    "RecipeID": 12233,
     "Source": "Vendor"
   },
   "Dragonbreath Chili": {
@@ -602,6 +647,7 @@
     "Yellow": 225,
     "Green": 237,
     "Grey": 250,
+    "RecipeID": 12239,
     "Source": "Vendor"
   },
   "Heavy Kodo Stew": {
@@ -613,6 +659,7 @@
     "Yellow": 225,
     "Green": 237,
     "Grey": 250,
+    "RecipeID": 12240,
     "Source": "Vendor"
   },
   "Spiced Chili Crab": {
@@ -624,6 +671,7 @@
     "Yellow": 250,
     "Green": 262,
     "Grey": 275,
+    "RecipeID": 16111,
     "Source": "Vendor"
   },
   "Monster Omelet": {
@@ -635,6 +683,7 @@
     "Yellow": 250,
     "Green": 262,
     "Grey": 275,
+    "RecipeID": 16110,
     "Source": "Vendor"
   },
   "Crispy Bat Wing": {
@@ -646,6 +695,7 @@
     "Yellow": 45,
     "Green": 65,
     "Grey": 85,
+    "RecipeID": 12226,
     "Source": "Vendor"
   },
   "Spotted Yellowtail": {
@@ -657,6 +707,7 @@
     "Yellow": 250,
     "Green": 262,
     "Grey": 275,
+    "RecipeID": 13939,
     "Source": "Vendor"
   },
   "Cooked Glossy Mightfish": {
@@ -668,6 +719,7 @@
     "Yellow": 250,
     "Green": 262,
     "Grey": 275,
+    "RecipeID": 13940,
     "Source": "Vendor"
   },
   "Grilled Squid": {
@@ -679,6 +731,7 @@
     "Yellow": 265,
     "Green": 277,
     "Grey": 290,
+    "RecipeID": 13942,
     "Source": "Vendor"
   },
   "Filet of Redgill": {
@@ -690,6 +743,7 @@
     "Yellow": 250,
     "Green": 262,
     "Grey": 275,
+    "RecipeID": 13941,
     "Source": "Vendor"
   },
   "Hot Smoked Bass": {
@@ -701,6 +755,7 @@
     "Yellow": 265,
     "Green": 277,
     "Grey": 290,
+    "RecipeID": 13943,
     "Source": "Vendor"
   },
   "Nightfin Soup": {
@@ -712,6 +767,7 @@
     "Yellow": 275,
     "Green": 285,
     "Grey": 295,
+    "RecipeID": 13945,
     "Source": "Vendor"
   },
   "Poached Sunscale Salmon": {
@@ -723,6 +779,7 @@
     "Yellow": 275,
     "Green": 285,
     "Grey": 295,
+    "RecipeID": 13946,
     "Source": "Vendor"
   },
   "Lobster Stew": {
@@ -734,6 +791,7 @@
     "Yellow": 300,
     "Green": 312,
     "Grey": 325,
+    "RecipeID": 13947,
     "Source": "Vendor"
   },
   "Mightfish Steak": {
@@ -745,6 +803,7 @@
     "Yellow": 300,
     "Green": 312,
     "Grey": 325,
+    "RecipeID": 13948,
     "Source": "Vendor"
   },
   "Baked Salmon": {
@@ -756,6 +815,7 @@
     "Yellow": 300,
     "Green": 312,
     "Grey": 325,
+    "RecipeID": 13949,
     "Source": "Vendor"
   },
   "Undermine Clam Chowder": {
@@ -767,6 +827,7 @@
     "Yellow": 250,
     "Green": 262,
     "Grey": 275,
+    "RecipeID": 16767,
     "Source": "Vendor"
   },
   "Mithril Head Trout": {
@@ -778,6 +839,7 @@
     "Yellow": 215,
     "Green": 235,
     "Grey": 255,
+    "RecipeID": 17062,
     "Source": "Vendor"
   },
   "Gingerbread Cookie": {
@@ -789,6 +851,7 @@
     "Yellow": 45,
     "Green": 65,
     "Grey": 85,
+    "RecipeID": 17200,
     "Source": "Vendor"
   },
   "Egg Nog": {
@@ -800,6 +863,7 @@
     "Yellow": 75,
     "Green": 95,
     "Grey": 115,
+    "RecipeID": 17201,
     "Source": "Vendor"
   },
   "Spider Sausage": {
@@ -822,6 +886,7 @@
     "Yellow": 250,
     "Green": 262,
     "Grey": 275,
+    "RecipeID": 18046,
     "Source": "Vendor"
   },
   "Runn Tum Tuber Surprise": {
@@ -833,6 +898,7 @@
     "Yellow": 300,
     "Green": 312,
     "Grey": 325,
+    "RecipeID": 18267,
     "Source": "Drop"
   },
   "Heavy Crocolisk Stew": {
@@ -844,6 +910,7 @@
     "Yellow": 160,
     "Green": 180,
     "Grey": 200,
+    "RecipeID": 20075,
     "Source": "Vendor"
   },
   "Smoked Desert Dumplings": {
@@ -866,6 +933,7 @@
     "Yellow": 325,
     "Green": 337,
     "Grey": 350,
+    "RecipeID": 21025,
     "Source": "Drop"
   },
   "Smoked Sagefish": {
@@ -877,6 +945,7 @@
     "Yellow": 120,
     "Green": 140,
     "Grey": 160,
+    "RecipeID": 21099,
     "Source": "Vendor"
   },
   "Sagefish Delight": {
@@ -888,6 +957,7 @@
     "Yellow": 215,
     "Green": 235,
     "Grey": 255,
+    "RecipeID": 21219,
     "Source": "Vendor"
   },
   "Crunchy Spider Surprise": {
@@ -899,6 +969,7 @@
     "Yellow": 100,
     "Green": 120,
     "Grey": 140,
+    "RecipeID": 22647,
     "Source": "Vendor"
   },
   "Lynx Steak": {
@@ -910,6 +981,7 @@
     "Yellow": 45,
     "Green": 65,
     "Grey": 85,
+    "RecipeID": 27685,
     "Source": "Vendor"
   },
   "Roasted Moongraze Tenderloin": {
@@ -921,6 +993,7 @@
     "Yellow": 45,
     "Green": 65,
     "Grey": 85,
+    "RecipeID": 27686,
     "Source": "Drop"
   },
   "Bat Bites": {
@@ -932,6 +1005,7 @@
     "Yellow": 90,
     "Green": 110,
     "Grey": 130,
+    "RecipeID": 27687,
     "Source": "Vendor"
   },
   "Buzzard Bites": {
@@ -943,6 +1017,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
+    "RecipeID": 27684,
     "Source": "Drop"
   },
   "Ravager Dog": {
@@ -954,6 +1029,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
+    "RecipeID": 27688,
     "Source": "Vendor"
   },
   "Sporeling Snack": {
@@ -965,6 +1041,7 @@
     "Yellow": 330,
     "Green": 340,
     "Grey": 350,
+    "RecipeID": 27689,
     "Source": "Vendor"
   },
   "Blackened Basilisk": {
@@ -976,6 +1053,7 @@
     "Yellow": 335,
     "Green": 345,
     "Grey": 355,
+    "RecipeID": 27690,
     "Source": "Vendor"
   },
   "Roasted Clefthoof": {
@@ -987,6 +1065,7 @@
     "Yellow": 345,
     "Green": 355,
     "Grey": 365,
+    "RecipeID": 27691,
     "Source": "Vendor"
   },
   "Warp Burger": {
@@ -998,6 +1077,7 @@
     "Yellow": 345,
     "Green": 355,
     "Grey": 365,
+    "RecipeID": 27692,
     "Source": "Vendor"
   },
   "Talbuk Steak": {
@@ -1009,6 +1089,7 @@
     "Yellow": 345,
     "Green": 355,
     "Grey": 365,
+    "RecipeID": 27693,
     "Source": "Vendor"
   },
   "Blackened Trout": {
@@ -1020,6 +1101,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
+    "RecipeID": 27694,
     "Source": "Vendor"
   },
   "Feltail Delight": {
@@ -1031,6 +1113,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
+    "RecipeID": 27695,
     "Source": "Vendor"
   },
   "Blackened Sporefish": {
@@ -1042,6 +1125,7 @@
     "Yellow": 330,
     "Green": 340,
     "Grey": 350,
+    "RecipeID": 27696,
     "Source": "Vendor"
   },
   "Grilled Mudfish": {
@@ -1053,6 +1137,7 @@
     "Yellow": 340,
     "Green": 350,
     "Grey": 360,
+    "RecipeID": 27697,
     "Source": "Vendor"
   },
   "Poached Bluefish": {
@@ -1064,6 +1149,7 @@
     "Yellow": 340,
     "Green": 350,
     "Grey": 360,
+    "RecipeID": 27698,
     "Source": "Vendor"
   },
   "Golden Fish Sticks": {
@@ -1075,6 +1161,7 @@
     "Yellow": 345,
     "Green": 355,
     "Grey": 365,
+    "RecipeID": 27699,
     "Source": "Vendor"
   },
   "Spicy Crawdad": {
@@ -1086,6 +1173,7 @@
     "Yellow": 370,
     "Green": 375,
     "Grey": 380,
+    "RecipeID": 27700,
     "Source": "Vendor"
   },
   "Clam Bar": {
@@ -1097,6 +1185,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
+    "RecipeID": 30156,
     "Source": "Vendor"
   },
   "Spice Bread": {
@@ -1119,6 +1208,7 @@
     "Yellow": 355,
     "Green": 365,
     "Grey": 375,
+    "RecipeID": 31675,
     "Source": "Vendor"
   },
   "Crunchy Serpent": {
@@ -1130,6 +1220,7 @@
     "Yellow": 355,
     "Green": 365,
     "Grey": 375,
+    "RecipeID": 31674,
     "Source": "Vendor"
   },
   "Stewed Trout": {
@@ -1174,6 +1265,7 @@
     "Yellow": 335,
     "Green": 345,
     "Grey": 355,
+    "RecipeID": 33870,
     "Source": "Drop"
   },
   "Stormchops": {
@@ -1185,6 +1277,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
+    "RecipeID": 33871,
     "Source": "Drop"
   },
   "Broiled Bloodfin": {
@@ -1196,6 +1289,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
+    "RecipeID": 33869,
     "Source": "Drop"
   },
   "Spicy Hot Talbuk": {
@@ -1207,6 +1301,7 @@
     "Yellow": 335,
     "Green": 345,
     "Grey": 355,
+    "RecipeID": 33873,
     "Source": "Drop"
   },
   "Kibler's Bits": {
@@ -1218,6 +1313,7 @@
     "Yellow": 345,
     "Green": 355,
     "Grey": 365,
+    "RecipeID": 33875,
     "Source": "Drop"
   },
   "Delicious Chocolate Cake": {
@@ -1229,6 +1325,7 @@
     "Yellow": 50,
     "Green": 62,
     "Grey": 75,
+    "RecipeID": 33925,
     "Source": "Drop"
   },
   "Hot Apple Cider": {
@@ -1240,6 +1337,7 @@
     "Yellow": 325,
     "Green": 325,
     "Grey": 325,
+    "RecipeID": 34413,
     "Source": "Vendor"
   },
   "Mammoth Meal": {
@@ -1317,6 +1415,7 @@
     "Yellow": 425,
     "Green": 450,
     "Grey": 475,
+    "RecipeID": 43018,
     "Source": "Vendor"
   },
   "Tender Shoveltusk Steak": {
@@ -1328,6 +1427,7 @@
     "Yellow": 425,
     "Green": 450,
     "Grey": 475,
+    "RecipeID": 43019,
     "Source": "Vendor"
   },
   "Spiced Worm Burger": {
@@ -1339,6 +1439,7 @@
     "Yellow": 425,
     "Green": 450,
     "Grey": 475,
+    "RecipeID": 43020,
     "Source": "Vendor"
   },
   "Very Burnt Worg": {
@@ -1350,6 +1451,7 @@
     "Yellow": 425,
     "Green": 450,
     "Grey": 475,
+    "RecipeID": 43021,
     "Source": "Vendor"
   },
   "Mighty Rhino Dogs": {
@@ -1361,6 +1463,7 @@
     "Yellow": 425,
     "Green": 450,
     "Grey": 475,
+    "RecipeID": 43022,
     "Source": "Vendor"
   },
   "Smoked Rockfin": {
@@ -1449,6 +1552,7 @@
     "Yellow": 425,
     "Green": 450,
     "Grey": 475,
+    "RecipeID": 43023,
     "Source": "Vendor"
   },
   "Firecracker Salmon": {
@@ -1460,6 +1564,7 @@
     "Yellow": 425,
     "Green": 450,
     "Grey": 475,
+    "RecipeID": 43024,
     "Source": "Vendor"
   },
   "Baked Manta Ray": {
@@ -1482,6 +1587,7 @@
     "Yellow": 425,
     "Green": 450,
     "Grey": 475,
+    "RecipeID": 43026,
     "Source": "Vendor"
   },
   "Spicy Blue Nettlefish": {
@@ -1493,6 +1599,7 @@
     "Yellow": 425,
     "Green": 450,
     "Grey": 475,
+    "RecipeID": 43025,
     "Source": "Vendor"
   },
   "Captain Rumsey's Lager": {
@@ -1504,6 +1611,7 @@
     "Yellow": 100,
     "Green": 105,
     "Grey": 110,
+    "RecipeID": 34834,
     "Source": "Drop"
   },
   "Charred Bear Kabobs": {
@@ -1515,6 +1623,7 @@
     "Yellow": 275,
     "Green": 285,
     "Grey": 295,
+    "RecipeID": 35564,
     "Source": "Vendor"
   },
   "Juicy Bear Burger": {
@@ -1526,6 +1635,7 @@
     "Yellow": 275,
     "Green": 285,
     "Grey": 295,
+    "RecipeID": 35566,
     "Source": "Vendor"
   },
   "Kungaloosh": {
@@ -1537,6 +1647,7 @@
     "Yellow": 375,
     "Green": 387,
     "Grey": 400,
+    "RecipeID": 39644,
     "Source": "Drop"
   },
   "Northern Stew": {
@@ -1559,6 +1670,7 @@
     "Yellow": 455,
     "Green": 460,
     "Grey": 465,
+    "RecipeID": 43017,
     "Source": "Vendor"
   },
   "Spicy Fried Herring": {
@@ -1570,6 +1682,7 @@
     "Yellow": 425,
     "Green": 450,
     "Grey": 475,
+    "RecipeID": 43027,
     "Source": "Vendor"
   },
   "Rhinolicious Wormsteak": {
@@ -1581,6 +1694,7 @@
     "Yellow": 425,
     "Green": 450,
     "Grey": 475,
+    "RecipeID": 43028,
     "Source": "Vendor"
   },
   "Critter Bites": {
@@ -1592,6 +1706,7 @@
     "Yellow": 425,
     "Green": 450,
     "Grey": 475,
+    "RecipeID": 43029,
     "Source": "Vendor"
   },
   "Hearty Rhino": {
@@ -1603,6 +1718,7 @@
     "Yellow": 425,
     "Green": 450,
     "Grey": 475,
+    "RecipeID": 43030,
     "Source": "Vendor"
   },
   "Snapper Extreme": {
@@ -1614,6 +1730,7 @@
     "Yellow": 425,
     "Green": 450,
     "Grey": 475,
+    "RecipeID": 43031,
     "Source": "Vendor"
   },
   "Blackened Worg Steak": {
@@ -1625,6 +1742,7 @@
     "Yellow": 425,
     "Green": 450,
     "Grey": 475,
+    "RecipeID": 43032,
     "Source": "Vendor"
   },
   "Cuttlesteak": {
@@ -1636,6 +1754,7 @@
     "Yellow": 425,
     "Green": 450,
     "Grey": 475,
+    "RecipeID": 43033,
     "Source": "Vendor"
   },
   "Spiced Mammoth Treats": {
@@ -1647,6 +1766,7 @@
     "Yellow": 425,
     "Green": 450,
     "Grey": 475,
+    "RecipeID": 43034,
     "Source": "Vendor"
   },
   "Blackened Dragonfin": {
@@ -1658,6 +1778,7 @@
     "Yellow": 425,
     "Green": 450,
     "Grey": 475,
+    "RecipeID": 43035,
     "Source": "Vendor"
   },
   "Dragonfin Filet": {
@@ -1669,6 +1790,7 @@
     "Yellow": 425,
     "Green": 450,
     "Grey": 475,
+    "RecipeID": 43036,
     "Source": "Vendor"
   },
   "Tracker Snacks": {
@@ -1680,6 +1802,7 @@
     "Yellow": 425,
     "Green": 450,
     "Grey": 475,
+    "RecipeID": 43037,
     "Source": "Vendor"
   },
   "Dalaran Clam Chowder": {
@@ -1702,6 +1825,7 @@
     "Yellow": 350,
     "Green": 357,
     "Grey": 365,
+    "RecipeID": 43507,
     "Source": "Drop"
   },
   "Last Week's Mammoth": {
@@ -1713,6 +1837,7 @@
     "Yellow": 350,
     "Green": 357,
     "Grey": 365,
+    "RecipeID": 43508,
     "Source": "Drop"
   },
   "Bad Clams": {
@@ -1724,6 +1849,7 @@
     "Yellow": 350,
     "Green": 357,
     "Grey": 365,
+    "RecipeID": 43509,
     "Source": "Drop"
   },
   "Haunted Herring": {
@@ -1735,6 +1861,7 @@
     "Yellow": 350,
     "Green": 357,
     "Grey": 365,
+    "RecipeID": 43510,
     "Source": "Drop"
   },
   "Gigantic Feast": {
@@ -1746,6 +1873,7 @@
     "Yellow": 435,
     "Green": 455,
     "Grey": 475,
+    "RecipeID": 43505,
     "Source": "Vendor"
   },
   "Small Feast": {
@@ -1757,6 +1885,7 @@
     "Yellow": 435,
     "Green": 455,
     "Grey": 475,
+    "RecipeID": 43506,
     "Source": "Vendor"
   },
   "Pumpkin Pie": {
@@ -1768,6 +1897,7 @@
     "Yellow": 150,
     "Green": 162,
     "Grey": 175,
+    "RecipeID": 46804,
     "Source": "Trainer"
   },
   "Slow-Roasted Turkey": {
@@ -1779,6 +1909,7 @@
     "Yellow": 330,
     "Green": 342,
     "Grey": 355,
+    "RecipeID": 46807,
     "Source": "Trainer"
   },
   "Cranberry Chutney": {
@@ -1790,6 +1921,7 @@
     "Yellow": 210,
     "Green": 222,
     "Grey": 235,
+    "RecipeID": 46805,
     "Source": "Trainer"
   },
   "Spice Bread Stuffing": {
@@ -1801,6 +1933,7 @@
     "Yellow": 90,
     "Green": 102,
     "Grey": 115,
+    "RecipeID": 46803,
     "Source": "Trainer"
   },
   "Candied Sweet Potato": {
@@ -1812,6 +1945,7 @@
     "Yellow": 270,
     "Green": 282,
     "Grey": 295,
+    "RecipeID": 46806,
     "Source": "Trainer"
   },
   "Worg Tartare": {
@@ -1823,6 +1957,7 @@
     "Yellow": 400,
     "Green": 405,
     "Grey": 460,
+    "RecipeID": 44954,
     "Source": "Vendor"
   },
   "Clamlette Magnifique": {
@@ -1856,6 +1991,7 @@
     "Yellow": 30,
     "Green": 35,
     "Grey": 40,
+    "RecipeID": 46710,
     "Source": "Trainer"
   }
 }

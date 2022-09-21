@@ -74,6 +74,7 @@
     "Yellow": 80,
     "Green": 100,
     "Grey": 120,
+    "RecipeID": 6342,
     "Source": "Vendor"
   },
   "Enchant Cloak - Minor Resistance": {
@@ -137,6 +138,7 @@
     "Yellow": 105,
     "Green": 125,
     "Grey": 145,
+    "RecipeID": 6344,
     "Source": "Drop"
   },
   "Enchant Cloak - Minor Protection": {
@@ -163,6 +165,7 @@
     "Yellow": 115,
     "Green": 135,
     "Grey": 155,
+    "RecipeID": 6346,
     "Source": "Vendor"
   },
   "Enchant Bracer - Minor Agility": {
@@ -188,6 +191,7 @@
     "Yellow": 115,
     "Green": 135,
     "Grey": 155,
+    "RecipeID": 6347,
     "Source": "Drop"
   },
   "Enchant Weapon - Minor Beastslayer": {
@@ -201,6 +205,7 @@
     "Yellow": 120,
     "Green": 140,
     "Grey": 160,
+    "RecipeID": 6348,
     "Source": "Drop"
   },
   "Enchant Weapon - Minor Striking": {
@@ -227,6 +232,7 @@
     "Yellow": 130,
     "Green": 150,
     "Grey": 170,
+    "RecipeID": 6349,
     "Source": "Vendor"
   },
   "Runed Silver Rod": {
@@ -268,6 +274,7 @@
     "Yellow": 145,
     "Green": 165,
     "Grey": 185,
+    "RecipeID": 6375,
     "Source": "Drop"
   },
   "Enchant Cloak - Lesser Fire Resistance": {
@@ -293,6 +300,7 @@
     "Yellow": 150,
     "Green": 170,
     "Grey": 190,
+    "RecipeID": 6376,
     "Source": "Trainer"
   },
   "Enchant Boots - Minor Agility": {
@@ -306,6 +314,7 @@
     "Yellow": 150,
     "Green": 170,
     "Grey": 190,
+    "RecipeID": 6377,
     "Source": "Vendor"
   },
   "Disenchant": {
@@ -342,6 +351,7 @@
     "Yellow": 135,
     "Green": 155,
     "Grey": 175,
+    "RecipeID": 11038,
     "Source": "Drop"
   },
   "Enchant Cloak - Minor Agility": {
@@ -354,6 +364,7 @@
     "Yellow": 135,
     "Green": 155,
     "Grey": 175,
+    "RecipeID": 11039,
     "Source": "Vendor"
   },
   "Enchant Cloak - Lesser Protection": {
@@ -381,6 +392,7 @@
     "Yellow": 140,
     "Green": 160,
     "Grey": 180,
+    "RecipeID": 11081,
     "Source": "Drop"
   },
   "Enchant Shield - Lesser Spirit": {
@@ -432,6 +444,7 @@
     "Yellow": 160,
     "Green": 180,
     "Grey": 200,
+    "RecipeID": 11098,
     "Source": "Drop"
   },
   "Enchant 2H Weapon - Lesser Impact": {
@@ -457,6 +470,7 @@
     "Yellow": 165,
     "Green": 185,
     "Grey": 205,
+    "RecipeID": 11101,
     "Source": "Vendor"
   },
   "Enchant Chest - Lesser Absorption": {
@@ -497,6 +511,7 @@
     "Yellow": 170,
     "Green": 190,
     "Grey": 210,
+    "RecipeID": 11150,
     "Source": "Drop"
   },
   "Enchant Gloves - Herbalism": {
@@ -510,6 +525,7 @@
     "Yellow": 170,
     "Green": 190,
     "Grey": 210,
+    "RecipeID": 11151,
     "Source": "Drop"
   },
   "Enchant Gloves - Fishing": {
@@ -523,6 +539,7 @@
     "Yellow": 170,
     "Green": 190,
     "Grey": 210,
+    "RecipeID": 11152,
     "Source": "Drop"
   },
   "Enchant Bracer - Lesser Intellect": {
@@ -654,6 +671,7 @@
     "Yellow": 190,
     "Green": 210,
     "Grey": 230,
+    "RecipeID": 11163,
     "Source": "Vendor"
   },
   "Enchant Bracer - Stamina": {
@@ -680,6 +698,7 @@
     "Yellow": 195,
     "Green": 215,
     "Grey": 235,
+    "RecipeID": 11164,
     "Source": "Drop"
   },
   "Enchant Weapon - Lesser Elemental Slayer": {
@@ -694,6 +713,7 @@
     "Yellow": 195,
     "Green": 215,
     "Grey": 235,
+    "RecipeID": 11165,
     "Source": "Drop"
   },
   "Enchant Cloak - Fire Resistance": {
@@ -757,6 +777,7 @@
     "Yellow": 210,
     "Green": 230,
     "Grey": 250,
+    "RecipeID": 11167,
     "Source": "Drop"
   },
   "Enchant Shield - Lesser Block": {
@@ -771,6 +792,7 @@
     "Yellow": 215,
     "Green": 235,
     "Grey": 255,
+    "RecipeID": 11168,
     "Source": "Drop"
   },
   "Enchant Weapon - Striking": {
@@ -810,6 +832,7 @@
     "Yellow": 220,
     "Green": 240,
     "Grey": 260,
+    "RecipeID": 11166,
     "Source": "Drop"
   },
   "Enchant Chest - Lesser Stats": {
@@ -890,6 +913,7 @@
     "Yellow": 230,
     "Green": 250,
     "Grey": 270,
+    "RecipeID": 11202,
     "Source": "Drop"
   },
   "Enchant Bracer - Intellect": {
@@ -927,6 +951,7 @@
     "Yellow": 235,
     "Green": 255,
     "Grey": 275,
+    "RecipeID": 11203,
     "Source": "Drop"
   },
   "Enchant Bracer - Greater Spirit": {
@@ -940,6 +965,7 @@
     "Yellow": 240,
     "Green": 260,
     "Grey": 280,
+    "RecipeID": 11204,
     "Source": "Drop"
   },
   "Enchant Chest - Superior Health": {
@@ -965,6 +991,7 @@
     "Yellow": 245,
     "Green": 265,
     "Grey": 285,
+    "RecipeID": 11205,
     "Source": "Drop"
   },
   "Enchant Cloak - Lesser Agility": {
@@ -977,6 +1004,7 @@
     "Yellow": 245,
     "Green": 265,
     "Grey": 285,
+    "RecipeID": 11206,
     "Source": "Drop"
   },
   "Enchant Gloves - Strength": {
@@ -1017,6 +1045,7 @@
     "Yellow": 285,
     "Green": 305,
     "Grey": 325,
+    "RecipeID": 11207,
     "Source": "Drop"
   },
   "Enchant Shield - Greater Spirit": {
@@ -1044,6 +1073,7 @@
     "Yellow": 250,
     "Green": 270,
     "Grey": 290,
+    "RecipeID": 11208,
     "Source": "Drop"
   },
   "Enchant Chest - Superior Mana": {
@@ -1070,6 +1100,7 @@
     "Yellow": 255,
     "Green": 275,
     "Grey": 295,
+    "RecipeID": 11223,
     "Source": "Vendor"
   },
   "Enchant Shield - Frost Resistance": {
@@ -1083,6 +1114,7 @@
     "Yellow": 255,
     "Green": 275,
     "Grey": 295,
+    "RecipeID": 11224,
     "Source": "Drop"
   },
   "Enchant Boots - Agility": {
@@ -1160,6 +1192,7 @@
     "Yellow": 265,
     "Green": 285,
     "Grey": 305,
+    "RecipeID": 11225,
     "Source": "Drop"
   },
   "Enchant Gloves - Riding Skill": {
@@ -1173,6 +1206,7 @@
     "Yellow": 270,
     "Green": 290,
     "Grey": 310,
+    "RecipeID": 11226,
     "Source": "Drop"
   },
   "Enchant Gloves - Minor Haste": {
@@ -1299,6 +1333,7 @@
     "Yellow": 275,
     "Green": 295,
     "Grey": 315,
+    "RecipeID": 16214,
     "Source": "Trainer"
   },
   "Enchant Bracer - Superior Spirit": {
@@ -1312,6 +1347,7 @@
     "Yellow": 290,
     "Green": 310,
     "Grey": 330,
+    "RecipeID": 16218,
     "Source": "Drop"
   },
   "Enchant Bracer - Superior Strength": {
@@ -1325,6 +1361,7 @@
     "Yellow": 310,
     "Green": 325,
     "Grey": 340,
+    "RecipeID": 16246,
     "Source": "Drop"
   },
   "Enchant Bracer - Superior Stamina": {
@@ -1337,6 +1374,7 @@
     "Yellow": 310,
     "Green": 325,
     "Grey": 340,
+    "RecipeID": 16251,
     "Source": "Drop"
   },
   "Enchant Gloves - Greater Agility": {
@@ -1350,6 +1388,7 @@
     "Yellow": 290,
     "Green": 310,
     "Grey": 330,
+    "RecipeID": 16219,
     "Source": "Trainer"
   },
   "Enchant Gloves - Greater Strength": {
@@ -1363,6 +1402,7 @@
     "Yellow": 310,
     "Green": 325,
     "Grey": 340,
+    "RecipeID": 16244,
     "Source": "Trainer"
   },
   "Enchant Cloak - Greater Resistance": {
@@ -1379,6 +1419,7 @@
     "Yellow": 285,
     "Green": 305,
     "Grey": 325,
+    "RecipeID": 16216,
     "Source": "Trainer"
   },
   "Enchant Cloak - Superior Defense": {
@@ -1391,6 +1432,7 @@
     "Yellow": 300,
     "Green": 317,
     "Grey": 335,
+    "RecipeID": 16224,
     "Source": "Vendor"
   },
   "Enchant Shield - Vitality": {
@@ -1416,6 +1458,7 @@
     "Yellow": 285,
     "Green": 305,
     "Grey": 325,
+    "RecipeID": 16217,
     "Source": "Vendor"
   },
   "Enchant Boots - Greater Stamina": {
@@ -1428,6 +1471,7 @@
     "Yellow": 280,
     "Green": 300,
     "Grey": 320,
+    "RecipeID": 16215,
     "Source": "Drop"
   },
   "Enchant Boots - Greater Agility": {
@@ -1441,6 +1485,7 @@
     "Yellow": 310,
     "Green": 325,
     "Grey": 340,
+    "RecipeID": 16245,
     "Source": "Trainer"
   },
   "Enchant Boots - Spirit": {
@@ -1453,6 +1498,7 @@
     "Yellow": 295,
     "Green": 315,
     "Grey": 335,
+    "RecipeID": 16220,
     "Source": "Drop"
   },
   "Enchant Chest - Greater Stats": {
@@ -1466,6 +1512,7 @@
     "Yellow": 310,
     "Green": 325,
     "Grey": 340,
+    "RecipeID": 16253,
     "Source": "Drop"
   },
   "Enchant Chest - Major Health": {
@@ -1478,6 +1525,7 @@
     "Yellow": 295,
     "Green": 315,
     "Grey": 335,
+    "RecipeID": 16221,
     "Source": "Vendor"
   },
   "Enchant Chest - Major Mana": {
@@ -1490,6 +1538,7 @@
     "Yellow": 305,
     "Green": 322,
     "Grey": 340,
+    "RecipeID": 16242,
     "Source": "Trainer"
   },
   "Enchant Weapon - Icy Chill": {
@@ -1505,6 +1554,7 @@
     "Yellow": 300,
     "Green": 317,
     "Grey": 335,
+    "RecipeID": 16223,
     "Source": "Drop"
   },
   "Enchant 2H Weapon - Superior Impact": {
@@ -1518,6 +1568,7 @@
     "Yellow": 310,
     "Green": 325,
     "Grey": 340,
+    "RecipeID": 16247,
     "Source": "Drop"
   },
   "Enchant Weapon - Superior Striking": {
@@ -1531,6 +1582,7 @@
     "Yellow": 310,
     "Green": 325,
     "Grey": 340,
+    "RecipeID": 16250,
     "Source": "Drop"
   },
   "Enchant Weapon - Lifestealing": {
@@ -1545,6 +1597,7 @@
     "Yellow": 310,
     "Green": 325,
     "Grey": 340,
+    "RecipeID": 16254,
     "Source": "Drop"
   },
   "Enchant Weapon - Unholy Weapon": {
@@ -1571,6 +1624,7 @@
     "Yellow": 310,
     "Green": 325,
     "Grey": 340,
+    "RecipeID": 16252,
     "Source": "Drop"
   },
   "Enchant 2H Weapon - Major Spirit": {
@@ -1584,6 +1638,7 @@
     "Yellow": 310,
     "Green": 325,
     "Grey": 340,
+    "RecipeID": 16255,
     "Source": "Drop"
   },
   "Enchant 2H Weapon - Major Intellect": {
@@ -1597,6 +1652,7 @@
     "Yellow": 310,
     "Green": 325,
     "Grey": 340,
+    "RecipeID": 16249,
     "Source": "Drop"
   },
   "Runed Arcanite Rod": {
@@ -1631,6 +1687,7 @@
     "Yellow": 210,
     "Green": 230,
     "Grey": 250,
+    "RecipeID": 17725,
     "Source": "Drop"
   },
   "Enchant Weapon - Spellpower": {
@@ -1645,6 +1702,7 @@
     "Yellow": 310,
     "Green": 325,
     "Grey": 340,
+    "RecipeID": 18259,
     "Source": "Drop"
   },
   "Enchant Weapon - Healing Power": {
@@ -1659,6 +1717,7 @@
     "Yellow": 310,
     "Green": 325,
     "Grey": 340,
+    "RecipeID": 18260,
     "Source": "Drop"
   },
   "Enchant Weapon - Strength": {
@@ -1672,6 +1731,7 @@
     "Yellow": 305,
     "Green": 322,
     "Grey": 340,
+    "RecipeID": 19444,
     "Source": "Vendor"
   },
   "Enchant Weapon - Agility": {
@@ -1685,7 +1745,8 @@
     "Yellow": 305,
     "Green": 322,
     "Grey": 340,
-    "Source": "Vendor"
+    "RecipeID": 19445,
+    "Source": "Reputation"
   },
   "Enchant Bracer - Mana Regeneration": {
     "ID": 23801,
@@ -1699,7 +1760,8 @@
     "Yellow": 305,
     "Green": 322,
     "Grey": 340,
-    "Source": "Vendor"
+    "RecipeID": 19446,
+    "Source": "Reputation"
   },
   "Enchant Bracer - Healing Power": {
     "ID": 23802,
@@ -1713,7 +1775,8 @@
     "Yellow": 310,
     "Green": 325,
     "Grey": 340,
-    "Source": "Vendor"
+    "RecipeID": 19447,
+    "Source": "Reputation"
   },
   "Enchant Weapon - Mighty Spirit": {
     "ID": 23803,
@@ -1727,6 +1790,7 @@
     "Yellow": 310,
     "Green": 325,
     "Grey": 340,
+    "RecipeID": 19448,
     "Source": "Vendor"
   },
   "Enchant Weapon - Mighty Intellect": {
@@ -1741,6 +1805,7 @@
     "Yellow": 310,
     "Green": 325,
     "Grey": 340,
+    "RecipeID": 19449,
     "Source": "Vendor"
   },
   "Enchant Gloves - Threat": {
@@ -1755,7 +1820,8 @@
     "Yellow": 310,
     "Green": 325,
     "Grey": 340,
-    "Source": "Vendor"
+    "RecipeID": 33153,
+    "Source": "Reputation"
   },
   "Enchant Gloves - Shadow Power": {
     "ID": 25073,
@@ -1769,6 +1835,7 @@
     "Yellow": 310,
     "Green": 325,
     "Grey": 340,
+    "RecipeID": 20727,
     "Source": "Drop"
   },
   "Enchant Gloves - Frost Power": {
@@ -1783,6 +1850,7 @@
     "Yellow": 310,
     "Green": 325,
     "Grey": 340,
+    "RecipeID": 20728,
     "Source": "Drop"
   },
   "Enchant Gloves - Fire Power": {
@@ -1797,6 +1865,7 @@
     "Yellow": 310,
     "Green": 325,
     "Grey": 340,
+    "RecipeID": 20729,
     "Source": "Drop"
   },
   "Enchant Gloves - Healing Power": {
@@ -1811,6 +1880,7 @@
     "Yellow": 310,
     "Green": 325,
     "Grey": 340,
+    "RecipeID": 20730,
     "Source": "Drop"
   },
   "Enchant Gloves - Superior Agility": {
@@ -1825,7 +1895,8 @@
     "Yellow": 310,
     "Green": 325,
     "Grey": 340,
-    "Source": "Vendor"
+    "RecipeID": 33152,
+    "Source": "Reputation"
   },
   "Enchant Cloak - Greater Fire Resistance": {
     "ID": 25081,
@@ -1839,7 +1910,8 @@
     "Yellow": 310,
     "Green": 325,
     "Grey": 340,
-    "Source": "Vendor"
+    "RecipeID": 20732,
+    "Source": "Reputation"
   },
   "Enchant Cloak - Greater Nature Resistance": {
     "ID": 25082,
@@ -1853,7 +1925,8 @@
     "Yellow": 310,
     "Green": 325,
     "Grey": 340,
-    "Source": "Vendor"
+    "RecipeID": 20733,
+    "Source": "Reputation"
   },
   "Enchant Cloak - Stealth": {
     "ID": 25083,
@@ -1867,7 +1940,8 @@
     "Yellow": 310,
     "Green": 325,
     "Grey": 340,
-    "Source": "Vendor"
+    "RecipeID": 33149,
+    "Source": "Reputation"
   },
   "Enchant Cloak - Subtlety": {
     "ID": 25084,
@@ -1881,7 +1955,8 @@
     "Yellow": 310,
     "Green": 325,
     "Grey": 340,
-    "Source": "Vendor"
+    "RecipeID": 33151,
+    "Source": "Reputation"
   },
   "Enchant Cloak - Dodge": {
     "ID": 25086,
@@ -1895,7 +1970,8 @@
     "Yellow": 310,
     "Green": 325,
     "Grey": 340,
-    "Source": "Vendor"
+    "RecipeID": 33148,
+    "Source": "Reputation"
   },
   "Minor Wizard Oil": {
     "ID": 25124,
@@ -2020,7 +2096,8 @@
     "Yellow": 305,
     "Green": 322,
     "Grey": 340,
-    "Source": "Vendor"
+    "RecipeID": 22392,
+    "Source": "Reputation"
   },
   "Enchant Bracer - Brawn": {
     "ID": 27899,
@@ -2058,6 +2135,7 @@
     "Yellow": 330,
     "Green": 345,
     "Grey": 360,
+    "RecipeID": 22530,
     "Source": "Drop"
   },
   "Enchant Bracer - Superior Healing": {
@@ -2071,7 +2149,8 @@
     "Yellow": 335,
     "Green": 350,
     "Grey": 365,
-    "Source": "Vendor"
+    "RecipeID": 24000,
+    "Source": "Reputation"
   },
   "Enchant Bracer - Restore Mana Prime": {
     "ID": 27913,
@@ -2083,6 +2162,7 @@
     "Yellow": 345,
     "Green": 360,
     "Grey": 375,
+    "RecipeID": 22532,
     "Source": "Drop"
   },
   "Enchant Bracer - Fortitude": {
@@ -2097,6 +2177,7 @@
     "Yellow": 370,
     "Green": 375,
     "Grey": 380,
+    "RecipeID": 22533,
     "Source": "Drop"
   },
   "Enchant Bracer - Spellpower": {
@@ -2111,6 +2192,7 @@
     "Yellow": 370,
     "Green": 385,
     "Grey": 400,
+    "RecipeID": 22534,
     "Source": "Drop"
   },
   "Enchant Ring - Striking": {
@@ -2124,7 +2206,8 @@
     "Yellow": 370,
     "Green": 377,
     "Grey": 385,
-    "Source": "Vendor"
+    "RecipeID": 22535,
+    "Source": "Reputation"
   },
   "Enchant Ring - Spellpower": {
     "ID": 27924,
@@ -2137,7 +2220,8 @@
     "Yellow": 370,
     "Green": 377,
     "Grey": 385,
-    "Source": "Vendor"
+    "RecipeID": 22536,
+    "Source": "Reputation"
   },
   "Enchant Ring - Healing Power": {
     "ID": 27926,
@@ -2151,7 +2235,8 @@
     "Yellow": 380,
     "Green": 385,
     "Grey": 390,
-    "Source": "Vendor"
+    "RecipeID": 22537,
+    "Source": "Reputation"
   },
   "Enchant Ring - Stats": {
     "ID": 27927,
@@ -2164,7 +2249,8 @@
     "Yellow": 380,
     "Green": 385,
     "Grey": 390,
-    "Source": "Vendor"
+    "RecipeID": 186683,
+    "Source": "Reputation"
   },
   "Enchant Shield - Tough Shield": {
     "ID": 27944,
@@ -2189,6 +2275,7 @@
     "Yellow": 335,
     "Green": 350,
     "Grey": 365,
+    "RecipeID": 22539,
     "Source": "Vendor"
   },
   "Enchant Shield - Shield Block": {
@@ -2203,6 +2290,7 @@
     "Yellow": 350,
     "Green": 365,
     "Grey": 380,
+    "RecipeID": 22540,
     "Source": "Drop"
   },
   "Enchant Shield - Resistance": {
@@ -2219,6 +2307,7 @@
     "Yellow": 370,
     "Green": 377,
     "Grey": 385,
+    "RecipeID": 22541,
     "Source": "Drop"
   },
   "Enchant Boots - Vitality": {
@@ -2233,6 +2322,7 @@
     "Yellow": 315,
     "Green": 330,
     "Grey": 345,
+    "RecipeID": 35298,
     "Source": "Drop"
   },
   "Enchant Boots - Fortitude": {
@@ -2245,6 +2335,7 @@
     "Yellow": 330,
     "Green": 345,
     "Grey": 360,
+    "RecipeID": 22543,
     "Source": "Drop"
   },
   "Enchant Boots - Dexterity": {
@@ -2258,6 +2349,7 @@
     "Yellow": 350,
     "Green": 365,
     "Grey": 380,
+    "RecipeID": 22544,
     "Source": "Drop"
   },
   "Enchant Boots - Surefooted": {
@@ -2271,6 +2363,7 @@
     "Yellow": 380,
     "Green": 385,
     "Grey": 390,
+    "RecipeID": 22545,
     "Source": "Drop"
   },
   "Enchant Chest - Exceptional Health": {
@@ -2311,7 +2404,8 @@
     "Yellow": 355,
     "Green": 367,
     "Grey": 380,
-    "Source": "Vendor"
+    "RecipeID": 24003,
+    "Source": "Reputation"
   },
   "Enchant Cloak - Major Armor": {
     "ID": 27961,
@@ -2339,6 +2433,7 @@
     "Yellow": 340,
     "Green": 355,
     "Grey": 370,
+    "RecipeID": 22548,
     "Source": "Drop"
   },
   "Enchant Weapon - Major Striking": {
@@ -2353,7 +2448,8 @@
     "Yellow": 350,
     "Green": 365,
     "Grey": 380,
-    "Source": "Vendor"
+    "RecipeID": 22552,
+    "Source": "Reputation"
   },
   "Enchant Weapon - Major Intellect": {
     "ID": 27968,
@@ -2366,6 +2462,7 @@
     "Yellow": 350,
     "Green": 365,
     "Grey": 380,
+    "RecipeID": 22551,
     "Source": "Drop"
   },
   "Enchant 2H Weapon - Savagery": {
@@ -2379,6 +2476,7 @@
     "Yellow": 370,
     "Green": 375,
     "Grey": 380,
+    "RecipeID": 22554,
     "Source": "Drop"
   },
   "Enchant Weapon - Potency": {
@@ -2393,6 +2491,7 @@
     "Yellow": 370,
     "Green": 375,
     "Grey": 380,
+    "RecipeID": 22553,
     "Source": "Drop"
   },
   "Enchant Weapon - Major Spellpower": {
@@ -2406,6 +2505,7 @@
     "Yellow": 370,
     "Green": 375,
     "Grey": 380,
+    "RecipeID": 22555,
     "Source": "Drop"
   },
   "Enchant 2H Weapon - Major Agility": {
@@ -2420,6 +2520,7 @@
     "Yellow": 370,
     "Green": 377,
     "Grey": 385,
+    "RecipeID": 22556,
     "Source": "Drop"
   },
   "Enchant Weapon - Sunfire": {
@@ -2436,6 +2537,7 @@
     "Yellow": 390,
     "Green": 390,
     "Grey": 390,
+    "RecipeID": 22560,
     "Source": "Drop"
   },
   "Enchant Weapon - Soulfrost": {
@@ -2452,6 +2554,7 @@
     "Yellow": 380,
     "Green": 385,
     "Grey": 390,
+    "RecipeID": 22561,
     "Source": "Drop"
   },
   "Enchant Weapon - Mongoose": {
@@ -2467,6 +2570,7 @@
     "Yellow": 380,
     "Green": 385,
     "Grey": 390,
+    "RecipeID": 22559,
     "Source": "Drop"
   },
   "Enchant Weapon - Spellsurge": {
@@ -2481,6 +2585,7 @@
     "Yellow": 370,
     "Green": 377,
     "Grey": 385,
+    "RecipeID": 22558,
     "Source": "Drop"
   },
   "Enchant Weapon - Battlemaster": {
@@ -2495,6 +2600,7 @@
     "Yellow": 370,
     "Green": 377,
     "Grey": 385,
+    "RecipeID": 22557,
     "Source": "Drop"
   },
   "Superior Mana Oil": {
@@ -2656,6 +2762,7 @@
     "Yellow": 355,
     "Green": 367,
     "Grey": 380,
+    "RecipeID": 28270,
     "Source": "Drop"
   },
   "Enchant Gloves - Blasting": {
@@ -2683,7 +2790,8 @@
     "Yellow": 370,
     "Green": 377,
     "Grey": 385,
-    "Source": "Vendor"
+    "RecipeID": 28271,
+    "Source": "Reputation"
   },
   "Enchant Gloves - Major Strength": {
     "ID": 33995,
@@ -2722,7 +2830,8 @@
     "Yellow": 370,
     "Green": 377,
     "Grey": 385,
-    "Source": "Vendor"
+    "RecipeID": 28272,
+    "Source": "Reputation"
   },
   "Enchant Gloves - Major Healing": {
     "ID": 33999,
@@ -2736,7 +2845,8 @@
     "Yellow": 370,
     "Green": 375,
     "Grey": 380,
-    "Source": "Vendor"
+    "RecipeID": 28273,
+    "Source": "Reputation"
   },
   "Enchant Bracer - Major Intellect": {
     "ID": 34001,
@@ -2774,7 +2884,8 @@
     "Yellow": 335,
     "Green": 350,
     "Grey": 365,
-    "Source": "Vendor"
+    "RecipeID": 28274,
+    "Source": "Reputation"
   },
   "Enchant Cloak - Greater Agility": {
     "ID": 34004,
@@ -2801,6 +2912,7 @@
     "Yellow": 370,
     "Green": 375,
     "Grey": 380,
+    "RecipeID": 28276,
     "Source": "Drop"
   },
   "Enchant Cloak - Greater Shadow Resistance": {
@@ -2814,6 +2926,7 @@
     "Yellow": 370,
     "Green": 375,
     "Grey": 380,
+    "RecipeID": 28277,
     "Source": "Drop"
   },
   "Enchant Boots - Cat's Swiftness": {
@@ -2827,6 +2940,7 @@
     "Yellow": 370,
     "Green": 377,
     "Grey": 385,
+    "RecipeID": 35299,
     "Source": "Drop"
   },
   "Enchant Boots - Boar's Speed": {
@@ -2840,6 +2954,7 @@
     "Yellow": 370,
     "Green": 377,
     "Grey": 385,
+    "RecipeID": 35297,
     "Source": "Drop"
   },
   "Enchant Shield - Major Stamina": {
@@ -2852,6 +2967,7 @@
     "Yellow": 335,
     "Green": 350,
     "Grey": 365,
+    "RecipeID": 28282,
     "Source": "Vendor"
   },
   "Enchant Weapon - Major Healing": {
@@ -2866,7 +2982,8 @@
     "Yellow": 370,
     "Green": 375,
     "Grey": 380,
-    "Source": "Vendor"
+    "RecipeID": 28281,
+    "Source": "Reputation"
   },
   "Nexus Transformation": {
     "ID": 42613,
@@ -2907,7 +3024,8 @@
     "Yellow": 360,
     "Green": 367,
     "Grey": 375,
-    "Source": "Vendor"
+    "RecipeID": 33165,
+    "Source": "Reputation"
   },
   "Enchant Weapon - Executioner": {
     "ID": 42974,
@@ -2923,6 +3041,7 @@
     "Yellow": 380,
     "Green": 385,
     "Grey": 390,
+    "RecipeID": 33307,
     "Source": "Drop"
   },
   "Enchant Shield - Resilience": {
@@ -2950,6 +3069,7 @@
     "Yellow": 415,
     "Green": 425,
     "Grey": 435,
+    "RecipeID": 37332,
     "Source": "Trainer"
   },
   "Enchant Gloves - Expertise": {
@@ -3013,6 +3133,7 @@
     "Yellow": 415,
     "Green": 425,
     "Grey": 435,
+    "RecipeID": 37333,
     "Source": "Trainer"
   },
   "Enchant Cloak - Superior Agility": {
@@ -3025,6 +3146,7 @@
     "Yellow": 405,
     "Green": 415,
     "Grey": 425,
+    "RecipeID": 37335,
     "Source": "Trainer"
   },
   "Enchant Gloves - Gatherer": {
@@ -3076,6 +3198,7 @@
     "Yellow": 420,
     "Green": 430,
     "Grey": 440,
+    "RecipeID": 37329,
     "Source": "Trainer"
   },
   "Enchant Gloves - Greater Assault": {
@@ -3089,6 +3212,7 @@
     "Yellow": 405,
     "Green": 415,
     "Grey": 425,
+    "RecipeID": 37345,
     "Source": "Trainer"
   },
   "Enchant Weapon - Icebreaker": {
@@ -3102,6 +3226,7 @@
     "Yellow": 435,
     "Green": 445,
     "Grey": 455,
+    "RecipeID": 37344,
     "Source": "Vendor"
   },
   "Enchant Boots - Greater Fortitude": {
@@ -3153,6 +3278,7 @@
     "Yellow": 415,
     "Green": 425,
     "Grey": 435,
+    "RecipeID": 37331,
     "Source": "Trainer"
   },
   "Enchant Bracers - Greater Assault": {
@@ -3166,6 +3292,7 @@
     "Yellow": 440,
     "Green": 450,
     "Grey": 460,
+    "RecipeID": 44484,
     "Source": "Vendor"
   },
   "Enchant Weapon - Lifeward": {
@@ -3179,6 +3306,7 @@
     "Yellow": 435,
     "Green": 445,
     "Grey": 455,
+    "RecipeID": 44494,
     "Source": "Vendor"
   },
   "Enchant Cloak - Spell Piercing": {
@@ -3217,6 +3345,7 @@
     "Yellow": 435,
     "Green": 445,
     "Grey": 455,
+    "RecipeID": 37340,
     "Source": "Vendor"
   },
   "Enchant Boots - Superior Agility": {
@@ -3230,6 +3359,7 @@
     "Yellow": 425,
     "Green": 435,
     "Grey": 445,
+    "RecipeID": 37341,
     "Source": "Trainer"
   },
   "Enchant Cloak - Superior Shadow Resistance": {
@@ -3244,6 +3374,7 @@
     "Yellow": 415,
     "Green": 425,
     "Grey": 435,
+    "RecipeID": 37334,
     "Source": "Trainer"
   },
   "Enchant Cloak - Titanweave": {
@@ -3258,6 +3389,7 @@
     "Yellow": 445,
     "Green": 455,
     "Grey": 465,
+    "RecipeID": 37347,
     "Source": "Vendor"
   },
   "Enchant Gloves - Exceptional Spellpower": {
@@ -3284,6 +3416,7 @@
     "Yellow": 430,
     "Green": 440,
     "Grey": 450,
+    "RecipeID": 37326,
     "Source": "Trainer"
   },
   "Enchant 2H Weapon - Scourgebane": {
@@ -3297,7 +3430,7 @@
     "Yellow": 440,
     "Green": 450,
     "Grey": 460,
-    "Source": "Vendor"
+    "Source": "Drop"
   },
   "Enchant Cloak - Superior Arcane Resistance": {
     "ID": 44596,
@@ -3310,6 +3443,7 @@
     "Yellow": 415,
     "Green": 425,
     "Grey": 435,
+    "RecipeID": 37330,
     "Source": "Drop"
   },
   "Enchant Bracers - Expertise": {
@@ -3349,6 +3483,7 @@
     "Yellow": 440,
     "Green": 450,
     "Grey": 460,
+    "RecipeID": 37339,
     "Source": "Vendor"
   },
   "Enchant Chest - Super Stats": {
@@ -3375,6 +3510,7 @@
     "Yellow": 445,
     "Green": 455,
     "Grey": 465,
+    "RecipeID": 44485,
     "Source": "Vendor"
   },
   "Enchant Weapon - Exceptional Spellpower": {
@@ -3414,6 +3550,7 @@
     "Yellow": 450,
     "Green": 460,
     "Grey": 470,
+    "RecipeID": 37349,
     "Source": "Vendor"
   },
   "Enchant Weapon - Exceptional Agility": {
@@ -3427,6 +3564,7 @@
     "Yellow": 420,
     "Green": 430,
     "Grey": 440,
+    "RecipeID": 37343,
     "Source": "Trainer"
   },
   "Enchant Bracers - Greater Spellpower": {
@@ -3493,6 +3631,7 @@
     "Yellow": 350,
     "Green": 357,
     "Grey": 365,
+    "RecipeID": 35498,
     "Source": "Drop"
   },
   "Enchant Chest - Defense": {
@@ -3507,7 +3646,8 @@
     "Yellow": 370,
     "Green": 385,
     "Grey": 400,
-    "Source": "Vendor"
+    "RecipeID": 35500,
+    "Source": "Reputation"
   },
   "Enchant Cloak - Steelweave": {
     "ID": 47051,
@@ -3520,6 +3660,7 @@
     "Yellow": 380,
     "Green": 385,
     "Grey": 390,
+    "RecipeID": 35756,
     "Source": "Drop"
   },
   "Enchant Cloak - Mighty Armor": {
@@ -3533,6 +3674,7 @@
     "Yellow": 440,
     "Green": 450,
     "Grey": 460,
+    "RecipeID": 44471,
     "Source": "Vendor"
   },
   "Enchant Chest - Greater Defense": {
@@ -3546,6 +3688,7 @@
     "Yellow": 410,
     "Green": 420,
     "Grey": 430,
+    "RecipeID": 37336,
     "Source": "Trainer"
   },
   "Enchant Cloak - Greater Speed": {
@@ -3559,6 +3702,7 @@
     "Yellow": 440,
     "Green": 450,
     "Grey": 460,
+    "RecipeID": 44472,
     "Source": "Vendor"
   },
   "Enchant Cloak - Wisdom": {
@@ -3572,6 +3716,7 @@
     "Yellow": 450,
     "Green": 460,
     "Grey": 470,
+    "RecipeID": 44488,
     "Source": "Vendor"
   },
   "Enchant Chest - Super Health": {
@@ -3599,6 +3744,7 @@
     "Yellow": 450,
     "Green": 460,
     "Grey": 470,
+    "RecipeID": 44491,
     "Source": "Vendor"
   },
   "Enchant Weapon - Accuracy": {
@@ -3614,6 +3760,7 @@
     "Yellow": 450,
     "Green": 460,
     "Grey": 470,
+    "RecipeID": 44496,
     "Source": "Vendor"
   },
   "Enchant Weapon - Berserking": {
@@ -3629,6 +3776,7 @@
     "Yellow": 450,
     "Green": 460,
     "Grey": 470,
+    "RecipeID": 44492,
     "Source": "Vendor"
   },
   "Enchant Weapon - Black Magic": {
@@ -3643,6 +3791,7 @@
     "Yellow": 450,
     "Green": 460,
     "Grey": 470,
+    "RecipeID": 44495,
     "Source": "Vendor"
   },
   "Enchant Ring - Stamina": {
@@ -3790,6 +3939,7 @@
     "Yellow": 440,
     "Green": 450,
     "Grey": 460,
+    "RecipeID": 44483,
     "Source": "Vendor"
   },
   "Enchant Chest - Powerful Stats": {
@@ -3803,6 +3953,7 @@
     "Yellow": 450,
     "Green": 460,
     "Grey": 470,
+    "RecipeID": 44489,
     "Source": "Vendor"
   },
   "Enchant Weapon - Superior Potency": {
@@ -3818,6 +3969,7 @@
     "Yellow": 445,
     "Green": 455,
     "Grey": 465,
+    "RecipeID": 44486,
     "Source": "Vendor"
   },
   "Enchant Weapon - Mighty Spellpower": {
@@ -3832,6 +3984,7 @@
     "Yellow": 445,
     "Green": 455,
     "Grey": 465,
+    "RecipeID": 44487,
     "Source": "Vendor"
   },
   "Enchant Boots - Greater Assault": {
@@ -3845,6 +3998,7 @@
     "Yellow": 450,
     "Green": 460,
     "Grey": 470,
+    "RecipeID": 44490,
     "Source": "Vendor"
   },
   "Enchant Bracers - Superior Spellpower": {
@@ -3859,7 +4013,7 @@
     "Yellow": 450,
     "Green": 460,
     "Grey": 470,
-    "Source": "Vendor"
+    "Source": "Drop"
   },
   "Enchant Bracers - Major Stamina": {
     "ID": 62256,
@@ -3872,7 +4026,7 @@
     "Yellow": 460,
     "Green": 470,
     "Grey": 480,
-    "Source": "Vendor"
+    "Source": "Drop"
   },
   "Enchant Staff - Greater Spellpower": {
     "ID": 62948,
@@ -3886,6 +4040,7 @@
     "Yellow": 455,
     "Green": 460,
     "Grey": 465,
+    "RecipeID": 45059,
     "Source": "Vendor"
   },
   "Enchant Staff - Spellpower": {
@@ -3926,6 +4081,7 @@
     "Yellow": 455,
     "Green": 460,
     "Grey": 465,
+    "RecipeID": 46027,
     "Source": "Drop"
   },
   "Enchant Weapon - Blood Draining": {
@@ -3940,6 +4096,7 @@
     "Yellow": 455,
     "Green": 460,
     "Grey": 465,
+    "RecipeID": 46348,
     "Source": "Drop"
   },
   "Abyssal Shatter": {
@@ -3966,6 +4123,7 @@
     "Yellow": 385,
     "Green": 392,
     "Grey": 400,
+    "RecipeID": 50406,
     "Source": "Drop"
   }
 }

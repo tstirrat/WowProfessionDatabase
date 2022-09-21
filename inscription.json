@@ -4050,6 +4050,7 @@
     "Yellow": 375,
     "Green": 387,
     "Grey": 400,
+    "RecipeID": 46108,
     "Source": "Trainer"
   },
   "Twilight Tome": {
@@ -4809,6 +4810,7 @@
     "Yellow": 380,
     "Green": 382,
     "Grey": 385,
+    "RecipeID": 50167,
     "Source": "Vendor"
   },
   "Glyph of Eternal Water": {
@@ -4820,7 +4822,8 @@
     "Yellow": 255,
     "Green": 260,
     "Grey": 265,
-    "Source": "Drop"
+    "RecipeID": 50166,
+    "Source": "Vendor"
   },
   "Glyph of Quick Decay": {
     "ID": 71102,
@@ -4831,6 +4834,7 @@
     "Yellow": 380,
     "Green": 382,
     "Grey": 385,
-    "Source": "Drop"
+    "RecipeID": 50168,
+    "Source": "Vendor"
   }
 }

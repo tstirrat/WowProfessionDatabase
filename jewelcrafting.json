@@ -434,7 +434,7 @@
     "Yellow": 240,
     "Green": 255,
     "Grey": 270,
-    "Source": "Vendor"
+    "Source": "Drop"
   },
   "Aquamarine Pendant of the Warrior": {
     "ID": 26876,
@@ -496,7 +496,7 @@
     "Yellow": 250,
     "Green": 265,
     "Grey": 280,
-    "Source": "Vendor"
+    "Source": "Drop"
   },
   "Figurine - Truesilver Boar": {
     "ID": 26882,
@@ -1645,7 +1645,7 @@
     "Yellow": 375,
     "Green": 380,
     "Grey": 385,
-    "Source": "Vendor"
+    "Source": "Drop"
   },
   "Figurine - Dawnstone Crab": {
     "ID": 31080,
@@ -1660,7 +1660,7 @@
     "Yellow": 375,
     "Green": 380,
     "Grey": 385,
-    "Source": "Vendor"
+    "Source": "Drop"
   },
   "Figurine - Living Ruby Serpent": {
     "ID": 31081,
@@ -1675,7 +1675,7 @@
     "Yellow": 375,
     "Green": 380,
     "Grey": 385,
-    "Source": "Vendor"
+    "Source": "Drop"
   },
   "Figurine - Talasite Owl": {
     "ID": 31082,
@@ -1690,7 +1690,7 @@
     "Yellow": 375,
     "Green": 380,
     "Grey": 385,
-    "Source": "Vendor"
+    "Source": "Drop"
   },
   "Figurine - Nightseye Panther": {
     "ID": 31083,
@@ -1705,7 +1705,7 @@
     "Yellow": 375,
     "Green": 380,
     "Grey": 385,
-    "Source": "Vendor"
+    "Source": "Drop"
   },
   "Bold Living Ruby": {
     "ID": 31084,

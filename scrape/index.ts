@@ -15,7 +15,7 @@ import {
   WHSpell,
   Spell,
   toSpell,
-  stripRecipePrefix,
+  recipeToSpellName,
   WHItemWithID,
 } from "./types";
 
@@ -84,7 +84,7 @@ function toSpells(
   const recipes = new Map<string, WHItemWithID>(
     Object.entries<WHItem>(recipeMap).map<[string, WHItemWithID]>(
       ([id, recipe]) => [
-        stripRecipePrefix(recipe.name_enus),
+        recipeToSpellName(recipe.name_enus),
         { ...recipe, id: parseInt(id) },
       ]
     )

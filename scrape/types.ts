@@ -25,6 +25,8 @@ export interface WHItem {
   readonly jsonequip: {
     reqfaction?: FactionId;
     reqrep?: Standing;
+    avgbuyout?: number;
+    buyprice?: number;
     [key: string]: any;
   };
   readonly attainable: number;
@@ -131,11 +133,18 @@ export function toSpell(
     ? items.get(createdItemId)?.name_enus
     : undefined;
 
-  const recipe = createdItemName ? recipes.get(createdItemName) : undefined;
+  const recipe =
+    recipes.get(createdItemName ?? "<none>") ?? recipes.get(s.name);
 
-  const src = toSourceString(minSourceId(s.source));
-  const Source: SourceString =
-    src !== "Trainer" && recipe?.jsonequip.reqfaction ? "Reputation" : src;
+  const wowheadSource = toSourceString(minSourceId(s.source));
+  let Source: SourceString = wowheadSource;
+  if (wowheadSource !== "Trainer" && recipe) {
+    const { reqfaction, buyprice } = recipe.jsonequip;
+    Source = reqfaction ? "Reputation" : buyprice ? "Vendor" : wowheadSource;
+  }
+  if (wowheadSource === "Vendor" && !recipe) {
+    Source = "Drop";
+  }
 
   return {
     ID: s.id,
@@ -177,9 +186,10 @@ function assertNever(v: never): never {
   throw new Error(`AssertNever: ${v}`);
 }
 
-export function stripRecipePrefix(recipeName: string) {
+export function recipeToSpellName(recipeName: string) {
   if (!recipeName.includes(":")) return recipeName;
 
-  const [, itemName] = recipeName.split(":");
-  return itemName.trim();
+  let [, spellName] = recipeName.split(":");
+  spellName = spellName.trim().replace(/^Transmute\s/, "Transmute: ");
+  return spellName;
 }

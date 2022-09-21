@@ -842,6 +842,7 @@
     "Yellow": 115,
     "Green": 122,
     "Grey": 130,
+    "RecipeID": 6716,
     "Source": "Drop"
   },
   "Goblin Rocket Boots": {
@@ -2073,6 +2074,7 @@
     "Yellow": 200,
     "Green": 210,
     "Grey": 220,
+    "RecipeID": 18650,
     "Source": "Vendor"
   },
   "Dense Dynamite": {
