@@ -4990,7 +4990,7 @@
   "Lightweave Embroidery": {
     "ID": 55642,
     "Learn": 420,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Moonshroud": 1,
       "Eternium Thread": 1
@@ -5003,7 +5003,7 @@
   "Darkglow Embroidery": {
     "ID": 55769,
     "Learn": 420,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Ebonweave": 1,
       "Eternium Thread": 1
@@ -5016,7 +5016,7 @@
   "Swordguard Embroidery": {
     "ID": 55777,
     "Learn": 420,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Spellweave": 1,
       "Eternium Thread": 1
@@ -5056,7 +5056,7 @@
     "ID": 55900,
     "Creates": 41511,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Bolt of Frostweave": 2,
       "Infinite Dust": 2
@@ -5070,7 +5070,7 @@
     "ID": 55901,
     "Creates": 41548,
     "Learn": 395,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Bolt of Frostweave": 8,
       "Eternium Thread": 1
@@ -5140,7 +5140,7 @@
     "ID": 55907,
     "Creates": 41521,
     "Learn": 380,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Bolt of Frostweave": 5,
       "Eternium Thread": 1
@@ -5168,7 +5168,7 @@
     "ID": 55910,
     "Creates": 41523,
     "Learn": 385,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Bolt of Frostweave": 7,
       "Eternium Thread": 4,
@@ -5183,7 +5183,7 @@
     "ID": 55911,
     "Creates": 41525,
     "Learn": 390,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Bolt of Frostweave": 8,
       "Eternium Thread": 4,
@@ -5198,7 +5198,7 @@
     "ID": 55913,
     "Creates": 41528,
     "Learn": 385,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Bolt of Frostweave": 5,
       "Eternium Thread": 4,
@@ -5213,7 +5213,7 @@
     "ID": 55914,
     "Creates": 41543,
     "Learn": 395,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Bolt of Frostweave": 7,
       "Eternium Thread": 1
@@ -5227,7 +5227,7 @@
     "ID": 55919,
     "Creates": 41546,
     "Learn": 395,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Bolt of Frostweave": 8,
       "Eternium Thread": 1
@@ -5241,7 +5241,7 @@
     "ID": 55920,
     "Creates": 41551,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Bolt of Frostweave": 8,
       "Eternium Thread": 1
@@ -5255,7 +5255,7 @@
     "ID": 55921,
     "Creates": 41549,
     "Learn": 405,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Bolt of Frostweave": 10,
       "Eternium Thread": 1
@@ -5269,7 +5269,7 @@
     "ID": 55922,
     "Creates": 41545,
     "Learn": 405,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Bolt of Frostweave": 9,
       "Eternium Thread": 1
@@ -5283,7 +5283,7 @@
     "ID": 55923,
     "Creates": 41550,
     "Learn": 410,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Bolt of Frostweave": 10,
       "Eternium Thread": 1
@@ -5297,7 +5297,7 @@
     "ID": 56048,
     "Creates": 41544,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Frostwoven Boots": 1,
       "Crystallized Shadow": 2
@@ -5311,7 +5311,7 @@
     "ID": 55925,
     "Creates": 41553,
     "Learn": 415,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Bolt of Imbued Frostweave": 5,
       "Iceweb Spider Silk": 2,
@@ -5326,7 +5326,7 @@
     "ID": 55941,
     "Creates": 41554,
     "Learn": 420,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Bolt of Imbued Frostweave": 5,
       "Iceweb Spider Silk": 2,
@@ -5341,7 +5341,7 @@
     "ID": 55943,
     "Creates": 41555,
     "Learn": 415,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Bolt of Imbued Frostweave": 4,
       "Iceweb Spider Silk": 2,
@@ -5356,7 +5356,7 @@
     "ID": 55993,
     "Creates": 41248,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Bolt of Frostweave": 4,
       "Red Dye": 1
@@ -5371,7 +5371,7 @@
     "ID": 55994,
     "Creates": 41249,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Bolt of Frostweave": 4,
       "Blue Dye": 1
@@ -5386,7 +5386,7 @@
     "ID": 55995,
     "Creates": 41251,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Bolt of Frostweave": 4,
       "Yellow Dye": 1
@@ -5401,7 +5401,7 @@
     "ID": 55996,
     "Creates": 41250,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Bolt of Frostweave": 4,
       "Green Dye": 1
@@ -5416,7 +5416,7 @@
     "ID": 55997,
     "Creates": 41252,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Bolt of Frostweave": 4,
       "Red Dye": 1
@@ -5431,7 +5431,7 @@
     "ID": 55998,
     "Creates": 41253,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Bolt of Frostweave": 4,
       "Blue Dye": 1
@@ -5446,7 +5446,7 @@
     "ID": 55999,
     "Creates": 41254,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Bolt of Frostweave": 4,
       "Yellow Dye": 1
@@ -5461,7 +5461,7 @@
     "ID": 56000,
     "Creates": 41255,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Bolt of Frostweave": 4,
       "Green Dye": 1
@@ -5476,7 +5476,7 @@
     "ID": 56001,
     "Creates": 41594,
     "Learn": 415,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Bolt of Imbued Frostweave": 1,
       "Eternal Life": 2
@@ -5491,7 +5491,7 @@
     "ID": 56002,
     "Creates": 41593,
     "Learn": 415,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Bolt of Imbued Frostweave": 1,
       "Eternal Shadow": 2
@@ -5506,7 +5506,7 @@
     "ID": 56003,
     "Creates": 41595,
     "Learn": 415,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Bolt of Imbued Frostweave": 1,
       "Eternal Fire": 2
@@ -5521,7 +5521,7 @@
     "ID": 56004,
     "Creates": 41597,
     "Learn": 435,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Ebonweave": 4,
       "Spellweave": 2,
@@ -5537,7 +5537,7 @@
     "ID": 56005,
     "Creates": 41600,
     "Learn": 445,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Moonshroud": 4,
       "Ebonweave": 4,
@@ -5553,7 +5553,7 @@
     "ID": 56006,
     "Creates": 41598,
     "Learn": 440,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Spellweave": 4,
       "Moonshroud": 2,
@@ -5569,7 +5569,7 @@
     "ID": 56007,
     "Creates": 41599,
     "Learn": 410,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Bolt of Imbued Frostweave": 6,
       "Eternium Thread": 2
@@ -5584,7 +5584,7 @@
     "ID": 56008,
     "Creates": 41601,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Crystallized Life": 2,
       "Iceweb Spider Silk": 2
@@ -5598,7 +5598,7 @@
     "ID": 56009,
     "Creates": 41602,
     "Learn": 430,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Eternal Life": 4,
       "Iceweb Spider Silk": 4,
@@ -5614,7 +5614,7 @@
     "ID": 56010,
     "Creates": 41603,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Crystallized Fire": 2,
       "Iceweb Spider Silk": 2
@@ -5628,7 +5628,7 @@
     "ID": 56011,
     "Creates": 41604,
     "Learn": 430,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Eternal Fire": 4,
       "Iceweb Spider Silk": 4,
@@ -5644,7 +5644,7 @@
     "ID": 56014,
     "Creates": 41607,
     "Learn": 390,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Bolt of Frostweave": 7,
       "Northsea Pearl": 1
@@ -5658,7 +5658,7 @@
     "ID": 56015,
     "Creates": 41608,
     "Learn": 395,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Bolt of Frostweave": 8,
       "Northsea Pearl": 1
@@ -5672,7 +5672,7 @@
     "ID": 56016,
     "Creates": 41609,
     "Learn": 415,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Bolt of Imbued Frostweave": 5,
       "Eternal Life": 6,
@@ -5690,7 +5690,7 @@
     "ID": 56017,
     "Creates": 41610,
     "Learn": 420,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Bolt of Imbued Frostweave": 5,
       "Eternal Fire": 6,
@@ -5708,7 +5708,7 @@
     "ID": 56018,
     "Creates": 41984,
     "Learn": 425,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Ebonweave": 1,
       "Bolt of Imbued Frostweave": 6,
@@ -5725,7 +5725,7 @@
     "ID": 56019,
     "Creates": 41985,
     "Learn": 420,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Spellweave": 1,
       "Bolt of Imbued Frostweave": 5,
@@ -5743,7 +5743,7 @@
     "ID": 56020,
     "Creates": 41986,
     "Learn": 420,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Spellweave": 1,
       "Bolt of Imbued Frostweave": 4,
@@ -5759,7 +5759,7 @@
     "ID": 56021,
     "Creates": 42093,
     "Learn": 425,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Moonshroud": 1,
       "Bolt of Imbued Frostweave": 6,
@@ -5776,7 +5776,7 @@
     "ID": 56022,
     "Creates": 42095,
     "Learn": 420,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Moonshroud": 1,
       "Bolt of Imbued Frostweave": 4,
@@ -5793,7 +5793,7 @@
     "ID": 56023,
     "Creates": 42096,
     "Learn": 420,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Moonshroud": 1,
       "Bolt of Imbued Frostweave": 4,
@@ -5811,7 +5811,7 @@
     "ID": 56024,
     "Creates": 42100,
     "Learn": 440,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Moonshroud": 8,
       "Bolt of Imbued Frostweave": 6,
@@ -5828,7 +5828,7 @@
     "ID": 56025,
     "Creates": 42103,
     "Learn": 435,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Moonshroud": 4,
       "Bolt of Imbued Frostweave": 4,
@@ -5845,7 +5845,7 @@
     "ID": 56026,
     "Creates": 42101,
     "Learn": 440,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Ebonweave": 8,
       "Bolt of Imbued Frostweave": 6,
@@ -5862,7 +5862,7 @@
     "ID": 56027,
     "Creates": 42111,
     "Learn": 435,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Ebonweave": 4,
       "Bolt of Imbued Frostweave": 4,
@@ -5879,7 +5879,7 @@
     "ID": 56028,
     "Creates": 42102,
     "Learn": 440,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Spellweave": 8,
       "Bolt of Imbued Frostweave": 6,
@@ -5896,7 +5896,7 @@
     "ID": 56029,
     "Creates": 42113,
     "Learn": 435,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Spellweave": 4,
       "Bolt of Imbued Frostweave": 4,
@@ -5913,7 +5913,7 @@
     "ID": 56030,
     "Creates": 41519,
     "Learn": 380,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Bolt of Frostweave": 5,
       "Eternium Thread": 1
@@ -5940,7 +5940,7 @@
   "Master's Spellthread": {
     "ID": 56034,
     "Learn": 405,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Eternium Thread": 1
     },
@@ -5952,7 +5952,7 @@
   "Sanctified Spellthread": {
     "ID": 56039,
     "Learn": 405,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Eternium Thread": 1
     },
@@ -5965,7 +5965,7 @@
     "ID": 59582,
     "Creates": 43969,
     "Learn": 415,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Bolt of Imbued Frostweave": 3,
       "Crystallized Fire": 3,
@@ -5981,7 +5981,7 @@
     "ID": 59583,
     "Creates": 43974,
     "Learn": 415,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Bolt of Imbued Frostweave": 3,
       "Crystallized Fire": 3,
@@ -5997,7 +5997,7 @@
     "ID": 59584,
     "Creates": 43973,
     "Learn": 420,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Bolt of Imbued Frostweave": 3,
       "Crystallized Fire": 4,
@@ -6013,7 +6013,7 @@
     "ID": 59585,
     "Creates": 43970,
     "Learn": 420,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Bolt of Imbued Frostweave": 3,
       "Crystallized Fire": 4,
@@ -6029,7 +6029,7 @@
     "ID": 59586,
     "Creates": 41516,
     "Learn": 420,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Bolt of Imbued Frostweave": 3,
       "Crystallized Fire": 4,
@@ -6045,7 +6045,7 @@
     "ID": 59587,
     "Creates": 43972,
     "Learn": 420,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Bolt of Imbued Frostweave": 4,
       "Crystallized Fire": 5,
@@ -6061,7 +6061,7 @@
     "ID": 59588,
     "Creates": 43975,
     "Learn": 420,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Bolt of Imbued Frostweave": 4,
       "Crystallized Fire": 5,
@@ -6077,7 +6077,7 @@
     "ID": 59589,
     "Creates": 43971,
     "Learn": 420,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Bolt of Imbued Frostweave": 4,
       "Crystallized Fire": 5,
@@ -6109,7 +6109,7 @@
     "ID": 60971,
     "Creates": 44558,
     "Learn": 425,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Bolt of Imbued Frostweave": 12,
       "Monarch Topaz": 4,
@@ -6126,7 +6126,7 @@
     "ID": 60990,
     "Creates": 43584,
     "Learn": 420,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Bolt of Imbued Frostweave": 4,
       "Eternal Fire": 2,
@@ -6143,7 +6143,7 @@
     "ID": 60993,
     "Creates": 43583,
     "Learn": 425,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Bolt of Imbued Frostweave": 6,
       "Eternal Fire": 3,
@@ -6160,7 +6160,7 @@
     "ID": 60994,
     "Creates": 43585,
     "Learn": 420,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Bolt of Imbued Frostweave": 4,
       "Eternal Fire": 2,
@@ -6177,7 +6177,7 @@
     "ID": 63203,
     "Creates": 45557,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Spellweave": 4,
       "Ebonweave": 4,
@@ -6193,7 +6193,7 @@
     "ID": 63204,
     "Creates": 45566,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Spellweave": 4,
       "Ebonweave": 4,
@@ -6209,7 +6209,7 @@
     "ID": 63205,
     "Creates": 45558,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Moonshroud": 8,
       "Runed Orb": 6
@@ -6224,7 +6224,7 @@
     "ID": 63206,
     "Creates": 45567,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Moonshroud": 8,
       "Runed Orb": 6
@@ -6254,7 +6254,7 @@
     "ID": 63924,
     "Creates": 45773,
     "Learn": 435,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Moonshroud": 4,
       "Frost Lotus": 6
@@ -6269,7 +6269,7 @@
     "ID": 64729,
     "Creates": 45811,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Bolt of Imbued Frostweave": 4,
       "Iceweb Spider Silk": 4,
@@ -6284,7 +6284,7 @@
     "ID": 64730,
     "Creates": 45810,
     "Learn": 405,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Bolt of Imbued Frostweave": 4,
       "Iceweb Spider Silk": 4,
@@ -6299,7 +6299,7 @@
     "ID": 67144,
     "Creates": 47606,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Moonshroud": 20,
       "King's Amber": 2,
@@ -6315,7 +6315,7 @@
     "ID": 67147,
     "Creates": 47588,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Moonshroud": 12,
       "Crusader Orb": 4
@@ -6330,7 +6330,7 @@
     "ID": 67146,
     "Creates": 47604,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Ebonweave": 8,
       "Spellweave": 8,
@@ -6347,7 +6347,7 @@
     "ID": 67145,
     "Creates": 47586,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Spellweave": 8,
       "Eye of Zul": 1,
@@ -6365,7 +6365,7 @@
     "ID": 70550,
     "Creates": 49891,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Spellweave": 10,
       "Ebonweave": 10,
@@ -6381,7 +6381,7 @@
     "ID": 70551,
     "Creates": 49890,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Spellweave": 6,
       "Ebonweave": 6,
@@ -6397,7 +6397,7 @@
     "ID": 70552,
     "Creates": 49892,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Moonshroud": 20,
       "Primordial Saronite": 8
@@ -6412,7 +6412,7 @@
     "ID": 70553,
     "Creates": 49893,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Moonshroud": 10,
       "Primordial Saronite": 5
@@ -6427,7 +6427,7 @@
     "ID": 75597,
     "Creates": 54797,
     "Learn": 425,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Moonshroud": 1,
       "Spellweave": 1,

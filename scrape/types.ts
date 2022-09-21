@@ -150,7 +150,7 @@ export function toSpell(
     ID: s.id,
     Creates: createdItemId,
     Learn: s.learnedat,
-    Phase: 0,
+    Phase: s.learnedat > 375 ? 1 : 0,
     Reagents,
     Yellow,
     Green,

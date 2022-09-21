@@ -3060,7 +3060,7 @@
   "Enchant Cloak - Superior Frost Resistance": {
     "ID": 44483,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Infinite Dust": 6,
       "Greater Cosmic Essence": 3,
@@ -3075,7 +3075,7 @@
   "Enchant Gloves - Expertise": {
     "ID": 44484,
     "Learn": 405,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Infinite Dust": 12
     },
@@ -3087,7 +3087,7 @@
   "Enchant Gloves - Precision": {
     "ID": 44488,
     "Learn": 410,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Greater Cosmic Essence": 4
     },
@@ -3099,7 +3099,7 @@
   "Enchant Shield - Defense": {
     "ID": 44489,
     "Learn": 420,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Infinite Dust": 6,
       "Eternal Earth": 6
@@ -3112,7 +3112,7 @@
   "Enchant Chest - Mighty Health": {
     "ID": 44492,
     "Learn": 395,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Greater Cosmic Essence": 3
     },
@@ -3124,7 +3124,7 @@
   "Enchant Cloak - Superior Nature Resistance": {
     "ID": 44494,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Infinite Dust": 15,
       "Greater Cosmic Essence": 1,
@@ -3139,7 +3139,7 @@
   "Enchant Cloak - Superior Agility": {
     "ID": 44500,
     "Learn": 395,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Infinite Dust": 9
     },
@@ -3164,7 +3164,7 @@
   "Enchant Boots - Greater Spirit": {
     "ID": 44508,
     "Learn": 410,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Infinite Dust": 10,
       "Greater Cosmic Essence": 1
@@ -3177,7 +3177,7 @@
   "Enchant Chest - Greater Mana Restoration": {
     "ID": 44509,
     "Learn": 420,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Infinite Dust": 4,
       "Greater Cosmic Essence": 4
@@ -3190,7 +3190,7 @@
   "Enchant Weapon - Exceptional Spirit": {
     "ID": 44510,
     "Learn": 410,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Infinite Dust": 16,
       "Dream Shard": 4
@@ -3204,7 +3204,7 @@
   "Enchant Gloves - Greater Assault": {
     "ID": 44513,
     "Learn": 395,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Infinite Dust": 6,
       "Greater Cosmic Essence": 1
@@ -3218,7 +3218,7 @@
   "Enchant Weapon - Icebreaker": {
     "ID": 44524,
     "Learn": 425,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Dream Shard": 4,
       "Eternal Fire": 4
@@ -3232,7 +3232,7 @@
   "Enchant Boots - Greater Fortitude": {
     "ID": 44528,
     "Learn": 385,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Lesser Cosmic Essence": 3,
       "Infinite Dust": 3
@@ -3245,7 +3245,7 @@
   "Enchant Gloves - Major Agility": {
     "ID": 44529,
     "Learn": 415,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Greater Cosmic Essence": 4,
       "Dream Shard": 1
@@ -3270,7 +3270,7 @@
   "Enchant Cloak - Superior Fire Resistance": {
     "ID": 44556,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Greater Cosmic Essence": 4,
       "Eternal Water": 1
@@ -3284,7 +3284,7 @@
   "Enchant Bracers - Greater Assault": {
     "ID": 44575,
     "Learn": 430,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Infinite Dust": 24,
       "Greater Cosmic Essence": 6
@@ -3298,7 +3298,7 @@
   "Enchant Weapon - Lifeward": {
     "ID": 44576,
     "Learn": 425,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Dream Shard": 1,
       "Eternal Life": 4
@@ -3312,7 +3312,7 @@
   "Enchant Cloak - Spell Piercing": {
     "ID": 44582,
     "Learn": 395,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Infinite Dust": 15
     },
@@ -3324,7 +3324,7 @@
   "Enchant Boots - Greater Vitality": {
     "ID": 44584,
     "Learn": 405,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Infinite Dust": 8,
       "Greater Cosmic Essence": 2
@@ -3337,7 +3337,7 @@
   "Enchant Chest - Exceptional Resilience": {
     "ID": 44588,
     "Learn": 410,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Greater Cosmic Essence": 2,
       "Dream Shard": 2
@@ -3351,7 +3351,7 @@
   "Enchant Boots - Superior Agility": {
     "ID": 44589,
     "Learn": 415,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Infinite Dust": 16,
       "Greater Cosmic Essence": 4
@@ -3365,7 +3365,7 @@
   "Enchant Cloak - Superior Shadow Resistance": {
     "ID": 44590,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Infinite Dust": 8,
       "Lesser Cosmic Essence": 2,
@@ -3380,7 +3380,7 @@
   "Enchant Cloak - Titanweave": {
     "ID": 44591,
     "Learn": 435,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Infinite Dust": 8,
       "Titanium Bar": 2,
@@ -3408,7 +3408,7 @@
   "Enchant Bracers - Major Spirit": {
     "ID": 44593,
     "Learn": 420,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Infinite Dust": 16,
       "Greater Cosmic Essence": 4
@@ -3422,7 +3422,7 @@
   "Enchant 2H Weapon - Scourgebane": {
     "ID": 44595,
     "Learn": 430,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Infinite Dust": 6,
       "Dream Shard": 6
@@ -3435,7 +3435,7 @@
   "Enchant Cloak - Superior Arcane Resistance": {
     "ID": 44596,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Infinite Dust": 20,
       "Eternal Earth": 1
@@ -3449,7 +3449,7 @@
   "Enchant Bracers - Expertise": {
     "ID": 44598,
     "Learn": 415,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Infinite Dust": 14,
       "Greater Cosmic Essence": 3
@@ -3462,7 +3462,7 @@
   "Enchant Bracers - Greater Stats": {
     "ID": 44616,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Infinite Dust": 16,
       "Greater Cosmic Essence": 3
@@ -3475,7 +3475,7 @@
   "Enchant Weapon - Giant Slayer": {
     "ID": 44621,
     "Learn": 430,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Greater Cosmic Essence": 2,
       "Dream Shard": 6
@@ -3502,7 +3502,7 @@
   "Enchant Gloves - Armsman": {
     "ID": 44625,
     "Learn": 435,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Dream Shard": 2,
       "Eternal Earth": 8
@@ -3516,7 +3516,7 @@
   "Enchant Weapon - Exceptional Spellpower": {
     "ID": 44629,
     "Learn": 395,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Infinite Dust": 10,
       "Greater Cosmic Essence": 2
@@ -3529,7 +3529,7 @@
   "Enchant 2H Weapon - Greater Savagery": {
     "ID": 44630,
     "Learn": 390,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Infinite Dust": 6,
       "Greater Cosmic Essence": 2
@@ -3542,7 +3542,7 @@
   "Enchant Cloak - Shadow Armor": {
     "ID": 44631,
     "Learn": 440,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Infinite Dust": 12,
       "Abyss Crystal": 1
@@ -3556,7 +3556,7 @@
   "Enchant Weapon - Exceptional Agility": {
     "ID": 44633,
     "Learn": 410,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Dream Shard": 4,
       "Eternal Air": 4
@@ -3570,7 +3570,7 @@
   "Enchant Bracers - Greater Spellpower": {
     "ID": 44635,
     "Learn": 395,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Infinite Dust": 8,
       "Lesser Cosmic Essence": 4
@@ -3583,7 +3583,7 @@
   "Enchant Ring - Greater Spellpower": {
     "ID": 44636,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Infinite Dust": 8,
       "Greater Cosmic Essence": 1
@@ -3596,7 +3596,7 @@
   "Enchant Ring - Assault": {
     "ID": 44645,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Infinite Dust": 8,
       "Greater Cosmic Essence": 1
@@ -3666,7 +3666,7 @@
   "Enchant Cloak - Mighty Armor": {
     "ID": 47672,
     "Learn": 430,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Infinite Dust": 15,
       "Greater Cosmic Essence": 2
@@ -3680,7 +3680,7 @@
   "Enchant Chest - Greater Defense": {
     "ID": 47766,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Infinite Dust": 10,
       "Eternal Earth": 1
@@ -3694,7 +3694,7 @@
   "Enchant Cloak - Greater Speed": {
     "ID": 47898,
     "Learn": 430,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Infinite Dust": 16,
       "Greater Cosmic Essence": 4
@@ -3708,7 +3708,7 @@
   "Enchant Cloak - Wisdom": {
     "ID": 47899,
     "Learn": 440,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Greater Cosmic Essence": 6,
       "Abyss Crystal": 1
@@ -3722,7 +3722,7 @@
   "Enchant Chest - Super Health": {
     "ID": 47900,
     "Learn": 425,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Infinite Dust": 20,
       "Greater Cosmic Essence": 4
@@ -3735,7 +3735,7 @@
   "Enchant Boots - Tuskarr's Vitality": {
     "ID": 47901,
     "Learn": 440,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Infinite Dust": 10,
       "Greater Cosmic Essence": 2,
@@ -3750,7 +3750,7 @@
   "Enchant Weapon - Accuracy": {
     "ID": 59619,
     "Learn": 440,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Infinite Dust": 20,
       "Greater Cosmic Essence": 4,
@@ -3766,7 +3766,7 @@
   "Enchant Weapon - Berserking": {
     "ID": 59621,
     "Learn": 440,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Infinite Dust": 12,
       "Greater Cosmic Essence": 4,
@@ -3782,7 +3782,7 @@
   "Enchant Weapon - Black Magic": {
     "ID": 59625,
     "Learn": 440,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Greater Cosmic Essence": 6,
       "Dream Shard": 6,
@@ -3797,7 +3797,7 @@
   "Enchant Ring - Stamina": {
     "ID": 59636,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Infinite Dust": 8,
       "Greater Cosmic Essence": 1
@@ -3848,7 +3848,7 @@
     "ID": 60619,
     "Creates": 44452,
     "Learn": 425,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Titanium Rod": 1,
       "Infinite Dust": 40,
@@ -3864,7 +3864,7 @@
   "Enchant Weapon - Greater Potency": {
     "ID": 60621,
     "Learn": 380,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Infinite Dust": 2,
       "Lesser Cosmic Essence": 4
@@ -3877,7 +3877,7 @@
   "Enchant Boots - Icewalker": {
     "ID": 60623,
     "Learn": 385,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Infinite Dust": 8,
       "Crystallized Water": 1
@@ -3890,7 +3890,7 @@
   "Enchant Shield - Greater Intellect": {
     "ID": 60653,
     "Learn": 395,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Infinite Dust": 12
     },
@@ -3902,7 +3902,7 @@
   "Enchant Cloak - Major Agility": {
     "ID": 60663,
     "Learn": 420,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Infinite Dust": 8,
       "Greater Cosmic Essence": 2,
@@ -3916,7 +3916,7 @@
   "Enchant Gloves - Crusher": {
     "ID": 60668,
     "Learn": 425,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Infinite Dust": 20,
       "Greater Cosmic Essence": 4,
@@ -3930,7 +3930,7 @@
   "Enchant 2H Weapon - Massacre": {
     "ID": 60691,
     "Learn": 430,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Infinite Dust": 40,
       "Greater Cosmic Essence": 6,
@@ -3945,7 +3945,7 @@
   "Enchant Chest - Powerful Stats": {
     "ID": 60692,
     "Learn": 440,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Dream Shard": 4,
       "Abyss Crystal": 4
@@ -3959,7 +3959,7 @@
   "Enchant Weapon - Superior Potency": {
     "ID": 60707,
     "Learn": 435,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Infinite Dust": 10,
       "Greater Cosmic Essence": 2,
@@ -3975,7 +3975,7 @@
   "Enchant Weapon - Mighty Spellpower": {
     "ID": 60714,
     "Learn": 435,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Infinite Dust": 30,
       "Dream Shard": 6,
@@ -3990,7 +3990,7 @@
   "Enchant Boots - Greater Assault": {
     "ID": 60763,
     "Learn": 440,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Greater Cosmic Essence": 4,
       "Dream Shard": 4
@@ -4004,7 +4004,7 @@
   "Enchant Bracers - Superior Spellpower": {
     "ID": 60767,
     "Learn": 440,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Infinite Dust": 6,
       "Greater Cosmic Essence": 6,
@@ -4018,7 +4018,7 @@
   "Enchant Bracers - Major Stamina": {
     "ID": 62256,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Greater Cosmic Essence": 4,
       "Abyss Crystal": 1
@@ -4031,7 +4031,7 @@
   "Enchant Staff - Greater Spellpower": {
     "ID": 62948,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Infinite Dust": 40,
       "Dream Shard": 6,
@@ -4046,7 +4046,7 @@
   "Enchant Staff - Spellpower": {
     "ID": 62959,
     "Learn": 385,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Infinite Dust": 12,
       "Greater Cosmic Essence": 2
@@ -4072,7 +4072,7 @@
   "Enchant Weapon - Blade Ward": {
     "ID": 64441,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Abyss Crystal": 4,
       "Greater Cosmic Essence": 8,
@@ -4087,7 +4087,7 @@
   "Enchant Weapon - Blood Draining": {
     "ID": 64579,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Abyss Crystal": 4,
       "Infinite Dust": 40,
@@ -4103,7 +4103,7 @@
     "ID": 69412,
     "Creates": 34057,
     "Learn": 445,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Abyss Crystal": 1
     },

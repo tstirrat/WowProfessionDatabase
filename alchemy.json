@@ -2812,7 +2812,7 @@
     "ID": 53771,
     "Creates": 35627,
     "Learn": 405,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Eternal Life": 1
     },
@@ -2825,7 +2825,7 @@
     "ID": 53773,
     "Creates": 36860,
     "Learn": 405,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Eternal Life": 1
     },
@@ -2838,7 +2838,7 @@
     "ID": 53774,
     "Creates": 35622,
     "Learn": 405,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Eternal Fire": 1
     },
@@ -2851,7 +2851,7 @@
     "ID": 53775,
     "Creates": 35625,
     "Learn": 405,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Eternal Fire": 1
     },
@@ -2864,7 +2864,7 @@
     "ID": 53776,
     "Creates": 35622,
     "Learn": 405,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Eternal Air": 1
     },
@@ -2877,7 +2877,7 @@
     "ID": 53777,
     "Creates": 35624,
     "Learn": 405,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Eternal Air": 1
     },
@@ -2890,7 +2890,7 @@
     "ID": 53779,
     "Creates": 35624,
     "Learn": 405,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Eternal Shadow": 1
     },
@@ -2903,7 +2903,7 @@
     "ID": 53780,
     "Creates": 35625,
     "Learn": 405,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Eternal Shadow": 1
     },
@@ -2916,7 +2916,7 @@
     "ID": 53781,
     "Creates": 35623,
     "Learn": 405,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Eternal Earth": 1
     },
@@ -2929,7 +2929,7 @@
     "ID": 53782,
     "Creates": 35627,
     "Learn": 405,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Eternal Earth": 1
     },
@@ -2942,7 +2942,7 @@
     "ID": 53783,
     "Creates": 35623,
     "Learn": 405,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Eternal Water": 1
     },
@@ -2955,7 +2955,7 @@
     "ID": 53784,
     "Creates": 36860,
     "Learn": 405,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Eternal Water": 1
     },
@@ -2981,7 +2981,7 @@
     "ID": 53836,
     "Creates": 33447,
     "Learn": 405,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Goldclover": 1,
       "Icethorn": 2,
@@ -2996,7 +2996,7 @@
     "ID": 53837,
     "Creates": 33448,
     "Learn": 410,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Lichbloom": 2,
       "Goldclover": 1,
@@ -3039,7 +3039,7 @@
     "ID": 53840,
     "Creates": 39666,
     "Learn": 395,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Goldclover": 2,
       "Adder's Tongue": 2,
@@ -3084,7 +3084,7 @@
     "ID": 53847,
     "Creates": 40072,
     "Learn": 385,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Talandra's Rose": 3,
       "Imbued Vial": 1
@@ -3112,7 +3112,7 @@
     "ID": 53895,
     "Creates": 40077,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Goldclover": 2,
       "Imbued Vial": 1
@@ -3126,7 +3126,7 @@
     "ID": 53898,
     "Creates": 40078,
     "Learn": 390,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Goldclover": 4,
       "Imbued Vial": 1
@@ -3155,7 +3155,7 @@
     "ID": 53900,
     "Creates": 40081,
     "Learn": 380,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Goldclover": 1,
       "Talandra's Rose": 2,
@@ -3170,7 +3170,7 @@
     "ID": 53901,
     "Creates": 46376,
     "Learn": 435,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Icethorn": 5,
       "Lichbloom": 5,
@@ -3186,7 +3186,7 @@
     "ID": 53902,
     "Creates": 46379,
     "Learn": 435,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Lichbloom": 7,
       "Crystallized Life": 3,
@@ -3202,7 +3202,7 @@
     "ID": 53903,
     "Creates": 46377,
     "Learn": 435,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Lichbloom": 7,
       "Goldclover": 3,
@@ -3218,7 +3218,7 @@
     "ID": 53904,
     "Creates": 40087,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Talandra's Rose": 2,
       "Lichbloom": 2,
@@ -3233,7 +3233,7 @@
     "ID": 53905,
     "Creates": 40093,
     "Learn": 395,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Icethorn": 2,
       "Imbued Vial": 1
@@ -3247,7 +3247,7 @@
     "ID": 53936,
     "Creates": 40213,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Crystallized Earth": 2,
       "Imbued Vial": 1
@@ -3262,7 +3262,7 @@
     "ID": 53937,
     "Creates": 40215,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Crystallized Fire": 2,
       "Imbued Vial": 1
@@ -3277,7 +3277,7 @@
     "ID": 53938,
     "Creates": 40217,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Crystallized Life": 2,
       "Imbued Vial": 1
@@ -3292,7 +3292,7 @@
     "ID": 53939,
     "Creates": 40214,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Crystallized Water": 2,
       "Imbued Vial": 1
@@ -3307,7 +3307,7 @@
     "ID": 53942,
     "Creates": 40216,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Crystallized Shadow": 2,
       "Imbued Vial": 1
@@ -3322,7 +3322,7 @@
     "ID": 54213,
     "Creates": 46378,
     "Learn": 435,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Icethorn": 7,
       "Pygmy Oil": 3,
@@ -3338,7 +3338,7 @@
     "ID": 54218,
     "Creates": 40073,
     "Learn": 385,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Tiger Lily": 2,
       "Imbued Vial": 1
@@ -3352,7 +3352,7 @@
     "ID": 54220,
     "Creates": 40097,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Icethorn": 2,
       "Crystallized Earth": 1,
@@ -3367,7 +3367,7 @@
     "ID": 54221,
     "Creates": 40211,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Adder's Tongue": 2,
       "Pygmy Oil": 1,
@@ -3382,7 +3382,7 @@
     "ID": 54222,
     "Creates": 40212,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Lichbloom": 2,
       "Pygmy Oil": 1,
@@ -3397,7 +3397,7 @@
     "ID": 56519,
     "Creates": 40109,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Goldclover": 1,
       "Lichbloom": 2,
@@ -3412,7 +3412,7 @@
     "ID": 57425,
     "Creates": 41266,
     "Learn": 430,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Bloodstone": 1,
       "Chalcedony": 1,
@@ -3427,7 +3427,7 @@
     "ID": 57427,
     "Creates": 41334,
     "Learn": 425,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Dark Jade": 1,
       "Huge Citrine": 1,
@@ -3442,7 +3442,7 @@
     "ID": 58868,
     "Creates": 43570,
     "Learn": 410,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Runic Mana Potion": 10,
       "Enchanted Vial": 1
@@ -3456,7 +3456,7 @@
     "ID": 58871,
     "Creates": 43569,
     "Learn": 410,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Runic Healing Potion": 10,
       "Enchanted Vial": 1
@@ -3470,7 +3470,7 @@
     "ID": 60350,
     "Creates": 41163,
     "Learn": 395,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 8
     },
@@ -3483,7 +3483,7 @@
     "ID": 60354,
     "Creates": 44325,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Tiger Lily": 2,
       "Talandra's Rose": 1,
@@ -3498,7 +3498,7 @@
     "ID": 60355,
     "Creates": 44327,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Goldclover": 1,
       "Adder's Tongue": 2,
@@ -3513,7 +3513,7 @@
     "ID": 60356,
     "Creates": 44328,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Icethorn": 2,
       "Crystallized Life": 1,
@@ -3528,7 +3528,7 @@
     "ID": 60357,
     "Creates": 44329,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Goldclover": 1,
       "Adder's Tongue": 2,
@@ -3543,7 +3543,7 @@
     "ID": 60365,
     "Creates": 44330,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Tiger Lily": 2,
       "Imbued Vial": 1
@@ -3557,7 +3557,7 @@
     "ID": 60366,
     "Creates": 44331,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Deadnettle": 1,
       "Crystallized Life": 1,
@@ -3572,7 +3572,7 @@
     "ID": 60367,
     "Creates": 44332,
     "Learn": 395,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Deadnettle": 2,
       "Talandra's Rose": 1,
@@ -3587,7 +3587,7 @@
     "ID": 60396,
     "Creates": 44322,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Goldclover": 20,
       "Eternal Life": 2,
@@ -3602,7 +3602,7 @@
     "ID": 60403,
     "Creates": 44323,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Deadnettle": 20,
       "Pygmy Oil": 12,
@@ -3617,7 +3617,7 @@
     "ID": 60405,
     "Creates": 44324,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Adder's Tongue": 15,
       "Tiger Lily": 15,
@@ -3631,7 +3631,7 @@
   "Northrend Alchemy Research": {
     "ID": 60893,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Goldclover": 10,
       "Adder's Tongue": 10,
@@ -3647,7 +3647,7 @@
     "ID": 62213,
     "Creates": 44939,
     "Learn": 385,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Fire Leaf": 4,
       "Imbued Vial": 1
@@ -3674,7 +3674,7 @@
     "ID": 62410,
     "Creates": 8827,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Ethereal Oil": 3,
       "Imbued Vial": 1
@@ -3703,7 +3703,7 @@
     "ID": 66658,
     "Creates": 36931,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Monarch Topaz": 1,
       "Eternal Shadow": 1
@@ -3717,7 +3717,7 @@
     "ID": 66659,
     "Creates": 36919,
     "Learn": 440,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Eternal Fire": 1,
       "Scarlet Ruby": 1
@@ -3731,7 +3731,7 @@
     "ID": 66660,
     "Creates": 36922,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Autumn's Glow": 1,
       "Eternal Life": 1
@@ -3745,7 +3745,7 @@
     "ID": 66662,
     "Creates": 36928,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Eternal Shadow": 1,
       "Twilight Opal": 1
@@ -3759,7 +3759,7 @@
     "ID": 66663,
     "Creates": 36925,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Eternal Air": 1,
       "Sky Sapphire": 1
@@ -3773,7 +3773,7 @@
     "ID": 66664,
     "Creates": 36934,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Forest Emerald": 3
     },
@@ -3786,7 +3786,7 @@
     "ID": 67025,
     "Creates": 47499,
     "Learn": 425,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Frost Lotus": 4,
       "Enchanted Vial": 1

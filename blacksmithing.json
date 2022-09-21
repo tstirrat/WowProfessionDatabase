@@ -5995,7 +5995,7 @@
     "ID": 54551,
     "Creates": 40669,
     "Learn": 395,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Cobalt Bar": 6,
       "Saronite Bar": 5
@@ -6009,7 +6009,7 @@
     "ID": 54552,
     "Creates": 40671,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Cobalt Bar": 3,
       "Saronite Bar": 8
@@ -6023,7 +6023,7 @@
     "ID": 54553,
     "Creates": 40672,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Cobalt Bar": 6,
       "Saronite Bar": 5,
@@ -6038,7 +6038,7 @@
     "ID": 54554,
     "Creates": 40674,
     "Learn": 395,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Cobalt Bar": 5,
       "Saronite Bar": 5,
@@ -6053,7 +6053,7 @@
     "ID": 54555,
     "Creates": 40673,
     "Learn": 405,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 12,
       "Crystallized Earth": 1
@@ -6067,7 +6067,7 @@
     "ID": 54556,
     "Creates": 40675,
     "Learn": 405,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 12
     },
@@ -6080,7 +6080,7 @@
     "ID": 54557,
     "Creates": 40670,
     "Learn": 390,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Cobalt Bar": 6,
       "Saronite Bar": 4
@@ -6107,7 +6107,7 @@
     "ID": 54918,
     "Creates": 40949,
     "Learn": 380,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Cobalt Bar": 7
     },
@@ -6120,7 +6120,7 @@
     "ID": 54941,
     "Creates": 40950,
     "Learn": 385,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Cobalt Bar": 7
     },
@@ -6133,7 +6133,7 @@
     "ID": 54944,
     "Creates": 40951,
     "Learn": 385,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Cobalt Bar": 8
     },
@@ -6146,7 +6146,7 @@
     "ID": 54945,
     "Creates": 40952,
     "Learn": 390,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Cobalt Bar": 12
     },
@@ -6159,7 +6159,7 @@
     "ID": 54946,
     "Creates": 40953,
     "Learn": 395,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Cobalt Bar": 12
     },
@@ -6172,7 +6172,7 @@
     "ID": 54947,
     "Creates": 40943,
     "Learn": 395,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Cobalt Bar": 12
     },
@@ -6185,7 +6185,7 @@
     "ID": 54948,
     "Creates": 40954,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Cobalt Bar": 12
     },
@@ -6198,7 +6198,7 @@
     "ID": 54949,
     "Creates": 40955,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Cobalt Bar": 8
     },
@@ -6271,7 +6271,7 @@
     "ID": 55013,
     "Creates": 41117,
     "Learn": 390,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Cobalt Bar": 6,
       "Saronite Bar": 4
@@ -6285,7 +6285,7 @@
     "ID": 55014,
     "Creates": 41113,
     "Learn": 410,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 14
     },
@@ -6298,7 +6298,7 @@
     "ID": 55015,
     "Creates": 41114,
     "Learn": 415,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 14
     },
@@ -6311,7 +6311,7 @@
     "ID": 55017,
     "Creates": 41116,
     "Learn": 410,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 13
     },
@@ -6324,7 +6324,7 @@
     "ID": 55055,
     "Creates": 41126,
     "Learn": 395,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Cobalt Bar": 5,
       "Saronite Bar": 5,
@@ -6339,7 +6339,7 @@
     "ID": 55056,
     "Creates": 41127,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Cobalt Bar": 3,
       "Saronite Bar": 8
@@ -6353,7 +6353,7 @@
     "ID": 55057,
     "Creates": 41128,
     "Learn": 405,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 12
     },
@@ -6366,7 +6366,7 @@
     "ID": 55058,
     "Creates": 41129,
     "Learn": 415,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 14,
       "Crystallized Water": 1
@@ -6380,7 +6380,7 @@
     "ID": 55174,
     "Creates": 41181,
     "Learn": 390,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Cobalt Bar": 12,
       "Saronite Bar": 4,
@@ -6395,7 +6395,7 @@
     "ID": 55177,
     "Creates": 41182,
     "Learn": 395,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Cobalt Bar": 8,
       "Saronite Bar": 6,
@@ -6410,7 +6410,7 @@
     "ID": 55179,
     "Creates": 41183,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Cobalt Bar": 12,
       "Saronite Bar": 4,
@@ -6425,7 +6425,7 @@
     "ID": 55181,
     "Creates": 41184,
     "Learn": 405,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 12,
       "Crystallized Shadow": 2
@@ -6439,7 +6439,7 @@
     "ID": 55182,
     "Creates": 41185,
     "Learn": 410,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 15,
       "Crystallized Earth": 2
@@ -6453,7 +6453,7 @@
     "ID": 55183,
     "Creates": 41186,
     "Learn": 415,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 16,
       "Crystallized Fire": 1
@@ -6467,7 +6467,7 @@
     "ID": 55184,
     "Creates": 41187,
     "Learn": 415,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 14,
       "Crystallized Fire": 1
@@ -6481,7 +6481,7 @@
     "ID": 55185,
     "Creates": 41188,
     "Learn": 415,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 20,
       "Crystallized Fire": 2
@@ -6495,7 +6495,7 @@
     "ID": 55186,
     "Creates": 41189,
     "Learn": 415,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 14,
       "Crystallized Earth": 2
@@ -6509,7 +6509,7 @@
     "ID": 55187,
     "Creates": 41190,
     "Learn": 415,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 13,
       "Crystallized Earth": 2
@@ -6523,7 +6523,7 @@
     "ID": 55200,
     "Creates": 41239,
     "Learn": 380,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Cobalt Bar": 8
     },
@@ -6536,7 +6536,7 @@
     "ID": 55201,
     "Creates": 41240,
     "Learn": 380,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Cobalt Bar": 8
     },
@@ -6549,7 +6549,7 @@
     "ID": 55202,
     "Creates": 41241,
     "Learn": 385,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Cobalt Bar": 7
     },
@@ -6562,7 +6562,7 @@
     "ID": 55203,
     "Creates": 41242,
     "Learn": 385,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Cobalt Bar": 10
     },
@@ -6575,7 +6575,7 @@
     "ID": 55204,
     "Creates": 41243,
     "Learn": 390,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Cobalt Bar": 10
     },
@@ -6588,7 +6588,7 @@
     "ID": 55206,
     "Creates": 41245,
     "Learn": 405,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 7,
       "Crystallized Air": 2
@@ -6602,7 +6602,7 @@
     "ID": 55298,
     "Creates": 41355,
     "Learn": 420,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 12,
       "Eternal Fire": 1
@@ -6616,7 +6616,7 @@
     "ID": 55300,
     "Creates": 41356,
     "Learn": 420,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 12,
       "Eternal Water": 1
@@ -6630,7 +6630,7 @@
     "ID": 55301,
     "Creates": 41357,
     "Learn": 420,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 12,
       "Eternal Earth": 1
@@ -6644,7 +6644,7 @@
     "ID": 55302,
     "Creates": 41344,
     "Learn": 425,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 14,
       "Eternal Fire": 1
@@ -6658,7 +6658,7 @@
     "ID": 55303,
     "Creates": 41345,
     "Learn": 425,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 14,
       "Eternal Earth": 1
@@ -6672,7 +6672,7 @@
     "ID": 55304,
     "Creates": 41346,
     "Learn": 425,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 14,
       "Eternal Water": 1
@@ -6686,7 +6686,7 @@
     "ID": 55305,
     "Creates": 41354,
     "Learn": 420,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 12,
       "Eternal Air": 1
@@ -6700,7 +6700,7 @@
     "ID": 55306,
     "Creates": 41351,
     "Learn": 420,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 12,
       "Eternal Water": 1
@@ -6714,7 +6714,7 @@
     "ID": 55307,
     "Creates": 41352,
     "Learn": 420,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 12,
       "Eternal Water": 1
@@ -6728,7 +6728,7 @@
     "ID": 55308,
     "Creates": 41348,
     "Learn": 420,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 12,
       "Eternal Shadow": 1
@@ -6742,7 +6742,7 @@
     "ID": 55309,
     "Creates": 41349,
     "Learn": 420,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 12,
       "Eternal Fire": 1
@@ -6756,7 +6756,7 @@
     "ID": 55310,
     "Creates": 41347,
     "Learn": 425,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 14,
       "Eternal Air": 1
@@ -6770,7 +6770,7 @@
     "ID": 55311,
     "Creates": 41353,
     "Learn": 425,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 14,
       "Eternal Earth": 1
@@ -6784,7 +6784,7 @@
     "ID": 55312,
     "Creates": 41350,
     "Learn": 425,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 14,
       "Eternal Shadow": 1
@@ -6798,7 +6798,7 @@
     "ID": 55369,
     "Creates": 41257,
     "Learn": 440,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 8,
       "Titansteel Bar": 8,
@@ -6813,7 +6813,7 @@
     "ID": 55370,
     "Creates": 41383,
     "Learn": 440,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 6,
       "Titansteel Bar": 6,
@@ -6828,7 +6828,7 @@
     "ID": 55371,
     "Creates": 41384,
     "Learn": 440,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 6,
       "Titansteel Bar": 6,
@@ -6843,7 +6843,7 @@
     "ID": 55372,
     "Creates": 41386,
     "Learn": 440,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 4,
       "Titansteel Bar": 4,
@@ -6858,7 +6858,7 @@
     "ID": 55373,
     "Creates": 41387,
     "Learn": 440,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 4,
       "Titansteel Bar": 4,
@@ -6873,7 +6873,7 @@
     "ID": 55374,
     "Creates": 41388,
     "Learn": 440,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 4,
       "Titansteel Bar": 4,
@@ -6888,7 +6888,7 @@
     "ID": 55375,
     "Creates": 41391,
     "Learn": 440,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 4,
       "Titansteel Bar": 3,
@@ -6903,7 +6903,7 @@
     "ID": 55376,
     "Creates": 41392,
     "Learn": 440,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 4,
       "Titansteel Bar": 3,
@@ -6918,7 +6918,7 @@
     "ID": 55377,
     "Creates": 41394,
     "Learn": 440,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 4,
       "Titansteel Bar": 3,
@@ -6932,7 +6932,7 @@
   "Socket Bracer": {
     "ID": 55628,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 4,
       "Eternal Earth": 1
@@ -6945,7 +6945,7 @@
   "Socket Gloves": {
     "ID": 55641,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 4,
       "Eternal Shadow": 1
@@ -6959,7 +6959,7 @@
     "ID": 55656,
     "Creates": 41611,
     "Learn": 415,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 4,
       "Eternal Earth": 1,
@@ -6975,7 +6975,7 @@
     "ID": 55732,
     "Creates": 41745,
     "Learn": 420,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 2,
       "Titanium Bar": 1
@@ -7015,7 +7015,7 @@
     "ID": 55839,
     "Creates": 41976,
     "Learn": 420,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 2,
       "Titanium Bar": 1
@@ -7029,7 +7029,7 @@
     "ID": 56234,
     "Creates": 42435,
     "Learn": 440,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 6,
       "Titansteel Bar": 6,
@@ -7044,7 +7044,7 @@
     "ID": 56280,
     "Creates": 42443,
     "Learn": 410,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 15,
       "Crystallized Water": 2
@@ -7058,7 +7058,7 @@
     "ID": 56357,
     "Creates": 42500,
     "Learn": 420,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 2,
       "Titanium Bar": 1
@@ -7072,7 +7072,7 @@
     "ID": 56400,
     "Creates": 42508,
     "Learn": 440,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 4,
       "Titansteel Bar": 3,
@@ -7087,7 +7087,7 @@
     "ID": 56549,
     "Creates": 42723,
     "Learn": 420,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 12,
       "Eternal Air": 1
@@ -7101,7 +7101,7 @@
     "ID": 56550,
     "Creates": 42727,
     "Learn": 420,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 12,
       "Eternal Water": 1
@@ -7115,7 +7115,7 @@
     "ID": 56551,
     "Creates": 42729,
     "Learn": 420,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 12,
       "Eternal Water": 1
@@ -7129,7 +7129,7 @@
     "ID": 56552,
     "Creates": 42730,
     "Learn": 420,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 12,
       "Eternal Shadow": 1
@@ -7143,7 +7143,7 @@
     "ID": 56553,
     "Creates": 42724,
     "Learn": 420,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 12,
       "Eternal Fire": 1
@@ -7157,7 +7157,7 @@
     "ID": 56554,
     "Creates": 42726,
     "Learn": 425,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 14,
       "Eternal Air": 1
@@ -7171,7 +7171,7 @@
     "ID": 56555,
     "Creates": 42725,
     "Learn": 425,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 14,
       "Eternal Earth": 1
@@ -7185,7 +7185,7 @@
     "ID": 56556,
     "Creates": 42728,
     "Learn": 425,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 14,
       "Eternal Shadow": 1
@@ -7212,7 +7212,7 @@
     "ID": 59406,
     "Creates": 43853,
     "Learn": 430,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 4,
       "Titanium Bar": 1
@@ -7226,7 +7226,7 @@
     "ID": 59436,
     "Creates": 43860,
     "Learn": 395,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Cobalt Bar": 6,
       "Saronite Bar": 5
@@ -7240,7 +7240,7 @@
     "ID": 59438,
     "Creates": 43864,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Cobalt Bar": 3,
       "Saronite Bar": 8
@@ -7254,7 +7254,7 @@
     "ID": 59440,
     "Creates": 43865,
     "Learn": 405,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 12
     },
@@ -7267,7 +7267,7 @@
     "ID": 59441,
     "Creates": 43870,
     "Learn": 415,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 14,
       "Crystallized Water": 1
@@ -7281,7 +7281,7 @@
     "ID": 59442,
     "Creates": 43871,
     "Learn": 410,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 15,
       "Crystallized Fire": 2
@@ -7295,7 +7295,7 @@
     "ID": 61008,
     "Creates": 43586,
     "Learn": 425,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 16,
       "Eternal Fire": 3,
@@ -7311,7 +7311,7 @@
     "ID": 61009,
     "Creates": 43587,
     "Learn": 420,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 12,
       "Eternal Fire": 2,
@@ -7327,7 +7327,7 @@
     "ID": 61010,
     "Creates": 43588,
     "Learn": 420,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 12,
       "Eternal Fire": 2,
@@ -7343,7 +7343,7 @@
     "ID": 62202,
     "Creates": 44936,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Titanium Bar": 4,
       "Eternal Shadow": 4
@@ -7358,7 +7358,7 @@
     "ID": 63182,
     "Creates": 45085,
     "Learn": 440,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Titansteel Bar": 6,
       "Infinite Dust": 6,
@@ -7373,7 +7373,7 @@
     "ID": 63187,
     "Creates": 45550,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Titansteel Bar": 5,
       "Runed Orb": 6
@@ -7388,7 +7388,7 @@
     "ID": 63188,
     "Creates": 45559,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Titansteel Bar": 5,
       "Runed Orb": 6
@@ -7403,7 +7403,7 @@
     "ID": 63189,
     "Creates": 45552,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Titansteel Bar": 5,
       "Runed Orb": 6
@@ -7418,7 +7418,7 @@
     "ID": 63190,
     "Creates": 45561,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Titansteel Bar": 5,
       "Runed Orb": 6
@@ -7433,7 +7433,7 @@
     "ID": 63191,
     "Creates": 45551,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Titansteel Bar": 5,
       "Runed Orb": 6
@@ -7448,7 +7448,7 @@
     "ID": 63192,
     "Creates": 45560,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Titansteel Bar": 5,
       "Runed Orb": 6
@@ -7463,7 +7463,7 @@
     "ID": 67130,
     "Creates": 47592,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Titansteel Bar": 12,
       "Eternal Life": 8,
@@ -7480,7 +7480,7 @@
     "ID": 67131,
     "Creates": 47571,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Titansteel Bar": 8,
       "Saronite Bar": 20,
@@ -7496,7 +7496,7 @@
     "ID": 67132,
     "Creates": 47590,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Titansteel Bar": 10,
       "Deadly Saronite Dirk": 4,
@@ -7512,7 +7512,7 @@
     "ID": 67133,
     "Creates": 47573,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Titansteel Bar": 8,
       "Vengeance Bindings": 1,
@@ -7528,7 +7528,7 @@
     "ID": 67134,
     "Creates": 47594,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Titansteel Bar": 10,
       "Eternal Life": 20,
@@ -7544,7 +7544,7 @@
     "ID": 67135,
     "Creates": 47575,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Titansteel Bar": 8,
       "Eternal Life": 12,
@@ -7560,7 +7560,7 @@
     "ID": 70562,
     "Creates": 49902,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Titansteel Bar": 12,
       "Eternal Air": 20,
@@ -7576,7 +7576,7 @@
     "ID": 70563,
     "Creates": 49905,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Titansteel Bar": 8,
       "Eternal Earth": 12,
@@ -7592,7 +7592,7 @@
     "ID": 70565,
     "Creates": 49903,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Titansteel Bar": 12,
       "Eternal Shadow": 20,
@@ -7608,7 +7608,7 @@
     "ID": 70566,
     "Creates": 49906,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Titansteel Bar": 8,
       "Eternal Water": 6,
@@ -7625,7 +7625,7 @@
     "ID": 70567,
     "Creates": 49904,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Titansteel Bar": 12,
       "Eternal Earth": 20,
@@ -7641,7 +7641,7 @@
     "ID": 70568,
     "Creates": 49907,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Titansteel Bar": 8,
       "Eternal Earth": 12,

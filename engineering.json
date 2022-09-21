@@ -2974,7 +2974,7 @@
     "ID": 30349,
     "Creates": 23775,
     "Learn": 405,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 8,
       "Titanium Bar": 8,
@@ -3830,7 +3830,7 @@
     "ID": 54353,
     "Creates": 39688,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 10,
       "Froststeel Tube": 2,
@@ -3845,7 +3845,7 @@
   "Personal Electromagnetic Pulse Generator": {
     "ID": 54736,
     "Learn": 390,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Overcharged Capacitor": 4
     },
@@ -3857,7 +3857,7 @@
   "Frag Belt": {
     "ID": 54793,
     "Learn": 380,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Cobalt Bar": 8,
       "Volatile Blasting Trigger": 8
@@ -3870,7 +3870,7 @@
   "Hand-Mounted Pyro Rocket": {
     "ID": 54998,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 6,
       "Crystallized Fire": 4
@@ -3883,7 +3883,7 @@
   "Hyperspeed Accelerators": {
     "ID": 54999,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 6,
       "Crystallized Air": 4
@@ -3896,7 +3896,7 @@
   "Flexweave Underlay": {
     "ID": 55002,
     "Learn": 380,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Frostweave Cloth": 12,
       "Overcharged Capacitor": 1
@@ -3909,7 +3909,7 @@
   "Nitro Boosts": {
     "ID": 55016,
     "Learn": 405,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Volatile Blasting Trigger": 6,
       "Handful of Cobalt Bolts": 6
@@ -3923,7 +3923,7 @@
     "ID": 55252,
     "Creates": 40769,
     "Learn": 415,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 10
     },
@@ -3989,7 +3989,7 @@
     "ID": 56462,
     "Creates": 40772,
     "Learn": 435,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 10,
       "Skinning Knife": 1,
@@ -4033,7 +4033,7 @@
     "ID": 61483,
     "Creates": 44742,
     "Learn": 420,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 8,
       "Borean Leather": 2,
@@ -4048,7 +4048,7 @@
     "ID": 56466,
     "Creates": 40767,
     "Learn": 420,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Froststeel Tube": 2,
       "Overcharged Capacitor": 4,
@@ -4063,7 +4063,7 @@
     "ID": 56467,
     "Creates": 40865,
     "Learn": 420,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Froststeel Tube": 2,
       "Overcharged Capacitor": 2,
@@ -4078,7 +4078,7 @@
     "ID": 56468,
     "Creates": 44951,
     "Learn": 405,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 5,
       "Volatile Blasting Trigger": 1
@@ -4092,7 +4092,7 @@
     "ID": 56469,
     "Creates": 41121,
     "Learn": 425,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Titanium Bar": 2,
       "Saronite Bar": 8,
@@ -4108,7 +4108,7 @@
     "ID": 56470,
     "Creates": 41146,
     "Learn": 425,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Froststeel Tube": 1,
       "Sun Crystal": 1,
@@ -4123,7 +4123,7 @@
     "ID": 56471,
     "Creates": 39683,
     "Learn": 390,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Cobalt Bar": 8,
       "Crystallized Water": 1
@@ -4137,7 +4137,7 @@
     "ID": 56472,
     "Creates": 40768,
     "Learn": 425,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 8,
       "Eternal Air": 8
@@ -4151,7 +4151,7 @@
     "ID": 56473,
     "Creates": 40895,
     "Learn": 425,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Titanium Bar": 6,
       "Dream Shard": 2,
@@ -4166,7 +4166,7 @@
     "ID": 56474,
     "Creates": 41164,
     "Learn": 410,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 1,
       "Volatile Blasting Trigger": 1
@@ -4180,7 +4180,7 @@
     "ID": 56475,
     "Creates": 41165,
     "Learn": 415,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 2
     },
@@ -4193,7 +4193,7 @@
     "ID": 56476,
     "Creates": 37567,
     "Learn": 410,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 12,
       "Handful of Cobalt Bolts": 2
@@ -4207,7 +4207,7 @@
     "ID": 56477,
     "Creates": 42546,
     "Learn": 415,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 12,
       "Crystallized Water": 2
@@ -4221,7 +4221,7 @@
     "ID": 56478,
     "Creates": 41167,
     "Learn": 430,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 10,
       "Twilight Opal": 2
@@ -4235,7 +4235,7 @@
     "ID": 56479,
     "Creates": 41168,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Titanium Bar": 10,
       "Saronite Bar": 20,
@@ -4253,7 +4253,7 @@
     "ID": 56480,
     "Creates": 42549,
     "Learn": 440,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Titanium Bar": 8,
       "Heavy Borean Leather": 4,
@@ -4270,7 +4270,7 @@
     "ID": 56481,
     "Creates": 42550,
     "Learn": 440,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Titanium Bar": 8,
       "Heavy Borean Leather": 4,
@@ -4287,7 +4287,7 @@
     "ID": 56483,
     "Creates": 42552,
     "Learn": 440,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Titanium Bar": 8,
       "Heavy Borean Leather": 4,
@@ -4304,7 +4304,7 @@
     "ID": 56484,
     "Creates": 42553,
     "Learn": 440,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Titanium Bar": 8,
       "Heavy Borean Leather": 4,
@@ -4321,7 +4321,7 @@
     "ID": 56486,
     "Creates": 42554,
     "Learn": 440,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Titanium Bar": 8,
       "Heavy Borean Leather": 4,
@@ -4338,7 +4338,7 @@
     "ID": 56487,
     "Creates": 42555,
     "Learn": 440,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Titanium Bar": 8,
       "Heavy Borean Leather": 4,
@@ -4355,7 +4355,7 @@
     "ID": 56514,
     "Creates": 42641,
     "Learn": 425,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 1,
       "Volatile Blasting Trigger": 1
@@ -4369,7 +4369,7 @@
     "ID": 56574,
     "Creates": 42551,
     "Learn": 440,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Titanium Bar": 8,
       "Heavy Borean Leather": 4,
@@ -4386,7 +4386,7 @@
     "ID": 60866,
     "Creates": 41508,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Titansteel Bar": 12,
       "Handful of Cobalt Bolts": 40,
@@ -4405,7 +4405,7 @@
     "ID": 60867,
     "Creates": 44413,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Titansteel Bar": 12,
       "Handful of Cobalt Bolts": 40,
@@ -4424,7 +4424,7 @@
     "ID": 60874,
     "Creates": 44504,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Titanium Bar": 10,
       "Frozen Orb": 1,
@@ -4442,7 +4442,7 @@
     "ID": 61471,
     "Creates": 44739,
     "Learn": 390,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Froststeel Tube": 1,
       "Handful of Cobalt Bolts": 2
@@ -4456,7 +4456,7 @@
     "ID": 62271,
     "Creates": 44949,
     "Learn": 440,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Titanium Bar": 8,
       "Heavy Borean Leather": 4,
@@ -4487,7 +4487,7 @@
   "Springy Arachnoweave": {
     "ID": 63765,
     "Learn": 380,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Frostweave Cloth": 12,
       "Overcharged Capacitor": 1
@@ -4500,7 +4500,7 @@
   "Reticulated Armor Webbing": {
     "ID": 63770,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 4,
       "Eternal Earth": 2
@@ -4514,7 +4514,7 @@
     "ID": 67326,
     "Creates": 47828,
     "Learn": 410,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 6,
       "Crystallized Fire": 3,
@@ -4528,7 +4528,7 @@
   "Mind Amplification Dish": {
     "ID": 67839,
     "Learn": 410,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Bar": 8,
       "Froststeel Tube": 1
@@ -4542,7 +4542,7 @@
     "ID": 67920,
     "Creates": 48933,
     "Learn": 435,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Titanium Bar": 8,
       "Eternal Shadow": 2,
@@ -4559,7 +4559,7 @@
     "ID": 68067,
     "Creates": 49040,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Field Repair Bot 74A": 2,
       "Field Repair Bot 110G": 10,
@@ -4578,7 +4578,7 @@
     "ID": 72952,
     "Creates": 52020,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Crystallized Earth": 2
     },
@@ -4592,7 +4592,7 @@
     "ID": 72953,
     "Creates": 52021,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Crystallized Shadow": 2
     },

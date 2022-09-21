@@ -296,7 +296,7 @@
     "ID": 49258,
     "Creates": 36913,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Saronite Ore": 2
     },
@@ -308,7 +308,7 @@
   "Toughness": {
     "ID": 53124,
     "Learn": 9999,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {},
     "Yellow": 0,
     "Green": 0,
@@ -319,7 +319,7 @@
     "ID": 55208,
     "Creates": 37663,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Titanium Bar": 3,
       "Eternal Fire": 1,
@@ -335,7 +335,7 @@
     "ID": 55211,
     "Creates": 41163,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Titanium Ore": 2
     },

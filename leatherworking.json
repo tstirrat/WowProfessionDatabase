@@ -5985,7 +5985,7 @@
     "ID": 50936,
     "Creates": 38425,
     "Learn": 390,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Borean Leather": 6
     },
@@ -6024,7 +6024,7 @@
     "ID": 50940,
     "Creates": 38411,
     "Learn": 380,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Borean Leather": 10
     },
@@ -6063,7 +6063,7 @@
     "ID": 50943,
     "Creates": 38406,
     "Learn": 380,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Borean Leather": 10
     },
@@ -6102,7 +6102,7 @@
     "ID": 50946,
     "Creates": 38402,
     "Learn": 380,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Borean Leather": 10
     },
@@ -6141,7 +6141,7 @@
     "ID": 50949,
     "Creates": 38405,
     "Learn": 380,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Borean Leather": 10
     },
@@ -6193,7 +6193,7 @@
     "ID": 50953,
     "Creates": 38415,
     "Learn": 380,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Borean Leather": 10
     },
@@ -6206,7 +6206,7 @@
     "ID": 50954,
     "Creates": 38413,
     "Learn": 380,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Borean Leather": 10
     },
@@ -6258,7 +6258,7 @@
     "ID": 50958,
     "Creates": 38417,
     "Learn": 380,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Borean Leather": 10
     },
@@ -6284,7 +6284,7 @@
     "ID": 50960,
     "Creates": 38419,
     "Learn": 380,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Borean Leather": 10
     },
@@ -6323,7 +6323,7 @@
     "ID": 50963,
     "Creates": 38376,
     "Learn": 395,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 4
     },
@@ -6336,7 +6336,7 @@
     "ID": 50964,
     "Creates": 38371,
     "Learn": 405,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 3,
       "Jormungar Scale": 12
@@ -6350,7 +6350,7 @@
     "ID": 50965,
     "Creates": 38373,
     "Learn": 425,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Arctic Fur": 2,
       "Nerubian Chitin": 2,
@@ -6365,7 +6365,7 @@
     "ID": 50966,
     "Creates": 38372,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 4,
       "Nerubian Chitin": 1
@@ -6379,7 +6379,7 @@
     "ID": 50967,
     "Creates": 38374,
     "Learn": 425,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Arctic Fur": 2,
       "Icy Dragonscale": 2,
@@ -6394,7 +6394,7 @@
     "ID": 50970,
     "Creates": 38399,
     "Learn": 415,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 8
     },
@@ -6408,7 +6408,7 @@
     "ID": 50971,
     "Creates": 38347,
     "Learn": 415,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 8
     },
@@ -6422,7 +6422,7 @@
     "ID": 51568,
     "Creates": 38590,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Nerubian Chitin": 25,
       "Crystallized Water": 6
@@ -6436,7 +6436,7 @@
     "ID": 51569,
     "Creates": 38591,
     "Learn": 395,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 6,
       "Crystallized Shadow": 4
@@ -6451,7 +6451,7 @@
     "ID": 51570,
     "Creates": 38592,
     "Learn": 395,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 5,
       "Crystallized Shadow": 5
@@ -6466,7 +6466,7 @@
     "ID": 51571,
     "Creates": 38433,
     "Learn": 385,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Borean Leather": 12
     },
@@ -6479,7 +6479,7 @@
     "ID": 51572,
     "Creates": 38437,
     "Learn": 385,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Borean Leather": 14
     },
@@ -6510,7 +6510,7 @@
     "ID": 55199,
     "Creates": 41238,
     "Learn": 395,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 6,
       "Crystallized Air": 5,
@@ -6524,7 +6524,7 @@
   "Fur Lining - Attack Power": {
     "ID": 57683,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Arctic Fur": 1
     },
@@ -6536,7 +6536,7 @@
   "Fur Lining - Stamina": {
     "ID": 57690,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Arctic Fur": 1
     },
@@ -6548,7 +6548,7 @@
   "Fur Lining - Spell Power": {
     "ID": 57691,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Arctic Fur": 1
     },
@@ -6560,7 +6560,7 @@
   "Fur Lining - Fire Resist": {
     "ID": 57692,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Arctic Fur": 1
     },
@@ -6572,7 +6572,7 @@
   "Fur Lining - Frost Resist": {
     "ID": 57694,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Arctic Fur": 1
     },
@@ -6584,7 +6584,7 @@
   "Fur Lining - Shadow Resist": {
     "ID": 57696,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Arctic Fur": 1
     },
@@ -6596,7 +6596,7 @@
   "Fur Lining - Nature Resist": {
     "ID": 57699,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Arctic Fur": 1
     },
@@ -6608,7 +6608,7 @@
   "Fur Lining - Arcane Resist": {
     "ID": 57701,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Arctic Fur": 1
     },
@@ -6620,7 +6620,7 @@
   "Jormungar Leg Reinforcements": {
     "ID": 60583,
     "Learn": 405,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Jormungar Scale": 2
     },
@@ -6632,7 +6632,7 @@
   "Nerubian Leg Reinforcements": {
     "ID": 60584,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Nerubian Chitin": 2
     },
@@ -6645,7 +6645,7 @@
     "ID": 60599,
     "Creates": 38436,
     "Learn": 385,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Borean Leather": 12
     },
@@ -6658,7 +6658,7 @@
     "ID": 60600,
     "Creates": 38440,
     "Learn": 385,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Borean Leather": 14
     },
@@ -6671,7 +6671,7 @@
     "ID": 60601,
     "Creates": 44436,
     "Learn": 395,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 4,
       "Crystallized Water": 5
@@ -6685,7 +6685,7 @@
     "ID": 60604,
     "Creates": 44437,
     "Learn": 395,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 6,
       "Crystallized Water": 4
@@ -6699,7 +6699,7 @@
     "ID": 60605,
     "Creates": 44438,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Icy Dragonscale": 35
     },
@@ -6712,7 +6712,7 @@
     "ID": 60607,
     "Creates": 38434,
     "Learn": 385,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Borean Leather": 12
     },
@@ -6725,7 +6725,7 @@
     "ID": 60608,
     "Creates": 38438,
     "Learn": 385,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Borean Leather": 14
     },
@@ -6738,7 +6738,7 @@
     "ID": 60611,
     "Creates": 44440,
     "Learn": 395,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 4,
       "Crystallized Shadow": 5
@@ -6752,7 +6752,7 @@
     "ID": 60613,
     "Creates": 44441,
     "Learn": 395,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 6,
       "Crystallized Shadow": 4
@@ -6766,7 +6766,7 @@
     "ID": 60620,
     "Creates": 44442,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Nerubian Chitin": 35
     },
@@ -6779,7 +6779,7 @@
     "ID": 60622,
     "Creates": 38435,
     "Learn": 385,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Borean Leather": 12
     },
@@ -6792,7 +6792,7 @@
     "ID": 60624,
     "Creates": 38439,
     "Learn": 385,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Borean Leather": 14
     },
@@ -6805,7 +6805,7 @@
     "ID": 60627,
     "Creates": 44443,
     "Learn": 395,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 4,
       "Crystallized Water": 5
@@ -6819,7 +6819,7 @@
     "ID": 60629,
     "Creates": 44444,
     "Learn": 395,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 6,
       "Crystallized Water": 4
@@ -6833,7 +6833,7 @@
     "ID": 60630,
     "Creates": 44445,
     "Learn": 400,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Icy Dragonscale": 30,
       "Crystallized Shadow": 2
@@ -6847,7 +6847,7 @@
     "ID": 60631,
     "Creates": 38441,
     "Learn": 380,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Borean Leather": 16,
       "Crystallized Air": 4
@@ -6861,7 +6861,7 @@
     "ID": 60637,
     "Creates": 43566,
     "Learn": 440,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Arctic Fur": 2,
       "Eternal Fire": 6,
@@ -6877,7 +6877,7 @@
     "ID": 60640,
     "Creates": 43565,
     "Learn": 440,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Arctic Fur": 2,
       "Nerubian Chitin": 40,
@@ -6892,7 +6892,7 @@
     "ID": 60643,
     "Creates": 44446,
     "Learn": 415,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 8
     },
@@ -6905,7 +6905,7 @@
     "ID": 60645,
     "Creates": 44447,
     "Learn": 415,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Icy Dragonscale": 20,
       "Heavy Borean Leather": 2
@@ -6920,7 +6920,7 @@
     "ID": 60647,
     "Creates": 44448,
     "Learn": 415,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Nerubian Chitin": 20,
       "Heavy Borean Leather": 2
@@ -6935,7 +6935,7 @@
     "ID": 60649,
     "Creates": 43129,
     "Learn": 425,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 15,
       "Eternal Air": 1
@@ -6949,7 +6949,7 @@
     "ID": 60651,
     "Creates": 43130,
     "Learn": 420,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 12,
       "Eternal Fire": 2
@@ -6963,7 +6963,7 @@
     "ID": 60652,
     "Creates": 43131,
     "Learn": 420,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Icy Dragonscale": 40
     },
@@ -6976,7 +6976,7 @@
     "ID": 60655,
     "Creates": 43132,
     "Learn": 425,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 14,
       "Eternal Shadow": 2
@@ -6990,7 +6990,7 @@
     "ID": 60658,
     "Creates": 43133,
     "Learn": 420,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 10,
       "Eternal Shadow": 2
@@ -7004,7 +7004,7 @@
     "ID": 60660,
     "Creates": 42731,
     "Learn": 425,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 12,
       "Eternal Air": 2
@@ -7018,7 +7018,7 @@
     "ID": 60665,
     "Creates": 43255,
     "Learn": 420,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 10,
       "Eternal Water": 2
@@ -7032,7 +7032,7 @@
     "ID": 60666,
     "Creates": 43256,
     "Learn": 420,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Jormungar Scale": 40
     },
@@ -7045,7 +7045,7 @@
     "ID": 60669,
     "Creates": 43257,
     "Learn": 425,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 25
     },
@@ -7058,7 +7058,7 @@
     "ID": 60671,
     "Creates": 43258,
     "Learn": 420,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Nerubian Chitin": 30
     },
@@ -7071,7 +7071,7 @@
     "ID": 60697,
     "Creates": 43260,
     "Learn": 420,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 12,
       "Eternal Air": 1
@@ -7086,7 +7086,7 @@
     "ID": 60702,
     "Creates": 43433,
     "Learn": 420,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 10,
       "Eternal Air": 1
@@ -7101,7 +7101,7 @@
     "ID": 60703,
     "Creates": 43434,
     "Learn": 420,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 12,
       "Eternal Air": 1
@@ -7116,7 +7116,7 @@
     "ID": 60704,
     "Creates": 43435,
     "Learn": 420,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 8,
       "Eternal Air": 1
@@ -7131,7 +7131,7 @@
     "ID": 60705,
     "Creates": 43436,
     "Learn": 425,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 10,
       "Eternal Air": 1
@@ -7146,7 +7146,7 @@
     "ID": 60706,
     "Creates": 43437,
     "Learn": 425,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 10,
       "Eternal Air": 1
@@ -7161,7 +7161,7 @@
     "ID": 60711,
     "Creates": 43438,
     "Learn": 425,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 12,
       "Eternal Air": 1
@@ -7176,7 +7176,7 @@
     "ID": 60712,
     "Creates": 43439,
     "Learn": 425,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 10,
       "Eternal Air": 1
@@ -7191,7 +7191,7 @@
     "ID": 60715,
     "Creates": 43261,
     "Learn": 420,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 12,
       "Eternal Water": 1
@@ -7206,7 +7206,7 @@
     "ID": 60716,
     "Creates": 43262,
     "Learn": 420,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 10,
       "Eternal Water": 1
@@ -7221,7 +7221,7 @@
     "ID": 60718,
     "Creates": 43263,
     "Learn": 420,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 12,
       "Eternal Water": 1
@@ -7236,7 +7236,7 @@
     "ID": 60720,
     "Creates": 43264,
     "Learn": 420,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 8,
       "Eternal Water": 1
@@ -7251,7 +7251,7 @@
     "ID": 60721,
     "Creates": 43265,
     "Learn": 425,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 10,
       "Eternal Water": 1
@@ -7266,7 +7266,7 @@
     "ID": 60723,
     "Creates": 43266,
     "Learn": 425,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 10,
       "Eternal Water": 1
@@ -7281,7 +7281,7 @@
     "ID": 60725,
     "Creates": 43271,
     "Learn": 425,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 12,
       "Eternal Water": 1
@@ -7296,7 +7296,7 @@
     "ID": 60727,
     "Creates": 43273,
     "Learn": 425,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 10,
       "Eternal Water": 1
@@ -7311,7 +7311,7 @@
     "ID": 60728,
     "Creates": 43447,
     "Learn": 420,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 12,
       "Eternal Air": 1
@@ -7326,7 +7326,7 @@
     "ID": 60729,
     "Creates": 43449,
     "Learn": 420,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 10,
       "Eternal Air": 1
@@ -7341,7 +7341,7 @@
     "ID": 60730,
     "Creates": 43445,
     "Learn": 420,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 12,
       "Eternal Air": 1
@@ -7356,7 +7356,7 @@
     "ID": 60731,
     "Creates": 43444,
     "Learn": 420,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 8,
       "Eternal Air": 1
@@ -7371,7 +7371,7 @@
     "ID": 60732,
     "Creates": 43446,
     "Learn": 425,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 10,
       "Eternal Air": 1
@@ -7386,7 +7386,7 @@
     "ID": 60734,
     "Creates": 43442,
     "Learn": 425,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 10,
       "Eternal Air": 1
@@ -7401,7 +7401,7 @@
     "ID": 60735,
     "Creates": 43448,
     "Learn": 425,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 12,
       "Eternal Air": 1
@@ -7416,7 +7416,7 @@
     "ID": 60737,
     "Creates": 43443,
     "Learn": 425,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 10,
       "Eternal Air": 1
@@ -7431,7 +7431,7 @@
     "ID": 60743,
     "Creates": 43455,
     "Learn": 420,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 12,
       "Eternal Water": 1
@@ -7446,7 +7446,7 @@
     "ID": 60746,
     "Creates": 43457,
     "Learn": 420,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 10,
       "Eternal Water": 1
@@ -7461,7 +7461,7 @@
     "ID": 60747,
     "Creates": 43453,
     "Learn": 420,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 12,
       "Eternal Water": 1
@@ -7476,7 +7476,7 @@
     "ID": 60748,
     "Creates": 43452,
     "Learn": 420,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 8,
       "Eternal Water": 1
@@ -7491,7 +7491,7 @@
     "ID": 60749,
     "Creates": 43454,
     "Learn": 425,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 10,
       "Eternal Water": 1
@@ -7506,7 +7506,7 @@
     "ID": 60750,
     "Creates": 43450,
     "Learn": 425,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 10,
       "Eternal Water": 1
@@ -7521,7 +7521,7 @@
     "ID": 60751,
     "Creates": 43456,
     "Learn": 425,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 12,
       "Eternal Water": 1
@@ -7536,7 +7536,7 @@
     "ID": 60752,
     "Creates": 43451,
     "Learn": 425,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 10,
       "Eternal Water": 1
@@ -7551,7 +7551,7 @@
     "ID": 60754,
     "Creates": 43458,
     "Learn": 440,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 12,
       "Eternal Water": 6,
@@ -7568,7 +7568,7 @@
     "ID": 60755,
     "Creates": 43459,
     "Learn": 440,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 10,
       "Eternal Water": 5,
@@ -7585,7 +7585,7 @@
     "ID": 60756,
     "Creates": 43461,
     "Learn": 440,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 12,
       "Eternal Water": 12,
@@ -7601,7 +7601,7 @@
     "ID": 60757,
     "Creates": 43469,
     "Learn": 440,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 10,
       "Eternal Water": 10,
@@ -7617,7 +7617,7 @@
     "ID": 60758,
     "Creates": 43481,
     "Learn": 440,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 10,
       "Eternal Fire": 6,
@@ -7634,7 +7634,7 @@
     "ID": 60759,
     "Creates": 43484,
     "Learn": 440,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 10,
       "Eternal Fire": 5,
@@ -7651,7 +7651,7 @@
     "ID": 60760,
     "Creates": 43495,
     "Learn": 440,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 12,
       "Eternal Life": 6,
@@ -7668,7 +7668,7 @@
     "ID": 60761,
     "Creates": 43502,
     "Learn": 440,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 10,
       "Eternal Life": 5,
@@ -7685,7 +7685,7 @@
     "ID": 60996,
     "Creates": 43590,
     "Learn": 425,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 10,
       "Eternal Fire": 3,
@@ -7703,7 +7703,7 @@
     "ID": 60997,
     "Creates": 43591,
     "Learn": 420,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 8,
       "Eternal Fire": 2,
@@ -7721,7 +7721,7 @@
     "ID": 60998,
     "Creates": 43592,
     "Learn": 420,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 8,
       "Eternal Fire": 2,
@@ -7739,7 +7739,7 @@
     "ID": 60999,
     "Creates": 43593,
     "Learn": 425,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 10,
       "Eternal Fire": 3,
@@ -7757,7 +7757,7 @@
     "ID": 61000,
     "Creates": 43594,
     "Learn": 420,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 8,
       "Eternal Fire": 2,
@@ -7775,7 +7775,7 @@
     "ID": 61002,
     "Creates": 43595,
     "Learn": 420,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 8,
       "Eternal Fire": 2,
@@ -7793,7 +7793,7 @@
     "ID": 62176,
     "Creates": 44930,
     "Learn": 440,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 10,
       "Eternal Air": 5,
@@ -7810,7 +7810,7 @@
     "ID": 62177,
     "Creates": 44931,
     "Learn": 440,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 12,
       "Eternal Air": 6,
@@ -7827,7 +7827,7 @@
     "ID": 62448,
     "Creates": 44963,
     "Learn": 425,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Arctic Fur": 2,
       "Eternal Earth": 4,
@@ -7842,7 +7842,7 @@
     "ID": 63194,
     "Creates": 45553,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Arctic Fur": 3,
       "Icy Dragonscale": 20,
@@ -7858,7 +7858,7 @@
     "ID": 63195,
     "Creates": 45562,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Arctic Fur": 3,
       "Jormungar Scale": 20,
@@ -7874,7 +7874,7 @@
     "ID": 63196,
     "Creates": 45554,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Arctic Fur": 3,
       "Nerubian Chitin": 20,
@@ -7890,7 +7890,7 @@
     "ID": 63197,
     "Creates": 45563,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Arctic Fur": 3,
       "Icy Dragonscale": 20,
@@ -7906,7 +7906,7 @@
     "ID": 63198,
     "Creates": 45555,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Arctic Fur": 3,
       "Eternal Shadow": 4,
@@ -7922,7 +7922,7 @@
     "ID": 63199,
     "Creates": 45564,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Arctic Fur": 3,
       "Eternal Shadow": 2,
@@ -7938,7 +7938,7 @@
     "ID": 63200,
     "Creates": 45556,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 4,
       "Arctic Fur": 3,
@@ -7954,7 +7954,7 @@
     "ID": 63201,
     "Creates": 45565,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Arctic Fur": 3,
       "Icy Dragonscale": 20,
@@ -7983,7 +7983,7 @@
     "ID": 67136,
     "Creates": 47598,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Nerubian Chitin": 40,
       "Eternal Air": 8,
@@ -8001,7 +8001,7 @@
     "ID": 67137,
     "Creates": 47580,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Nerubian Chitin": 40,
       "Abyss Crystal": 4,
@@ -8018,7 +8018,7 @@
     "ID": 67138,
     "Creates": 47596,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Icy Dragonscale": 40,
       "Eternal Water": 8,
@@ -8036,7 +8036,7 @@
     "ID": 67143,
     "Creates": 47577,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Icy Dragonscale": 40,
       "Eternal Water": 8,
@@ -8053,7 +8053,7 @@
     "ID": 67140,
     "Creates": 47601,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 24,
       "Eternal Life": 20,
@@ -8070,7 +8070,7 @@
     "ID": 67141,
     "Creates": 47584,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 20,
       "Eternal Life": 12,
@@ -8087,7 +8087,7 @@
     "ID": 67142,
     "Creates": 47600,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 24,
       "Eternal Shadow": 20,
@@ -8104,7 +8104,7 @@
     "ID": 67139,
     "Creates": 47582,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 20,
       "Eternal Shadow": 12,
@@ -8121,7 +8121,7 @@
     "ID": 69386,
     "Creates": 49633,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 8,
       "Icy Dragonscale": 8
@@ -8135,7 +8135,7 @@
     "ID": 69388,
     "Creates": 49634,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Borean Leather": 8,
       "Jormungar Scale": 8
@@ -8149,7 +8149,7 @@
     "ID": 70554,
     "Creates": 49898,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Jormungar Scale": 20,
       "Arctic Fur": 8,
@@ -8166,7 +8166,7 @@
     "ID": 70555,
     "Creates": 49894,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Jormungar Scale": 12,
       "Arctic Fur": 5,
@@ -8183,7 +8183,7 @@
     "ID": 70556,
     "Creates": 49899,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Nerubian Chitin": 20,
       "Arctic Fur": 8,
@@ -8200,7 +8200,7 @@
     "ID": 70557,
     "Creates": 49895,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Nerubian Chitin": 12,
       "Arctic Fur": 8,
@@ -8217,7 +8217,7 @@
     "ID": 70558,
     "Creates": 49900,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Icy Dragonscale": 20,
       "Arctic Fur": 8,
@@ -8234,7 +8234,7 @@
     "ID": 70559,
     "Creates": 49896,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Icy Dragonscale": 12,
       "Arctic Fur": 5,
@@ -8251,7 +8251,7 @@
     "ID": 70560,
     "Creates": 49901,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Icy Dragonscale": 20,
       "Arctic Fur": 8,
@@ -8268,7 +8268,7 @@
     "ID": 70561,
     "Creates": 49897,
     "Learn": 450,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Icy Dragonscale": 12,
       "Arctic Fur": 8,
