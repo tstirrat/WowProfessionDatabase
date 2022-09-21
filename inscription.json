@@ -371,7 +371,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Healing Touch": {
@@ -394,7 +393,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Innervate": {
@@ -406,7 +404,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Insect Swarm": {
@@ -418,7 +415,6 @@
     "Yellow": 155,
     "Green": 160,
     "Grey": 165,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Lifebloom": {
@@ -430,7 +426,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Mangle": {
@@ -442,7 +437,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Moonfire": {
@@ -465,7 +459,6 @@
     "Yellow": 315,
     "Green": 320,
     "Grey": 325,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Rebirth": {
@@ -488,7 +481,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Rejuvenation": {
@@ -533,7 +525,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Starfire": {
@@ -545,7 +536,6 @@
     "Yellow": 225,
     "Green": 230,
     "Grey": 235,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Swiftmend": {
@@ -557,7 +547,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Maul": {
@@ -591,7 +580,6 @@
     "Yellow": 355,
     "Green": 360,
     "Grey": 365,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Arcane Explosion": {
@@ -625,7 +613,6 @@
     "Yellow": 340,
     "Green": 345,
     "Grey": 350,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Blink": {
@@ -659,7 +646,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Frost Nova": {
@@ -682,7 +668,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Ice Armor": {
@@ -694,7 +679,6 @@
     "Yellow": 100,
     "Green": 110,
     "Grey": 120,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Ice Block": {
@@ -706,7 +690,6 @@
     "Yellow": 230,
     "Green": 235,
     "Grey": 240,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Ice Lance": {
@@ -718,7 +701,6 @@
     "Yellow": 380,
     "Green": 385,
     "Grey": 390,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Icy Veins": {
@@ -730,7 +712,6 @@
     "Yellow": 180,
     "Green": 185,
     "Grey": 190,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Scorch": {
@@ -753,7 +734,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Mage Armor": {
@@ -787,7 +767,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Polymorph": {
@@ -810,7 +789,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Water Elemental": {
@@ -822,7 +800,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Blast Wave": {
@@ -834,7 +811,6 @@
     "Yellow": 355,
     "Green": 360,
     "Grey": 365,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Arcane Blast": {
@@ -846,7 +822,6 @@
     "Yellow": 320,
     "Green": 325,
     "Grey": 330,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Aimed Shot": {
@@ -858,7 +833,6 @@
     "Yellow": 180,
     "Green": 185,
     "Grey": 190,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Arcane Shot": {
@@ -870,7 +844,6 @@
     "Yellow": 105,
     "Green": 110,
     "Grey": 115,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of the Beast": {
@@ -882,7 +855,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Mending": {
@@ -905,7 +877,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Bestial Wrath": {
@@ -917,7 +888,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Deterrence": {
@@ -929,7 +899,6 @@
     "Yellow": 205,
     "Green": 210,
     "Grey": 215,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Disengage": {
@@ -941,7 +910,6 @@
     "Yellow": 230,
     "Green": 235,
     "Grey": 240,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Freezing Trap": {
@@ -953,7 +921,6 @@
     "Yellow": 265,
     "Green": 270,
     "Grey": 275,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Frost Trap": {
@@ -965,7 +932,6 @@
     "Yellow": 355,
     "Green": 360,
     "Grey": 365,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Hunter's Mark": {
@@ -988,7 +954,6 @@
     "Yellow": 135,
     "Green": 140,
     "Grey": 145,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of the Hawk": {
@@ -1011,7 +976,6 @@
     "Yellow": 155,
     "Green": 160,
     "Grey": 165,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Rapid Fire": {
@@ -1034,7 +998,6 @@
     "Yellow": 100,
     "Green": 110,
     "Grey": 120,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Snake Trap": {
@@ -1046,7 +1009,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Steady Shot": {
@@ -1058,7 +1020,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Trueshot Aura": {
@@ -1070,7 +1031,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Volley": {
@@ -1082,7 +1042,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Wyvern Sting": {
@@ -1094,7 +1053,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Avenger's Shield": {
@@ -1106,7 +1064,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Cleansing": {
@@ -1129,7 +1086,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Spiritual Attunement": {
@@ -1141,7 +1097,6 @@
     "Yellow": 90,
     "Green": 100,
     "Grey": 110,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Consecration": {
@@ -1153,7 +1108,6 @@
     "Yellow": 210,
     "Green": 215,
     "Grey": 220,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Crusader Strike": {
@@ -1198,7 +1152,6 @@
     "Yellow": 100,
     "Green": 110,
     "Grey": 120,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Hammer of Wrath": {
@@ -1210,7 +1163,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Holy Light": {
@@ -1244,7 +1196,6 @@
     "Yellow": 140,
     "Green": 145,
     "Grey": 150,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Righteous Defense": {
@@ -1256,7 +1207,6 @@
     "Yellow": 160,
     "Green": 165,
     "Grey": 170,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Seal of Command": {
@@ -1268,7 +1218,6 @@
     "Yellow": 340,
     "Green": 345,
     "Grey": 350,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Seal of Light": {
@@ -1280,7 +1229,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Seal of Wisdom": {
@@ -1292,7 +1240,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Turn Evil": {
@@ -1304,7 +1251,6 @@
     "Yellow": 380,
     "Green": 385,
     "Grey": 390,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Adrenaline Rush": {
@@ -1316,7 +1262,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Ambush": {
@@ -1339,7 +1284,6 @@
     "Yellow": 90,
     "Green": 100,
     "Grey": 110,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Blade Flurry": {
@@ -1351,7 +1295,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Crippling Poison": {
@@ -1363,7 +1306,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Deadly Throw": {
@@ -1375,7 +1317,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Evasion": {
@@ -1387,7 +1328,6 @@
     "Yellow": 105,
     "Green": 115,
     "Grey": 125,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Eviscerate": {
@@ -1399,7 +1339,6 @@
     "Yellow": 110,
     "Green": 115,
     "Grey": 120,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Expose Armor": {
@@ -1422,7 +1361,6 @@
     "Yellow": 310,
     "Green": 315,
     "Grey": 320,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Garrote": {
@@ -1434,7 +1372,6 @@
     "Yellow": 140,
     "Green": 145,
     "Grey": 150,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Ghostly Strike": {
@@ -1446,7 +1383,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Gouge": {
@@ -1458,7 +1394,6 @@
     "Yellow": 165,
     "Green": 170,
     "Grey": 175,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Hemorrhage": {
@@ -1470,7 +1405,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Preparation": {
@@ -1482,7 +1416,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Rupture": {
@@ -1494,7 +1427,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Sap": {
@@ -1506,7 +1438,6 @@
     "Yellow": 190,
     "Green": 195,
     "Grey": 200,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Vigor": {
@@ -1518,7 +1449,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Sinister Strike": {
@@ -1541,7 +1471,6 @@
     "Yellow": 240,
     "Green": 245,
     "Grey": 250,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Sprint": {
@@ -1553,7 +1482,6 @@
     "Yellow": 290,
     "Green": 295,
     "Grey": 300,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Barbaric Insults": {
@@ -1576,7 +1504,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Bloodthirst": {
@@ -1588,7 +1515,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Cleaving": {
@@ -1600,7 +1526,6 @@
     "Yellow": 245,
     "Green": 250,
     "Grey": 255,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Devastate": {
@@ -1612,7 +1537,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Execution": {
@@ -1635,7 +1559,6 @@
     "Yellow": 130,
     "Green": 135,
     "Grey": 140,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Heroic Strike": {
@@ -1658,7 +1581,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Mortal Strike": {
@@ -1670,7 +1592,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Overpower": {
@@ -1682,7 +1603,6 @@
     "Yellow": 175,
     "Green": 180,
     "Grey": 185,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Rapid Charge": {
@@ -1716,7 +1636,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Revenge": {
@@ -1739,7 +1658,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Sunder Armor": {
@@ -1762,7 +1680,6 @@
     "Yellow": 325,
     "Green": 330,
     "Grey": 335,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Taunt": {
@@ -1774,7 +1691,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Victory Rush": {
@@ -1786,7 +1702,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Whirlwind": {
@@ -1798,7 +1713,6 @@
     "Yellow": 350,
     "Green": 355,
     "Grey": 360,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Circle of Healing": {
@@ -1810,7 +1724,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Dispel Magic": {
@@ -1822,7 +1735,6 @@
     "Yellow": 235,
     "Green": 240,
     "Grey": 245,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Fade": {
@@ -1845,7 +1757,6 @@
     "Yellow": 275,
     "Green": 280,
     "Grey": 285,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Flash Heal": {
@@ -1890,7 +1801,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Mass Dispel": {
@@ -1902,7 +1812,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Mind Control": {
@@ -1914,7 +1823,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Shadow Word: Pain": {
@@ -1937,7 +1845,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Power Word: Shield": {
@@ -1949,7 +1856,6 @@
     "Yellow": 90,
     "Green": 100,
     "Grey": 110,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Prayer of Healing": {
@@ -1961,7 +1867,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Psychic Scream": {
@@ -1973,7 +1878,6 @@
     "Yellow": 105,
     "Green": 115,
     "Grey": 125,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Renew": {
@@ -1996,7 +1900,6 @@
     "Yellow": 380,
     "Green": 385,
     "Grey": 390,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Shadow Word: Death": {
@@ -2008,7 +1911,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Mind Flay": {
@@ -2020,7 +1922,6 @@
     "Yellow": 185,
     "Green": 190,
     "Grey": 195,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Smite": {
@@ -2043,7 +1944,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Anti-Magic Shell": {
@@ -2055,7 +1955,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Heart Strike": {
@@ -2067,7 +1966,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Blood Tap": {
@@ -2079,7 +1977,6 @@
     "Yellow": 330,
     "Green": 335,
     "Grey": 340,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Bone Shield": {
@@ -2091,7 +1988,6 @@
     "Yellow": 270,
     "Green": 275,
     "Grey": 280,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Chains of Ice": {
@@ -2103,7 +1999,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Dark Command": {
@@ -2115,7 +2010,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Death Grip": {
@@ -2138,7 +2032,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Death's Embrace": {
@@ -2150,7 +2043,6 @@
     "Yellow": 305,
     "Green": 310,
     "Grey": 315,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Frost Strike": {
@@ -2173,7 +2065,6 @@
     "Yellow": 330,
     "Green": 335,
     "Grey": 340,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Icebound Fortitude": {
@@ -2185,7 +2076,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Icy Touch": {
@@ -2197,7 +2087,6 @@
     "Yellow": 285,
     "Green": 290,
     "Grey": 295,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Obliterate": {
@@ -2209,7 +2098,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Plague Strike": {
@@ -2221,7 +2109,6 @@
     "Yellow": 305,
     "Green": 310,
     "Grey": 315,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of the Ghoul": {
@@ -2233,7 +2120,6 @@
     "Yellow": 355,
     "Green": 360,
     "Grey": 365,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Rune Strike": {
@@ -2245,7 +2131,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Scourge Strike": {
@@ -2257,7 +2142,6 @@
     "Yellow": 335,
     "Green": 340,
     "Grey": 345,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Strangulate": {
@@ -2269,7 +2153,6 @@
     "Yellow": 380,
     "Green": 385,
     "Grey": 390,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Unbreakable Armor": {
@@ -2281,7 +2164,6 @@
     "Yellow": 310,
     "Green": 315,
     "Grey": 320,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Vampiric Blood": {
@@ -2293,7 +2175,6 @@
     "Yellow": 350,
     "Green": 355,
     "Grey": 360,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Raise Dead": {
@@ -2305,7 +2186,6 @@
     "Yellow": 305,
     "Green": 310,
     "Grey": 315,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Corpse Explosion": {
@@ -2317,7 +2197,6 @@
     "Yellow": 305,
     "Green": 310,
     "Grey": 315,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Pestilence": {
@@ -2329,7 +2208,6 @@
     "Yellow": 305,
     "Green": 310,
     "Grey": 315,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Chain Heal": {
@@ -2341,7 +2219,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Chain Lightning": {
@@ -2353,7 +2230,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Lava": {
@@ -2365,7 +2241,6 @@
     "Yellow": 390,
     "Green": 395,
     "Grey": 400,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Shocking": {
@@ -2377,7 +2252,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Earthliving Weapon": {
@@ -2389,7 +2263,6 @@
     "Yellow": 305,
     "Green": 310,
     "Grey": 315,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Fire Elemental Totem": {
@@ -2401,7 +2274,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Fire Nova": {
@@ -2413,7 +2285,6 @@
     "Yellow": 115,
     "Green": 120,
     "Grey": 125,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Flame Shock": {
@@ -2436,7 +2307,6 @@
     "Yellow": 130,
     "Green": 135,
     "Grey": 140,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Frost Shock": {
@@ -2459,7 +2329,6 @@
     "Yellow": 220,
     "Green": 225,
     "Grey": 230,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Healing Wave": {
@@ -2471,7 +2340,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Lesser Healing Wave": {
@@ -2505,7 +2373,6 @@
     "Yellow": 105,
     "Green": 115,
     "Grey": 125,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Mana Tide Totem": {
@@ -2517,7 +2384,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Stormstrike": {
@@ -2540,7 +2406,6 @@
     "Yellow": 170,
     "Green": 175,
     "Grey": 180,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Elemental Mastery": {
@@ -2552,7 +2417,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Water Mastery": {
@@ -2564,7 +2428,6 @@
     "Yellow": 280,
     "Green": 285,
     "Grey": 290,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Windfury Weapon": {
@@ -2576,7 +2439,6 @@
     "Yellow": 335,
     "Green": 340,
     "Grey": 345,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Thunderstorm": {
@@ -2588,7 +2450,6 @@
     "Yellow": 355,
     "Green": 360,
     "Grey": 365,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Incinerate": {
@@ -2600,7 +2461,6 @@
     "Yellow": 355,
     "Green": 360,
     "Grey": 365,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Conflagrate": {
@@ -2612,7 +2472,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Corruption": {
@@ -2635,7 +2494,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Death Coil": {
@@ -2647,7 +2505,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Fear": {
@@ -2670,7 +2527,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Felhunter": {
@@ -2682,7 +2538,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Health Funnel": {
@@ -2694,7 +2549,6 @@
     "Yellow": 115,
     "Green": 120,
     "Grey": 125,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Healthstone": {
@@ -2717,7 +2571,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Immolate": {
@@ -2729,7 +2582,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Imp": {
@@ -2741,7 +2593,6 @@
     "Yellow": 145,
     "Green": 150,
     "Grey": 155,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Searing Pain": {
@@ -2753,7 +2604,6 @@
     "Yellow": 220,
     "Green": 225,
     "Grey": 230,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Shadow Bolt": {
@@ -2765,7 +2615,6 @@
     "Yellow": 170,
     "Green": 175,
     "Grey": 180,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Shadowburn": {
@@ -2788,7 +2637,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Soulstone": {
@@ -2800,7 +2648,6 @@
     "Yellow": 245,
     "Green": 250,
     "Grey": 255,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Succubus": {
@@ -2823,7 +2670,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Voidwalker": {
@@ -2835,7 +2681,6 @@
     "Yellow": 195,
     "Green": 200,
     "Grey": 205,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Hunter's Ink": {
@@ -2990,7 +2835,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Aquatic Form": {
@@ -3002,7 +2846,6 @@
     "Yellow": 105,
     "Green": 110,
     "Grey": 115,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Challenging Roar": {
@@ -3014,7 +2857,6 @@
     "Yellow": 155,
     "Green": 160,
     "Grey": 165,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Unburdened Rebirth": {
@@ -3026,7 +2868,6 @@
     "Yellow": 105,
     "Green": 110,
     "Grey": 115,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Thorns": {
@@ -3038,7 +2879,6 @@
     "Yellow": 80,
     "Green": 85,
     "Grey": 90,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of the Wild": {
@@ -3050,7 +2890,6 @@
     "Yellow": 80,
     "Green": 85,
     "Grey": 90,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of the Pack": {
@@ -3062,7 +2901,6 @@
     "Yellow": 205,
     "Green": 210,
     "Grey": 215,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Scare Beast": {
@@ -3074,7 +2912,6 @@
     "Yellow": 80,
     "Green": 85,
     "Grey": 90,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Revive Pet": {
@@ -3086,7 +2923,6 @@
     "Yellow": 80,
     "Green": 85,
     "Grey": 90,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Possessed Strength": {
@@ -3098,7 +2934,6 @@
     "Yellow": 80,
     "Green": 85,
     "Grey": 90,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Mend Pet": {
@@ -3110,7 +2945,6 @@
     "Yellow": 80,
     "Green": 85,
     "Grey": 90,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Feign Death": {
@@ -3122,7 +2956,6 @@
     "Yellow": 155,
     "Green": 160,
     "Grey": 165,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Arcane Intellect": {
@@ -3134,7 +2967,6 @@
     "Yellow": 80,
     "Green": 85,
     "Grey": 90,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Fire Ward": {
@@ -3146,7 +2978,6 @@
     "Yellow": 105,
     "Green": 110,
     "Grey": 115,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Frost Armor": {
@@ -3158,7 +2989,6 @@
     "Yellow": 80,
     "Green": 85,
     "Grey": 90,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Frost Ward": {
@@ -3170,7 +3000,6 @@
     "Yellow": 130,
     "Green": 135,
     "Grey": 140,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Slow Fall": {
@@ -3182,7 +3011,6 @@
     "Yellow": 80,
     "Green": 85,
     "Grey": 90,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of the Penguin": {
@@ -3194,7 +3022,6 @@
     "Yellow": 80,
     "Green": 85,
     "Grey": 90,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Blessing of Kings": {
@@ -3206,7 +3033,6 @@
     "Yellow": 105,
     "Green": 110,
     "Grey": 115,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Blessing of Wisdom": {
@@ -3218,7 +3044,6 @@
     "Yellow": 80,
     "Green": 85,
     "Grey": 90,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Lay on Hands": {
@@ -3230,7 +3055,6 @@
     "Yellow": 80,
     "Green": 85,
     "Grey": 90,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Blessing of Might": {
@@ -3242,7 +3066,6 @@
     "Yellow": 80,
     "Green": 85,
     "Grey": 90,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Sense Undead": {
@@ -3254,7 +3077,6 @@
     "Yellow": 105,
     "Green": 110,
     "Grey": 115,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of the Wise": {
@@ -3266,7 +3088,6 @@
     "Yellow": 155,
     "Green": 160,
     "Grey": 165,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Fading": {
@@ -3278,7 +3099,6 @@
     "Yellow": 80,
     "Green": 85,
     "Grey": 90,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Fortitude": {
@@ -3290,7 +3110,6 @@
     "Yellow": 80,
     "Green": 85,
     "Grey": 90,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Levitate": {
@@ -3302,7 +3121,6 @@
     "Yellow": 180,
     "Green": 185,
     "Grey": 190,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Shackle Undead": {
@@ -3314,7 +3132,6 @@
     "Yellow": 105,
     "Green": 110,
     "Grey": 115,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Shadow Protection": {
@@ -3326,7 +3143,6 @@
     "Yellow": 155,
     "Green": 160,
     "Grey": 165,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Shadowfiend": {
@@ -3338,7 +3154,6 @@
     "Yellow": 355,
     "Green": 360,
     "Grey": 365,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Blurred Speed": {
@@ -3350,7 +3165,6 @@
     "Yellow": 80,
     "Green": 85,
     "Grey": 90,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Distract": {
@@ -3362,7 +3176,6 @@
     "Yellow": 130,
     "Green": 135,
     "Grey": 140,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Pick Lock": {
@@ -3374,7 +3187,6 @@
     "Yellow": 105,
     "Green": 110,
     "Grey": 115,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Pick Pocket": {
@@ -3386,7 +3198,6 @@
     "Yellow": 80,
     "Green": 85,
     "Grey": 90,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Safe Fall": {
@@ -3398,7 +3209,6 @@
     "Yellow": 205,
     "Green": 210,
     "Grey": 215,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Vanish": {
@@ -3410,7 +3220,6 @@
     "Yellow": 130,
     "Green": 135,
     "Grey": 140,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Astral Recall": {
@@ -3422,7 +3231,6 @@
     "Yellow": 155,
     "Green": 160,
     "Grey": 165,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Renewed Life": {
@@ -3434,7 +3242,6 @@
     "Yellow": 155,
     "Green": 160,
     "Grey": 165,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Water Breathing": {
@@ -3446,7 +3253,6 @@
     "Yellow": 130,
     "Green": 135,
     "Grey": 140,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Water Shield": {
@@ -3458,7 +3264,6 @@
     "Yellow": 105,
     "Green": 110,
     "Grey": 115,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Water Walking": {
@@ -3470,7 +3275,6 @@
     "Yellow": 155,
     "Green": 160,
     "Grey": 165,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Unending Breath": {
@@ -3482,7 +3286,6 @@
     "Yellow": 105,
     "Green": 110,
     "Grey": 115,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Drain Soul": {
@@ -3494,7 +3297,6 @@
     "Yellow": 80,
     "Green": 85,
     "Grey": 90,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Curse of Exhaustion": {
@@ -3506,7 +3308,6 @@
     "Yellow": 155,
     "Green": 160,
     "Grey": 165,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Subjugate Demon": {
@@ -3518,7 +3319,6 @@
     "Yellow": 155,
     "Green": 160,
     "Grey": 165,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Kilrogg": {
@@ -3530,7 +3330,6 @@
     "Yellow": 130,
     "Green": 135,
     "Grey": 140,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Souls": {
@@ -3542,7 +3341,6 @@
     "Yellow": 355,
     "Green": 360,
     "Grey": 365,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Battle": {
@@ -3554,7 +3352,6 @@
     "Yellow": 80,
     "Green": 85,
     "Grey": 90,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Bloodrage": {
@@ -3566,7 +3363,6 @@
     "Yellow": 80,
     "Green": 85,
     "Grey": 90,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Charge": {
@@ -3578,7 +3374,6 @@
     "Yellow": 80,
     "Green": 85,
     "Grey": 90,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Mocking Blow": {
@@ -3590,7 +3385,6 @@
     "Yellow": 105,
     "Green": 110,
     "Grey": 115,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Thunder Clap": {
@@ -3602,7 +3396,6 @@
     "Yellow": 80,
     "Green": 85,
     "Grey": 90,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Enduring Victory": {
@@ -3614,7 +3407,6 @@
     "Yellow": 330,
     "Green": 335,
     "Grey": 340,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Scroll of Agility": {
@@ -3813,7 +3605,6 @@
     "Yellow": 155,
     "Green": 160,
     "Grey": 165,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Ghost Wolf": {
@@ -3825,7 +3616,6 @@
     "Yellow": 105,
     "Green": 110,
     "Grey": 115,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Rune Tap": {
@@ -3848,7 +3638,6 @@
     "Yellow": 325,
     "Green": 330,
     "Grey": 335,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Death Strike": {
@@ -3860,7 +3649,6 @@
     "Yellow": 345,
     "Green": 350,
     "Grey": 355,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Certificate of Ownership": {
@@ -4125,7 +3913,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Seal of Righteousness": {
@@ -4137,7 +3924,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Seal of Vengeance": {
@@ -4149,7 +3935,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Scroll of Recall II": {
@@ -4243,7 +4028,6 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Focus": {
@@ -4288,7 +4072,6 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Stoneclaw Totem": {
@@ -4300,7 +4083,6 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Life Tap": {
@@ -4312,7 +4094,6 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Scatter Shot": {
@@ -4324,7 +4105,6 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Soul Link": {
@@ -4336,7 +4116,6 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Salvation": {
@@ -4348,7 +4127,6 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Shield Wall": {
@@ -4360,7 +4138,6 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Explosive Trap": {
@@ -4372,7 +4149,6 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Holy Shock": {
@@ -4384,7 +4160,6 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Vigilance": {
@@ -4396,7 +4171,6 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Barkskin": {
@@ -4408,7 +4182,6 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Ice Barrier": {
@@ -4420,7 +4193,6 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Monsoon": {
@@ -4432,7 +4204,6 @@
     "Yellow": 255,
     "Green": 262,
     "Grey": 270,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Pain Suppression": {
@@ -4444,7 +4215,6 @@
     "Yellow": 255,
     "Green": 262,
     "Grey": 270,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Mutilate": {
@@ -4456,7 +4226,6 @@
     "Yellow": 255,
     "Green": 262,
     "Grey": 270,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Earth Shield": {
@@ -4468,7 +4237,6 @@
     "Yellow": 255,
     "Green": 262,
     "Grey": 270,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Totem of Wrath": {
@@ -4480,7 +4248,6 @@
     "Yellow": 255,
     "Green": 262,
     "Grey": 270,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Dark Death": {
@@ -4492,7 +4259,6 @@
     "Yellow": 280,
     "Green": 287,
     "Grey": 295,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Disease": {
@@ -4515,7 +4281,6 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Wild Growth": {
@@ -4527,7 +4292,6 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Chimera Shot": {
@@ -4539,7 +4303,6 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Explosive Shot": {
@@ -4551,7 +4314,6 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Deep Freeze": {
@@ -4563,7 +4325,6 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Living Bomb": {
@@ -4575,7 +4336,6 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Arcane Barrage": {
@@ -4587,7 +4347,6 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Beacon of Light": {
@@ -4599,7 +4358,6 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Hammer of the Righteous": {
@@ -4611,7 +4369,6 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Divine Storm": {
@@ -4623,7 +4380,6 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Dispersion": {
@@ -4635,7 +4391,6 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Guardian Spirit": {
@@ -4647,7 +4402,6 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Penance": {
@@ -4659,7 +4413,6 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Hymn of Hope": {
@@ -4671,7 +4424,6 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Hunger for Blood": {
@@ -4683,7 +4435,6 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Killing Spree": {
@@ -4695,7 +4446,6 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Shadow Dance": {
@@ -4707,7 +4457,6 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Thunder": {
@@ -4719,7 +4468,6 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Feral Spirit": {
@@ -4731,7 +4479,6 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Riptide": {
@@ -4743,7 +4490,6 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Haunt": {
@@ -4755,7 +4501,6 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Chaos Bolt": {
@@ -4767,7 +4512,6 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Bladestorm": {
@@ -4779,7 +4523,6 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Shockwave": {
@@ -4791,7 +4534,6 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Dancing Rune Weapon": {
@@ -4803,7 +4545,6 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Hungering Cold": {
@@ -4815,7 +4556,6 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Unholy Blight": {
@@ -4827,7 +4567,6 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Howling Blast": {
@@ -4839,7 +4578,6 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Spell Reflection": {
@@ -4851,7 +4589,6 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Cloak of Shadows": {
@@ -4863,7 +4600,6 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Kill Shot": {
@@ -4875,7 +4611,6 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Divine Plea": {
@@ -4887,7 +4622,6 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Savage Roar": {
@@ -4899,7 +4633,6 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Shield of Righteousness": {
@@ -4911,7 +4644,6 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Mind Sear": {
@@ -4923,7 +4655,6 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Tricks of the Trade": {
@@ -4935,7 +4666,6 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Shadowflame": {
@@ -4947,7 +4677,6 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Enraged Regeneration": {
@@ -4959,7 +4688,6 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Nourish": {
@@ -4971,7 +4699,6 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Mirror Image": {
@@ -4983,7 +4710,6 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Fan of Knives": {
@@ -4995,7 +4721,6 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Hex": {
@@ -5007,7 +4732,6 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Demonic Circle": {
@@ -5019,7 +4743,6 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Metamorphosis": {
@@ -5031,7 +4754,6 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Survival Instincts": {
@@ -5043,7 +4765,6 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Claw": {
@@ -5066,7 +4787,6 @@
     "Yellow": 355,
     "Green": 360,
     "Grey": 365,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Runescroll of Fortitude": {
@@ -5089,7 +4809,6 @@
     "Yellow": 380,
     "Green": 382,
     "Grey": 385,
-    "RecipeID": 1,
     "Source": "Vendor"
   },
   "Glyph of Eternal Water": {
@@ -5101,7 +4820,6 @@
     "Yellow": 255,
     "Green": 260,
     "Grey": 265,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Glyph of Quick Decay": {
@@ -5113,7 +4831,6 @@
     "Yellow": 380,
     "Green": 382,
     "Grey": 385,
-    "RecipeID": 1,
     "Source": "Drop"
   }
 }

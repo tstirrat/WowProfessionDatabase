@@ -127,7 +127,7 @@
     "Yellow": 105,
     "Green": 120,
     "Grey": 135,
-    "RecipeID": 1,
+    "RecipeID": 4408,
     "Source": "Drop"
   },
   "Coarse Blasting Powder": {
@@ -201,7 +201,7 @@
     "Yellow": 130,
     "Green": 145,
     "Grey": 160,
-    "RecipeID": 1,
+    "RecipeID": 4409,
     "Source": "Drop"
   },
   "Flying Tiger Goggles": {
@@ -277,7 +277,7 @@
     "Yellow": 145,
     "Green": 157,
     "Grey": 170,
-    "RecipeID": 1,
+    "RecipeID": 13309,
     "Source": "Vendor"
   },
   "Shadow Goggles": {
@@ -292,7 +292,7 @@
     "Yellow": 145,
     "Green": 157,
     "Grey": 170,
-    "RecipeID": 1,
+    "RecipeID": 4410,
     "Source": "Drop"
   },
   "Small Bronze Bomb": {
@@ -337,7 +337,7 @@
     "Yellow": 125,
     "Green": 150,
     "Grey": 175,
-    "RecipeID": 1,
+    "RecipeID": 4411,
     "Source": "Drop"
   },
   "Heavy Blasting Powder": {
@@ -426,7 +426,7 @@
     "Yellow": 165,
     "Green": 177,
     "Grey": 190,
-    "RecipeID": 1,
+    "RecipeID": 14639,
     "Source": "Vendor"
   },
   "Bronze Framework": {
@@ -458,7 +458,7 @@
     "Yellow": 170,
     "Green": 182,
     "Grey": 195,
-    "RecipeID": 1,
+    "RecipeID": 4412,
     "Source": "Drop"
   },
   "Explosive Sheep": {
@@ -504,7 +504,7 @@
     "Yellow": 175,
     "Green": 185,
     "Grey": 195,
-    "RecipeID": 1,
+    "RecipeID": 13308,
     "Source": "Vendor"
   },
   "Iron Strut": {
@@ -534,7 +534,7 @@
     "Yellow": 180,
     "Green": 190,
     "Grey": 200,
-    "RecipeID": 1,
+    "RecipeID": 4413,
     "Source": "Drop"
   },
   "Portable Bronze Mortar": {
@@ -551,7 +551,7 @@
     "Yellow": 185,
     "Green": 195,
     "Grey": 205,
-    "RecipeID": 1,
+    "RecipeID": 4414,
     "Source": "Drop"
   },
   "Gyrochronatom": {
@@ -627,7 +627,7 @@
     "Yellow": 205,
     "Green": 215,
     "Grey": 225,
-    "RecipeID": 1,
+    "RecipeID": 4415,
     "Source": "Drop"
   },
   "Big Iron Bomb": {
@@ -658,7 +658,7 @@
     "Yellow": 215,
     "Green": 225,
     "Grey": 235,
-    "RecipeID": 1,
+    "RecipeID": 4416,
     "Source": "Drop"
   },
   "Mechanical Dragonling": {
@@ -675,7 +675,7 @@
     "Yellow": 220,
     "Green": 230,
     "Grey": 240,
-    "RecipeID": 1,
+    "RecipeID": 13311,
     "Source": "Vendor"
   },
   "Gnomish Cloaking Device": {
@@ -693,7 +693,7 @@
     "Yellow": 220,
     "Green": 230,
     "Grey": 240,
-    "RecipeID": 1,
+    "RecipeID": 7742,
     "Source": "Vendor"
   },
   "Large Seaforium Charge": {
@@ -709,7 +709,7 @@
     "Yellow": 200,
     "Green": 220,
     "Grey": 240,
-    "RecipeID": 1,
+    "RecipeID": 4417,
     "Source": "Drop"
   },
   "Silver Contact": {
@@ -767,7 +767,7 @@
     "Yellow": 200,
     "Green": 210,
     "Grey": 220,
-    "RecipeID": 1,
+    "RecipeID": 13310,
     "Source": "Vendor"
   },
   "Ornate Spyglass": {
@@ -812,7 +812,7 @@
     "Yellow": 185,
     "Green": 205,
     "Grey": 225,
-    "RecipeID": 1,
+    "RecipeID": 6672,
     "Source": "Drop"
   },
   "Practice Lock": {
@@ -842,7 +842,6 @@
     "Yellow": 115,
     "Green": 122,
     "Grey": 130,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Goblin Rocket Boots": {
@@ -860,6 +859,7 @@
     "Yellow": 245,
     "Green": 255,
     "Grey": 265,
+    "RecipeID": 7192,
     "Source": "Trainer"
   },
   "Gnomish Universal Remote": {
@@ -877,7 +877,7 @@
     "Yellow": 150,
     "Green": 162,
     "Grey": 175,
-    "RecipeID": 1,
+    "RecipeID": 7560,
     "Source": "Vendor"
   },
   "Aquadynamic Fish Attractor": {
@@ -911,7 +911,7 @@
     "Yellow": 165,
     "Green": 180,
     "Grey": 200,
-    "RecipeID": 1,
+    "RecipeID": 7561,
     "Source": "Vendor"
   },
   "Gold Power Core": {
@@ -966,7 +966,7 @@
     "Yellow": 195,
     "Green": 205,
     "Grey": 215,
-    "RecipeID": 1,
+    "RecipeID": 10601,
     "Source": "Drop"
   },
   "Mithril Tube": {
@@ -1070,7 +1070,7 @@
     "Yellow": 230,
     "Green": 240,
     "Grey": 250,
-    "RecipeID": 1,
+    "RecipeID": 10602,
     "Source": "Vendor"
   },
   "Mithril Casing": {
@@ -1114,7 +1114,7 @@
     "Yellow": 240,
     "Green": 250,
     "Grey": 260,
-    "RecipeID": 1,
+    "RecipeID": 10603,
     "Source": "Drop"
   },
   "Mithril Heavy-bore Rifle": {
@@ -1132,7 +1132,7 @@
     "Yellow": 240,
     "Green": 250,
     "Grey": 260,
-    "RecipeID": 1,
+    "RecipeID": 10604,
     "Source": "Drop"
   },
   "Spellpower Goggles Xtreme": {
@@ -1147,6 +1147,7 @@
     "Yellow": 245,
     "Green": 255,
     "Grey": 265,
+    "RecipeID": 10605,
     "Source": "Trainer"
   },
   "Parachute Cloak": {
@@ -1163,7 +1164,7 @@
     "Yellow": 245,
     "Green": 255,
     "Grey": 265,
-    "RecipeID": 1,
+    "RecipeID": 10606,
     "Source": "Drop"
   },
   "Deepdive Helmet": {
@@ -1181,7 +1182,7 @@
     "Yellow": 250,
     "Green": 260,
     "Grey": 270,
-    "RecipeID": 1,
+    "RecipeID": 10607,
     "Source": "Vendor"
   },
   "Rose Colored Goggles": {
@@ -1226,7 +1227,7 @@
     "Yellow": 260,
     "Green": 270,
     "Grey": 280,
-    "RecipeID": 1,
+    "RecipeID": 10608,
     "Source": "Drop"
   },
   "Mithril Gyro-Shot": {
@@ -1274,7 +1275,7 @@
     "Yellow": 270,
     "Green": 280,
     "Grey": 290,
-    "RecipeID": 1,
+    "RecipeID": 10609,
     "Source": "Vendor"
   },
   "Goblin Rocket Fuel Recipe": {
@@ -1614,7 +1615,7 @@
     "Yellow": 205,
     "Green": 205,
     "Grey": 205,
-    "RecipeID": 1,
+    "RecipeID": 11828,
     "Source": "Drop"
   },
   "Lil' Smoky": {
@@ -1632,7 +1633,7 @@
     "Yellow": 205,
     "Green": 205,
     "Grey": 205,
-    "RecipeID": 1,
+    "RecipeID": 11827,
     "Source": "Drop"
   },
   "Salt Shaker": {
@@ -1677,6 +1678,7 @@
     "Yellow": 280,
     "Green": 290,
     "Grey": 300,
+    "RecipeID": 16041,
     "Source": "Trainer"
   },
   "Thorium Widget": {
@@ -1691,6 +1693,7 @@
     "Yellow": 280,
     "Green": 290,
     "Grey": 300,
+    "RecipeID": 16042,
     "Source": "Trainer"
   },
   "Thorium Rifle": {
@@ -1708,6 +1711,7 @@
     "Yellow": 280,
     "Green": 290,
     "Grey": 300,
+    "RecipeID": 16043,
     "Source": "Trainer"
   },
   "Lifelike Mechanical Toad": {
@@ -1724,7 +1728,7 @@
     "Yellow": 285,
     "Green": 295,
     "Grey": 305,
-    "RecipeID": 1,
+    "RecipeID": 16044,
     "Source": "Drop"
   },
   "Spellpower Goggles Xtreme Plus": {
@@ -1741,6 +1745,7 @@
     "Yellow": 290,
     "Green": 300,
     "Grey": 310,
+    "RecipeID": 16045,
     "Source": "Trainer"
   },
   "Thorium Tube": {
@@ -1754,6 +1759,7 @@
     "Yellow": 295,
     "Green": 305,
     "Grey": 315,
+    "RecipeID": 16047,
     "Source": "Trainer"
   },
   "Dark Iron Rifle": {
@@ -1772,7 +1778,7 @@
     "Yellow": 295,
     "Green": 305,
     "Grey": 315,
-    "RecipeID": 1,
+    "RecipeID": 16048,
     "Source": "Drop"
   },
   "Dark Iron Bomb": {
@@ -1789,7 +1795,7 @@
     "Yellow": 305,
     "Green": 315,
     "Grey": 325,
-    "RecipeID": 1,
+    "RecipeID": 16049,
     "Source": "Drop"
   },
   "Thorium Shells": {
@@ -1804,6 +1810,7 @@
     "Yellow": 295,
     "Green": 300,
     "Grey": 305,
+    "RecipeID": 16051,
     "Source": "Trainer"
   },
   "Masterwork Target Dummy": {
@@ -1822,7 +1829,7 @@
     "Yellow": 295,
     "Green": 305,
     "Grey": 315,
-    "RecipeID": 1,
+    "RecipeID": 16046,
     "Source": "Vendor"
   },
   "Delicate Arcanite Converter": {
@@ -1837,7 +1844,7 @@
     "Yellow": 305,
     "Green": 315,
     "Grey": 325,
-    "RecipeID": 1,
+    "RecipeID": 16050,
     "Source": "Vendor"
   },
   "Voice Amplification Modulator": {
@@ -1854,7 +1861,7 @@
     "Yellow": 310,
     "Green": 320,
     "Grey": 330,
-    "RecipeID": 1,
+    "RecipeID": 16052,
     "Source": "Drop"
   },
   "Master Engineer's Goggles": {
@@ -1870,6 +1877,7 @@
     "Yellow": 310,
     "Green": 320,
     "Grey": 330,
+    "RecipeID": 16053,
     "Source": "Trainer"
   },
   "Arcanite Dragonling": {
@@ -1884,7 +1892,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 16054,
     "Source": "Drop"
   },
   "Arcane Bomb": {
@@ -1900,7 +1908,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 16055,
     "Source": "Drop"
   },
   "Flawless Arcanite Rifle": {
@@ -1919,7 +1927,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 16056,
     "Source": "Drop"
   },
   "Snowmaster 9000": {
@@ -1936,7 +1944,7 @@
     "Yellow": 190,
     "Green": 210,
     "Grey": 230,
-    "RecipeID": 1,
+    "RecipeID": 17720,
     "Source": "Drop"
   },
   "Field Repair Bot 74A": {
@@ -1951,6 +1959,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
+    "RecipeID": 18235,
     "Source": "Trainer"
   },
   "Biznicks 247x128 Accurascope": {
@@ -1968,7 +1977,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 18290,
     "Source": "Drop"
   },
   "Core Marksman Rifle": {
@@ -1986,7 +1995,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 18292,
     "Source": "Drop"
   },
   "Force Reactive Disk": {
@@ -2004,7 +2013,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 18291,
     "Source": "Drop"
   },
   "Red Firework": {
@@ -2019,7 +2028,7 @@
     "Yellow": 150,
     "Green": 162,
     "Grey": 175,
-    "RecipeID": 1,
+    "RecipeID": 18647,
     "Source": "Vendor"
   },
   "Blue Firework": {
@@ -2034,7 +2043,7 @@
     "Yellow": 150,
     "Green": 162,
     "Grey": 175,
-    "RecipeID": 1,
+    "RecipeID": 18649,
     "Source": "Vendor"
   },
   "Green Firework": {
@@ -2049,7 +2058,7 @@
     "Yellow": 150,
     "Green": 162,
     "Grey": 175,
-    "RecipeID": 1,
+    "RecipeID": 18648,
     "Source": "Vendor"
   },
   "EZ-Thro Dynamite II": {
@@ -2064,7 +2073,6 @@
     "Yellow": 200,
     "Green": 210,
     "Grey": 220,
-    "RecipeID": 1,
     "Source": "Vendor"
   },
   "Dense Dynamite": {
@@ -2094,6 +2102,7 @@
     "Yellow": 270,
     "Green": 275,
     "Grey": 280,
+    "RecipeID": 18651,
     "Source": "Trainer"
   },
   "Gyrofreeze Ice Reflector": {
@@ -2112,7 +2121,7 @@
     "Yellow": 280,
     "Green": 290,
     "Grey": 300,
-    "RecipeID": 1,
+    "RecipeID": 18652,
     "Source": "Vendor"
   },
   "Goblin Jumper Cables XL": {
@@ -2130,7 +2139,7 @@
     "Yellow": 285,
     "Green": 295,
     "Grey": 305,
-    "RecipeID": 1,
+    "RecipeID": 18653,
     "Source": "Drop"
   },
   "Major Recombobulator": {
@@ -2146,7 +2155,7 @@
     "Yellow": 285,
     "Green": 290,
     "Grey": 295,
-    "RecipeID": 1,
+    "RecipeID": 18655,
     "Source": "Drop"
   },
   "Powerful Seaforium Charge": {
@@ -2163,7 +2172,7 @@
     "Yellow": 275,
     "Green": 285,
     "Grey": 295,
-    "RecipeID": 1,
+    "RecipeID": 18656,
     "Source": "Vendor"
   },
   "Hyper-Radiant Flame Reflector": {
@@ -2181,7 +2190,7 @@
     "Yellow": 310,
     "Green": 320,
     "Grey": 330,
-    "RecipeID": 1,
+    "RecipeID": 18657,
     "Source": "Drop"
   },
   "Ultra-Flash Shadow Reflector": {
@@ -2200,7 +2209,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 18658,
     "Source": "Drop"
   },
   "Gnomish Alarm-o-Bot": {
@@ -2215,7 +2224,7 @@
     "Yellow": 275,
     "Green": 280,
     "Grey": 285,
-    "RecipeID": 1,
+    "RecipeID": 18654,
     "Source": "Drop"
   },
   "World Enlarger": {
@@ -2233,7 +2242,7 @@
     "Yellow": 260,
     "Green": 265,
     "Grey": 270,
-    "RecipeID": 1,
+    "RecipeID": 18661,
     "Source": "Drop"
   },
   "Dimensional Ripper - Everlook": {
@@ -2284,7 +2293,7 @@
     "Yellow": 250,
     "Green": 260,
     "Grey": 270,
-    "RecipeID": 1,
+    "RecipeID": 19027,
     "Source": "Vendor"
   },
   "Bloodvine Goggles": {
@@ -2301,8 +2310,8 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 20000,
+    "Source": "Reputation"
   },
   "Bloodvine Lens": {
     "ID": 24357,
@@ -2317,8 +2326,8 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 20001,
+    "Source": "Reputation"
   },
   "Tranquil Mechanical Yeti": {
     "ID": 26011,
@@ -2349,7 +2358,7 @@
     "Yellow": 125,
     "Green": 137,
     "Grey": 150,
-    "RecipeID": 1,
+    "RecipeID": 21724,
     "Source": "Drop"
   },
   "Small Green Rocket": {
@@ -2364,7 +2373,7 @@
     "Yellow": 125,
     "Green": 137,
     "Grey": 150,
-    "RecipeID": 1,
+    "RecipeID": 21725,
     "Source": "Drop"
   },
   "Small Red Rocket": {
@@ -2379,7 +2388,7 @@
     "Yellow": 125,
     "Green": 137,
     "Grey": 150,
-    "RecipeID": 1,
+    "RecipeID": 21726,
     "Source": "Drop"
   },
   "Large Blue Rocket": {
@@ -2394,7 +2403,7 @@
     "Yellow": 175,
     "Green": 187,
     "Grey": 200,
-    "RecipeID": 1,
+    "RecipeID": 21727,
     "Source": "Drop"
   },
   "Large Green Rocket": {
@@ -2409,7 +2418,7 @@
     "Yellow": 175,
     "Green": 187,
     "Grey": 200,
-    "RecipeID": 1,
+    "RecipeID": 21728,
     "Source": "Drop"
   },
   "Large Red Rocket": {
@@ -2424,7 +2433,7 @@
     "Yellow": 175,
     "Green": 187,
     "Grey": 200,
-    "RecipeID": 1,
+    "RecipeID": 21729,
     "Source": "Drop"
   },
   "Blue Rocket Cluster": {
@@ -2439,7 +2448,7 @@
     "Yellow": 225,
     "Green": 237,
     "Grey": 250,
-    "RecipeID": 1,
+    "RecipeID": 21730,
     "Source": "Drop"
   },
   "Green Rocket Cluster": {
@@ -2454,7 +2463,7 @@
     "Yellow": 225,
     "Green": 237,
     "Grey": 250,
-    "RecipeID": 1,
+    "RecipeID": 21731,
     "Source": "Drop"
   },
   "Red Rocket Cluster": {
@@ -2469,7 +2478,7 @@
     "Yellow": 225,
     "Green": 237,
     "Grey": 250,
-    "RecipeID": 1,
+    "RecipeID": 21732,
     "Source": "Drop"
   },
   "Large Blue Rocket Cluster": {
@@ -2484,7 +2493,7 @@
     "Yellow": 275,
     "Green": 280,
     "Grey": 285,
-    "RecipeID": 1,
+    "RecipeID": 21733,
     "Source": "Drop"
   },
   "Large Green Rocket Cluster": {
@@ -2499,7 +2508,7 @@
     "Yellow": 275,
     "Green": 280,
     "Grey": 285,
-    "RecipeID": 1,
+    "RecipeID": 21734,
     "Source": "Drop"
   },
   "Large Red Rocket Cluster": {
@@ -2514,7 +2523,7 @@
     "Yellow": 275,
     "Green": 280,
     "Grey": 285,
-    "RecipeID": 1,
+    "RecipeID": 21735,
     "Source": "Drop"
   },
   "Firework Launcher": {
@@ -2531,7 +2540,7 @@
     "Yellow": 245,
     "Green": 255,
     "Grey": 265,
-    "RecipeID": 1,
+    "RecipeID": 44919,
     "Source": "Drop"
   },
   "Firework Cluster Launcher": {
@@ -2546,7 +2555,7 @@
     "Yellow": 295,
     "Green": 305,
     "Grey": 315,
-    "RecipeID": 1,
+    "RecipeID": 44918,
     "Source": "Drop"
   },
   "Steam Tonk Controller": {
@@ -2561,7 +2570,7 @@
     "Yellow": 275,
     "Green": 280,
     "Grey": 285,
-    "RecipeID": 1,
+    "RecipeID": 22729,
     "Source": "Vendor"
   },
   "Elemental Blasting Powder": {
@@ -2716,7 +2725,7 @@
     "Yellow": 360,
     "Green": 370,
     "Grey": 380,
-    "RecipeID": 1,
+    "RecipeID": 23799,
     "Source": "Vendor"
   },
   "Felsteel Boomstick": {
@@ -2732,7 +2741,7 @@
     "Yellow": 370,
     "Green": 380,
     "Grey": 390,
-    "RecipeID": 1,
+    "RecipeID": 23800,
     "Source": "Drop"
   },
   "Ornate Khorium Rifle": {
@@ -2749,7 +2758,7 @@
     "Yellow": 385,
     "Green": 395,
     "Grey": 405,
-    "RecipeID": 1,
+    "RecipeID": 23802,
     "Source": "Drop"
   },
   "Cogspinner Goggles": {
@@ -2765,7 +2774,7 @@
     "Yellow": 350,
     "Green": 360,
     "Grey": 370,
-    "RecipeID": 1,
+    "RecipeID": 23803,
     "Source": "Vendor"
   },
   "Power Amplification Goggles": {
@@ -2781,7 +2790,7 @@
     "Yellow": 350,
     "Green": 360,
     "Grey": 370,
-    "RecipeID": 1,
+    "RecipeID": 23804,
     "Source": "Drop"
   },
   "Ultra-Spectropic Detection Goggles": {
@@ -2798,7 +2807,7 @@
     "Yellow": 360,
     "Green": 370,
     "Grey": 380,
-    "RecipeID": 1,
+    "RecipeID": 23805,
     "Source": "Vendor"
   },
   "Hyper-Vision Goggles": {
@@ -2815,7 +2824,7 @@
     "Yellow": 370,
     "Green": 380,
     "Grey": 390,
-    "RecipeID": 1,
+    "RecipeID": 23806,
     "Source": "Drop"
   },
   "Adamantite Scope": {
@@ -2830,7 +2839,7 @@
     "Yellow": 345,
     "Green": 355,
     "Grey": 365,
-    "RecipeID": 1,
+    "RecipeID": 23807,
     "Source": "Vendor"
   },
   "Khorium Scope": {
@@ -2846,7 +2855,7 @@
     "Yellow": 370,
     "Green": 380,
     "Grey": 390,
-    "RecipeID": 1,
+    "RecipeID": 23808,
     "Source": "Drop"
   },
   "Stabilized Eternium Scope": {
@@ -2862,7 +2871,7 @@
     "Yellow": 385,
     "Green": 395,
     "Grey": 405,
-    "RecipeID": 1,
+    "RecipeID": 23809,
     "Source": "Drop"
   },
   "Crashin' Thrashin' Robot": {
@@ -2879,7 +2888,7 @@
     "Yellow": 335,
     "Green": 345,
     "Grey": 355,
-    "RecipeID": 1,
+    "RecipeID": 23810,
     "Source": "Drop"
   },
   "White Smoke Flare": {
@@ -2894,7 +2903,7 @@
     "Yellow": 335,
     "Green": 345,
     "Grey": 355,
-    "RecipeID": 1,
+    "RecipeID": 23811,
     "Source": "Vendor"
   },
   "Green Smoke Flare": {
@@ -2910,8 +2919,8 @@
     "Yellow": 335,
     "Green": 345,
     "Grey": 355,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 23814,
+    "Source": "Reputation"
   },
   "Fel Iron Shells": {
     "ID": 30346,
@@ -2940,7 +2949,7 @@
     "Yellow": 335,
     "Green": 345,
     "Grey": 355,
-    "RecipeID": 1,
+    "RecipeID": 23815,
     "Source": "Vendor"
   },
   "Fel Iron Toolbox": {
@@ -2956,7 +2965,7 @@
     "Yellow": 325,
     "Green": 335,
     "Grey": 345,
-    "RecipeID": 1,
+    "RecipeID": 23816,
     "Source": "Vendor"
   },
   "Titanium Toolbox": {
@@ -2972,7 +2981,7 @@
     "Yellow": 425,
     "Green": 432,
     "Grey": 440,
-    "RecipeID": 1,
+    "RecipeID": 23817,
     "Source": "Vendor"
   },
   "Elemental Seaforium Charge": {
@@ -2988,8 +2997,8 @@
     "Yellow": 350,
     "Green": 355,
     "Grey": 360,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 23874,
+    "Source": "Reputation"
   },
   "Zapthrottle Mote Extractor": {
     "ID": 30548,
@@ -3005,7 +3014,7 @@
     "Yellow": 305,
     "Green": 315,
     "Grey": 325,
-    "RecipeID": 1,
+    "RecipeID": 23888,
     "Source": "Drop"
   },
   "Healing Potion Injector": {
@@ -3022,7 +3031,7 @@
     "Yellow": 330,
     "Green": 340,
     "Grey": 350,
-    "RecipeID": 1,
+    "RecipeID": 35310,
     "Source": "Drop"
   },
   "Mana Potion Injector": {
@@ -3039,7 +3048,7 @@
     "Yellow": 345,
     "Green": 355,
     "Grey": 365,
-    "RecipeID": 1,
+    "RecipeID": 35311,
     "Source": "Drop"
   },
   "Rocket Boots Xtreme": {
@@ -3056,7 +3065,7 @@
     "Yellow": 365,
     "Green": 375,
     "Grey": 385,
-    "RecipeID": 1,
+    "RecipeID": 23887,
     "Source": "Drop"
   },
   "The Bigger One": {
@@ -3235,7 +3244,7 @@
     "Yellow": 335,
     "Green": 345,
     "Grey": 355,
-    "RecipeID": 1,
+    "RecipeID": 25887,
     "Source": "Drop"
   },
   "Dimensional Ripper - Area 52": {
@@ -3284,7 +3293,7 @@
     "Yellow": 275,
     "Green": 280,
     "Grey": 285,
-    "RecipeID": 1,
+    "RecipeID": 32381,
     "Source": "Vendor"
   },
   "Icy Blasting Primers": {
@@ -3546,7 +3555,7 @@
     "Yellow": 335,
     "Green": 345,
     "Grey": 355,
-    "RecipeID": 1,
+    "RecipeID": 33804,
     "Source": "Drop"
   },
   "Flying Machine": {
@@ -3594,7 +3603,7 @@
     "Yellow": 370,
     "Green": 380,
     "Grey": 390,
-    "RecipeID": 1,
+    "RecipeID": 34114,
     "Source": "Drop"
   },
   "Wonderheal XT68 Shades": {
@@ -3611,7 +3620,7 @@
     "Yellow": 390,
     "Green": 410,
     "Grey": 430,
-    "RecipeID": 1,
+    "RecipeID": 35191,
     "Source": "Drop"
   },
   "Justicebringer 3000 Specs": {
@@ -3629,7 +3638,7 @@
     "Yellow": 390,
     "Green": 410,
     "Grey": 430,
-    "RecipeID": 1,
+    "RecipeID": 35187,
     "Source": "Drop"
   },
   "Powerheal 9000 Lens": {
@@ -3646,7 +3655,7 @@
     "Yellow": 390,
     "Green": 410,
     "Grey": 430,
-    "RecipeID": 1,
+    "RecipeID": 35189,
     "Source": "Drop"
   },
   "Hyper-Magnified Moon Specs": {
@@ -3663,7 +3672,7 @@
     "Yellow": 390,
     "Green": 410,
     "Grey": 430,
-    "RecipeID": 1,
+    "RecipeID": 35190,
     "Source": "Drop"
   },
   "Primal-Attuned Goggles": {
@@ -3681,7 +3690,7 @@
     "Yellow": 390,
     "Green": 410,
     "Grey": 430,
-    "RecipeID": 1,
+    "RecipeID": 35192,
     "Source": "Drop"
   },
   "Annihilator Holo-Gogs": {
@@ -3699,7 +3708,7 @@
     "Yellow": 390,
     "Green": 410,
     "Grey": 430,
-    "RecipeID": 1,
+    "RecipeID": 35186,
     "Source": "Drop"
   },
   "Lightning Etched Specs": {
@@ -3716,7 +3725,7 @@
     "Yellow": 390,
     "Green": 410,
     "Grey": 430,
-    "RecipeID": 1,
+    "RecipeID": 35193,
     "Source": "Drop"
   },
   "Surestrike Goggles v3.0": {
@@ -3732,7 +3741,7 @@
     "Yellow": 390,
     "Green": 410,
     "Grey": 430,
-    "RecipeID": 1,
+    "RecipeID": 35194,
     "Source": "Drop"
   },
   "Mayhem Projection Goggles": {
@@ -3748,6 +3757,7 @@
     "Yellow": 390,
     "Green": 410,
     "Grey": 430,
+    "RecipeID": 35195,
     "Source": "Trainer"
   },
   "Hard Khorium Goggles": {
@@ -3764,7 +3774,7 @@
     "Yellow": 390,
     "Green": 410,
     "Grey": 430,
-    "RecipeID": 1,
+    "RecipeID": 35196,
     "Source": "Drop"
   },
   "Quad Deathblow X44 Goggles": {
@@ -3780,7 +3790,7 @@
     "Yellow": 390,
     "Green": 410,
     "Grey": 430,
-    "RecipeID": 1,
+    "RecipeID": 35197,
     "Source": "Drop"
   },
   "Rocket Boots Xtreme Lite": {
@@ -3797,7 +3807,7 @@
     "Yellow": 365,
     "Green": 375,
     "Grey": 385,
-    "RecipeID": 1,
+    "RecipeID": 35582,
     "Source": "Drop"
   },
   "Volatile Blasting Trigger": {
@@ -3918,7 +3928,6 @@
     "Yellow": 415,
     "Green": 417,
     "Grey": 420,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Handful of Cobalt Bolts": {
@@ -4387,8 +4396,8 @@
     "Yellow": 480,
     "Green": 485,
     "Grey": 490,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 44502,
+    "Source": "Reputation"
   },
   "Mekgineer's Chopper": {
     "ID": 60867,
@@ -4406,8 +4415,8 @@
     "Yellow": 480,
     "Green": 485,
     "Grey": 490,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 44503,
+    "Source": "Reputation"
   },
   "Nesingwary 4000": {
     "ID": 60874,
@@ -4560,6 +4569,7 @@
     "Yellow": 480,
     "Green": 485,
     "Grey": 490,
+    "RecipeID": 49050,
     "Source": "Trainer"
   },
   "Shatter Rounds": {
@@ -4573,6 +4583,7 @@
     "Yellow": 450,
     "Green": 450,
     "Grey": 460,
+    "RecipeID": 52022,
     "Source": "Trainer"
   },
   "Iceblade Arrow": {
@@ -4586,6 +4597,7 @@
     "Yellow": 450,
     "Green": 450,
     "Grey": 460,
+    "RecipeID": 52023,
     "Source": "Trainer"
   }
 }

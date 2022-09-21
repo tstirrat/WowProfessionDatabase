@@ -1,5 +1,7 @@
 import { WHItemMap, WHSpell } from "../types";
 
+export { recipes } from "./tailoring_recipes";
+
 export const items: WHItemMap = {
   2589: {
     name_enus: "Linen Cloth",

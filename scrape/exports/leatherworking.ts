@@ -1,5 +1,7 @@
 import { WHItemMap, WHSpell } from "../types";
 
+export { recipes } from "./leatherworking_recipes";
+
 export const items: WHItemMap = {
   2934: {
     name_enus: "Ruined Leather Scraps",

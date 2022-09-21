@@ -104,7 +104,7 @@
     "Yellow": 120,
     "Green": 140,
     "Grey": 160,
-    "RecipeID": 1,
+    "RecipeID": 2881,
     "Source": "Drop"
   },
   "Rough Bronze Leggings": {
@@ -160,7 +160,7 @@
     "Yellow": 160,
     "Green": 175,
     "Grey": 190,
-    "RecipeID": 1,
+    "RecipeID": 5578,
     "Source": "Drop"
   },
   "Heavy Sharpening Stone": {
@@ -391,7 +391,7 @@
     "Yellow": 155,
     "Green": 170,
     "Grey": 185,
-    "RecipeID": 1,
+    "RecipeID": 2883,
     "Source": "Drop"
   },
   "Heavy Bronze Mace": {
@@ -428,7 +428,7 @@
     "Yellow": 175,
     "Green": 190,
     "Grey": 205,
-    "RecipeID": 1,
+    "RecipeID": 3608,
     "Source": "Drop"
   },
   "Copper Chain Boots": {
@@ -469,7 +469,7 @@
     "Yellow": 75,
     "Green": 95,
     "Grey": 115,
-    "RecipeID": 1,
+    "RecipeID": 3609,
     "Source": "Drop"
   },
   "Runed Copper Gauntlets": {
@@ -514,7 +514,7 @@
     "Yellow": 100,
     "Green": 120,
     "Grey": 140,
-    "RecipeID": 1,
+    "RecipeID": 3610,
     "Source": "Drop"
   },
   "Coarse Grinding Stone": {
@@ -557,7 +557,7 @@
     "Yellow": 155,
     "Green": 170,
     "Grey": 185,
-    "RecipeID": 1,
+    "RecipeID": 2882,
     "Source": "Drop"
   },
   "Silvered Bronze Boots": {
@@ -603,7 +603,7 @@
     "Yellow": 175,
     "Green": 190,
     "Grey": 205,
-    "RecipeID": 1,
+    "RecipeID": 3611,
     "Source": "Drop"
   },
   "Green Iron Gauntlets": {
@@ -620,7 +620,7 @@
     "Yellow": 180,
     "Green": 195,
     "Grey": 210,
-    "RecipeID": 1,
+    "RecipeID": 3612,
     "Source": "Drop"
   },
   "Heavy Grinding Stone": {
@@ -668,7 +668,7 @@
     "Yellow": 185,
     "Green": 197,
     "Grey": 210,
-    "RecipeID": 1,
+    "RecipeID": 12162,
     "Source": "Vendor"
   },
   "Jade Serpentblade": {
@@ -686,7 +686,7 @@
     "Yellow": 200,
     "Green": 212,
     "Grey": 225,
-    "RecipeID": 1,
+    "RecipeID": 3866,
     "Source": "Drop"
   },
   "Solid Iron Maul": {
@@ -704,7 +704,7 @@
     "Yellow": 180,
     "Green": 192,
     "Grey": 205,
-    "RecipeID": 1,
+    "RecipeID": 10858,
     "Source": "Vendor"
   },
   "Golden Iron Destroyer": {
@@ -723,7 +723,7 @@
     "Yellow": 195,
     "Green": 207,
     "Grey": 220,
-    "RecipeID": 1,
+    "RecipeID": 3867,
     "Source": "Drop"
   },
   "Moonsteel Broadsword": {
@@ -741,7 +741,7 @@
     "Yellow": 205,
     "Green": 217,
     "Grey": 230,
-    "RecipeID": 1,
+    "RecipeID": 12163,
     "Source": "Vendor"
   },
   "Frost Tiger Blade": {
@@ -757,7 +757,7 @@
     "Yellow": 225,
     "Green": 237,
     "Grey": 250,
-    "RecipeID": 1,
+    "RecipeID": 3868,
     "Source": "Drop"
   },
   "Massive Iron Axe": {
@@ -775,7 +775,7 @@
     "Yellow": 210,
     "Green": 222,
     "Grey": 235,
-    "RecipeID": 1,
+    "RecipeID": 12164,
     "Source": "Vendor"
   },
   "Shadow Crescent Axe": {
@@ -791,7 +791,7 @@
     "Yellow": 225,
     "Green": 237,
     "Grey": 250,
-    "RecipeID": 1,
+    "RecipeID": 3869,
     "Source": "Drop"
   },
   "Green Iron Bracers": {
@@ -836,7 +836,7 @@
     "Yellow": 215,
     "Green": 227,
     "Grey": 240,
-    "RecipeID": 1,
+    "RecipeID": 6047,
     "Source": "Vendor"
   },
   "Green Iron Shoulders": {
@@ -852,7 +852,7 @@
     "Yellow": 185,
     "Green": 197,
     "Grey": 210,
-    "RecipeID": 1,
+    "RecipeID": 3870,
     "Source": "Drop"
   },
   "Golden Scale Shoulders": {
@@ -868,7 +868,7 @@
     "Yellow": 200,
     "Green": 212,
     "Grey": 225,
-    "RecipeID": 1,
+    "RecipeID": 3871,
     "Source": "Drop"
   },
   "Green Iron Leggings": {
@@ -899,7 +899,7 @@
     "Yellow": 195,
     "Green": 207,
     "Grey": 220,
-    "RecipeID": 1,
+    "RecipeID": 3872,
     "Source": "Drop"
   },
   "Green Iron Hauberk": {
@@ -932,7 +932,7 @@
     "Yellow": 220,
     "Green": 232,
     "Grey": 245,
-    "RecipeID": 1,
+    "RecipeID": 3873,
     "Source": "Drop"
   },
   "Polished Steel Boots": {
@@ -949,7 +949,7 @@
     "Yellow": 210,
     "Green": 222,
     "Grey": 235,
-    "RecipeID": 1,
+    "RecipeID": 3874,
     "Source": "Drop"
   },
   "Golden Scale Boots": {
@@ -965,7 +965,7 @@
     "Yellow": 225,
     "Green": 237,
     "Grey": 250,
-    "RecipeID": 1,
+    "RecipeID": 3875,
     "Source": "Drop"
   },
   "Pearl-handled Dagger": {
@@ -999,7 +999,7 @@
     "Yellow": 170,
     "Green": 185,
     "Grey": 200,
-    "RecipeID": 1,
+    "RecipeID": 5543,
     "Source": "Drop"
   },
   "Iron Shield Spike": {
@@ -1014,7 +1014,7 @@
     "Yellow": 180,
     "Green": 195,
     "Grey": 210,
-    "RecipeID": 1,
+    "RecipeID": 6044,
     "Source": "Drop"
   },
   "Iron Counterweight": {
@@ -1030,7 +1030,7 @@
     "Yellow": 190,
     "Green": 202,
     "Grey": 215,
-    "RecipeID": 1,
+    "RecipeID": 6045,
     "Source": "Drop"
   },
   "Golden Scale Bracers": {
@@ -1060,7 +1060,7 @@
     "Yellow": 215,
     "Green": 227,
     "Grey": 240,
-    "RecipeID": 1,
+    "RecipeID": 6046,
     "Source": "Drop"
   },
   "Heavy Copper Maul": {
@@ -1119,7 +1119,7 @@
     "Yellow": 140,
     "Green": 160,
     "Grey": 180,
-    "RecipeID": 1,
+    "RecipeID": 6735,
     "Source": "Drop"
   },
   "Iron Buckle": {
@@ -1164,7 +1164,7 @@
     "Yellow": 185,
     "Green": 197,
     "Grey": 210,
-    "RecipeID": 1,
+    "RecipeID": 7978,
     "Source": "Drop"
   },
   "Barbaric Iron Breastplate": {
@@ -1179,7 +1179,7 @@
     "Yellow": 185,
     "Green": 197,
     "Grey": 210,
-    "RecipeID": 1,
+    "RecipeID": 7979,
     "Source": "Drop"
   },
   "Barbaric Iron Helm": {
@@ -1195,7 +1195,7 @@
     "Yellow": 200,
     "Green": 212,
     "Grey": 225,
-    "RecipeID": 1,
+    "RecipeID": 7980,
     "Source": "Drop"
   },
   "Barbaric Iron Boots": {
@@ -1211,7 +1211,7 @@
     "Yellow": 205,
     "Green": 217,
     "Grey": 230,
-    "RecipeID": 1,
+    "RecipeID": 7981,
     "Source": "Drop"
   },
   "Barbaric Iron Gloves": {
@@ -1227,7 +1227,7 @@
     "Yellow": 210,
     "Green": 222,
     "Grey": 235,
-    "RecipeID": 1,
+    "RecipeID": 7982,
     "Source": "Drop"
   },
   "Steel Breastplate": {
@@ -1336,7 +1336,7 @@
     "Yellow": 230,
     "Green": 240,
     "Grey": 250,
-    "RecipeID": 1,
+    "RecipeID": 7975,
     "Source": "Drop"
   },
   "Steel Plate Helm": {
@@ -1365,7 +1365,7 @@
     "Yellow": 235,
     "Green": 245,
     "Grey": 255,
-    "RecipeID": 1,
+    "RecipeID": 7995,
     "Source": "Vendor"
   },
   "Mithril Shield Spike": {
@@ -1381,7 +1381,7 @@
     "Yellow": 235,
     "Green": 245,
     "Grey": 255,
-    "RecipeID": 1,
+    "RecipeID": 7976,
     "Source": "Drop"
   },
   "Ornate Mithril Pants": {
@@ -1397,7 +1397,7 @@
     "Yellow": 240,
     "Green": 250,
     "Grey": 260,
-    "RecipeID": 1,
+    "RecipeID": 7983,
     "Source": "Drop"
   },
   "Ornate Mithril Gloves": {
@@ -1414,7 +1414,7 @@
     "Yellow": 240,
     "Green": 250,
     "Grey": 260,
-    "RecipeID": 1,
+    "RecipeID": 7984,
     "Source": "Drop"
   },
   "Ornate Mithril Shoulder": {
@@ -1430,7 +1430,7 @@
     "Yellow": 245,
     "Green": 255,
     "Grey": 265,
-    "RecipeID": 1,
+    "RecipeID": 7985,
     "Source": "Drop"
   },
   "Truesilver Gauntlets": {
@@ -1463,6 +1463,7 @@
     "Yellow": 250,
     "Green": 260,
     "Grey": 270,
+    "RecipeID": 7994,
     "Source": "Trainer"
   },
   "Heavy Mithril Breastplate": {
@@ -1504,7 +1505,7 @@
     "Yellow": 255,
     "Green": 265,
     "Grey": 275,
-    "RecipeID": 1,
+    "RecipeID": 7989,
     "Source": "Drop"
   },
   "Mithril Scale Shoulders": {
@@ -1519,7 +1520,7 @@
     "Yellow": 255,
     "Green": 265,
     "Grey": 275,
-    "RecipeID": 1,
+    "RecipeID": 7991,
     "Source": "Drop"
   },
   "Heavy Mithril Boots": {
@@ -1548,7 +1549,7 @@
     "Yellow": 255,
     "Green": 265,
     "Grey": 275,
-    "RecipeID": 1,
+    "RecipeID": 7990,
     "Source": "Drop"
   },
   "Ornate Mithril Breastplate": {
@@ -1565,6 +1566,7 @@
     "Yellow": 260,
     "Green": 270,
     "Grey": 280,
+    "RecipeID": 7986,
     "Source": "Trainer"
   },
   "Truesilver Breastplate": {
@@ -1599,6 +1601,7 @@
     "Yellow": 265,
     "Green": 275,
     "Grey": 285,
+    "RecipeID": 7988,
     "Source": "Trainer"
   },
   "Ornate Mithril Helm": {
@@ -1614,6 +1617,7 @@
     "Yellow": 265,
     "Green": 275,
     "Grey": 285,
+    "RecipeID": 7987,
     "Source": "Trainer"
   },
   "Copper Claymore": {
@@ -1707,7 +1711,7 @@
     "Yellow": 245,
     "Green": 257,
     "Grey": 270,
-    "RecipeID": 1,
+    "RecipeID": 7992,
     "Source": "Drop"
   },
   "Wicked Mithril Blade": {
@@ -1724,7 +1728,7 @@
     "Yellow": 250,
     "Green": 262,
     "Grey": 275,
-    "RecipeID": 1,
+    "RecipeID": 8029,
     "Source": "Drop"
   },
   "Big Black Mace": {
@@ -1779,7 +1783,7 @@
     "Yellow": 265,
     "Green": 277,
     "Grey": 290,
-    "RecipeID": 1,
+    "RecipeID": 7993,
     "Source": "Drop"
   },
   "Phantom Blade": {
@@ -1815,7 +1819,7 @@
     "Yellow": 270,
     "Green": 282,
     "Grey": 295,
-    "RecipeID": 1,
+    "RecipeID": 8028,
     "Source": "Drop"
   },
   "Blight": {
@@ -1850,7 +1854,7 @@
     "Yellow": 280,
     "Green": 292,
     "Grey": 305,
-    "RecipeID": 1,
+    "RecipeID": 8030,
     "Source": "Vendor"
   },
   "Truesilver Champion": {
@@ -1884,7 +1888,7 @@
     "Yellow": 225,
     "Green": 237,
     "Grey": 250,
-    "RecipeID": 1,
+    "RecipeID": 10713,
     "Source": "Drop"
   },
   "Golden Scale Gauntlets": {
@@ -1900,7 +1904,7 @@
     "Yellow": 225,
     "Green": 235,
     "Grey": 245,
-    "RecipeID": 1,
+    "RecipeID": 9367,
     "Source": "Drop"
   },
   "Silvered Bronze Leggings": {
@@ -1916,7 +1920,7 @@
     "Yellow": 180,
     "Green": 192,
     "Grey": 205,
-    "RecipeID": 1,
+    "RecipeID": 10424,
     "Source": "Drop"
   },
   "Rough Copper Vest": {
@@ -1972,7 +1976,7 @@
     "Yellow": 285,
     "Green": 295,
     "Grey": 305,
-    "RecipeID": 1,
+    "RecipeID": 11610,
     "Source": "Drop"
   },
   "Dark Iron Mail": {
@@ -1987,7 +1991,7 @@
     "Yellow": 290,
     "Green": 300,
     "Grey": 310,
-    "RecipeID": 1,
+    "RecipeID": 11614,
     "Source": "Drop"
   },
   "Dark Iron Sunderer": {
@@ -2002,7 +2006,7 @@
     "Yellow": 295,
     "Green": 305,
     "Grey": 315,
-    "RecipeID": 1,
+    "RecipeID": 11611,
     "Source": "Drop"
   },
   "Dark Iron Shoulders": {
@@ -2017,7 +2021,7 @@
     "Yellow": 300,
     "Green": 310,
     "Grey": 320,
-    "RecipeID": 1,
+    "RecipeID": 11615,
     "Source": "Drop"
   },
   "Dark Iron Plate": {
@@ -2032,7 +2036,7 @@
     "Yellow": 305,
     "Green": 315,
     "Grey": 325,
-    "RecipeID": 1,
+    "RecipeID": 11612,
     "Source": "Drop"
   },
   "Glinting Steel Dagger": {
@@ -2066,7 +2070,7 @@
     "Yellow": 215,
     "Green": 227,
     "Grey": 240,
-    "RecipeID": 1,
+    "RecipeID": 12261,
     "Source": "Drop"
   },
   "Dense Grinding Stone": {
@@ -2121,6 +2125,7 @@
     "Yellow": 270,
     "Green": 280,
     "Grey": 290,
+    "RecipeID": 12682,
     "Source": "Trainer"
   },
   "Thorium Belt": {
@@ -2134,6 +2139,7 @@
     "Yellow": 270,
     "Green": 280,
     "Grey": 290,
+    "RecipeID": 12683,
     "Source": "Trainer"
   },
   "Thorium Bracers": {
@@ -2147,6 +2153,7 @@
     "Yellow": 275,
     "Green": 285,
     "Grey": 295,
+    "RecipeID": 12684,
     "Source": "Trainer"
   },
   "Radiant Belt": {
@@ -2161,7 +2168,7 @@
     "Yellow": 280,
     "Green": 290,
     "Grey": 300,
-    "RecipeID": 1,
+    "RecipeID": 12685,
     "Source": "Drop"
   },
   "Imperial Plate Shoulders": {
@@ -2176,7 +2183,7 @@
     "Yellow": 285,
     "Green": 295,
     "Grey": 305,
-    "RecipeID": 1,
+    "RecipeID": 12687,
     "Source": "Drop"
   },
   "Imperial Plate Belt": {
@@ -2191,7 +2198,7 @@
     "Yellow": 285,
     "Green": 295,
     "Grey": 305,
-    "RecipeID": 1,
+    "RecipeID": 12688,
     "Source": "Drop"
   },
   "Radiant Breastplate": {
@@ -2207,7 +2214,7 @@
     "Yellow": 290,
     "Green": 300,
     "Grey": 310,
-    "RecipeID": 1,
+    "RecipeID": 12689,
     "Source": "Drop"
   },
   "Imperial Plate Bracers": {
@@ -2221,7 +2228,7 @@
     "Yellow": 290,
     "Green": 300,
     "Grey": 310,
-    "RecipeID": 1,
+    "RecipeID": 12690,
     "Source": "Drop"
   },
   "Wildthorn Mail": {
@@ -2239,7 +2246,7 @@
     "Yellow": 290,
     "Green": 300,
     "Grey": 310,
-    "RecipeID": 1,
+    "RecipeID": 12691,
     "Source": "Drop"
   },
   "Thorium Shield Spike": {
@@ -2255,7 +2262,7 @@
     "Yellow": 295,
     "Green": 305,
     "Grey": 315,
-    "RecipeID": 1,
+    "RecipeID": 12692,
     "Source": "Drop"
   },
   "Thorium Boots": {
@@ -2270,6 +2277,7 @@
     "Yellow": 300,
     "Green": 310,
     "Grey": 320,
+    "RecipeID": 12693,
     "Source": "Trainer"
   },
   "Thorium Helm": {
@@ -2284,6 +2292,7 @@
     "Yellow": 300,
     "Green": 310,
     "Grey": 320,
+    "RecipeID": 12694,
     "Source": "Trainer"
   },
   "Radiant Gloves": {
@@ -2298,7 +2307,7 @@
     "Yellow": 305,
     "Green": 315,
     "Grey": 325,
-    "RecipeID": 1,
+    "RecipeID": 12695,
     "Source": "Drop"
   },
   "Fiery Plate Gauntlets": {
@@ -2315,7 +2324,7 @@
     "Yellow": 310,
     "Green": 320,
     "Grey": 330,
-    "RecipeID": 1,
+    "RecipeID": 12699,
     "Source": "Drop"
   },
   "Radiant Boots": {
@@ -2330,7 +2339,7 @@
     "Yellow": 310,
     "Green": 320,
     "Grey": 330,
-    "RecipeID": 1,
+    "RecipeID": 12697,
     "Source": "Drop"
   },
   "Imperial Plate Boots": {
@@ -2344,7 +2353,7 @@
     "Yellow": 315,
     "Green": 325,
     "Grey": 335,
-    "RecipeID": 1,
+    "RecipeID": 12700,
     "Source": "Drop"
   },
   "Imperial Plate Helm": {
@@ -2359,7 +2368,7 @@
     "Yellow": 315,
     "Green": 325,
     "Grey": 335,
-    "RecipeID": 1,
+    "RecipeID": 12701,
     "Source": "Drop"
   },
   "Radiant Circlet": {
@@ -2374,7 +2383,7 @@
     "Yellow": 315,
     "Green": 325,
     "Grey": 335,
-    "RecipeID": 1,
+    "RecipeID": 12702,
     "Source": "Drop"
   },
   "Dawnbringer Shoulders": {
@@ -2391,7 +2400,7 @@
     "Yellow": 310,
     "Green": 320,
     "Grey": 330,
-    "RecipeID": 1,
+    "RecipeID": 12698,
     "Source": "Drop"
   },
   "Storm Gauntlets": {
@@ -2408,7 +2417,7 @@
     "Yellow": 315,
     "Green": 325,
     "Grey": 335,
-    "RecipeID": 1,
+    "RecipeID": 12703,
     "Source": "Vendor"
   },
   "Thorium Leggings": {
@@ -2422,6 +2431,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
+    "RecipeID": 12704,
     "Source": "Trainer"
   },
   "Imperial Plate Chest": {
@@ -2435,7 +2445,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 12705,
     "Source": "Drop"
   },
   "Runic Plate Shoulders": {
@@ -2451,7 +2461,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 12706,
     "Source": "Drop"
   },
   "Runic Plate Boots": {
@@ -2467,7 +2477,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 12707,
     "Source": "Drop"
   },
   "Demon Forged Breastplate": {
@@ -2484,7 +2494,7 @@
     "Yellow": 305,
     "Green": 315,
     "Grey": 325,
-    "RecipeID": 1,
+    "RecipeID": 12696,
     "Source": "Drop"
   },
   "Whitesoul Helm": {
@@ -2502,7 +2512,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 12711,
     "Source": "Drop"
   },
   "Radiant Leggings": {
@@ -2517,7 +2527,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 12713,
     "Source": "Drop"
   },
   "Runic Plate Helm": {
@@ -2534,7 +2544,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 12714,
     "Source": "Drop"
   },
   "Helm of the Great Chief": {
@@ -2551,7 +2561,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 12716,
     "Source": "Drop"
   },
   "Lionheart Helm": {
@@ -2568,7 +2578,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 12717,
     "Source": "Drop"
   },
   "Imperial Plate Leggings": {
@@ -2582,7 +2592,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 12715,
     "Source": "Drop"
   },
   "Runic Breastplate": {
@@ -2598,7 +2608,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 12718,
     "Source": "Drop"
   },
   "Runic Plate Leggings": {
@@ -2614,7 +2624,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 12719,
     "Source": "Drop"
   },
   "Stronghold Gauntlets": {
@@ -2632,7 +2642,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 12720,
     "Source": "Drop"
   },
   "Enchanted Thorium Helm": {
@@ -2650,7 +2660,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 12725,
     "Source": "Drop"
   },
   "Enchanted Thorium Leggings": {
@@ -2668,7 +2678,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 12726,
     "Source": "Drop"
   },
   "Enchanted Thorium Breastplate": {
@@ -2687,7 +2697,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 12727,
     "Source": "Drop"
   },
   "Invulnerable Mail": {
@@ -2704,7 +2714,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 12728,
     "Source": "Drop"
   },
   "Ornate Thorium Handaxe": {
@@ -2721,6 +2731,7 @@
     "Yellow": 300,
     "Green": 312,
     "Grey": 325,
+    "RecipeID": 12819,
     "Source": "Trainer"
   },
   "Dawn's Edge": {
@@ -2739,7 +2750,7 @@
     "Yellow": 300,
     "Green": 312,
     "Grey": 325,
-    "RecipeID": 1,
+    "RecipeID": 12821,
     "Source": "Drop"
   },
   "Huge Thorium Battleaxe": {
@@ -2755,6 +2766,7 @@
     "Yellow": 305,
     "Green": 317,
     "Grey": 330,
+    "RecipeID": 12823,
     "Source": "Trainer"
   },
   "Enchanted Battlehammer": {
@@ -2772,7 +2784,7 @@
     "Yellow": 305,
     "Green": 317,
     "Grey": 330,
-    "RecipeID": 1,
+    "RecipeID": 12824,
     "Source": "Drop"
   },
   "Blazing Rapier": {
@@ -2790,7 +2802,7 @@
     "Yellow": 305,
     "Green": 317,
     "Grey": 330,
-    "RecipeID": 1,
+    "RecipeID": 12825,
     "Source": "Drop"
   },
   "Serenity": {
@@ -2809,7 +2821,7 @@
     "Yellow": 310,
     "Green": 322,
     "Grey": 335,
-    "RecipeID": 1,
+    "RecipeID": 12827,
     "Source": "Drop"
   },
   "Volcanic Hammer": {
@@ -2826,7 +2838,7 @@
     "Yellow": 315,
     "Green": 327,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 12828,
     "Source": "Drop"
   },
   "Corruption": {
@@ -2846,7 +2858,7 @@
     "Yellow": 315,
     "Green": 327,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 12830,
     "Source": "Drop"
   },
   "Hammer of the Titans": {
@@ -2864,7 +2876,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 12833,
     "Source": "Drop"
   },
   "Arcanite Champion": {
@@ -2883,7 +2895,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 12834,
     "Source": "Drop"
   },
   "Annihilator": {
@@ -2902,7 +2914,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 12835,
     "Source": "Drop"
   },
   "Frostguard": {
@@ -2921,7 +2933,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 12836,
     "Source": "Drop"
   },
   "Masterwork Stormhammer": {
@@ -2939,7 +2951,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 12837,
     "Source": "Drop"
   },
   "Arcanite Reaper": {
@@ -2955,7 +2967,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 12838,
     "Source": "Drop"
   },
   "Heartseeker": {
@@ -2975,7 +2987,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 12839,
     "Source": "Drop"
   },
   "Silver Skeleton Key": {
@@ -3061,7 +3073,7 @@
     "Yellow": 315,
     "Green": 325,
     "Grey": 335,
-    "RecipeID": 1,
+    "RecipeID": 17049,
     "Source": "Vendor"
   },
   "Fiery Chain Shoulders": {
@@ -3077,7 +3089,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 17053,
     "Source": "Vendor"
   },
   "Dark Iron Bracers": {
@@ -3093,7 +3105,7 @@
     "Yellow": 315,
     "Green": 325,
     "Grey": 335,
-    "RecipeID": 1,
+    "RecipeID": 17051,
     "Source": "Vendor"
   },
   "Dark Iron Leggings": {
@@ -3109,7 +3121,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 17052,
     "Source": "Vendor"
   },
   "Dark Iron Reaver": {
@@ -3126,7 +3138,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 17059,
     "Source": "Vendor"
   },
   "Dark Iron Destroyer": {
@@ -3143,7 +3155,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 17060,
     "Source": "Vendor"
   },
   "Sulfuron Hammer": {
@@ -3163,7 +3175,7 @@
     "Yellow": 325,
     "Green": 337,
     "Grey": 350,
-    "RecipeID": 1,
+    "RecipeID": 18592,
     "Source": "Drop"
   },
   "Edge of Winter": {
@@ -3181,7 +3193,7 @@
     "Yellow": 215,
     "Green": 227,
     "Grey": 240,
-    "RecipeID": 1,
+    "RecipeID": 17706,
     "Source": "Drop"
   },
   "Elemental Sharpening Stone": {
@@ -3196,7 +3208,7 @@
     "Yellow": 300,
     "Green": 310,
     "Grey": 320,
-    "RecipeID": 1,
+    "RecipeID": 18264,
     "Source": "Drop"
   },
   "Heavy Timbermaw Belt": {
@@ -3212,8 +3224,8 @@
     "Yellow": 310,
     "Green": 320,
     "Grey": 330,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 19202,
+    "Source": "Reputation"
   },
   "Heavy Timbermaw Boots": {
     "ID": 23629,
@@ -3228,8 +3240,8 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 19204,
+    "Source": "Reputation"
   },
   "Girdle of the Dawn": {
     "ID": 23632,
@@ -3244,8 +3256,8 @@
     "Yellow": 310,
     "Green": 320,
     "Grey": 330,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 19203,
+    "Source": "Reputation"
   },
   "Gloves of the Dawn": {
     "ID": 23633,
@@ -3260,8 +3272,8 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 19205,
+    "Source": "Reputation"
   },
   "Dark Iron Helm": {
     "ID": 23636,
@@ -3276,7 +3288,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 19206,
     "Source": "Vendor"
   },
   "Dark Iron Gauntlets": {
@@ -3294,7 +3306,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 19207,
     "Source": "Vendor"
   },
   "Black Amnesty": {
@@ -3312,7 +3324,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 19208,
     "Source": "Vendor"
   },
   "Blackfury": {
@@ -3329,7 +3341,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 19209,
     "Source": "Vendor"
   },
   "Ebon Hand": {
@@ -3347,7 +3359,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 19210,
     "Source": "Vendor"
   },
   "Blackguard": {
@@ -3365,7 +3377,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 19211,
     "Source": "Vendor"
   },
   "Nightfall": {
@@ -3383,7 +3395,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 19212,
     "Source": "Vendor"
   },
   "Bloodsoul Breastplate": {
@@ -3399,8 +3411,8 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 19776,
+    "Source": "Reputation"
   },
   "Bloodsoul Shoulders": {
     "ID": 24137,
@@ -3415,8 +3427,8 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 19777,
+    "Source": "Reputation"
   },
   "Bloodsoul Gauntlets": {
     "ID": 24138,
@@ -3431,8 +3443,8 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 19778,
+    "Source": "Reputation"
   },
   "Darksoul Breastplate": {
     "ID": 24139,
@@ -3447,8 +3459,8 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 19779,
+    "Source": "Reputation"
   },
   "Darksoul Leggings": {
     "ID": 24140,
@@ -3463,8 +3475,8 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 19780,
+    "Source": "Reputation"
   },
   "Darksoul Shoulders": {
     "ID": 24141,
@@ -3479,8 +3491,8 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 19781,
+    "Source": "Reputation"
   },
   "Dark Iron Boots": {
     "ID": 24399,
@@ -3496,7 +3508,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 20040,
     "Source": "Vendor"
   },
   "Darkrune Gauntlets": {
@@ -3513,7 +3525,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 20553,
     "Source": "Drop"
   },
   "Darkrune Helm": {
@@ -3530,7 +3542,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 20555,
     "Source": "Drop"
   },
   "Darkrune Breastplate": {
@@ -3546,7 +3558,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 20554,
     "Source": "Drop"
   },
   "Heavy Obsidian Belt": {
@@ -3562,8 +3574,8 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 22209,
+    "Source": "Reputation"
   },
   "Jagged Obsidian Shield": {
     "ID": 27586,
@@ -3579,8 +3591,8 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 22219,
+    "Source": "Reputation"
   },
   "Thick Obsidian Breastplate": {
     "ID": 27587,
@@ -3597,7 +3609,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 22222,
     "Source": "Drop"
   },
   "Light Obsidian Belt": {
@@ -3612,8 +3624,8 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 22214,
+    "Source": "Reputation"
   },
   "Black Grasp of the Destroyer": {
     "ID": 27589,
@@ -3629,7 +3641,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 22220,
     "Source": "Drop"
   },
   "Obsidian Mail Tunic": {
@@ -3647,8 +3659,8 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 22221,
+    "Source": "Reputation"
   },
   "Titanic Leggings": {
     "ID": 27829,
@@ -3664,7 +3676,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 22388,
     "Source": "Drop"
   },
   "Persuader": {
@@ -3683,7 +3695,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 22390,
     "Source": "Drop"
   },
   "Sageblade": {
@@ -3700,7 +3712,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 22389,
     "Source": "Drop"
   },
   "Icebane Breastplate": {
@@ -3717,6 +3729,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
+    "RecipeID": 22703,
     "Source": "Trainer"
   },
   "Icebane Gauntlets": {
@@ -3733,6 +3746,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
+    "RecipeID": 22704,
     "Source": "Trainer"
   },
   "Icebane Bracers": {
@@ -3749,6 +3763,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
+    "RecipeID": 22705,
     "Source": "Trainer"
   },
   "Ironvine Breastplate": {
@@ -3765,8 +3780,8 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 22766,
+    "Source": "Reputation"
   },
   "Ironvine Gloves": {
     "ID": 28462,
@@ -3781,8 +3796,8 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 22767,
+    "Source": "Reputation"
   },
   "Ironvine Belt": {
     "ID": 28463,
@@ -3796,8 +3811,8 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 22768,
+    "Source": "Reputation"
   },
   "Fel Iron Plate Gloves": {
     "ID": 29545,
@@ -3966,7 +3981,7 @@
     "Yellow": 335,
     "Green": 345,
     "Grey": 355,
-    "RecipeID": 1,
+    "RecipeID": 23590,
     "Source": "Vendor"
   },
   "Adamantite Cleaver": {
@@ -3980,7 +3995,7 @@
     "Yellow": 340,
     "Green": 350,
     "Grey": 360,
-    "RecipeID": 1,
+    "RecipeID": 23591,
     "Source": "Vendor"
   },
   "Adamantite Dagger": {
@@ -3995,7 +4010,7 @@
     "Yellow": 340,
     "Green": 350,
     "Grey": 360,
-    "RecipeID": 1,
+    "RecipeID": 23592,
     "Source": "Vendor"
   },
   "Adamantite Rapier": {
@@ -4009,7 +4024,7 @@
     "Yellow": 345,
     "Green": 355,
     "Grey": 365,
-    "RecipeID": 1,
+    "RecipeID": 23593,
     "Source": "Vendor"
   },
   "Adamantite Plate Bracers": {
@@ -4025,7 +4040,7 @@
     "Yellow": 345,
     "Green": 355,
     "Grey": 365,
-    "RecipeID": 1,
+    "RecipeID": 23594,
     "Source": "Vendor"
   },
   "Adamantite Plate Gloves": {
@@ -4042,7 +4057,7 @@
     "Yellow": 345,
     "Green": 355,
     "Grey": 365,
-    "RecipeID": 1,
+    "RecipeID": 23595,
     "Source": "Vendor"
   },
   "Adamantite Breastplate": {
@@ -4058,7 +4073,7 @@
     "Yellow": 350,
     "Green": 360,
     "Grey": 370,
-    "RecipeID": 1,
+    "RecipeID": 23596,
     "Source": "Vendor"
   },
   "Enchanted Adamantite Belt": {
@@ -4074,8 +4089,8 @@
     "Yellow": 365,
     "Green": 375,
     "Grey": 385,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 23597,
+    "Source": "Reputation"
   },
   "Enchanted Adamantite Breastplate": {
     "ID": 29610,
@@ -4090,8 +4105,8 @@
     "Yellow": 370,
     "Green": 380,
     "Grey": 390,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 23599,
+    "Source": "Reputation"
   },
   "Enchanted Adamantite Boots": {
     "ID": 29611,
@@ -4106,8 +4121,8 @@
     "Yellow": 365,
     "Green": 375,
     "Grey": 385,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 23598,
+    "Source": "Reputation"
   },
   "Enchanted Adamantite Leggings": {
     "ID": 29613,
@@ -4122,8 +4137,8 @@
     "Yellow": 375,
     "Green": 385,
     "Grey": 395,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 23600,
+    "Source": "Reputation"
   },
   "Flamebane Bracers": {
     "ID": 29614,
@@ -4138,8 +4153,8 @@
     "Yellow": 360,
     "Green": 370,
     "Grey": 380,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 23601,
+    "Source": "Reputation"
   },
   "Flamebane Helm": {
     "ID": 29615,
@@ -4154,8 +4169,8 @@
     "Yellow": 365,
     "Green": 375,
     "Grey": 385,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 23602,
+    "Source": "Reputation"
   },
   "Flamebane Gloves": {
     "ID": 29616,
@@ -4170,8 +4185,8 @@
     "Yellow": 370,
     "Green": 380,
     "Grey": 390,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 23603,
+    "Source": "Reputation"
   },
   "Flamebane Breastplate": {
     "ID": 29617,
@@ -4186,8 +4201,8 @@
     "Yellow": 375,
     "Green": 385,
     "Grey": 395,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 23604,
+    "Source": "Reputation"
   },
   "Felsteel Gloves": {
     "ID": 29619,
@@ -4200,7 +4215,7 @@
     "Yellow": 370,
     "Green": 380,
     "Grey": 390,
-    "RecipeID": 1,
+    "RecipeID": 23605,
     "Source": "Drop"
   },
   "Felsteel Leggings": {
@@ -4214,7 +4229,7 @@
     "Yellow": 370,
     "Green": 380,
     "Grey": 390,
-    "RecipeID": 1,
+    "RecipeID": 23606,
     "Source": "Drop"
   },
   "Felsteel Helm": {
@@ -4228,7 +4243,7 @@
     "Yellow": 375,
     "Green": 385,
     "Grey": 395,
-    "RecipeID": 1,
+    "RecipeID": 23607,
     "Source": "Drop"
   },
   "Gauntlets of the Iron Tower": {
@@ -4245,7 +4260,7 @@
     "Yellow": 375,
     "Green": 385,
     "Grey": 395,
-    "RecipeID": 1,
+    "RecipeID": 23621,
     "Source": "Drop"
   },
   "Khorium Belt": {
@@ -4261,7 +4276,7 @@
     "Yellow": 370,
     "Green": 380,
     "Grey": 390,
-    "RecipeID": 1,
+    "RecipeID": 23608,
     "Source": "Drop"
   },
   "Khorium Pants": {
@@ -4277,7 +4292,7 @@
     "Yellow": 370,
     "Green": 380,
     "Grey": 390,
-    "RecipeID": 1,
+    "RecipeID": 23609,
     "Source": "Drop"
   },
   "Khorium Boots": {
@@ -4293,7 +4308,7 @@
     "Yellow": 375,
     "Green": 385,
     "Grey": 395,
-    "RecipeID": 1,
+    "RecipeID": 23610,
     "Source": "Drop"
   },
   "Ragesteel Gloves": {
@@ -4310,7 +4325,7 @@
     "Yellow": 375,
     "Green": 385,
     "Grey": 395,
-    "RecipeID": 1,
+    "RecipeID": 23611,
     "Source": "Drop"
   },
   "Ragesteel Helm": {
@@ -4327,7 +4342,7 @@
     "Yellow": 375,
     "Green": 385,
     "Grey": 395,
-    "RecipeID": 1,
+    "RecipeID": 23612,
     "Source": "Drop"
   },
   "Ragesteel Breastplate": {
@@ -4344,7 +4359,7 @@
     "Yellow": 380,
     "Green": 390,
     "Grey": 400,
-    "RecipeID": 1,
+    "RecipeID": 23613,
     "Source": "Drop"
   },
   "Swiftsteel Gloves": {
@@ -4361,7 +4376,7 @@
     "Yellow": 380,
     "Green": 390,
     "Grey": 400,
-    "RecipeID": 1,
+    "RecipeID": 23615,
     "Source": "Drop"
   },
   "Earthpeace Breastplate": {
@@ -4377,7 +4392,7 @@
     "Yellow": 380,
     "Green": 390,
     "Grey": 400,
-    "RecipeID": 1,
+    "RecipeID": 23617,
     "Source": "Drop"
   },
   "Fel Sharpening Stone": {
@@ -4406,8 +4421,8 @@
     "Yellow": 350,
     "Green": 355,
     "Grey": 360,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 23618,
+    "Source": "Reputation"
   },
   "Felsteel Shield Spike": {
     "ID": 29657,
@@ -4422,8 +4437,8 @@
     "Yellow": 370,
     "Green": 380,
     "Grey": 390,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 24002,
+    "Source": "Reputation"
   },
   "Felfury Gauntlets": {
     "ID": 29658,
@@ -4438,7 +4453,7 @@
     "Yellow": 375,
     "Green": 385,
     "Grey": 395,
-    "RecipeID": 1,
+    "RecipeID": 23620,
     "Source": "Drop"
   },
   "Steelgrip Gauntlets": {
@@ -4454,7 +4469,7 @@
     "Yellow": 375,
     "Green": 385,
     "Grey": 395,
-    "RecipeID": 1,
+    "RecipeID": 23622,
     "Source": "Drop"
   },
   "Storm Helm": {
@@ -4471,7 +4486,7 @@
     "Yellow": 375,
     "Green": 385,
     "Grey": 395,
-    "RecipeID": 1,
+    "RecipeID": 23623,
     "Source": "Drop"
   },
   "Helm of the Stalwart Defender": {
@@ -4488,7 +4503,7 @@
     "Yellow": 375,
     "Green": 385,
     "Grey": 395,
-    "RecipeID": 1,
+    "RecipeID": 23624,
     "Source": "Drop"
   },
   "Oathkeeper's Helm": {
@@ -4505,7 +4520,7 @@
     "Yellow": 375,
     "Green": 385,
     "Grey": 395,
-    "RecipeID": 1,
+    "RecipeID": 23625,
     "Source": "Drop"
   },
   "Black Felsteel Bracers": {
@@ -4521,7 +4536,7 @@
     "Yellow": 375,
     "Green": 385,
     "Grey": 395,
-    "RecipeID": 1,
+    "RecipeID": 23626,
     "Source": "Drop"
   },
   "Bracers of the Green Fortress": {
@@ -4537,7 +4552,7 @@
     "Yellow": 375,
     "Green": 385,
     "Grey": 395,
-    "RecipeID": 1,
+    "RecipeID": 23627,
     "Source": "Drop"
   },
   "Blessed Bracers": {
@@ -4554,7 +4569,7 @@
     "Yellow": 375,
     "Green": 385,
     "Grey": 395,
-    "RecipeID": 1,
+    "RecipeID": 23628,
     "Source": "Drop"
   },
   "Felsteel Longblade": {
@@ -4571,7 +4586,7 @@
     "Yellow": 375,
     "Green": 385,
     "Grey": 395,
-    "RecipeID": 1,
+    "RecipeID": 23629,
     "Source": "Drop"
   },
   "Khorium Champion": {
@@ -4588,7 +4603,7 @@
     "Yellow": 375,
     "Green": 385,
     "Grey": 395,
-    "RecipeID": 1,
+    "RecipeID": 23630,
     "Source": "Drop"
   },
   "Fel Edged Battleaxe": {
@@ -4605,7 +4620,7 @@
     "Yellow": 375,
     "Green": 385,
     "Grey": 395,
-    "RecipeID": 1,
+    "RecipeID": 23631,
     "Source": "Drop"
   },
   "Felsteel Reaper": {
@@ -4622,7 +4637,7 @@
     "Yellow": 375,
     "Green": 385,
     "Grey": 395,
-    "RecipeID": 1,
+    "RecipeID": 23632,
     "Source": "Drop"
   },
   "Runic Hammer": {
@@ -4639,7 +4654,7 @@
     "Yellow": 375,
     "Green": 385,
     "Grey": 395,
-    "RecipeID": 1,
+    "RecipeID": 23633,
     "Source": "Drop"
   },
   "Fel Hardened Maul": {
@@ -4656,7 +4671,7 @@
     "Yellow": 375,
     "Green": 385,
     "Grey": 395,
-    "RecipeID": 1,
+    "RecipeID": 23634,
     "Source": "Drop"
   },
   "Eternium Runed Blade": {
@@ -4674,7 +4689,7 @@
     "Yellow": 375,
     "Green": 385,
     "Grey": 395,
-    "RecipeID": 1,
+    "RecipeID": 23635,
     "Source": "Drop"
   },
   "Dirge": {
@@ -4691,7 +4706,7 @@
     "Yellow": 375,
     "Green": 385,
     "Grey": 395,
-    "RecipeID": 1,
+    "RecipeID": 23636,
     "Source": "Drop"
   },
   "Hand of Eternity": {
@@ -4709,7 +4724,7 @@
     "Yellow": 375,
     "Green": 385,
     "Grey": 395,
-    "RecipeID": 1,
+    "RecipeID": 23637,
     "Source": "Drop"
   },
   "Lesser Ward of Shielding": {
@@ -4723,7 +4738,7 @@
     "Yellow": 340,
     "Green": 345,
     "Grey": 350,
-    "RecipeID": 1,
+    "RecipeID": 23638,
     "Source": "Vendor"
   },
   "Greater Ward of Shielding": {
@@ -4737,7 +4752,7 @@
     "Yellow": 375,
     "Green": 375,
     "Grey": 375,
-    "RecipeID": 1,
+    "RecipeID": 23639,
     "Source": "Drop"
   },
   "Lesser Rune of Warding": {
@@ -4764,8 +4779,8 @@
     "Yellow": 350,
     "Green": 355,
     "Grey": 360,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 25526,
+    "Source": "Reputation"
   },
   "Fel Iron Rod": {
     "ID": 32655,
@@ -4791,7 +4806,7 @@
     "Yellow": 350,
     "Green": 355,
     "Grey": 360,
-    "RecipeID": 1,
+    "RecipeID": 25846,
     "Source": "Vendor"
   },
   "Eternium Rod": {
@@ -4805,7 +4820,7 @@
     "Yellow": 365,
     "Green": 370,
     "Grey": 375,
-    "RecipeID": 1,
+    "RecipeID": 25847,
     "Source": "Vendor"
   },
   "Nether Chain Shirt": {
@@ -5081,8 +5096,8 @@
     "Yellow": 350,
     "Green": 355,
     "Grey": 360,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 28632,
+    "Source": "Reputation"
   },
   "Thick Bronze Darts": {
     "ID": 34979,
@@ -5456,7 +5471,7 @@
     "Yellow": 385,
     "Green": 395,
     "Grey": 405,
-    "RecipeID": 1,
+    "RecipeID": 30321,
     "Source": "Drop"
   },
   "Red Belt of Battle": {
@@ -5472,7 +5487,7 @@
     "Yellow": 385,
     "Green": 395,
     "Grey": 405,
-    "RecipeID": 1,
+    "RecipeID": 30322,
     "Source": "Drop"
   },
   "Boots of the Protector": {
@@ -5488,7 +5503,7 @@
     "Yellow": 385,
     "Green": 395,
     "Grey": 405,
-    "RecipeID": 1,
+    "RecipeID": 30323,
     "Source": "Drop"
   },
   "Red Havoc Boots": {
@@ -5504,7 +5519,7 @@
     "Yellow": 385,
     "Green": 395,
     "Grey": 405,
-    "RecipeID": 1,
+    "RecipeID": 30324,
     "Source": "Drop"
   },
   "Wildguard Breastplate": {
@@ -5521,8 +5536,8 @@
     "Yellow": 385,
     "Green": 395,
     "Grey": 405,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 31390,
+    "Source": "Reputation"
   },
   "Wildguard Leggings": {
     "ID": 38475,
@@ -5538,8 +5553,8 @@
     "Yellow": 385,
     "Green": 395,
     "Grey": 405,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 31391,
+    "Source": "Reputation"
   },
   "Wildguard Helm": {
     "ID": 38476,
@@ -5555,8 +5570,8 @@
     "Yellow": 385,
     "Green": 395,
     "Grey": 405,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 31392,
+    "Source": "Reputation"
   },
   "Iceguard Breastplate": {
     "ID": 38477,
@@ -5572,8 +5587,8 @@
     "Yellow": 385,
     "Green": 395,
     "Grey": 405,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 31393,
+    "Source": "Reputation"
   },
   "Iceguard Leggings": {
     "ID": 38478,
@@ -5589,8 +5604,8 @@
     "Yellow": 385,
     "Green": 395,
     "Grey": 405,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 31394,
+    "Source": "Reputation"
   },
   "Iceguard Helm": {
     "ID": 38479,
@@ -5606,8 +5621,8 @@
     "Yellow": 385,
     "Green": 395,
     "Grey": 405,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 31395,
+    "Source": "Reputation"
   },
   "Shadesteel Sabots": {
     "ID": 40033,
@@ -5624,8 +5639,8 @@
     "Yellow": 385,
     "Green": 395,
     "Grey": 405,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 32441,
+    "Source": "Reputation"
   },
   "Shadesteel Bracers": {
     "ID": 40034,
@@ -5642,8 +5657,8 @@
     "Yellow": 385,
     "Green": 395,
     "Grey": 405,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 32442,
+    "Source": "Reputation"
   },
   "Shadesteel Greaves": {
     "ID": 40035,
@@ -5660,8 +5675,8 @@
     "Yellow": 385,
     "Green": 395,
     "Grey": 405,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 32443,
+    "Source": "Reputation"
   },
   "Shadesteel Girdle": {
     "ID": 40036,
@@ -5678,8 +5693,8 @@
     "Yellow": 385,
     "Green": 395,
     "Grey": 405,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 32444,
+    "Source": "Reputation"
   },
   "Swiftsteel Bracers": {
     "ID": 41132,
@@ -5695,7 +5710,7 @@
     "Yellow": 385,
     "Green": 395,
     "Grey": 405,
-    "RecipeID": 1,
+    "RecipeID": 35531,
     "Source": "Drop"
   },
   "Swiftsteel Shoulders": {
@@ -5712,7 +5727,7 @@
     "Yellow": 385,
     "Green": 395,
     "Grey": 405,
-    "RecipeID": 1,
+    "RecipeID": 35532,
     "Source": "Drop"
   },
   "Dawnsteel Bracers": {
@@ -5729,7 +5744,7 @@
     "Yellow": 385,
     "Green": 395,
     "Grey": 405,
-    "RecipeID": 1,
+    "RecipeID": 35529,
     "Source": "Drop"
   },
   "Dawnsteel Shoulders": {
@@ -5746,7 +5761,7 @@
     "Yellow": 385,
     "Green": 395,
     "Grey": 405,
-    "RecipeID": 1,
+    "RecipeID": 35530,
     "Source": "Drop"
   },
   "Ragesteel Shoulders": {
@@ -5763,7 +5778,7 @@
     "Yellow": 375,
     "Green": 385,
     "Grey": 395,
-    "RecipeID": 1,
+    "RecipeID": 33174,
     "Source": "Drop"
   },
   "Adamantite Weapon Chain": {
@@ -5778,7 +5793,7 @@
     "Yellow": 345,
     "Green": 350,
     "Grey": 355,
-    "RecipeID": 1,
+    "RecipeID": 35296,
     "Source": "Drop"
   },
   "Heavy Copper Longsword": {
@@ -5794,7 +5809,7 @@
     "Yellow": 75,
     "Green": 95,
     "Grey": 115,
-    "RecipeID": 1,
+    "RecipeID": 33792,
     "Source": "Drop"
   },
   "Hammer of Righteous Might": {
@@ -5811,7 +5826,7 @@
     "Yellow": 375,
     "Green": 385,
     "Grey": 395,
-    "RecipeID": 1,
+    "RecipeID": 33954,
     "Source": "Drop"
   },
   "Sunblessed Gauntlets": {
@@ -5828,7 +5843,7 @@
     "Yellow": 375,
     "Green": 392,
     "Grey": 410,
-    "RecipeID": 1,
+    "RecipeID": 35556,
     "Source": "Drop"
   },
   "Hard Khorium Battlefists": {
@@ -5846,7 +5861,7 @@
     "Yellow": 375,
     "Green": 392,
     "Grey": 410,
-    "RecipeID": 1,
+    "RecipeID": 35553,
     "Source": "Drop"
   },
   "Sunblessed Breastplate": {
@@ -5864,7 +5879,7 @@
     "Yellow": 375,
     "Green": 392,
     "Grey": 410,
-    "RecipeID": 1,
+    "RecipeID": 35555,
     "Source": "Drop"
   },
   "Hard Khorium Battleplate": {
@@ -5882,7 +5897,7 @@
     "Yellow": 375,
     "Green": 392,
     "Grey": 410,
-    "RecipeID": 1,
+    "RecipeID": 35554,
     "Source": "Drop"
   },
   "Cobalt Legplates": {
@@ -6204,6 +6219,7 @@
     "Yellow": 395,
     "Green": 400,
     "Grey": 405,
+    "RecipeID": 41124,
     "Source": "Trainer"
   },
   "Reinforced Cobalt Helm": {
@@ -6218,6 +6234,7 @@
     "Yellow": 405,
     "Green": 410,
     "Grey": 415,
+    "RecipeID": 41123,
     "Source": "Trainer"
   },
   "Reinforced Cobalt Legplates": {
@@ -6232,6 +6249,7 @@
     "Yellow": 410,
     "Green": 415,
     "Grey": 420,
+    "RecipeID": 41120,
     "Source": "Trainer"
   },
   "Reinforced Cobalt Chestpiece": {
@@ -6246,6 +6264,7 @@
     "Yellow": 415,
     "Green": 420,
     "Grey": 425,
+    "RecipeID": 41122,
     "Source": "Trainer"
   },
   "Saronite Protector": {
@@ -7332,8 +7351,8 @@
     "Yellow": 455,
     "Green": 460,
     "Grey": 465,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 44938,
+    "Source": "Reputation"
   },
   "Titansteel Spellblade": {
     "ID": 63182,
@@ -7362,7 +7381,7 @@
     "Yellow": 455,
     "Green": 465,
     "Grey": 475,
-    "RecipeID": 1,
+    "RecipeID": 45088,
     "Source": "Drop"
   },
   "Battlelord's Plate Boots": {
@@ -7377,7 +7396,7 @@
     "Yellow": 455,
     "Green": 465,
     "Grey": 475,
-    "RecipeID": 1,
+    "RecipeID": 45089,
     "Source": "Drop"
   },
   "Plate Girdle of Righteousness": {
@@ -7392,7 +7411,7 @@
     "Yellow": 455,
     "Green": 465,
     "Grey": 475,
-    "RecipeID": 1,
+    "RecipeID": 45090,
     "Source": "Drop"
   },
   "Treads of Destiny": {
@@ -7407,7 +7426,7 @@
     "Yellow": 455,
     "Green": 465,
     "Grey": 475,
-    "RecipeID": 1,
+    "RecipeID": 45091,
     "Source": "Drop"
   },
   "Indestructible Plate Girdle": {
@@ -7422,7 +7441,7 @@
     "Yellow": 455,
     "Green": 465,
     "Grey": 475,
-    "RecipeID": 1,
+    "RecipeID": 45092,
     "Source": "Drop"
   },
   "Spiked Deathdealers": {
@@ -7437,7 +7456,7 @@
     "Yellow": 455,
     "Green": 465,
     "Grey": 475,
-    "RecipeID": 1,
+    "RecipeID": 45093,
     "Source": "Drop"
   },
   "Breastplate of the White Knight": {
@@ -7454,7 +7473,7 @@
     "Yellow": 460,
     "Green": 467,
     "Grey": 475,
-    "RecipeID": 1,
+    "RecipeID": 47640,
     "Source": "Drop"
   },
   "Saronite Swordbreakers": {
@@ -7470,7 +7489,7 @@
     "Yellow": 460,
     "Green": 467,
     "Grey": 475,
-    "RecipeID": 1,
+    "RecipeID": 47641,
     "Source": "Drop"
   },
   "Titanium Razorplate": {
@@ -7486,7 +7505,7 @@
     "Yellow": 460,
     "Green": 467,
     "Grey": 475,
-    "RecipeID": 1,
+    "RecipeID": 47644,
     "Source": "Drop"
   },
   "Titanium Spikeguards": {
@@ -7502,7 +7521,7 @@
     "Yellow": 460,
     "Green": 467,
     "Grey": 475,
-    "RecipeID": 1,
+    "RecipeID": 47645,
     "Source": "Drop"
   },
   "Sunforged Breastplate": {
@@ -7518,7 +7537,7 @@
     "Yellow": 460,
     "Green": 467,
     "Grey": 475,
-    "RecipeID": 1,
+    "RecipeID": 47643,
     "Source": "Drop"
   },
   "Sunforged Bracers": {
@@ -7534,7 +7553,7 @@
     "Yellow": 460,
     "Green": 467,
     "Grey": 475,
-    "RecipeID": 1,
+    "RecipeID": 47642,
     "Source": "Drop"
   },
   "Puresteel Legplates": {
@@ -7550,6 +7569,7 @@
     "Yellow": 475,
     "Green": 487,
     "Grey": 500,
+    "RecipeID": 49969,
     "Source": "Trainer"
   },
   "Protectors of Life": {
@@ -7565,6 +7585,7 @@
     "Yellow": 475,
     "Green": 487,
     "Grey": 500,
+    "RecipeID": 49970,
     "Source": "Trainer"
   },
   "Legplates of Painful Death": {
@@ -7580,6 +7601,7 @@
     "Yellow": 475,
     "Green": 487,
     "Grey": 500,
+    "RecipeID": 49971,
     "Source": "Trainer"
   },
   "Hellfrozen Bonegrinders": {
@@ -7596,6 +7618,7 @@
     "Yellow": 475,
     "Green": 487,
     "Grey": 500,
+    "RecipeID": 49972,
     "Source": "Trainer"
   },
   "Pillars of Might": {
@@ -7611,6 +7634,7 @@
     "Yellow": 475,
     "Green": 487,
     "Grey": 500,
+    "RecipeID": 49973,
     "Source": "Trainer"
   },
   "Boots of Kingly Upheaval": {
@@ -7626,6 +7650,7 @@
     "Yellow": 475,
     "Green": 487,
     "Grey": 500,
+    "RecipeID": 49974,
     "Source": "Trainer"
   }
 }

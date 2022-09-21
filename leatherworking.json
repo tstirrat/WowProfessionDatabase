@@ -52,7 +52,7 @@
     "Yellow": 120,
     "Green": 135,
     "Grey": 150,
-    "RecipeID": 1,
+    "RecipeID": 2406,
     "Source": "Drop"
   },
   "Fine Leather Cloak": {
@@ -124,7 +124,7 @@
     "Yellow": 90,
     "Green": 105,
     "Grey": 120,
-    "RecipeID": 1,
+    "RecipeID": 2407,
     "Source": "Drop"
   },
   "Fine Leather Gloves": {
@@ -140,7 +140,7 @@
     "Yellow": 105,
     "Green": 120,
     "Grey": 135,
-    "RecipeID": 1,
+    "RecipeID": 2408,
     "Source": "Drop"
   },
   "Medium Armor Kit": {
@@ -215,7 +215,7 @@
     "Yellow": 125,
     "Green": 137,
     "Grey": 150,
-    "RecipeID": 1,
+    "RecipeID": 2409,
     "Source": "Drop"
   },
   "Light Leather": {
@@ -316,7 +316,7 @@
     "Yellow": 125,
     "Green": 137,
     "Grey": 150,
-    "RecipeID": 1,
+    "RecipeID": 4293,
     "Source": "Drop"
   },
   "Fine Leather Belt": {
@@ -361,7 +361,7 @@
     "Yellow": 155,
     "Green": 167,
     "Grey": 180,
-    "RecipeID": 1,
+    "RecipeID": 7360,
     "Source": "Drop"
   },
   "Dark Leather Belt": {
@@ -393,7 +393,7 @@
     "Yellow": 145,
     "Green": 157,
     "Grey": 170,
-    "RecipeID": 1,
+    "RecipeID": 4294,
     "Source": "Drop"
   },
   "Hillman's Shoulders": {
@@ -425,7 +425,7 @@
     "Yellow": 165,
     "Green": 177,
     "Grey": 190,
-    "RecipeID": 1,
+    "RecipeID": 4296,
     "Source": "Drop"
   },
   "Toughened Leather Gloves": {
@@ -458,7 +458,7 @@
     "Yellow": 170,
     "Green": 180,
     "Grey": 190,
-    "RecipeID": 1,
+    "RecipeID": 4297,
     "Source": "Drop"
   },
   "Green Leather Armor": {
@@ -474,7 +474,7 @@
     "Yellow": 175,
     "Green": 185,
     "Grey": 195,
-    "RecipeID": 1,
+    "RecipeID": 7613,
     "Source": "Vendor"
   },
   "Guardian Armor": {
@@ -491,7 +491,7 @@
     "Yellow": 195,
     "Green": 205,
     "Grey": 215,
-    "RecipeID": 1,
+    "RecipeID": 4299,
     "Source": "Drop"
   },
   "Green Leather Belt": {
@@ -525,7 +525,7 @@
     "Yellow": 190,
     "Green": 200,
     "Grey": 210,
-    "RecipeID": 1,
+    "RecipeID": 4298,
     "Source": "Drop"
   },
   "Green Leather Bracers": {
@@ -557,7 +557,7 @@
     "Yellow": 215,
     "Green": 225,
     "Grey": 235,
-    "RecipeID": 1,
+    "RecipeID": 4300,
     "Source": "Drop"
   },
   "Gem-studded Leather Belt": {
@@ -575,7 +575,7 @@
     "Yellow": 205,
     "Green": 215,
     "Grey": 225,
-    "RecipeID": 1,
+    "RecipeID": 14635,
     "Source": "Vendor"
   },
   "Barbaric Belt": {
@@ -594,7 +594,7 @@
     "Yellow": 220,
     "Green": 230,
     "Grey": 240,
-    "RecipeID": 1,
+    "RecipeID": 4301,
     "Source": "Drop"
   },
   "Heavy Armor Kit": {
@@ -666,7 +666,7 @@
     "Yellow": 185,
     "Green": 195,
     "Grey": 205,
-    "RecipeID": 1,
+    "RecipeID": 13287,
     "Source": "Vendor"
   },
   "Raptor Hide Belt": {
@@ -682,7 +682,7 @@
     "Yellow": 185,
     "Green": 195,
     "Grey": 205,
-    "RecipeID": 1,
+    "RecipeID": 13288,
     "Source": "Vendor"
   },
   "Kodo Hide Bag": {
@@ -698,7 +698,7 @@
     "Yellow": 70,
     "Green": 85,
     "Grey": 100,
-    "RecipeID": 1,
+    "RecipeID": 5083,
     "Source": "Drop"
   },
   "Barbaric Harness": {
@@ -729,7 +729,7 @@
     "Yellow": 120,
     "Green": 135,
     "Grey": 150,
-    "RecipeID": 1,
+    "RecipeID": 5786,
     "Source": "Vendor"
   },
   "Murloc Scale Breastplate": {
@@ -746,7 +746,7 @@
     "Yellow": 125,
     "Green": 140,
     "Grey": 155,
-    "RecipeID": 1,
+    "RecipeID": 5787,
     "Source": "Vendor"
   },
   "Thick Murloc Armor": {
@@ -763,7 +763,7 @@
     "Yellow": 190,
     "Green": 200,
     "Grey": 210,
-    "RecipeID": 1,
+    "RecipeID": 5788,
     "Source": "Vendor"
   },
   "Murloc Scale Bracers": {
@@ -780,7 +780,7 @@
     "Yellow": 210,
     "Green": 220,
     "Grey": 230,
-    "RecipeID": 1,
+    "RecipeID": 5789,
     "Source": "Vendor"
   },
   "Handstitched Leather Vest": {
@@ -810,7 +810,7 @@
     "Yellow": 130,
     "Green": 142,
     "Grey": 155,
-    "RecipeID": 1,
+    "RecipeID": 5972,
     "Source": "Drop"
   },
   "Dark Leather Pants": {
@@ -856,7 +856,7 @@
     "Yellow": 190,
     "Green": 200,
     "Grey": 210,
-    "RecipeID": 1,
+    "RecipeID": 5973,
     "Source": "Vendor"
   },
   "Barbaric Shoulders": {
@@ -887,7 +887,7 @@
     "Yellow": 205,
     "Green": 215,
     "Grey": 225,
-    "RecipeID": 1,
+    "RecipeID": 5974,
     "Source": "Drop"
   },
   "Guardian Gloves": {
@@ -918,7 +918,7 @@
     "Yellow": 120,
     "Green": 135,
     "Grey": 150,
-    "RecipeID": 1,
+    "RecipeID": 6474,
     "Source": "Vendor"
   },
   "Deviate Scale Gloves": {
@@ -933,7 +933,7 @@
     "Yellow": 130,
     "Green": 142,
     "Grey": 155,
-    "RecipeID": 1,
+    "RecipeID": 6475,
     "Source": "Vendor"
   },
   "Deviate Scale Belt": {
@@ -949,7 +949,7 @@
     "Yellow": 140,
     "Green": 152,
     "Grey": 165,
-    "RecipeID": 1,
+    "RecipeID": 6476,
     "Source": "Drop"
   },
   "Moonglow Vest": {
@@ -966,7 +966,7 @@
     "Yellow": 115,
     "Green": 130,
     "Grey": 145,
-    "RecipeID": 1,
+    "RecipeID": 6710,
     "Source": "Drop"
   },
   "Handstitched Leather Cloak": {
@@ -1037,7 +1037,7 @@
     "Yellow": 65,
     "Green": 80,
     "Grey": 95,
-    "RecipeID": 1,
+    "RecipeID": 7288,
     "Source": "Drop"
   },
   "Light Leather Bracers": {
@@ -1082,7 +1082,7 @@
     "Yellow": 125,
     "Green": 137,
     "Grey": 150,
-    "RecipeID": 1,
+    "RecipeID": 7289,
     "Source": "Vendor"
   },
   "Red Whelp Gloves": {
@@ -1098,7 +1098,7 @@
     "Yellow": 145,
     "Green": 157,
     "Grey": 170,
-    "RecipeID": 1,
+    "RecipeID": 7290,
     "Source": "Vendor"
   },
   "Nimble Leather Gloves": {
@@ -1144,7 +1144,7 @@
     "Yellow": 160,
     "Green": 172,
     "Grey": 185,
-    "RecipeID": 1,
+    "RecipeID": 7361,
     "Source": "Vendor"
   },
   "Earthen Leather Shoulders": {
@@ -1160,7 +1160,7 @@
     "Yellow": 160,
     "Green": 172,
     "Grey": 185,
-    "RecipeID": 1,
+    "RecipeID": 7362,
     "Source": "Vendor"
   },
   "Pilferer's Gloves": {
@@ -1176,7 +1176,7 @@
     "Yellow": 165,
     "Green": 177,
     "Grey": 190,
-    "RecipeID": 1,
+    "RecipeID": 7363,
     "Source": "Drop"
   },
   "Heavy Earthen Gloves": {
@@ -1193,7 +1193,7 @@
     "Yellow": 170,
     "Green": 182,
     "Grey": 195,
-    "RecipeID": 1,
+    "RecipeID": 7364,
     "Source": "Drop"
   },
   "Heavy Quiver": {
@@ -1237,7 +1237,7 @@
     "Yellow": 185,
     "Green": 195,
     "Grey": 205,
-    "RecipeID": 1,
+    "RecipeID": 7449,
     "Source": "Drop"
   },
   "Dusky Leather Armor": {
@@ -1268,7 +1268,7 @@
     "Yellow": 195,
     "Green": 205,
     "Grey": 215,
-    "RecipeID": 1,
+    "RecipeID": 7450,
     "Source": "Drop"
   },
   "Frost Leather Cloak": {
@@ -1315,7 +1315,7 @@
     "Yellow": 210,
     "Green": 220,
     "Grey": 230,
-    "RecipeID": 1,
+    "RecipeID": 7451,
     "Source": "Vendor"
   },
   "Dusky Belt": {
@@ -1347,7 +1347,7 @@
     "Yellow": 220,
     "Green": 230,
     "Grey": 240,
-    "RecipeID": 1,
+    "RecipeID": 7452,
     "Source": "Drop"
   },
   "Swift Boots": {
@@ -1364,7 +1364,7 @@
     "Yellow": 220,
     "Green": 230,
     "Grey": 240,
-    "RecipeID": 1,
+    "RecipeID": 7453,
     "Source": "Drop"
   },
   "Cured Thick Hide": {
@@ -1408,7 +1408,7 @@
     "Yellow": 220,
     "Green": 230,
     "Grey": 240,
-    "RecipeID": 1,
+    "RecipeID": 8384,
     "Source": "Drop"
   },
   "Nightscape Tunic": {
@@ -1452,7 +1452,7 @@
     "Yellow": 225,
     "Green": 235,
     "Grey": 245,
-    "RecipeID": 1,
+    "RecipeID": 8385,
     "Source": "Vendor"
   },
   "Turtle Scale Breastplate": {
@@ -1483,7 +1483,7 @@
     "Yellow": 230,
     "Green": 240,
     "Grey": 250,
-    "RecipeID": 1,
+    "RecipeID": 8409,
     "Source": "Vendor"
   },
   "Turtle Scale Bracers": {
@@ -1514,7 +1514,7 @@
     "Yellow": 235,
     "Green": 245,
     "Grey": 255,
-    "RecipeID": 1,
+    "RecipeID": 8386,
     "Source": "Drop"
   },
   "Tough Scorpid Breastplate": {
@@ -1530,7 +1530,7 @@
     "Yellow": 240,
     "Green": 250,
     "Grey": 260,
-    "RecipeID": 1,
+    "RecipeID": 8395,
     "Source": "Drop"
   },
   "Wild Leather Shoulders": {
@@ -1546,7 +1546,7 @@
     "Yellow": 240,
     "Green": 250,
     "Grey": 260,
-    "RecipeID": 1,
+    "RecipeID": 8403,
     "Source": "Drop"
   },
   "Big Voodoo Mask": {
@@ -1562,7 +1562,7 @@
     "Yellow": 240,
     "Green": 250,
     "Grey": 260,
-    "RecipeID": 1,
+    "RecipeID": 8387,
     "Source": "Drop"
   },
   "Tough Scorpid Bracers": {
@@ -1578,7 +1578,7 @@
     "Yellow": 240,
     "Green": 250,
     "Grey": 260,
-    "RecipeID": 1,
+    "RecipeID": 8397,
     "Source": "Drop"
   },
   "Tough Scorpid Gloves": {
@@ -1594,7 +1594,7 @@
     "Yellow": 245,
     "Green": 255,
     "Grey": 265,
-    "RecipeID": 1,
+    "RecipeID": 8398,
     "Source": "Drop"
   },
   "Wild Leather Vest": {
@@ -1610,7 +1610,7 @@
     "Yellow": 245,
     "Green": 255,
     "Grey": 265,
-    "RecipeID": 1,
+    "RecipeID": 8404,
     "Source": "Drop"
   },
   "Wild Leather Helmet": {
@@ -1626,7 +1626,7 @@
     "Yellow": 245,
     "Green": 255,
     "Grey": 265,
-    "RecipeID": 1,
+    "RecipeID": 8405,
     "Source": "Drop"
   },
   "Nightscape Pants": {
@@ -1671,7 +1671,7 @@
     "Yellow": 255,
     "Green": 265,
     "Grey": 275,
-    "RecipeID": 1,
+    "RecipeID": 8399,
     "Source": "Drop"
   },
   "Turtle Scale Leggings": {
@@ -1716,7 +1716,7 @@
     "Yellow": 260,
     "Green": 270,
     "Grey": 280,
-    "RecipeID": 1,
+    "RecipeID": 8389,
     "Source": "Drop"
   },
   "Big Voodoo Cloak": {
@@ -1732,7 +1732,7 @@
     "Yellow": 260,
     "Green": 270,
     "Grey": 280,
-    "RecipeID": 1,
+    "RecipeID": 8390,
     "Source": "Drop"
   },
   "Tough Scorpid Shoulders": {
@@ -1748,7 +1748,7 @@
     "Yellow": 260,
     "Green": 270,
     "Grey": 280,
-    "RecipeID": 1,
+    "RecipeID": 8400,
     "Source": "Drop"
   },
   "Wild Leather Boots": {
@@ -1764,7 +1764,7 @@
     "Yellow": 265,
     "Green": 275,
     "Grey": 285,
-    "RecipeID": 1,
+    "RecipeID": 8406,
     "Source": "Drop"
   },
   "Tough Scorpid Leggings": {
@@ -1780,7 +1780,7 @@
     "Yellow": 265,
     "Green": 275,
     "Grey": 285,
-    "RecipeID": 1,
+    "RecipeID": 8401,
     "Source": "Drop"
   },
   "Tough Scorpid Helm": {
@@ -1796,7 +1796,7 @@
     "Yellow": 270,
     "Green": 280,
     "Grey": 290,
-    "RecipeID": 1,
+    "RecipeID": 8402,
     "Source": "Drop"
   },
   "Wild Leather Leggings": {
@@ -1812,7 +1812,7 @@
     "Yellow": 270,
     "Green": 280,
     "Grey": 290,
-    "RecipeID": 1,
+    "RecipeID": 8407,
     "Source": "Drop"
   },
   "Wild Leather Cloak": {
@@ -1828,7 +1828,7 @@
     "Yellow": 270,
     "Green": 280,
     "Grey": 290,
-    "RecipeID": 1,
+    "RecipeID": 8408,
     "Source": "Drop"
   },
   "Dragonscale Gauntlets": {
@@ -1987,7 +1987,7 @@
     "Yellow": 275,
     "Green": 285,
     "Grey": 295,
-    "RecipeID": 1,
+    "RecipeID": 15724,
     "Source": "Vendor"
   },
   "Wicked Leather Gauntlets": {
@@ -2003,7 +2003,7 @@
     "Yellow": 280,
     "Green": 290,
     "Grey": 300,
-    "RecipeID": 1,
+    "RecipeID": 15725,
     "Source": "Vendor"
   },
   "Green Dragonscale Breastplate": {
@@ -2019,7 +2019,7 @@
     "Yellow": 280,
     "Green": 290,
     "Grey": 300,
-    "RecipeID": 1,
+    "RecipeID": 15726,
     "Source": "Vendor"
   },
   "Heavy Scorpid Vest": {
@@ -2035,7 +2035,7 @@
     "Yellow": 285,
     "Green": 295,
     "Grey": 305,
-    "RecipeID": 1,
+    "RecipeID": 15727,
     "Source": "Drop"
   },
   "Wicked Leather Bracers": {
@@ -2051,6 +2051,7 @@
     "Yellow": 285,
     "Green": 295,
     "Grey": 305,
+    "RecipeID": 15728,
     "Source": "Trainer"
   },
   "Chimeric Gloves": {
@@ -2066,7 +2067,7 @@
     "Yellow": 285,
     "Green": 295,
     "Grey": 305,
-    "RecipeID": 1,
+    "RecipeID": 15729,
     "Source": "Vendor"
   },
   "Red Dragonscale Breastplate": {
@@ -2082,7 +2083,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 15730,
     "Source": "Drop"
   },
   "Runic Leather Gauntlets": {
@@ -2098,6 +2099,7 @@
     "Yellow": 290,
     "Green": 300,
     "Grey": 310,
+    "RecipeID": 15731,
     "Source": "Trainer"
   },
   "Rugged Armor Kit": {
@@ -2127,7 +2129,7 @@
     "Yellow": 290,
     "Green": 300,
     "Grey": 310,
-    "RecipeID": 1,
+    "RecipeID": 15732,
     "Source": "Drop"
   },
   "Green Dragonscale Leggings": {
@@ -2143,7 +2145,7 @@
     "Yellow": 290,
     "Green": 300,
     "Grey": 310,
-    "RecipeID": 1,
+    "RecipeID": 15733,
     "Source": "Drop"
   },
   "Living Shoulders": {
@@ -2159,7 +2161,7 @@
     "Yellow": 290,
     "Green": 300,
     "Grey": 310,
-    "RecipeID": 1,
+    "RecipeID": 15734,
     "Source": "Vendor"
   },
   "Ironfeather Shoulders": {
@@ -2176,7 +2178,7 @@
     "Yellow": 290,
     "Green": 300,
     "Grey": 310,
-    "RecipeID": 1,
+    "RecipeID": 15735,
     "Source": "Vendor"
   },
   "Chimeric Boots": {
@@ -2192,7 +2194,7 @@
     "Yellow": 295,
     "Green": 305,
     "Grey": 315,
-    "RecipeID": 1,
+    "RecipeID": 15737,
     "Source": "Drop"
   },
   "Heavy Scorpid Gauntlets": {
@@ -2208,7 +2210,7 @@
     "Yellow": 295,
     "Green": 305,
     "Grey": 315,
-    "RecipeID": 1,
+    "RecipeID": 15738,
     "Source": "Drop"
   },
   "Runic Leather Bracers": {
@@ -2224,6 +2226,7 @@
     "Yellow": 295,
     "Green": 305,
     "Grey": 315,
+    "RecipeID": 15739,
     "Source": "Trainer"
   },
   "Frostsaber Boots": {
@@ -2239,7 +2242,7 @@
     "Yellow": 295,
     "Green": 305,
     "Grey": 315,
-    "RecipeID": 1,
+    "RecipeID": 15740,
     "Source": "Vendor"
   },
   "Stormshroud Pants": {
@@ -2255,7 +2258,7 @@
     "Yellow": 295,
     "Green": 305,
     "Grey": 315,
-    "RecipeID": 1,
+    "RecipeID": 15741,
     "Source": "Vendor"
   },
   "Warbear Harness": {
@@ -2271,8 +2274,8 @@
     "Yellow": 295,
     "Green": 305,
     "Grey": 315,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 20253,
+    "Source": "Reputation"
   },
   "Heavy Scorpid Belt": {
     "ID": 19070,
@@ -2287,7 +2290,7 @@
     "Yellow": 300,
     "Green": 310,
     "Grey": 320,
-    "RecipeID": 1,
+    "RecipeID": 15743,
     "Source": "Drop"
   },
   "Wicked Leather Headband": {
@@ -2303,6 +2306,7 @@
     "Yellow": 300,
     "Green": 310,
     "Grey": 320,
+    "RecipeID": 15744,
     "Source": "Trainer"
   },
   "Runic Leather Belt": {
@@ -2318,6 +2322,7 @@
     "Yellow": 300,
     "Green": 310,
     "Grey": 320,
+    "RecipeID": 15745,
     "Source": "Trainer"
   },
   "Chimeric Leggings": {
@@ -2333,7 +2338,7 @@
     "Yellow": 300,
     "Green": 310,
     "Grey": 320,
-    "RecipeID": 1,
+    "RecipeID": 15746,
     "Source": "Drop"
   },
   "Frostsaber Leggings": {
@@ -2349,7 +2354,7 @@
     "Yellow": 305,
     "Green": 315,
     "Grey": 325,
-    "RecipeID": 1,
+    "RecipeID": 15747,
     "Source": "Drop"
   },
   "Heavy Scorpid Leggings": {
@@ -2365,7 +2370,7 @@
     "Yellow": 305,
     "Green": 315,
     "Grey": 325,
-    "RecipeID": 1,
+    "RecipeID": 15748,
     "Source": "Drop"
   },
   "Volcanic Breastplate": {
@@ -2382,7 +2387,7 @@
     "Yellow": 305,
     "Green": 315,
     "Grey": 325,
-    "RecipeID": 1,
+    "RecipeID": 15749,
     "Source": "Drop"
   },
   "Blue Dragonscale Breastplate": {
@@ -2399,7 +2404,7 @@
     "Yellow": 305,
     "Green": 315,
     "Grey": 325,
-    "RecipeID": 1,
+    "RecipeID": 15751,
     "Source": "Vendor"
   },
   "Living Leggings": {
@@ -2416,7 +2421,7 @@
     "Yellow": 305,
     "Green": 315,
     "Grey": 325,
-    "RecipeID": 1,
+    "RecipeID": 15752,
     "Source": "Drop"
   },
   "Stormshroud Armor": {
@@ -2433,7 +2438,7 @@
     "Yellow": 305,
     "Green": 315,
     "Grey": 325,
-    "RecipeID": 1,
+    "RecipeID": 15753,
     "Source": "Drop"
   },
   "Warbear Woolies": {
@@ -2449,8 +2454,8 @@
     "Yellow": 305,
     "Green": 315,
     "Grey": 325,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 20254,
+    "Source": "Reputation"
   },
   "Chimeric Vest": {
     "ID": 19081,
@@ -2465,7 +2470,7 @@
     "Yellow": 310,
     "Green": 320,
     "Grey": 330,
-    "RecipeID": 1,
+    "RecipeID": 15755,
     "Source": "Drop"
   },
   "Runic Leather Headband": {
@@ -2481,6 +2486,7 @@
     "Yellow": 310,
     "Green": 320,
     "Grey": 330,
+    "RecipeID": 15756,
     "Source": "Trainer"
   },
   "Wicked Leather Pants": {
@@ -2497,6 +2503,7 @@
     "Yellow": 310,
     "Green": 320,
     "Grey": 330,
+    "RecipeID": 15757,
     "Source": "Trainer"
   },
   "Devilsaur Gauntlets": {
@@ -2512,7 +2519,7 @@
     "Yellow": 310,
     "Green": 320,
     "Grey": 330,
-    "RecipeID": 1,
+    "RecipeID": 15758,
     "Source": "Vendor"
   },
   "Black Dragonscale Breastplate": {
@@ -2529,7 +2536,7 @@
     "Yellow": 310,
     "Green": 320,
     "Grey": 330,
-    "RecipeID": 1,
+    "RecipeID": 15759,
     "Source": "Vendor"
   },
   "Ironfeather Breastplate": {
@@ -2547,7 +2554,7 @@
     "Yellow": 310,
     "Green": 320,
     "Grey": 330,
-    "RecipeID": 1,
+    "RecipeID": 15760,
     "Source": "Drop"
   },
   "Frostsaber Gloves": {
@@ -2563,7 +2570,7 @@
     "Yellow": 315,
     "Green": 325,
     "Grey": 335,
-    "RecipeID": 1,
+    "RecipeID": 15761,
     "Source": "Drop"
   },
   "Heavy Scorpid Helm": {
@@ -2580,7 +2587,7 @@
     "Yellow": 315,
     "Green": 325,
     "Grey": 335,
-    "RecipeID": 1,
+    "RecipeID": 15762,
     "Source": "Vendor"
   },
   "Blue Dragonscale Shoulders": {
@@ -2598,7 +2605,7 @@
     "Yellow": 315,
     "Green": 325,
     "Grey": 335,
-    "RecipeID": 1,
+    "RecipeID": 15763,
     "Source": "Drop"
   },
   "Stormshroud Shoulders": {
@@ -2614,7 +2621,7 @@
     "Yellow": 315,
     "Green": 325,
     "Grey": 335,
-    "RecipeID": 1,
+    "RecipeID": 15764,
     "Source": "Drop"
   },
   "Runic Leather Pants": {
@@ -2631,6 +2638,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
+    "RecipeID": 15765,
     "Source": "Trainer"
   },
   "Wicked Leather Belt": {
@@ -2646,6 +2654,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
+    "RecipeID": 15768,
     "Source": "Trainer"
   },
   "Onyxia Scale Cloak": {
@@ -2661,6 +2670,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
+    "RecipeID": 15769,
     "Source": "Trainer"
   },
   "Black Dragonscale Shoulders": {
@@ -2677,7 +2687,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 15770,
     "Source": "Drop"
   },
   "Living Breastplate": {
@@ -2695,7 +2705,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 15771,
     "Source": "Drop"
   },
   "Devilsaur Leggings": {
@@ -2712,7 +2722,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 15772,
     "Source": "Drop"
   },
   "Wicked Leather Armor": {
@@ -2730,6 +2740,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
+    "RecipeID": 15773,
     "Source": "Trainer"
   },
   "Heavy Scorpid Shoulders": {
@@ -2746,7 +2757,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 15774,
     "Source": "Drop"
   },
   "Volcanic Shoulders": {
@@ -2763,7 +2774,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 15775,
     "Source": "Drop"
   },
   "Runic Leather Armor": {
@@ -2781,6 +2792,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
+    "RecipeID": 15776,
     "Source": "Trainer"
   },
   "Runic Leather Shoulders": {
@@ -2798,6 +2810,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
+    "RecipeID": 15777,
     "Source": "Trainer"
   },
   "Frostsaber Tunic": {
@@ -2814,7 +2827,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 15779,
     "Source": "Drop"
   },
   "Black Dragonscale Leggings": {
@@ -2831,7 +2844,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 15781,
     "Source": "Drop"
   },
   "Medium Leather": {
@@ -2887,7 +2900,7 @@
     "Yellow": 315,
     "Green": 325,
     "Grey": 335,
-    "RecipeID": 1,
+    "RecipeID": 17022,
     "Source": "Vendor"
   },
   "Molten Helm": {
@@ -2904,7 +2917,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 17023,
     "Source": "Vendor"
   },
   "Black Dragonscale Boots": {
@@ -2921,7 +2934,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 17025,
     "Source": "Vendor"
   },
   "Gloves of the Greatfather": {
@@ -2937,7 +2950,7 @@
     "Yellow": 210,
     "Green": 220,
     "Grey": 230,
-    "RecipeID": 1,
+    "RecipeID": 17722,
     "Source": "Drop"
   },
   "Rugged Leather": {
@@ -2967,7 +2980,7 @@
     "Yellow": 210,
     "Green": 220,
     "Grey": 230,
-    "RecipeID": 1,
+    "RecipeID": 18239,
     "Source": "Vendor"
   },
   "Core Armor Kit": {
@@ -2982,7 +2995,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 18252,
     "Source": "Drop"
   },
   "Gordok Ogre Suit": {
@@ -3015,7 +3028,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 18514,
     "Source": "Drop"
   },
   "Mongoose Boots": {
@@ -3033,7 +3046,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 18515,
     "Source": "Drop"
   },
   "Swift Flight Bracers": {
@@ -3050,7 +3063,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 18516,
     "Source": "Drop"
   },
   "Chromatic Cloak": {
@@ -3068,7 +3081,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 18517,
     "Source": "Drop"
   },
   "Hide of the Wild": {
@@ -3085,7 +3098,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 18518,
     "Source": "Drop"
   },
   "Shifting Cloak": {
@@ -3101,7 +3114,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 18519,
     "Source": "Drop"
   },
   "Heavy Leather Ball": {
@@ -3116,7 +3129,7 @@
     "Yellow": 150,
     "Green": 155,
     "Grey": 160,
-    "RecipeID": 1,
+    "RecipeID": 18731,
     "Source": "Vendor"
   },
   "Barbaric Bracers": {
@@ -3134,7 +3147,7 @@
     "Yellow": 175,
     "Green": 185,
     "Grey": 195,
-    "RecipeID": 1,
+    "RecipeID": 18949,
     "Source": "Vendor"
   },
   "Might of the Timbermaw": {
@@ -3151,8 +3164,8 @@
     "Yellow": 310,
     "Green": 320,
     "Grey": 330,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 19326,
+    "Source": "Reputation"
   },
   "Timbermaw Brawlers": {
     "ID": 23704,
@@ -3169,8 +3182,8 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 19327,
+    "Source": "Reputation"
   },
   "Dawn Treaders": {
     "ID": 23705,
@@ -3187,8 +3200,8 @@
     "Yellow": 310,
     "Green": 320,
     "Grey": 330,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 19328,
+    "Source": "Reputation"
   },
   "Golden Mantle of the Dawn": {
     "ID": 23706,
@@ -3205,8 +3218,8 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 19329,
+    "Source": "Reputation"
   },
   "Lava Belt": {
     "ID": 23707,
@@ -3221,7 +3234,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 19330,
     "Source": "Vendor"
   },
   "Chromatic Gauntlets": {
@@ -3238,7 +3251,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 19331,
     "Source": "Vendor"
   },
   "Corehound Belt": {
@@ -3255,7 +3268,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 19332,
     "Source": "Vendor"
   },
   "Molten Belt": {
@@ -3272,7 +3285,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 19333,
     "Source": "Vendor"
   },
   "Primal Batskin Jerkin": {
@@ -3289,8 +3302,8 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 19769,
+    "Source": "Reputation"
   },
   "Primal Batskin Gloves": {
     "ID": 24122,
@@ -3306,8 +3319,8 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 19770,
+    "Source": "Reputation"
   },
   "Primal Batskin Bracers": {
     "ID": 24123,
@@ -3323,8 +3336,8 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 19771,
+    "Source": "Reputation"
   },
   "Blood Tiger Breastplate": {
     "ID": 24124,
@@ -3339,8 +3352,8 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 19772,
+    "Source": "Reputation"
   },
   "Blood Tiger Shoulders": {
     "ID": 24125,
@@ -3355,8 +3368,8 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 19773,
+    "Source": "Reputation"
   },
   "Blue Dragonscale Leggings": {
     "ID": 24654,
@@ -3404,8 +3417,8 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 20382,
+    "Source": "Reputation"
   },
   "Spitfire Bracers": {
     "ID": 24846,
@@ -3420,8 +3433,8 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 20506,
+    "Source": "Reputation"
   },
   "Spitfire Gauntlets": {
     "ID": 24847,
@@ -3437,8 +3450,8 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 20507,
+    "Source": "Reputation"
   },
   "Spitfire Breastplate": {
     "ID": 24848,
@@ -3454,8 +3467,8 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 20508,
+    "Source": "Reputation"
   },
   "Sandstalker Bracers": {
     "ID": 24849,
@@ -3470,8 +3483,8 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 20509,
+    "Source": "Reputation"
   },
   "Sandstalker Gauntlets": {
     "ID": 24850,
@@ -3487,8 +3500,8 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 20510,
+    "Source": "Reputation"
   },
   "Sandstalker Breastplate": {
     "ID": 24851,
@@ -3504,8 +3517,8 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 20511,
+    "Source": "Reputation"
   },
   "Black Whelp Tunic": {
     "ID": 24940,
@@ -3521,7 +3534,7 @@
     "Yellow": 125,
     "Green": 137,
     "Grey": 150,
-    "RecipeID": 1,
+    "RecipeID": 20576,
     "Source": "Vendor"
   },
   "Stormshroud Gloves": {
@@ -3537,7 +3550,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
+    "RecipeID": 21548,
     "Source": "Drop"
   },
   "Polar Tunic": {
@@ -3555,6 +3568,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
+    "RecipeID": 22692,
     "Source": "Trainer"
   },
   "Polar Gloves": {
@@ -3572,6 +3586,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
+    "RecipeID": 22694,
     "Source": "Trainer"
   },
   "Polar Bracers": {
@@ -3589,6 +3604,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
+    "RecipeID": 22695,
     "Source": "Trainer"
   },
   "Icy Scale Breastplate": {
@@ -3606,6 +3622,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
+    "RecipeID": 22696,
     "Source": "Trainer"
   },
   "Icy Scale Gauntlets": {
@@ -3623,6 +3640,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
+    "RecipeID": 22697,
     "Source": "Trainer"
   },
   "Icy Scale Bracers": {
@@ -3640,6 +3658,7 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
+    "RecipeID": 22698,
     "Source": "Trainer"
   },
   "Bramblewood Helm": {
@@ -3656,8 +3675,8 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 22771,
+    "Source": "Reputation"
   },
   "Bramblewood Boots": {
     "ID": 28473,
@@ -3673,8 +3692,8 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 22770,
+    "Source": "Reputation"
   },
   "Bramblewood Belt": {
     "ID": 28474,
@@ -3689,8 +3708,8 @@
     "Yellow": 320,
     "Green": 330,
     "Grey": 340,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 22769,
+    "Source": "Reputation"
   },
   "Knothide Leather": {
     "ID": 32454,
@@ -3716,6 +3735,7 @@
     "Yellow": 325,
     "Green": 330,
     "Grey": 335,
+    "RecipeID": 25720,
     "Source": "Trainer"
   },
   "Knothide Armor Kit": {
@@ -3743,8 +3763,8 @@
     "Yellow": 335,
     "Green": 340,
     "Grey": 345,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 25721,
+    "Source": "Reputation"
   },
   "Magister's Armor Kit": {
     "ID": 32458,
@@ -3758,8 +3778,8 @@
     "Yellow": 335,
     "Green": 340,
     "Grey": 345,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 25722,
+    "Source": "Reputation"
   },
   "Riding Crop": {
     "ID": 32461,
@@ -3775,7 +3795,7 @@
     "Yellow": 360,
     "Green": 370,
     "Grey": 380,
-    "RecipeID": 1,
+    "RecipeID": 25725,
     "Source": "Vendor"
   },
   "Felscale Gloves": {
@@ -4021,7 +4041,7 @@
     "Yellow": 300,
     "Green": 305,
     "Grey": 310,
-    "RecipeID": 1,
+    "RecipeID": 25726,
     "Source": "Vendor"
   },
   "Stylin' Purple Hat": {
@@ -4039,7 +4059,7 @@
     "Yellow": 360,
     "Green": 370,
     "Grey": 380,
-    "RecipeID": 1,
+    "RecipeID": 25728,
     "Source": "Drop"
   },
   "Stylin' Adventure Hat": {
@@ -4057,7 +4077,7 @@
     "Yellow": 360,
     "Green": 370,
     "Grey": 380,
-    "RecipeID": 1,
+    "RecipeID": 25729,
     "Source": "Drop"
   },
   "Stylin' Crimson Hat": {
@@ -4075,7 +4095,7 @@
     "Yellow": 360,
     "Green": 370,
     "Grey": 380,
-    "RecipeID": 1,
+    "RecipeID": 25731,
     "Source": "Drop"
   },
   "Stylin' Jungle Hat": {
@@ -4092,7 +4112,7 @@
     "Yellow": 360,
     "Green": 370,
     "Grey": 380,
-    "RecipeID": 1,
+    "RecipeID": 25730,
     "Source": "Drop"
   },
   "Fel Leather Gloves": {
@@ -4109,8 +4129,8 @@
     "Yellow": 350,
     "Green": 360,
     "Grey": 370,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 25732,
+    "Source": "Reputation"
   },
   "Fel Leather Boots": {
     "ID": 32493,
@@ -4126,8 +4146,8 @@
     "Yellow": 360,
     "Green": 370,
     "Grey": 380,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 25733,
+    "Source": "Reputation"
   },
   "Fel Leather Leggings": {
     "ID": 32494,
@@ -4143,8 +4163,8 @@
     "Yellow": 360,
     "Green": 370,
     "Grey": 380,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 25734,
+    "Source": "Reputation"
   },
   "Heavy Clefthoof Vest": {
     "ID": 32495,
@@ -4160,8 +4180,8 @@
     "Yellow": 370,
     "Green": 380,
     "Grey": 390,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 25735,
+    "Source": "Reputation"
   },
   "Heavy Clefthoof Leggings": {
     "ID": 32496,
@@ -4177,8 +4197,8 @@
     "Yellow": 365,
     "Green": 375,
     "Grey": 385,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 25736,
+    "Source": "Reputation"
   },
   "Heavy Clefthoof Boots": {
     "ID": 32497,
@@ -4194,8 +4214,8 @@
     "Yellow": 365,
     "Green": 375,
     "Grey": 385,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 25737,
+    "Source": "Reputation"
   },
   "Felstalker Belt": {
     "ID": 32498,
@@ -4212,8 +4232,8 @@
     "Yellow": 360,
     "Green": 370,
     "Grey": 380,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 29213,
+    "Source": "Reputation"
   },
   "Felstalker Bracer": {
     "ID": 32499,
@@ -4230,8 +4250,8 @@
     "Yellow": 370,
     "Green": 380,
     "Grey": 390,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 29214,
+    "Source": "Reputation"
   },
   "Felstalker Breastplate": {
     "ID": 32500,
@@ -4248,8 +4268,8 @@
     "Yellow": 370,
     "Green": 380,
     "Grey": 390,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 29215,
+    "Source": "Reputation"
   },
   "Netherfury Belt": {
     "ID": 32501,
@@ -4266,8 +4286,8 @@
     "Yellow": 350,
     "Green": 360,
     "Grey": 370,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 29217,
+    "Source": "Reputation"
   },
   "Netherfury Leggings": {
     "ID": 32502,
@@ -4284,8 +4304,8 @@
     "Yellow": 350,
     "Green": 360,
     "Grey": 370,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 29219,
+    "Source": "Reputation"
   },
   "Netherfury Boots": {
     "ID": 32503,
@@ -4302,8 +4322,8 @@
     "Yellow": 360,
     "Green": 370,
     "Grey": 380,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 29218,
+    "Source": "Reputation"
   },
   "Shadow Armor Kit": {
     "ID": 35520,
@@ -4317,7 +4337,7 @@
     "Yellow": 350,
     "Green": 355,
     "Grey": 360,
-    "RecipeID": 1,
+    "RecipeID": 29669,
     "Source": "Drop"
   },
   "Flame Armor Kit": {
@@ -4332,7 +4352,7 @@
     "Yellow": 350,
     "Green": 355,
     "Grey": 360,
-    "RecipeID": 1,
+    "RecipeID": 29672,
     "Source": "Drop"
   },
   "Frost Armor Kit": {
@@ -4347,7 +4367,7 @@
     "Yellow": 350,
     "Green": 355,
     "Grey": 360,
-    "RecipeID": 1,
+    "RecipeID": 29673,
     "Source": "Drop"
   },
   "Nature Armor Kit": {
@@ -4362,7 +4382,7 @@
     "Yellow": 350,
     "Green": 355,
     "Grey": 360,
-    "RecipeID": 1,
+    "RecipeID": 29674,
     "Source": "Drop"
   },
   "Arcane Armor Kit": {
@@ -4377,7 +4397,7 @@
     "Yellow": 350,
     "Green": 355,
     "Grey": 360,
-    "RecipeID": 1,
+    "RecipeID": 29675,
     "Source": "Drop"
   },
   "Enchanted Felscale Leggings": {
@@ -4393,8 +4413,8 @@
     "Yellow": 360,
     "Green": 370,
     "Grey": 380,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 29677,
+    "Source": "Reputation"
   },
   "Enchanted Felscale Gloves": {
     "ID": 35526,
@@ -4409,8 +4429,8 @@
     "Yellow": 360,
     "Green": 370,
     "Grey": 380,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 29682,
+    "Source": "Reputation"
   },
   "Enchanted Felscale Boots": {
     "ID": 35527,
@@ -4425,8 +4445,8 @@
     "Yellow": 360,
     "Green": 370,
     "Grey": 380,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 29684,
+    "Source": "Reputation"
   },
   "Flamescale Boots": {
     "ID": 35528,
@@ -4442,8 +4462,8 @@
     "Yellow": 360,
     "Green": 370,
     "Grey": 380,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 29691,
+    "Source": "Reputation"
   },
   "Flamescale Leggings": {
     "ID": 35529,
@@ -4459,8 +4479,8 @@
     "Yellow": 360,
     "Green": 370,
     "Grey": 380,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 29689,
+    "Source": "Reputation"
   },
   "Reinforced Mining Bag": {
     "ID": 35530,
@@ -4474,8 +4494,8 @@
     "Yellow": 335,
     "Green": 340,
     "Grey": 345,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 30444,
+    "Source": "Reputation"
   },
   "Flamescale Belt": {
     "ID": 35531,
@@ -4491,8 +4511,8 @@
     "Yellow": 360,
     "Green": 370,
     "Grey": 380,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 29693,
+    "Source": "Reputation"
   },
   "Enchanted Clefthoof Leggings": {
     "ID": 35532,
@@ -4507,8 +4527,8 @@
     "Yellow": 360,
     "Green": 370,
     "Grey": 380,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 29698,
+    "Source": "Reputation"
   },
   "Enchanted Clefthoof Gloves": {
     "ID": 35533,
@@ -4523,8 +4543,8 @@
     "Yellow": 360,
     "Green": 370,
     "Grey": 380,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 29700,
+    "Source": "Reputation"
   },
   "Enchanted Clefthoof Boots": {
     "ID": 35534,
@@ -4539,8 +4559,8 @@
     "Yellow": 360,
     "Green": 370,
     "Grey": 380,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 29701,
+    "Source": "Reputation"
   },
   "Blastguard Pants": {
     "ID": 35535,
@@ -4556,8 +4576,8 @@
     "Yellow": 360,
     "Green": 370,
     "Grey": 380,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 29702,
+    "Source": "Reputation"
   },
   "Blastguard Boots": {
     "ID": 35536,
@@ -4573,8 +4593,8 @@
     "Yellow": 360,
     "Green": 370,
     "Grey": 380,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 29703,
+    "Source": "Reputation"
   },
   "Blastguard Belt": {
     "ID": 35537,
@@ -4590,8 +4610,8 @@
     "Yellow": 360,
     "Green": 370,
     "Grey": 380,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 29704,
+    "Source": "Reputation"
   },
   "Drums of Panic": {
     "ID": 35538,
@@ -4605,8 +4625,8 @@
     "Yellow": 370,
     "Green": 377,
     "Grey": 385,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 29713,
+    "Source": "Reputation"
   },
   "Drums of Restoration": {
     "ID": 35539,
@@ -4620,8 +4640,8 @@
     "Yellow": 350,
     "Green": 357,
     "Grey": 365,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 34175,
+    "Source": "Reputation"
   },
   "Drums of War": {
     "ID": 35540,
@@ -4649,8 +4669,8 @@
     "Yellow": 365,
     "Green": 372,
     "Grey": 380,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 29717,
+    "Source": "Reputation"
   },
   "Drums of Speed": {
     "ID": 35544,
@@ -4664,8 +4684,8 @@
     "Yellow": 345,
     "Green": 352,
     "Grey": 360,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 34173,
+    "Source": "Reputation"
   },
   "Cobrahide Leg Armor": {
     "ID": 35549,
@@ -4680,8 +4700,8 @@
     "Yellow": 335,
     "Green": 345,
     "Grey": 355,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 31361,
+    "Source": "Reputation"
   },
   "Nethercobra Leg Armor": {
     "ID": 35554,
@@ -4697,8 +4717,8 @@
     "Yellow": 365,
     "Green": 375,
     "Grey": 385,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 31362,
+    "Source": "Reputation"
   },
   "Clefthide Leg Armor": {
     "ID": 35555,
@@ -4713,8 +4733,8 @@
     "Yellow": 335,
     "Green": 345,
     "Grey": 355,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 29720,
+    "Source": "Reputation"
   },
   "Nethercleft Leg Armor": {
     "ID": 35557,
@@ -4730,8 +4750,8 @@
     "Yellow": 365,
     "Green": 375,
     "Grey": 385,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 29721,
+    "Source": "Reputation"
   },
   "Cobrascale Hood": {
     "ID": 35558,
@@ -4748,7 +4768,7 @@
     "Yellow": 375,
     "Green": 385,
     "Grey": 395,
-    "RecipeID": 1,
+    "RecipeID": 29723,
     "Source": "Drop"
   },
   "Cobrascale Gloves": {
@@ -4766,7 +4786,7 @@
     "Yellow": 375,
     "Green": 385,
     "Grey": 395,
-    "RecipeID": 1,
+    "RecipeID": 35302,
     "Source": "Drop"
   },
   "Windscale Hood": {
@@ -4784,7 +4804,7 @@
     "Yellow": 375,
     "Green": 385,
     "Grey": 395,
-    "RecipeID": 1,
+    "RecipeID": 29725,
     "Source": "Drop"
   },
   "Hood of Primal Life": {
@@ -4801,7 +4821,7 @@
     "Yellow": 375,
     "Green": 385,
     "Grey": 395,
-    "RecipeID": 1,
+    "RecipeID": 29726,
     "Source": "Drop"
   },
   "Gloves of the Living Touch": {
@@ -4818,7 +4838,7 @@
     "Yellow": 375,
     "Green": 385,
     "Grey": 395,
-    "RecipeID": 1,
+    "RecipeID": 35303,
     "Source": "Drop"
   },
   "Windslayer Wraps": {
@@ -4836,7 +4856,7 @@
     "Yellow": 375,
     "Green": 385,
     "Grey": 395,
-    "RecipeID": 1,
+    "RecipeID": 29728,
     "Source": "Drop"
   },
   "Living Dragonscale Helm": {
@@ -4854,7 +4874,7 @@
     "Yellow": 375,
     "Green": 385,
     "Grey": 395,
-    "RecipeID": 1,
+    "RecipeID": 29729,
     "Source": "Drop"
   },
   "Earthen Netherscale Boots": {
@@ -4872,7 +4892,7 @@
     "Yellow": 375,
     "Green": 385,
     "Grey": 395,
-    "RecipeID": 1,
+    "RecipeID": 29730,
     "Source": "Drop"
   },
   "Windstrike Gloves": {
@@ -4890,7 +4910,7 @@
     "Yellow": 375,
     "Green": 385,
     "Grey": 395,
-    "RecipeID": 1,
+    "RecipeID": 35300,
     "Source": "Drop"
   },
   "Netherdrake Helm": {
@@ -4908,7 +4928,7 @@
     "Yellow": 375,
     "Green": 385,
     "Grey": 395,
-    "RecipeID": 1,
+    "RecipeID": 29732,
     "Source": "Drop"
   },
   "Netherdrake Gloves": {
@@ -4926,7 +4946,7 @@
     "Yellow": 375,
     "Green": 385,
     "Grey": 395,
-    "RecipeID": 1,
+    "RecipeID": 35301,
     "Source": "Drop"
   },
   "Thick Netherscale Breastplate": {
@@ -4944,7 +4964,7 @@
     "Yellow": 375,
     "Green": 385,
     "Grey": 395,
-    "RecipeID": 1,
+    "RecipeID": 29734,
     "Source": "Drop"
   },
   "Ebon Netherscale Breastplate": {
@@ -5253,7 +5273,7 @@
     "Yellow": 385,
     "Green": 395,
     "Grey": 405,
-    "RecipeID": 1,
+    "RecipeID": 30301,
     "Source": "Drop"
   },
   "Belt of Deep Shadow": {
@@ -5271,7 +5291,7 @@
     "Yellow": 385,
     "Green": 395,
     "Grey": 405,
-    "RecipeID": 1,
+    "RecipeID": 30302,
     "Source": "Drop"
   },
   "Belt of the Black Eagle": {
@@ -5289,7 +5309,7 @@
     "Yellow": 385,
     "Green": 395,
     "Grey": 405,
-    "RecipeID": 1,
+    "RecipeID": 30303,
     "Source": "Drop"
   },
   "Monsoon Belt": {
@@ -5307,7 +5327,7 @@
     "Yellow": 385,
     "Green": 395,
     "Grey": 405,
-    "RecipeID": 1,
+    "RecipeID": 30304,
     "Source": "Drop"
   },
   "Boots of Natural Grace": {
@@ -5324,7 +5344,7 @@
     "Yellow": 385,
     "Green": 395,
     "Grey": 405,
-    "RecipeID": 1,
+    "RecipeID": 30305,
     "Source": "Drop"
   },
   "Boots of Utter Darkness": {
@@ -5341,7 +5361,7 @@
     "Yellow": 385,
     "Green": 395,
     "Grey": 405,
-    "RecipeID": 1,
+    "RecipeID": 30306,
     "Source": "Drop"
   },
   "Boots of the Crimson Hawk": {
@@ -5359,7 +5379,7 @@
     "Yellow": 385,
     "Green": 395,
     "Grey": 405,
-    "RecipeID": 1,
+    "RecipeID": 30307,
     "Source": "Drop"
   },
   "Hurricane Boots": {
@@ -5377,7 +5397,7 @@
     "Yellow": 385,
     "Green": 395,
     "Grey": 405,
-    "RecipeID": 1,
+    "RecipeID": 30308,
     "Source": "Drop"
   },
   "Boots of Shackled Souls": {
@@ -5395,8 +5415,8 @@
     "Yellow": 385,
     "Green": 395,
     "Grey": 405,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 32429,
+    "Source": "Reputation"
   },
   "Greaves of Shackled Souls": {
     "ID": 40001,
@@ -5413,8 +5433,8 @@
     "Yellow": 385,
     "Green": 395,
     "Grey": 405,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 32431,
+    "Source": "Reputation"
   },
   "Waistguard of Shackled Souls": {
     "ID": 40002,
@@ -5431,8 +5451,8 @@
     "Yellow": 385,
     "Green": 395,
     "Grey": 405,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 32432,
+    "Source": "Reputation"
   },
   "Redeemed Soul Moccasins": {
     "ID": 40003,
@@ -5449,8 +5469,8 @@
     "Yellow": 385,
     "Green": 395,
     "Grey": 405,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 32433,
+    "Source": "Reputation"
   },
   "Redeemed Soul Wristguards": {
     "ID": 40004,
@@ -5467,8 +5487,8 @@
     "Yellow": 385,
     "Green": 395,
     "Grey": 405,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 32434,
+    "Source": "Reputation"
   },
   "Redeemed Soul Legguards": {
     "ID": 40005,
@@ -5485,8 +5505,8 @@
     "Yellow": 385,
     "Green": 395,
     "Grey": 405,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 32435,
+    "Source": "Reputation"
   },
   "Redeemed Soul Cinch": {
     "ID": 40006,
@@ -5503,8 +5523,8 @@
     "Yellow": 385,
     "Green": 395,
     "Grey": 405,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 32436,
+    "Source": "Reputation"
   },
   "Bracers of Renewed Life": {
     "ID": 41156,
@@ -5520,7 +5540,7 @@
     "Yellow": 385,
     "Green": 395,
     "Grey": 405,
-    "RecipeID": 1,
+    "RecipeID": 35519,
     "Source": "Drop"
   },
   "Shoulderpads of Renewed Life": {
@@ -5537,7 +5557,7 @@
     "Yellow": 385,
     "Green": 395,
     "Grey": 405,
-    "RecipeID": 1,
+    "RecipeID": 35523,
     "Source": "Drop"
   },
   "Swiftstrike Bracers": {
@@ -5553,7 +5573,7 @@
     "Yellow": 385,
     "Green": 395,
     "Grey": 405,
-    "RecipeID": 1,
+    "RecipeID": 35527,
     "Source": "Drop"
   },
   "Swiftstrike Shoulders": {
@@ -5569,7 +5589,7 @@
     "Yellow": 385,
     "Green": 395,
     "Grey": 405,
-    "RecipeID": 1,
+    "RecipeID": 35528,
     "Source": "Drop"
   },
   "Bindings of Lightning Reflexes": {
@@ -5587,7 +5607,7 @@
     "Yellow": 385,
     "Green": 395,
     "Grey": 405,
-    "RecipeID": 1,
+    "RecipeID": 35517,
     "Source": "Drop"
   },
   "Shoulders of Lightning Reflexes": {
@@ -5605,7 +5625,7 @@
     "Yellow": 385,
     "Green": 395,
     "Grey": 405,
-    "RecipeID": 1,
+    "RecipeID": 35524,
     "Source": "Drop"
   },
   "Living Earth Bindings": {
@@ -5623,7 +5643,7 @@
     "Yellow": 385,
     "Green": 395,
     "Grey": 405,
-    "RecipeID": 1,
+    "RecipeID": 35520,
     "Source": "Drop"
   },
   "Living Earth Shoulders": {
@@ -5641,7 +5661,7 @@
     "Yellow": 385,
     "Green": 395,
     "Grey": 405,
-    "RecipeID": 1,
+    "RecipeID": 35521,
     "Source": "Drop"
   },
   "Cloak of Darkness": {
@@ -5658,8 +5678,8 @@
     "Yellow": 370,
     "Green": 380,
     "Grey": 390,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 33124,
+    "Source": "Reputation"
   },
   "Shadowprowler's Chestguard": {
     "ID": 42731,
@@ -5676,8 +5696,8 @@
     "Yellow": 375,
     "Green": 385,
     "Grey": 395,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 33205,
+    "Source": "Reputation"
   },
   "Knothide Ammo Pouch": {
     "ID": 44343,
@@ -5723,7 +5743,6 @@
     "Yellow": 360,
     "Green": 370,
     "Grey": 380,
-    "RecipeID": 1,
     "Source": "Vendor"
   },
   "Netherscale Ammo Pouch": {
@@ -5740,8 +5759,8 @@
     "Yellow": 360,
     "Green": 370,
     "Grey": 380,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 34218,
+    "Source": "Reputation"
   },
   "Glove Reinforcements": {
     "ID": 44770,
@@ -5771,7 +5790,7 @@
     "Yellow": 285,
     "Green": 285,
     "Grey": 285,
-    "RecipeID": 1,
+    "RecipeID": 34262,
     "Source": "Vendor"
   },
   "Heavy Knothide Armor Kit": {
@@ -5819,7 +5838,7 @@
     "Yellow": 370,
     "Green": 380,
     "Grey": 390,
-    "RecipeID": 1,
+    "RecipeID": 34491,
     "Source": "Drop"
   },
   "Leather Gauntlets of the Sun": {
@@ -5837,7 +5856,7 @@
     "Yellow": 375,
     "Green": 392,
     "Grey": 410,
-    "RecipeID": 1,
+    "RecipeID": 35546,
     "Source": "Drop"
   },
   "Fletcher's Gloves of the Phoenix": {
@@ -5855,7 +5874,7 @@
     "Yellow": 375,
     "Green": 392,
     "Grey": 410,
-    "RecipeID": 1,
+    "RecipeID": 35541,
     "Source": "Drop"
   },
   "Gloves of Immortal Dusk": {
@@ -5873,7 +5892,7 @@
     "Yellow": 375,
     "Green": 392,
     "Grey": 410,
-    "RecipeID": 1,
+    "RecipeID": 35542,
     "Source": "Drop"
   },
   "Sun-Drenched Scale Gloves": {
@@ -5891,7 +5910,7 @@
     "Yellow": 375,
     "Green": 392,
     "Grey": 410,
-    "RecipeID": 1,
+    "RecipeID": 35550,
     "Source": "Drop"
   },
   "Leather Chestguard of the Sun": {
@@ -5908,7 +5927,7 @@
     "Yellow": 375,
     "Green": 392,
     "Grey": 410,
-    "RecipeID": 1,
+    "RecipeID": 35545,
     "Source": "Drop"
   },
   "Embrace of the Phoenix": {
@@ -5925,7 +5944,7 @@
     "Yellow": 375,
     "Green": 392,
     "Grey": 410,
-    "RecipeID": 1,
+    "RecipeID": 35540,
     "Source": "Drop"
   },
   "Carapace of Sun and Shadow": {
@@ -5942,7 +5961,7 @@
     "Yellow": 375,
     "Green": 392,
     "Grey": 410,
-    "RecipeID": 1,
+    "RecipeID": 35539,
     "Source": "Drop"
   },
   "Sun-Drenched Scale Chestguard": {
@@ -5959,7 +5978,7 @@
     "Yellow": 375,
     "Green": 392,
     "Grey": 410,
-    "RecipeID": 1,
+    "RecipeID": 35549,
     "Source": "Drop"
   },
   "Heavy Borean Leather": {
@@ -6382,8 +6401,8 @@
     "Yellow": 420,
     "Green": 422,
     "Grey": 425,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 44509,
+    "Source": "Reputation"
   },
   "Mammoth Mining Bag": {
     "ID": 50971,
@@ -6396,8 +6415,8 @@
     "Yellow": 420,
     "Green": 422,
     "Grey": 425,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 44510,
+    "Source": "Reputation"
   },
   "Black Chitinguard Boots": {
     "ID": 51568,
@@ -6425,6 +6444,7 @@
     "Yellow": 410,
     "Green": 420,
     "Grey": 430,
+    "RecipeID": 38598,
     "Source": "Trainer"
   },
   "Dark Arctic Chestpiece": {
@@ -6439,6 +6459,7 @@
     "Yellow": 410,
     "Green": 420,
     "Grey": 430,
+    "RecipeID": 38599,
     "Source": "Trainer"
   },
   "Arctic Wristguards": {
@@ -6482,8 +6503,8 @@
     "Yellow": 385,
     "Green": 395,
     "Grey": 405,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 32430,
+    "Source": "Reputation"
   },
   "Cloak of Tormented Skies": {
     "ID": 55199,
@@ -6570,7 +6591,6 @@
     "Yellow": 425,
     "Green": 430,
     "Grey": 435,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Fur Lining - Nature Resist": {
@@ -6893,8 +6913,8 @@
     "Yellow": 420,
     "Green": 422,
     "Grey": 425,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 44511,
+    "Source": "Reputation"
   },
   "Nerubian Reinforced Quiver": {
     "ID": 60647,
@@ -6908,8 +6928,8 @@
     "Yellow": 420,
     "Green": 422,
     "Grey": 425,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 44512,
+    "Source": "Reputation"
   },
   "Razorstrike Breastplate": {
     "ID": 60649,
@@ -7059,7 +7079,7 @@
     "Yellow": 425,
     "Green": 430,
     "Grey": 435,
-    "RecipeID": 1,
+    "RecipeID": 44513,
     "Source": "Vendor"
   },
   "Eviscerator's Shoulderpads": {
@@ -7074,7 +7094,7 @@
     "Yellow": 425,
     "Green": 430,
     "Grey": 435,
-    "RecipeID": 1,
+    "RecipeID": 44514,
     "Source": "Vendor"
   },
   "Eviscerator's Chestguard": {
@@ -7089,7 +7109,7 @@
     "Yellow": 425,
     "Green": 430,
     "Grey": 435,
-    "RecipeID": 1,
+    "RecipeID": 44515,
     "Source": "Vendor"
   },
   "Eviscerator's Bindings": {
@@ -7104,7 +7124,7 @@
     "Yellow": 425,
     "Green": 430,
     "Grey": 435,
-    "RecipeID": 1,
+    "RecipeID": 44516,
     "Source": "Vendor"
   },
   "Eviscerator's Gauntlets": {
@@ -7119,7 +7139,7 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "RecipeID": 1,
+    "RecipeID": 44517,
     "Source": "Vendor"
   },
   "Eviscerator's Waistguard": {
@@ -7134,7 +7154,7 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "RecipeID": 1,
+    "RecipeID": 44518,
     "Source": "Vendor"
   },
   "Eviscerator's Legguards": {
@@ -7149,7 +7169,7 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "RecipeID": 1,
+    "RecipeID": 44519,
     "Source": "Vendor"
   },
   "Eviscerator's Treads": {
@@ -7164,7 +7184,7 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "RecipeID": 1,
+    "RecipeID": 44520,
     "Source": "Vendor"
   },
   "Overcast Headguard": {
@@ -7179,7 +7199,7 @@
     "Yellow": 425,
     "Green": 430,
     "Grey": 435,
-    "RecipeID": 1,
+    "RecipeID": 44521,
     "Source": "Vendor"
   },
   "Overcast Spaulders": {
@@ -7194,7 +7214,7 @@
     "Yellow": 425,
     "Green": 430,
     "Grey": 435,
-    "RecipeID": 1,
+    "RecipeID": 44522,
     "Source": "Vendor"
   },
   "Overcast Chestguard": {
@@ -7209,7 +7229,7 @@
     "Yellow": 425,
     "Green": 430,
     "Grey": 435,
-    "RecipeID": 1,
+    "RecipeID": 44523,
     "Source": "Vendor"
   },
   "Overcast Bracers": {
@@ -7224,7 +7244,7 @@
     "Yellow": 425,
     "Green": 430,
     "Grey": 435,
-    "RecipeID": 1,
+    "RecipeID": 44524,
     "Source": "Vendor"
   },
   "Overcast Handwraps": {
@@ -7239,7 +7259,7 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "RecipeID": 1,
+    "RecipeID": 44525,
     "Source": "Vendor"
   },
   "Overcast Belt": {
@@ -7254,7 +7274,7 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "RecipeID": 1,
+    "RecipeID": 44526,
     "Source": "Vendor"
   },
   "Overcast Leggings": {
@@ -7269,7 +7289,7 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "RecipeID": 1,
+    "RecipeID": 44527,
     "Source": "Vendor"
   },
   "Overcast Boots": {
@@ -7284,7 +7304,7 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "RecipeID": 1,
+    "RecipeID": 44528,
     "Source": "Vendor"
   },
   "Swiftarrow Helm": {
@@ -7299,7 +7319,7 @@
     "Yellow": 425,
     "Green": 430,
     "Grey": 435,
-    "RecipeID": 1,
+    "RecipeID": 44530,
     "Source": "Vendor"
   },
   "Swiftarrow Shoulderguards": {
@@ -7314,7 +7334,7 @@
     "Yellow": 425,
     "Green": 430,
     "Grey": 435,
-    "RecipeID": 1,
+    "RecipeID": 44531,
     "Source": "Vendor"
   },
   "Swiftarrow Hauberk": {
@@ -7329,7 +7349,7 @@
     "Yellow": 425,
     "Green": 430,
     "Grey": 435,
-    "RecipeID": 1,
+    "RecipeID": 44532,
     "Source": "Vendor"
   },
   "Swiftarrow Bracers": {
@@ -7344,7 +7364,7 @@
     "Yellow": 425,
     "Green": 430,
     "Grey": 435,
-    "RecipeID": 1,
+    "RecipeID": 44533,
     "Source": "Vendor"
   },
   "Swiftarrow Gauntlets": {
@@ -7359,7 +7379,7 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "RecipeID": 1,
+    "RecipeID": 44534,
     "Source": "Vendor"
   },
   "Swiftarrow Belt": {
@@ -7374,7 +7394,7 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "RecipeID": 1,
+    "RecipeID": 44535,
     "Source": "Vendor"
   },
   "Swiftarrow Leggings": {
@@ -7389,7 +7409,7 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "RecipeID": 1,
+    "RecipeID": 44536,
     "Source": "Vendor"
   },
   "Swiftarrow Boots": {
@@ -7404,7 +7424,7 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "RecipeID": 1,
+    "RecipeID": 44537,
     "Source": "Vendor"
   },
   "Stormhide Crown": {
@@ -7419,7 +7439,7 @@
     "Yellow": 425,
     "Green": 430,
     "Grey": 435,
-    "RecipeID": 1,
+    "RecipeID": 44538,
     "Source": "Vendor"
   },
   "Stormhide Shoulders": {
@@ -7434,7 +7454,7 @@
     "Yellow": 425,
     "Green": 430,
     "Grey": 435,
-    "RecipeID": 1,
+    "RecipeID": 44539,
     "Source": "Vendor"
   },
   "Stormhide Hauberk": {
@@ -7449,7 +7469,7 @@
     "Yellow": 425,
     "Green": 430,
     "Grey": 435,
-    "RecipeID": 1,
+    "RecipeID": 44540,
     "Source": "Vendor"
   },
   "Stormhide Wristguards": {
@@ -7464,7 +7484,7 @@
     "Yellow": 425,
     "Green": 430,
     "Grey": 435,
-    "RecipeID": 1,
+    "RecipeID": 44541,
     "Source": "Vendor"
   },
   "Stormhide Grips": {
@@ -7479,7 +7499,7 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "RecipeID": 1,
+    "RecipeID": 44542,
     "Source": "Vendor"
   },
   "Stormhide Belt": {
@@ -7494,7 +7514,7 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "RecipeID": 1,
+    "RecipeID": 44543,
     "Source": "Vendor"
   },
   "Stormhide Legguards": {
@@ -7509,7 +7529,7 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "RecipeID": 1,
+    "RecipeID": 44544,
     "Source": "Vendor"
   },
   "Stormhide Stompers": {
@@ -7524,7 +7544,7 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "RecipeID": 1,
+    "RecipeID": 44545,
     "Source": "Vendor"
   },
   "Giantmaim Legguards": {
@@ -7541,7 +7561,7 @@
     "Yellow": 450,
     "Green": 455,
     "Grey": 460,
-    "RecipeID": 1,
+    "RecipeID": 44546,
     "Source": "Vendor"
   },
   "Giantmaim Bracers": {
@@ -7558,7 +7578,7 @@
     "Yellow": 450,
     "Green": 455,
     "Grey": 460,
-    "RecipeID": 1,
+    "RecipeID": 44547,
     "Source": "Vendor"
   },
   "Revenant's Breastplate": {
@@ -7574,7 +7594,7 @@
     "Yellow": 450,
     "Green": 455,
     "Grey": 460,
-    "RecipeID": 1,
+    "RecipeID": 44548,
     "Source": "Vendor"
   },
   "Revenant's Treads": {
@@ -7590,7 +7610,7 @@
     "Yellow": 450,
     "Green": 455,
     "Grey": 460,
-    "RecipeID": 1,
+    "RecipeID": 44549,
     "Source": "Vendor"
   },
   "Trollwoven Spaulders": {
@@ -7607,7 +7627,7 @@
     "Yellow": 450,
     "Green": 455,
     "Grey": 460,
-    "RecipeID": 1,
+    "RecipeID": 44550,
     "Source": "Vendor"
   },
   "Trollwoven Girdle": {
@@ -7624,7 +7644,7 @@
     "Yellow": 450,
     "Green": 455,
     "Grey": 460,
-    "RecipeID": 1,
+    "RecipeID": 44551,
     "Source": "Vendor"
   },
   "Earthgiving Legguards": {
@@ -7641,7 +7661,7 @@
     "Yellow": 450,
     "Green": 455,
     "Grey": 460,
-    "RecipeID": 1,
+    "RecipeID": 44552,
     "Source": "Vendor"
   },
   "Earthgiving Boots": {
@@ -7658,7 +7678,7 @@
     "Yellow": 450,
     "Green": 455,
     "Grey": 460,
-    "RecipeID": 1,
+    "RecipeID": 44553,
     "Source": "Vendor"
   },
   "Polar Vest": {
@@ -7676,7 +7696,7 @@
     "Yellow": 435,
     "Green": 445,
     "Grey": 455,
-    "RecipeID": 1,
+    "RecipeID": 44584,
     "Source": "Vendor"
   },
   "Polar Cord": {
@@ -7694,7 +7714,7 @@
     "Yellow": 430,
     "Green": 440,
     "Grey": 450,
-    "RecipeID": 1,
+    "RecipeID": 44585,
     "Source": "Vendor"
   },
   "Polar Boots": {
@@ -7712,7 +7732,7 @@
     "Yellow": 430,
     "Green": 440,
     "Grey": 450,
-    "RecipeID": 1,
+    "RecipeID": 44586,
     "Source": "Vendor"
   },
   "Icy Scale Chestguard": {
@@ -7730,7 +7750,7 @@
     "Yellow": 435,
     "Green": 445,
     "Grey": 455,
-    "RecipeID": 1,
+    "RecipeID": 44587,
     "Source": "Vendor"
   },
   "Icy Scale Belt": {
@@ -7748,7 +7768,7 @@
     "Yellow": 430,
     "Green": 440,
     "Grey": 450,
-    "RecipeID": 1,
+    "RecipeID": 44588,
     "Source": "Vendor"
   },
   "Icy Scale Boots": {
@@ -7766,7 +7786,7 @@
     "Yellow": 430,
     "Green": 440,
     "Grey": 450,
-    "RecipeID": 1,
+    "RecipeID": 44589,
     "Source": "Vendor"
   },
   "Windripper Boots": {
@@ -7783,7 +7803,7 @@
     "Yellow": 450,
     "Green": 455,
     "Grey": 460,
-    "RecipeID": 1,
+    "RecipeID": 44932,
     "Source": "Vendor"
   },
   "Windripper Leggings": {
@@ -7800,7 +7820,7 @@
     "Yellow": 450,
     "Green": 455,
     "Grey": 460,
-    "RecipeID": 1,
+    "RecipeID": 44933,
     "Source": "Vendor"
   },
   "Earthen Leg Armor": {
@@ -7831,7 +7851,7 @@
     "Yellow": 455,
     "Green": 465,
     "Grey": 475,
-    "RecipeID": 1,
+    "RecipeID": 45094,
     "Source": "Drop"
   },
   "Boots of Living Scale": {
@@ -7847,7 +7867,7 @@
     "Yellow": 455,
     "Green": 465,
     "Grey": 475,
-    "RecipeID": 1,
+    "RecipeID": 45095,
     "Source": "Drop"
   },
   "Blue Belt of Chaos": {
@@ -7863,7 +7883,7 @@
     "Yellow": 455,
     "Green": 465,
     "Grey": 475,
-    "RecipeID": 1,
+    "RecipeID": 45096,
     "Source": "Drop"
   },
   "Lightning Grounded Boots": {
@@ -7879,7 +7899,7 @@
     "Yellow": 455,
     "Green": 465,
     "Grey": 475,
-    "RecipeID": 1,
+    "RecipeID": 45097,
     "Source": "Drop"
   },
   "Death-warmed Belt": {
@@ -7895,7 +7915,7 @@
     "Yellow": 455,
     "Green": 465,
     "Grey": 475,
-    "RecipeID": 1,
+    "RecipeID": 45098,
     "Source": "Drop"
   },
   "Footpads of Silence": {
@@ -7911,7 +7931,7 @@
     "Yellow": 455,
     "Green": 465,
     "Grey": 475,
-    "RecipeID": 1,
+    "RecipeID": 45099,
     "Source": "Drop"
   },
   "Belt of Arctic Life": {
@@ -7927,7 +7947,7 @@
     "Yellow": 455,
     "Green": 465,
     "Grey": 475,
-    "RecipeID": 1,
+    "RecipeID": 45100,
     "Source": "Drop"
   },
   "Boots of Wintry Endurance": {
@@ -7943,7 +7963,7 @@
     "Yellow": 455,
     "Green": 465,
     "Grey": 475,
-    "RecipeID": 1,
+    "RecipeID": 45101,
     "Source": "Drop"
   },
   "Borean Leather": {
@@ -7974,7 +7994,7 @@
     "Yellow": 460,
     "Green": 467,
     "Grey": 475,
-    "RecipeID": 1,
+    "RecipeID": 47650,
     "Source": "Drop"
   },
   "Black Chitin Bracers": {
@@ -7991,7 +8011,7 @@
     "Yellow": 460,
     "Green": 467,
     "Grey": 475,
-    "RecipeID": 1,
+    "RecipeID": 47646,
     "Source": "Drop"
   },
   "Crusader's Dragonscale Breastplate": {
@@ -8009,7 +8029,7 @@
     "Yellow": 460,
     "Green": 467,
     "Grey": 475,
-    "RecipeID": 1,
+    "RecipeID": 47649,
     "Source": "Drop"
   },
   "Crusader's Dragonscale Bracers": {
@@ -8026,7 +8046,7 @@
     "Yellow": 460,
     "Green": 467,
     "Grey": 475,
-    "RecipeID": 1,
+    "RecipeID": 47648,
     "Source": "Drop"
   },
   "Lunar Eclipse Robes": {
@@ -8043,7 +8063,7 @@
     "Yellow": 460,
     "Green": 467,
     "Grey": 475,
-    "RecipeID": 1,
+    "RecipeID": 47652,
     "Source": "Drop"
   },
   "Moonshadow Armguards": {
@@ -8060,7 +8080,7 @@
     "Yellow": 460,
     "Green": 467,
     "Grey": 475,
-    "RecipeID": 1,
+    "RecipeID": 47653,
     "Source": "Drop"
   },
   "Knightbane Carapace": {
@@ -8077,7 +8097,7 @@
     "Yellow": 460,
     "Green": 467,
     "Grey": 475,
-    "RecipeID": 1,
+    "RecipeID": 47651,
     "Source": "Drop"
   },
   "Bracers of Swift Death": {
@@ -8094,7 +8114,7 @@
     "Yellow": 460,
     "Green": 467,
     "Grey": 475,
-    "RecipeID": 1,
+    "RecipeID": 47647,
     "Source": "Drop"
   },
   "Drums of Forgotten Kings": {
@@ -8139,6 +8159,7 @@
     "Yellow": 475,
     "Green": 487,
     "Grey": 500,
+    "RecipeID": 49957,
     "Source": "Trainer"
   },
   "Blessed Cenarion Boots": {
@@ -8155,6 +8176,7 @@
     "Yellow": 475,
     "Green": 487,
     "Grey": 500,
+    "RecipeID": 49958,
     "Source": "Trainer"
   },
   "Bladeborn Leggings": {
@@ -8171,6 +8193,7 @@
     "Yellow": 475,
     "Green": 487,
     "Grey": 500,
+    "RecipeID": 49959,
     "Source": "Trainer"
   },
   "Footpads of Impending Death": {
@@ -8187,6 +8210,7 @@
     "Yellow": 475,
     "Green": 487,
     "Grey": 500,
+    "RecipeID": 49961,
     "Source": "Trainer"
   },
   "Lightning-Infused Leggings": {
@@ -8203,6 +8227,7 @@
     "Yellow": 475,
     "Green": 487,
     "Grey": 500,
+    "RecipeID": 49962,
     "Source": "Trainer"
   },
   "Earthsoul Boots": {
@@ -8219,6 +8244,7 @@
     "Yellow": 475,
     "Green": 487,
     "Grey": 500,
+    "RecipeID": 49963,
     "Source": "Trainer"
   },
   "Draconic Bonesplinter Legguards": {
@@ -8235,6 +8261,7 @@
     "Yellow": 475,
     "Green": 487,
     "Grey": 500,
+    "RecipeID": 49965,
     "Source": "Trainer"
   },
   "Rock-Steady Treads": {
@@ -8251,6 +8278,7 @@
     "Yellow": 475,
     "Green": 487,
     "Grey": 500,
+    "RecipeID": 49966,
     "Source": "Trainer"
   },
   "Greater Drums of War": {
@@ -8265,6 +8293,7 @@
     "Yellow": 340,
     "Green": 347,
     "Grey": 355,
+    "RecipeID": 185922,
     "Source": "Trainer"
   },
   "Greater Drums of Speed": {
@@ -8279,8 +8308,8 @@
     "Yellow": 345,
     "Green": 352,
     "Grey": 360,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 187049,
+    "Source": "Reputation"
   },
   "Greater Drums of Restoration": {
     "ID": 351769,
@@ -8294,8 +8323,8 @@
     "Yellow": 350,
     "Green": 357,
     "Grey": 365,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 187048,
+    "Source": "Reputation"
   },
   "Greater Drums of Panic": {
     "ID": 351770,
@@ -8309,8 +8338,8 @@
     "Yellow": 370,
     "Green": 377,
     "Grey": 385,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 185925,
+    "Source": "Reputation"
   },
   "Greater Drums of Battle": {
     "ID": 351771,
@@ -8324,7 +8353,7 @@
     "Yellow": 365,
     "Green": 372,
     "Grey": 380,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 185926,
+    "Source": "Reputation"
   }
 }

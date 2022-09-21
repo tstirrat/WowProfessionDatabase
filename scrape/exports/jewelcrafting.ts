@@ -1,5 +1,7 @@
 import {WHItemMap} from "../types";
 
+export { recipes } from "./jewelcrafting_recipes";
+
 export const items: WHItemMap = {
   2840: {
     name_enus: "Copper Bar",

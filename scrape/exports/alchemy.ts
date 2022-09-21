@@ -1,5 +1,7 @@
 import { WHItemMap, WHSpell } from "../types";
 
+export { recipes } from "./alchemy_recipes";
+
 export const items: WHItemMap = {
   "2449": {
     name_enus: "Earthroot",

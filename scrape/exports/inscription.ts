@@ -1,5 +1,7 @@
 import { WHSpell } from "../types";
 
+export { recipes } from "./inscription_recipes";
+
 import * as WH from "./wh";
 import { Listview } from "./wh";
 

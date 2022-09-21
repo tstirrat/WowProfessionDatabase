@@ -1,5 +1,7 @@
 import { WHItemMap, WHSpell } from "../types";
 
+export { recipes } from "./engineering_recipes";
+
 export const items: WHItemMap = {
   "2835": {
     name_enus: "Rough Stone",

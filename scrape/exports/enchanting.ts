@@ -1,5 +1,7 @@
 import { WHItemMap, WHSpell } from "../types";
 
+export { recipes } from "./enchanting_recipes";
+
 export const items: WHItemMap = {
   6217: {
     name_enus: "Copper Rod",

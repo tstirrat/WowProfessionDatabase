@@ -72,7 +72,7 @@
     "Yellow": 165,
     "Green": 185,
     "Grey": 205,
-    "RecipeID": 1,
+    "RecipeID": 3396,
     "Source": "Drop"
   },
   "Elixir of Minor Fortitude": {
@@ -103,7 +103,7 @@
     "Yellow": 90,
     "Green": 110,
     "Grey": 130,
-    "RecipeID": 1,
+    "RecipeID": 2555,
     "Source": "Drop"
   },
   "Lesser Healing Potion": {
@@ -163,7 +163,7 @@
     "Yellow": 135,
     "Green": 155,
     "Grey": 175,
-    "RecipeID": 1,
+    "RecipeID": 3393,
     "Source": "Drop"
   },
   "Lesser Mana Potion": {
@@ -194,7 +194,7 @@
     "Yellow": 145,
     "Green": 165,
     "Grey": 185,
-    "RecipeID": 1,
+    "RecipeID": 3394,
     "Source": "Drop"
   },
   "Limited Invulnerability Potion": {
@@ -210,7 +210,7 @@
     "Yellow": 275,
     "Green": 295,
     "Grey": 315,
-    "RecipeID": 1,
+    "RecipeID": 3395,
     "Source": "Drop"
   },
   "Strong Troll's Blood Elixir": {
@@ -256,7 +256,7 @@
     "Yellow": 175,
     "Green": 195,
     "Grey": 215,
-    "RecipeID": 1,
+    "RecipeID": 6211,
     "Source": "Drop"
   },
   "Elixir of Minor Agility": {
@@ -272,7 +272,7 @@
     "Yellow": 80,
     "Green": 100,
     "Grey": 120,
-    "RecipeID": 1,
+    "RecipeID": 2553,
     "Source": "Drop"
   },
   "Healing Potion": {
@@ -318,7 +318,7 @@
     "Yellow": 190,
     "Green": 210,
     "Grey": 230,
-    "RecipeID": 1,
+    "RecipeID": 6068,
     "Source": "Vendor"
   },
   "Elixir of Fortitude": {
@@ -334,6 +334,7 @@
     "Yellow": 195,
     "Green": 215,
     "Grey": 235,
+    "RecipeID": 3830,
     "Source": "Trainer"
   },
   "Major Troll's Blood Elixir": {
@@ -349,7 +350,7 @@
     "Yellow": 200,
     "Green": 220,
     "Grey": 240,
-    "RecipeID": 1,
+    "RecipeID": 3831,
     "Source": "Drop"
   },
   "Mana Potion": {
@@ -380,7 +381,7 @@
     "Yellow": 215,
     "Green": 235,
     "Grey": 255,
-    "RecipeID": 1,
+    "RecipeID": 3832,
     "Source": "Drop"
   },
   "Frost Oil": {
@@ -396,7 +397,7 @@
     "Yellow": 220,
     "Green": 240,
     "Grey": 260,
-    "RecipeID": 1,
+    "RecipeID": 14634,
     "Source": "Vendor"
   },
   "Discolored Healing Potion": {
@@ -412,7 +413,7 @@
     "Yellow": 80,
     "Green": 100,
     "Grey": 120,
-    "RecipeID": 1,
+    "RecipeID": 4597,
     "Source": "Drop"
   },
   "Lesser Stoneshield Potion": {
@@ -428,7 +429,7 @@
     "Yellow": 230,
     "Green": 250,
     "Grey": 270,
-    "RecipeID": 1,
+    "RecipeID": 4624,
     "Source": "Drop"
   },
   "Rage Potion": {
@@ -443,7 +444,7 @@
     "Yellow": 90,
     "Green": 110,
     "Grey": 130,
-    "RecipeID": 1,
+    "RecipeID": 5640,
     "Source": "Vendor"
   },
   "Great Rage Potion": {
@@ -459,7 +460,7 @@
     "Yellow": 195,
     "Green": 215,
     "Grey": 235,
-    "RecipeID": 1,
+    "RecipeID": 5643,
     "Source": "Vendor"
   },
   "Free Action Potion": {
@@ -475,7 +476,7 @@
     "Yellow": 175,
     "Green": 195,
     "Grey": 215,
-    "RecipeID": 1,
+    "RecipeID": 5642,
     "Source": "Vendor"
   },
   "Elixir of Water Breathing": {
@@ -535,7 +536,7 @@
     "Yellow": 130,
     "Green": 150,
     "Grey": 170,
-    "RecipeID": 1,
+    "RecipeID": 6053,
     "Source": "Vendor"
   },
   "Shadow Protection Potion": {
@@ -551,7 +552,7 @@
     "Yellow": 160,
     "Green": 180,
     "Grey": 200,
-    "RecipeID": 1,
+    "RecipeID": 6054,
     "Source": "Vendor"
   },
   "Fire Protection Potion": {
@@ -567,7 +568,7 @@
     "Yellow": 210,
     "Green": 230,
     "Grey": 250,
-    "RecipeID": 1,
+    "RecipeID": 6055,
     "Source": "Vendor"
   },
   "Frost Protection Potion": {
@@ -583,7 +584,7 @@
     "Yellow": 205,
     "Green": 225,
     "Grey": 245,
-    "RecipeID": 1,
+    "RecipeID": 6056,
     "Source": "Vendor"
   },
   "Nature Protection Potion": {
@@ -599,7 +600,7 @@
     "Yellow": 210,
     "Green": 230,
     "Grey": 250,
-    "RecipeID": 1,
+    "RecipeID": 6057,
     "Source": "Vendor"
   },
   "Blackmouth Oil": {
@@ -671,7 +672,7 @@
     "Yellow": 120,
     "Green": 140,
     "Grey": 160,
-    "RecipeID": 1,
+    "RecipeID": 6663,
     "Source": "Drop"
   },
   "Greater Mana Potion": {
@@ -762,7 +763,7 @@
     "Yellow": 225,
     "Green": 245,
     "Grey": 265,
-    "RecipeID": 1,
+    "RecipeID": 9293,
     "Source": "Drop"
   },
   "Goblin Rocket Fuel": {
@@ -778,7 +779,7 @@
     "Yellow": 225,
     "Green": 245,
     "Grey": 265,
-    "RecipeID": 1,
+    "RecipeID": 10644,
     "Source": "Drop"
   },
   "Superior Healing Potion": {
@@ -809,7 +810,7 @@
     "Yellow": 240,
     "Green": 260,
     "Grey": 280,
-    "RecipeID": 1,
+    "RecipeID": 9294,
     "Source": "Drop"
   },
   "Philosopher's Stone": {
@@ -826,7 +827,7 @@
     "Yellow": 240,
     "Green": 260,
     "Grey": 280,
-    "RecipeID": 1,
+    "RecipeID": 9303,
     "Source": "Vendor"
   },
   "Elixir of Detect Undead": {
@@ -871,7 +872,7 @@
     "Yellow": 250,
     "Green": 270,
     "Grey": 290,
-    "RecipeID": 1,
+    "RecipeID": 9295,
     "Source": "Drop"
   },
   "Elixir of Greater Intellect": {
@@ -902,7 +903,7 @@
     "Yellow": 255,
     "Green": 275,
     "Grey": 295,
-    "RecipeID": 1,
+    "RecipeID": 9296,
     "Source": "Drop"
   },
   "Elixir of Greater Agility": {
@@ -932,7 +933,7 @@
     "Yellow": 255,
     "Green": 275,
     "Grey": 295,
-    "RecipeID": 1,
+    "RecipeID": 9297,
     "Source": "Drop"
   },
   "Elixir of Giants": {
@@ -948,7 +949,7 @@
     "Yellow": 260,
     "Green": 280,
     "Grey": 300,
-    "RecipeID": 1,
+    "RecipeID": 9298,
     "Source": "Drop"
   },
   "Ghost Dye": {
@@ -964,7 +965,7 @@
     "Yellow": 260,
     "Green": 280,
     "Grey": 300,
-    "RecipeID": 1,
+    "RecipeID": 9302,
     "Source": "Vendor"
   },
   "Elixir of Shadow Power": {
@@ -979,7 +980,7 @@
     "Yellow": 265,
     "Green": 285,
     "Grey": 305,
-    "RecipeID": 1,
+    "RecipeID": 9301,
     "Source": "Vendor"
   },
   "Elixir of Demonslaying": {
@@ -995,7 +996,7 @@
     "Yellow": 265,
     "Green": 285,
     "Grey": 305,
-    "RecipeID": 1,
+    "RecipeID": 9300,
     "Source": "Vendor"
   },
   "Elixir of Detect Demon": {
@@ -1023,7 +1024,6 @@
     "Yellow": 240,
     "Green": 260,
     "Grey": 280,
-    "RecipeID": 1,
     "Source": "Vendor"
   },
   "Transmute: Mithril to Truesilver": {
@@ -1080,7 +1080,6 @@
     "Yellow": 275,
     "Green": 282,
     "Grey": 290,
-    "RecipeID": 1,
     "Source": "Vendor"
   },
   "Stonescale Oil": {
@@ -1108,6 +1107,7 @@
     "Yellow": 270,
     "Green": 290,
     "Grey": 310,
+    "RecipeID": 13476,
     "Source": "Trainer"
   },
   "Superior Mana Potion": {
@@ -1123,6 +1123,7 @@
     "Yellow": 275,
     "Green": 295,
     "Grey": 315,
+    "RecipeID": 13477,
     "Source": "Trainer"
   },
   "Elixir of Superior Defense": {
@@ -1138,7 +1139,7 @@
     "Yellow": 280,
     "Green": 300,
     "Grey": 320,
-    "RecipeID": 1,
+    "RecipeID": 13478,
     "Source": "Vendor"
   },
   "Elixir of the Sages": {
@@ -1154,6 +1155,7 @@
     "Yellow": 285,
     "Green": 305,
     "Grey": 325,
+    "RecipeID": 13479,
     "Source": "Trainer"
   },
   "Major Healing Potion": {
@@ -1169,6 +1171,7 @@
     "Yellow": 290,
     "Green": 310,
     "Grey": 330,
+    "RecipeID": 13480,
     "Source": "Trainer"
   },
   "Elixir of Brute Force": {
@@ -1184,6 +1187,7 @@
     "Yellow": 290,
     "Green": 310,
     "Grey": 330,
+    "RecipeID": 13481,
     "Source": "Trainer"
   },
   "Transmute: Air to Fire": {
@@ -1197,7 +1201,6 @@
     "Yellow": 275,
     "Green": 282,
     "Grey": 290,
-    "RecipeID": 1,
     "Source": "Vendor"
   },
   "Transmute: Fire to Earth": {
@@ -1211,7 +1214,6 @@
     "Yellow": 275,
     "Green": 282,
     "Grey": 290,
-    "RecipeID": 1,
     "Source": "Vendor"
   },
   "Transmute: Earth to Water": {
@@ -1225,7 +1227,6 @@
     "Yellow": 275,
     "Green": 282,
     "Grey": 290,
-    "RecipeID": 1,
     "Source": "Vendor"
   },
   "Transmute: Water to Air": {
@@ -1239,7 +1240,6 @@
     "Yellow": 275,
     "Green": 282,
     "Grey": 290,
-    "RecipeID": 1,
     "Source": "Vendor"
   },
   "Transmute: Undeath to Water": {
@@ -1253,7 +1253,6 @@
     "Yellow": 275,
     "Green": 282,
     "Grey": 290,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Transmute: Water to Undeath": {
@@ -1267,7 +1266,6 @@
     "Yellow": 275,
     "Green": 282,
     "Grey": 290,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Transmute: Life to Earth": {
@@ -1281,7 +1279,6 @@
     "Yellow": 275,
     "Green": 282,
     "Grey": 290,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Transmute: Earth to Life": {
@@ -1295,7 +1292,6 @@
     "Yellow": 275,
     "Green": 282,
     "Grey": 290,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Greater Stoneshield Potion": {
@@ -1311,7 +1307,7 @@
     "Yellow": 295,
     "Green": 315,
     "Grey": 335,
-    "RecipeID": 1,
+    "RecipeID": 13490,
     "Source": "Drop"
   },
   "Elixir of the Mongoose": {
@@ -1327,7 +1323,7 @@
     "Yellow": 295,
     "Green": 315,
     "Grey": 335,
-    "RecipeID": 1,
+    "RecipeID": 13491,
     "Source": "Drop"
   },
   "Purification Potion": {
@@ -1343,6 +1339,7 @@
     "Yellow": 300,
     "Green": 320,
     "Grey": 340,
+    "RecipeID": 13492,
     "Source": "Trainer"
   },
   "Greater Arcane Elixir": {
@@ -1358,6 +1355,7 @@
     "Yellow": 300,
     "Green": 320,
     "Grey": 340,
+    "RecipeID": 13493,
     "Source": "Trainer"
   },
   "Greater Fire Protection Potion": {
@@ -1373,7 +1371,7 @@
     "Yellow": 305,
     "Green": 325,
     "Grey": 345,
-    "RecipeID": 1,
+    "RecipeID": 13494,
     "Source": "Drop"
   },
   "Greater Frost Protection Potion": {
@@ -1389,7 +1387,7 @@
     "Yellow": 305,
     "Green": 325,
     "Grey": 345,
-    "RecipeID": 1,
+    "RecipeID": 13495,
     "Source": "Drop"
   },
   "Greater Nature Protection Potion": {
@@ -1405,7 +1403,7 @@
     "Yellow": 305,
     "Green": 325,
     "Grey": 345,
-    "RecipeID": 1,
+    "RecipeID": 13496,
     "Source": "Drop"
   },
   "Greater Arcane Protection Potion": {
@@ -1421,7 +1419,7 @@
     "Yellow": 305,
     "Green": 325,
     "Grey": 345,
-    "RecipeID": 1,
+    "RecipeID": 13497,
     "Source": "Drop"
   },
   "Greater Shadow Protection Potion": {
@@ -1437,7 +1435,7 @@
     "Yellow": 305,
     "Green": 325,
     "Grey": 345,
-    "RecipeID": 1,
+    "RecipeID": 13499,
     "Source": "Drop"
   },
   "Major Mana Potion": {
@@ -1453,7 +1451,7 @@
     "Yellow": 310,
     "Green": 330,
     "Grey": 350,
-    "RecipeID": 1,
+    "RecipeID": 13501,
     "Source": "Vendor"
   },
   "Alchemist's Stone": {
@@ -1471,8 +1469,8 @@
     "Yellow": 365,
     "Green": 372,
     "Grey": 380,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 13517,
+    "Source": "Reputation"
   },
   "Potion of Petrification": {
     "ID": 17634,
@@ -1486,7 +1484,7 @@
     "Yellow": 315,
     "Green": 322,
     "Grey": 330,
-    "RecipeID": 1,
+    "RecipeID": 13518,
     "Source": "Drop"
   },
   "Flask of the Titans": {
@@ -1503,8 +1501,8 @@
     "Yellow": 315,
     "Green": 322,
     "Grey": 330,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 31354,
+    "Source": "Reputation"
   },
   "Flask of Distilled Wisdom": {
     "ID": 17636,
@@ -1520,8 +1518,8 @@
     "Yellow": 315,
     "Green": 322,
     "Grey": 330,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 31356,
+    "Source": "Reputation"
   },
   "Flask of Supreme Power": {
     "ID": 17637,
@@ -1537,8 +1535,8 @@
     "Yellow": 315,
     "Green": 322,
     "Grey": 330,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 31355,
+    "Source": "Reputation"
   },
   "Flask of Chromatic Resistance": {
     "ID": 17638,
@@ -1554,8 +1552,8 @@
     "Yellow": 315,
     "Green": 322,
     "Grey": 330,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 31357,
+    "Source": "Reputation"
   },
   "Elixir of Frost Power": {
     "ID": 21923,
@@ -1570,7 +1568,7 @@
     "Yellow": 210,
     "Green": 230,
     "Grey": 250,
-    "RecipeID": 1,
+    "RecipeID": 17709,
     "Source": "Drop"
   },
   "Major Rejuvenation Potion": {
@@ -1587,7 +1585,7 @@
     "Yellow": 310,
     "Green": 320,
     "Grey": 330,
-    "RecipeID": 1,
+    "RecipeID": 18257,
     "Source": "Drop"
   },
   "Elixir of Greater Water Breathing": {
@@ -1634,8 +1632,8 @@
     "Yellow": 290,
     "Green": 310,
     "Grey": 330,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 20011,
+    "Source": "Reputation"
   },
   "Greater Dreamless Sleep Potion": {
     "ID": 24366,
@@ -1650,8 +1648,8 @@
     "Yellow": 290,
     "Green": 310,
     "Grey": 330,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 20012,
+    "Source": "Reputation"
   },
   "Living Action Potion": {
     "ID": 24367,
@@ -1667,8 +1665,8 @@
     "Yellow": 300,
     "Green": 320,
     "Grey": 340,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 20013,
+    "Source": "Reputation"
   },
   "Mighty Troll's Blood Elixir": {
     "ID": 24368,
@@ -1683,8 +1681,8 @@
     "Yellow": 305,
     "Green": 325,
     "Grey": 345,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 20014,
+    "Source": "Reputation"
   },
   "Transmute: Elemental Fire": {
     "ID": 25146,
@@ -1697,7 +1695,6 @@
     "Yellow": 301,
     "Green": 305,
     "Grey": 310,
-    "RecipeID": 1,
     "Source": "Vendor"
   },
   "Elixir of Greater Firepower": {
@@ -1713,7 +1710,7 @@
     "Yellow": 265,
     "Green": 285,
     "Grey": 305,
-    "RecipeID": 1,
+    "RecipeID": 21547,
     "Source": "Drop"
   },
   "Elixir of Camouflage": {
@@ -1729,7 +1726,7 @@
     "Yellow": 320,
     "Green": 327,
     "Grey": 335,
-    "RecipeID": 1,
+    "RecipeID": 22900,
     "Source": "Vendor"
   },
   "Elixir of Major Strength": {
@@ -1775,7 +1772,7 @@
     "Yellow": 330,
     "Green": 337,
     "Grey": 345,
-    "RecipeID": 1,
+    "RecipeID": 22901,
     "Source": "Vendor"
   },
   "Elixir of Major Frost Power": {
@@ -1791,7 +1788,7 @@
     "Yellow": 335,
     "Green": 342,
     "Grey": 350,
-    "RecipeID": 1,
+    "RecipeID": 22902,
     "Source": "Vendor"
   },
   "Insane Strength Potion": {
@@ -1806,7 +1803,7 @@
     "Yellow": 335,
     "Green": 342,
     "Grey": 350,
-    "RecipeID": 1,
+    "RecipeID": 22903,
     "Source": "Drop"
   },
   "Super Healing Potion": {
@@ -1837,7 +1834,7 @@
     "Yellow": 340,
     "Green": 347,
     "Grey": 355,
-    "RecipeID": 1,
+    "RecipeID": 22904,
     "Source": "Drop"
   },
   "Elixir of Major Agility": {
@@ -1853,8 +1850,8 @@
     "Yellow": 345,
     "Green": 352,
     "Grey": 360,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 24001,
+    "Source": "Reputation"
   },
   "Shrouding Potion": {
     "ID": 28554,
@@ -1869,8 +1866,8 @@
     "Yellow": 350,
     "Green": 357,
     "Grey": 365,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 22906,
+    "Source": "Reputation"
   },
   "Super Mana Potion": {
     "ID": 28555,
@@ -1885,7 +1882,7 @@
     "Yellow": 355,
     "Green": 362,
     "Grey": 370,
-    "RecipeID": 1,
+    "RecipeID": 22907,
     "Source": "Vendor"
   },
   "Elixir of Major Firepower": {
@@ -1901,8 +1898,8 @@
     "Yellow": 360,
     "Green": 367,
     "Grey": 375,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 22908,
+    "Source": "Reputation"
   },
   "Elixir of Major Defense": {
     "ID": 28557,
@@ -1917,7 +1914,7 @@
     "Yellow": 360,
     "Green": 367,
     "Grey": 375,
-    "RecipeID": 1,
+    "RecipeID": 22909,
     "Source": "Vendor"
   },
   "Elixir of Major Shadow Power": {
@@ -1933,8 +1930,8 @@
     "Yellow": 365,
     "Green": 372,
     "Grey": 380,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 22910,
+    "Source": "Reputation"
   },
   "Major Dreamless Sleep Potion": {
     "ID": 28562,
@@ -1949,7 +1946,7 @@
     "Yellow": 365,
     "Green": 372,
     "Grey": 380,
-    "RecipeID": 1,
+    "RecipeID": 22911,
     "Source": "Vendor"
   },
   "Heroic Potion": {
@@ -1965,7 +1962,7 @@
     "Yellow": 365,
     "Green": 372,
     "Grey": 380,
-    "RecipeID": 1,
+    "RecipeID": 22912,
     "Source": "Drop"
   },
   "Haste Potion": {
@@ -1981,7 +1978,7 @@
     "Yellow": 365,
     "Green": 372,
     "Grey": 380,
-    "RecipeID": 1,
+    "RecipeID": 35295,
     "Source": "Drop"
   },
   "Destruction Potion": {
@@ -1997,7 +1994,7 @@
     "Yellow": 365,
     "Green": 372,
     "Grey": 380,
-    "RecipeID": 1,
+    "RecipeID": 22914,
     "Source": "Drop"
   },
   "Transmute: Primal Air to Fire": {
@@ -2011,7 +2008,6 @@
     "Yellow": 365,
     "Green": 372,
     "Grey": 380,
-    "RecipeID": 1,
     "Source": "Vendor"
   },
   "Transmute: Primal Earth to Water": {
@@ -2025,7 +2021,6 @@
     "Yellow": 365,
     "Green": 372,
     "Grey": 380,
-    "RecipeID": 1,
     "Source": "Vendor"
   },
   "Transmute: Primal Fire to Earth": {
@@ -2039,7 +2034,6 @@
     "Yellow": 365,
     "Green": 372,
     "Grey": 380,
-    "RecipeID": 1,
     "Source": "Vendor"
   },
   "Transmute: Primal Water to Air": {
@@ -2053,7 +2047,6 @@
     "Yellow": 365,
     "Green": 372,
     "Grey": 380,
-    "RecipeID": 1,
     "Source": "Vendor"
   },
   "Elixir of Major Mageblood": {
@@ -2069,7 +2062,7 @@
     "Yellow": 370,
     "Green": 375,
     "Grey": 380,
-    "RecipeID": 1,
+    "RecipeID": 22919,
     "Source": "Drop"
   },
   "Major Fire Protection Potion": {
@@ -2085,7 +2078,7 @@
     "Yellow": 375,
     "Green": 377,
     "Grey": 380,
-    "RecipeID": 1,
+    "RecipeID": 22920,
     "Source": "Drop"
   },
   "Major Frost Protection Potion": {
@@ -2101,7 +2094,7 @@
     "Yellow": 375,
     "Green": 377,
     "Grey": 380,
-    "RecipeID": 1,
+    "RecipeID": 22921,
     "Source": "Drop"
   },
   "Major Nature Protection Potion": {
@@ -2117,8 +2110,8 @@
     "Yellow": 375,
     "Green": 377,
     "Grey": 380,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 22922,
+    "Source": "Reputation"
   },
   "Major Arcane Protection Potion": {
     "ID": 28575,
@@ -2133,7 +2126,7 @@
     "Yellow": 375,
     "Green": 377,
     "Grey": 380,
-    "RecipeID": 1,
+    "RecipeID": 22923,
     "Source": "Drop"
   },
   "Major Shadow Protection Potion": {
@@ -2149,7 +2142,7 @@
     "Yellow": 375,
     "Green": 377,
     "Grey": 380,
-    "RecipeID": 1,
+    "RecipeID": 22924,
     "Source": "Drop"
   },
   "Major Holy Protection Potion": {
@@ -2165,7 +2158,7 @@
     "Yellow": 375,
     "Green": 377,
     "Grey": 380,
-    "RecipeID": 1,
+    "RecipeID": 22925,
     "Source": "Drop"
   },
   "Elixir of Empowerment": {
@@ -2181,7 +2174,7 @@
     "Yellow": 375,
     "Green": 377,
     "Grey": 380,
-    "RecipeID": 1,
+    "RecipeID": 35294,
     "Source": "Drop"
   },
   "Ironshield Potion": {
@@ -2197,7 +2190,7 @@
     "Yellow": 375,
     "Green": 377,
     "Grey": 380,
-    "RecipeID": 1,
+    "RecipeID": 22927,
     "Source": "Drop"
   },
   "Transmute: Primal Shadow to Water": {
@@ -2389,7 +2382,6 @@
     "Yellow": 365,
     "Green": 372,
     "Grey": 380,
-    "RecipeID": 1,
     "Source": "Vendor"
   },
   "Transmute: Earthstorm Diamond": {
@@ -2407,7 +2399,6 @@
     "Yellow": 365,
     "Green": 372,
     "Grey": 380,
-    "RecipeID": 1,
     "Source": "Vendor"
   },
   "Transmute: Skyfire Diamond": {
@@ -2425,7 +2416,6 @@
     "Yellow": 365,
     "Green": 372,
     "Grey": 380,
-    "RecipeID": 1,
     "Source": "Vendor"
   },
   "Volatile Healing Potion": {
@@ -2531,7 +2521,7 @@
     "Yellow": 350,
     "Green": 357,
     "Grey": 365,
-    "RecipeID": 1,
+    "RecipeID": 31680,
     "Source": "Drop"
   },
   "Fel Mana Potion": {
@@ -2547,7 +2537,7 @@
     "Yellow": 375,
     "Green": 377,
     "Grey": 380,
-    "RecipeID": 1,
+    "RecipeID": 31682,
     "Source": "Drop"
   },
   "Fel Regeneration Potion": {
@@ -2563,7 +2553,7 @@
     "Yellow": 360,
     "Green": 367,
     "Grey": 375,
-    "RecipeID": 1,
+    "RecipeID": 31681,
     "Source": "Drop"
   },
   "Elixir of Major Fortitude": {
@@ -2594,8 +2584,8 @@
     "Yellow": 335,
     "Green": 342,
     "Grey": 350,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 32070,
+    "Source": "Reputation"
   },
   "Elixir of Draenic Wisdom": {
     "ID": 39638,
@@ -2625,7 +2615,7 @@
     "Yellow": 345,
     "Green": 352,
     "Grey": 360,
-    "RecipeID": 1,
+    "RecipeID": 32071,
     "Source": "Vendor"
   },
   "Cauldron of Major Arcane Protection": {
@@ -2717,8 +2707,8 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 33209,
+    "Source": "Reputation"
   },
   "Mad Alchemist's Potion": {
     "ID": 45061,
@@ -2732,6 +2722,7 @@
     "Yellow": 335,
     "Green": 342,
     "Grey": 350,
+    "RecipeID": 34481,
     "Source": "Trainer"
   },
   "Guardian's Alchemist Stone": {
@@ -2747,8 +2738,8 @@
     "Yellow": 380,
     "Green": 385,
     "Grey": 390,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 35752,
+    "Source": "Reputation"
   },
   "Sorcerer's Alchemist Stone": {
     "ID": 47048,
@@ -2763,8 +2754,8 @@
     "Yellow": 380,
     "Green": 385,
     "Grey": 390,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 35753,
+    "Source": "Reputation"
   },
   "Redeemer's Alchemist Stone": {
     "ID": 47049,
@@ -2779,8 +2770,8 @@
     "Yellow": 380,
     "Green": 385,
     "Grey": 390,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 35754,
+    "Source": "Reputation"
   },
   "Assassin's Alchemist Stone": {
     "ID": 47050,
@@ -2795,8 +2786,8 @@
     "Yellow": 380,
     "Green": 385,
     "Grey": 390,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 35755,
+    "Source": "Reputation"
   },
   "Transmute: Eternal Life to Shadow": {
     "ID": 53771,
@@ -3110,7 +3101,6 @@
     "Yellow": 415,
     "Green": 422,
     "Grey": 430,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Elixir of Mighty Fortitude": {
@@ -3218,7 +3208,6 @@
     "Yellow": 415,
     "Green": 422,
     "Grey": 430,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Indestructible Potion": {
@@ -3247,6 +3236,7 @@
     "Yellow": 410,
     "Green": 415,
     "Grey": 420,
+    "RecipeID": 44564,
     "Source": "Trainer"
   },
   "Mighty Frost Protection Potion": {
@@ -3261,6 +3251,7 @@
     "Yellow": 410,
     "Green": 415,
     "Grey": 420,
+    "RecipeID": 44566,
     "Source": "Trainer"
   },
   "Mighty Shadow Protection Potion": {
@@ -3275,6 +3266,7 @@
     "Yellow": 410,
     "Green": 415,
     "Grey": 420,
+    "RecipeID": 44568,
     "Source": "Trainer"
   },
   "Mighty Fire Protection Potion": {
@@ -3289,6 +3281,7 @@
     "Yellow": 410,
     "Green": 415,
     "Grey": 420,
+    "RecipeID": 44565,
     "Source": "Trainer"
   },
   "Mighty Nature Protection Potion": {
@@ -3303,6 +3296,7 @@
     "Yellow": 410,
     "Green": 415,
     "Grey": 420,
+    "RecipeID": 44567,
     "Source": "Trainer"
   },
   "Flask of Pure Mojo": {
@@ -3348,7 +3342,6 @@
     "Yellow": 415,
     "Green": 422,
     "Grey": 430,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Potion of Speed": {
@@ -3364,7 +3357,6 @@
     "Yellow": 415,
     "Green": 422,
     "Grey": 430,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Potion of Wild Magic": {
@@ -3380,7 +3372,6 @@
     "Yellow": 415,
     "Green": 422,
     "Grey": 430,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Elixir of Mighty Mageblood": {
@@ -3396,7 +3387,6 @@
     "Yellow": 415,
     "Green": 422,
     "Grey": 430,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Transmute: Skyflare Diamond": {
@@ -3483,7 +3473,6 @@
     "Yellow": 415,
     "Green": 422,
     "Grey": 430,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Elixir of Deadly Strikes": {
@@ -3499,7 +3488,6 @@
     "Yellow": 415,
     "Green": 422,
     "Grey": 430,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Elixir of Mighty Defense": {
@@ -3515,7 +3503,6 @@
     "Yellow": 415,
     "Green": 422,
     "Grey": 430,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Elixir of Expertise": {
@@ -3531,7 +3518,6 @@
     "Yellow": 415,
     "Green": 422,
     "Grey": 430,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Elixir of Armor Piercing": {
@@ -3546,7 +3532,6 @@
     "Yellow": 415,
     "Green": 422,
     "Grey": 430,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Elixir of Lightning Speed": {
@@ -3562,7 +3547,6 @@
     "Yellow": 415,
     "Green": 422,
     "Grey": 430,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Elixir of Mighty Thoughts": {
@@ -3679,7 +3663,6 @@
     "Yellow": 415,
     "Green": 422,
     "Grey": 430,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Elixir of Minor Accuracy": {
@@ -3723,7 +3706,6 @@
     "Yellow": 440,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Transmute: King's Amber": {
@@ -3793,6 +3775,7 @@
     "Yellow": 440,
     "Green": 445,
     "Grey": 450,
+    "RecipeID": 47507,
     "Source": "Trainer"
   }
 }

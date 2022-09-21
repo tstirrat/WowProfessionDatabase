@@ -138,7 +138,7 @@
     "Yellow": 180,
     "Green": 195,
     "Grey": 210,
-    "RecipeID": 1,
+    "RecipeID": 20856,
     "Source": "Vendor"
   },
   "Moonsoul Crown": {
@@ -171,7 +171,7 @@
     "Yellow": 155,
     "Green": 170,
     "Grey": 185,
-    "RecipeID": 1,
+    "RecipeID": 20855,
     "Source": "Vendor"
   },
   "Amulet of the Moon": {
@@ -186,7 +186,7 @@
     "Yellow": 140,
     "Green": 155,
     "Grey": 170,
-    "RecipeID": 1,
+    "RecipeID": 20854,
     "Source": "Vendor"
   },
   "Solid Bronze Ring": {
@@ -242,7 +242,7 @@
     "Yellow": 150,
     "Green": 165,
     "Grey": 180,
-    "RecipeID": 1,
+    "RecipeID": 20970,
     "Source": "Vendor"
   },
   "Heavy Iron Knuckles": {
@@ -257,7 +257,7 @@
     "Yellow": 155,
     "Green": 170,
     "Grey": 185,
-    "RecipeID": 1,
+    "RecipeID": 20971,
     "Source": "Vendor"
   },
   "Golden Dragon Ring": {
@@ -300,7 +300,7 @@
     "Yellow": 180,
     "Green": 195,
     "Grey": 210,
-    "RecipeID": 1,
+    "RecipeID": 20973,
     "Source": "Vendor"
   },
   "Jade Pendant of Blasting": {
@@ -315,7 +315,7 @@
     "Yellow": 190,
     "Green": 205,
     "Grey": 220,
-    "RecipeID": 1,
+    "RecipeID": 20974,
     "Source": "Drop"
   },
   "The Jade Eye": {
@@ -330,7 +330,7 @@
     "Yellow": 200,
     "Green": 215,
     "Grey": 230,
-    "RecipeID": 1,
+    "RecipeID": 20975,
     "Source": "Vendor"
   },
   "Engraved Truesilver Ring": {
@@ -375,7 +375,7 @@
     "Yellow": 220,
     "Green": 235,
     "Grey": 250,
-    "RecipeID": 1,
+    "RecipeID": 20976,
     "Source": "Drop"
   },
   "Figurine - Jade Owl": {
@@ -406,7 +406,6 @@
     "Yellow": 225,
     "Green": 240,
     "Grey": 255,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Aquamarine Signet": {
@@ -435,7 +434,6 @@
     "Yellow": 240,
     "Green": 255,
     "Grey": 270,
-    "RecipeID": 1,
     "Source": "Vendor"
   },
   "Aquamarine Pendant of the Warrior": {
@@ -467,7 +465,7 @@
     "Yellow": 250,
     "Green": 265,
     "Grey": 280,
-    "RecipeID": 1,
+    "RecipeID": 21942,
     "Source": "Vendor"
   },
   "Thorium Setting": {
@@ -498,7 +496,6 @@
     "Yellow": 250,
     "Green": 265,
     "Grey": 280,
-    "RecipeID": 1,
     "Source": "Vendor"
   },
   "Figurine - Truesilver Boar": {
@@ -516,7 +513,6 @@
     "Yellow": 260,
     "Green": 275,
     "Grey": 290,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Ruby Pendant of Fire": {
@@ -559,7 +555,7 @@
     "Yellow": 270,
     "Green": 285,
     "Grey": 300,
-    "RecipeID": 1,
+    "RecipeID": 21945,
     "Source": "Drop"
   },
   "Gem Studded Band": {
@@ -576,7 +572,7 @@
     "Yellow": 275,
     "Green": 290,
     "Grey": 305,
-    "RecipeID": 1,
+    "RecipeID": 21947,
     "Source": "Drop"
   },
   "Opal Necklace of Impact": {
@@ -594,7 +590,7 @@
     "Yellow": 275,
     "Green": 290,
     "Grey": 305,
-    "RecipeID": 1,
+    "RecipeID": 21948,
     "Source": "Vendor"
   },
   "Figurine - Ruby Serpent": {
@@ -611,7 +607,6 @@
     "Yellow": 280,
     "Green": 290,
     "Grey": 300,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Simple Opal Ring": {
@@ -658,7 +653,7 @@
     "Yellow": 285,
     "Green": 295,
     "Grey": 305,
-    "RecipeID": 1,
+    "RecipeID": 21952,
     "Source": "Vendor"
   },
   "Onslaught Ring": {
@@ -705,7 +700,6 @@
     "Yellow": 295,
     "Green": 305,
     "Grey": 315,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Ring of Bitter Shadows": {
@@ -721,7 +715,7 @@
     "Yellow": 295,
     "Green": 305,
     "Grey": 315,
-    "RecipeID": 1,
+    "RecipeID": 21954,
     "Source": "Vendor"
   },
   "Living Emerald Pendant": {
@@ -754,7 +748,6 @@
     "Yellow": 310,
     "Green": 320,
     "Grey": 330,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Figurine - Dark Iron Scorpid": {
@@ -770,7 +763,6 @@
     "Yellow": 310,
     "Green": 320,
     "Grey": 330,
-    "RecipeID": 1,
     "Source": "Drop"
   },
   "Necklace of the Diamond Tower": {
@@ -786,7 +778,7 @@
     "Yellow": 315,
     "Green": 325,
     "Grey": 335,
-    "RecipeID": 1,
+    "RecipeID": 21957,
     "Source": "Vendor"
   },
   "Band of Natural Fire": {
@@ -817,6 +809,7 @@
     "Yellow": 325,
     "Green": 335,
     "Grey": 345,
+    "RecipeID": 21958,
     "Source": "Trainer"
   },
   "Blood Crown": {
@@ -833,6 +826,7 @@
     "Yellow": 335,
     "Green": 345,
     "Grey": 355,
+    "RecipeID": 21959,
     "Source": "Trainer"
   },
   "Woven Copper Ring": {
@@ -904,6 +898,7 @@
     "Yellow": 300,
     "Green": 320,
     "Grey": 340,
+    "RecipeID": 23130,
     "Source": "Trainer"
   },
   "Bold Blood Garnet": {
@@ -917,6 +912,7 @@
     "Yellow": 305,
     "Green": 325,
     "Grey": 345,
+    "RecipeID": 23131,
     "Source": "Trainer"
   },
   "Runed Blood Garnet": {
@@ -930,8 +926,8 @@
     "Yellow": 315,
     "Green": 335,
     "Grey": 355,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 23133,
+    "Source": "Reputation"
   },
   "Delicate Blood Garnet": {
     "ID": 28907,
@@ -944,8 +940,8 @@
     "Yellow": 325,
     "Green": 340,
     "Grey": 355,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 23134,
+    "Source": "Reputation"
   },
   "Inscribed Flame Spessarite": {
     "ID": 28910,
@@ -958,6 +954,7 @@
     "Yellow": 300,
     "Green": 320,
     "Grey": 340,
+    "RecipeID": 23135,
     "Source": "Trainer"
   },
   "Luminous Flame Spessarite": {
@@ -971,8 +968,8 @@
     "Yellow": 305,
     "Green": 325,
     "Grey": 345,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 23136,
+    "Source": "Reputation"
   },
   "Glinting Flame Spessarite": {
     "ID": 28914,
@@ -985,6 +982,7 @@
     "Yellow": 315,
     "Green": 335,
     "Grey": 355,
+    "RecipeID": 23137,
     "Source": "Trainer"
   },
   "Potent Flame Spessarite": {
@@ -998,8 +996,8 @@
     "Yellow": 325,
     "Green": 340,
     "Grey": 355,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 23138,
+    "Source": "Reputation"
   },
   "Radiant Deep Peridot": {
     "ID": 28916,
@@ -1012,6 +1010,7 @@
     "Yellow": 300,
     "Green": 320,
     "Grey": 340,
+    "RecipeID": 23140,
     "Source": "Trainer"
   },
   "Jagged Deep Peridot": {
@@ -1025,6 +1024,7 @@
     "Yellow": 305,
     "Green": 325,
     "Grey": 345,
+    "RecipeID": 23141,
     "Source": "Trainer"
   },
   "Enduring Deep Peridot": {
@@ -1038,8 +1038,8 @@
     "Yellow": 315,
     "Green": 335,
     "Grey": 355,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 31359,
+    "Source": "Reputation"
   },
   "Dazzling Deep Peridot": {
     "ID": 28924,
@@ -1052,8 +1052,8 @@
     "Yellow": 325,
     "Green": 340,
     "Grey": 355,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 23143,
+    "Source": "Reputation"
   },
   "Glowing Shadow Draenite": {
     "ID": 28925,
@@ -1066,6 +1066,7 @@
     "Yellow": 300,
     "Green": 320,
     "Grey": 340,
+    "RecipeID": 23144,
     "Source": "Trainer"
   },
   "Royal Shadow Draenite": {
@@ -1079,8 +1080,8 @@
     "Yellow": 305,
     "Green": 325,
     "Grey": 345,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 23145,
+    "Source": "Reputation"
   },
   "Shifting Shadow Draenite": {
     "ID": 28933,
@@ -1093,8 +1094,8 @@
     "Yellow": 315,
     "Green": 335,
     "Grey": 355,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 23146,
+    "Source": "Reputation"
   },
   "Sovereign Shadow Draenite": {
     "ID": 28936,
@@ -1107,6 +1108,7 @@
     "Yellow": 325,
     "Green": 340,
     "Grey": 355,
+    "RecipeID": 23147,
     "Source": "Trainer"
   },
   "Brilliant Golden Draenite": {
@@ -1120,6 +1122,7 @@
     "Yellow": 300,
     "Green": 320,
     "Grey": 340,
+    "RecipeID": 23148,
     "Source": "Trainer"
   },
   "Gleaming Golden Draenite": {
@@ -1133,8 +1136,8 @@
     "Yellow": 305,
     "Green": 325,
     "Grey": 345,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 23149,
+    "Source": "Reputation"
   },
   "Thick Golden Draenite": {
     "ID": 28947,
@@ -1147,8 +1150,8 @@
     "Yellow": 315,
     "Green": 335,
     "Grey": 355,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 23150,
+    "Source": "Reputation"
   },
   "Rigid Golden Draenite": {
     "ID": 28948,
@@ -1161,6 +1164,7 @@
     "Yellow": 325,
     "Green": 340,
     "Grey": 355,
+    "RecipeID": 23151,
     "Source": "Trainer"
   },
   "Solid Azure Moonstone": {
@@ -1174,6 +1178,7 @@
     "Yellow": 300,
     "Green": 320,
     "Grey": 340,
+    "RecipeID": 23152,
     "Source": "Trainer"
   },
   "Sparkling Azure Moonstone": {
@@ -1187,6 +1192,7 @@
     "Yellow": 305,
     "Green": 325,
     "Grey": 345,
+    "RecipeID": 23153,
     "Source": "Trainer"
   },
   "Stormy Azure Moonstone": {
@@ -1200,7 +1206,7 @@
     "Yellow": 315,
     "Green": 335,
     "Grey": 355,
-    "RecipeID": 1,
+    "RecipeID": 23154,
     "Source": "Drop"
   },
   "Lustrous Azure Moonstone": {
@@ -1214,8 +1220,8 @@
     "Yellow": 325,
     "Green": 340,
     "Grey": 355,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 23155,
+    "Source": "Reputation"
   },
   "Fel Iron Blood Ring": {
     "ID": 31048,
@@ -1301,7 +1307,7 @@
     "Yellow": 360,
     "Green": 370,
     "Grey": 380,
-    "RecipeID": 1,
+    "RecipeID": 24158,
     "Source": "Drop"
   },
   "Khorium Band of Frost": {
@@ -1317,7 +1323,7 @@
     "Yellow": 365,
     "Green": 372,
     "Grey": 380,
-    "RecipeID": 1,
+    "RecipeID": 24159,
     "Source": "Drop"
   },
   "Khorium Inferno Band": {
@@ -1333,7 +1339,7 @@
     "Yellow": 365,
     "Green": 372,
     "Grey": 380,
-    "RecipeID": 1,
+    "RecipeID": 24160,
     "Source": "Drop"
   },
   "Khorium Band of Leaves": {
@@ -1349,7 +1355,7 @@
     "Yellow": 370,
     "Green": 375,
     "Grey": 380,
-    "RecipeID": 1,
+    "RecipeID": 24161,
     "Source": "Drop"
   },
   "Arcane Khorium Band": {
@@ -1365,7 +1371,7 @@
     "Yellow": 370,
     "Green": 375,
     "Grey": 380,
-    "RecipeID": 1,
+    "RecipeID": 24162,
     "Source": "Drop"
   },
   "Heavy Felsteel Ring": {
@@ -1380,7 +1386,7 @@
     "Yellow": 355,
     "Green": 365,
     "Grey": 375,
-    "RecipeID": 1,
+    "RecipeID": 24163,
     "Source": "Drop"
   },
   "Delicate Eternium Ring": {
@@ -1395,7 +1401,7 @@
     "Yellow": 365,
     "Green": 375,
     "Grey": 385,
-    "RecipeID": 1,
+    "RecipeID": 24164,
     "Source": "Drop"
   },
   "Blazing Eternium Band": {
@@ -1411,7 +1417,7 @@
     "Yellow": 375,
     "Green": 377,
     "Grey": 380,
-    "RecipeID": 1,
+    "RecipeID": 24165,
     "Source": "Drop"
   },
   "Pendant of Frozen Flame": {
@@ -1428,8 +1434,8 @@
     "Yellow": 370,
     "Green": 375,
     "Grey": 380,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 24174,
+    "Source": "Reputation"
   },
   "Pendant of Thawing": {
     "ID": 31063,
@@ -1445,8 +1451,8 @@
     "Yellow": 370,
     "Green": 375,
     "Grey": 380,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 24175,
+    "Source": "Reputation"
   },
   "Pendant of Withering": {
     "ID": 31064,
@@ -1462,8 +1468,8 @@
     "Yellow": 370,
     "Green": 375,
     "Grey": 380,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 24176,
+    "Source": "Reputation"
   },
   "Pendant of Shadow's End": {
     "ID": 31065,
@@ -1479,8 +1485,8 @@
     "Yellow": 370,
     "Green": 375,
     "Grey": 380,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 24177,
+    "Source": "Reputation"
   },
   "Pendant of the Null Rune": {
     "ID": 31066,
@@ -1495,8 +1501,8 @@
     "Yellow": 370,
     "Green": 375,
     "Grey": 380,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 24178,
+    "Source": "Reputation"
   },
   "Thick Felsteel Necklace": {
     "ID": 31067,
@@ -1510,7 +1516,7 @@
     "Yellow": 365,
     "Green": 375,
     "Grey": 385,
-    "RecipeID": 1,
+    "RecipeID": 24166,
     "Source": "Drop"
   },
   "Living Ruby Pendant": {
@@ -1526,7 +1532,7 @@
     "Yellow": 365,
     "Green": 375,
     "Grey": 385,
-    "RecipeID": 1,
+    "RecipeID": 24167,
     "Source": "Drop"
   },
   "Braided Eternium Chain": {
@@ -1541,7 +1547,7 @@
     "Yellow": 370,
     "Green": 377,
     "Grey": 385,
-    "RecipeID": 1,
+    "RecipeID": 24168,
     "Source": "Drop"
   },
   "Eye of the Night": {
@@ -1557,7 +1563,7 @@
     "Yellow": 370,
     "Green": 375,
     "Grey": 380,
-    "RecipeID": 1,
+    "RecipeID": 24169,
     "Source": "Drop"
   },
   "Embrace of the Dawn": {
@@ -1573,7 +1579,7 @@
     "Yellow": 375,
     "Green": 380,
     "Grey": 385,
-    "RecipeID": 1,
+    "RecipeID": 24170,
     "Source": "Drop"
   },
   "Chain of the Twilight Owl": {
@@ -1589,7 +1595,7 @@
     "Yellow": 375,
     "Green": 380,
     "Grey": 385,
-    "RecipeID": 1,
+    "RecipeID": 24171,
     "Source": "Drop"
   },
   "Coronet of Verdant Flame": {
@@ -1606,7 +1612,7 @@
     "Yellow": 375,
     "Green": 380,
     "Grey": 385,
-    "RecipeID": 1,
+    "RecipeID": 24172,
     "Source": "Drop"
   },
   "Circlet of Arcane Might": {
@@ -1623,7 +1629,7 @@
     "Yellow": 375,
     "Green": 380,
     "Grey": 385,
-    "RecipeID": 1,
+    "RecipeID": 24173,
     "Source": "Drop"
   },
   "Figurine - Felsteel Boar": {
@@ -1639,7 +1645,6 @@
     "Yellow": 375,
     "Green": 380,
     "Grey": 385,
-    "RecipeID": 1,
     "Source": "Vendor"
   },
   "Figurine - Dawnstone Crab": {
@@ -1655,7 +1660,6 @@
     "Yellow": 375,
     "Green": 380,
     "Grey": 385,
-    "RecipeID": 1,
     "Source": "Vendor"
   },
   "Figurine - Living Ruby Serpent": {
@@ -1671,7 +1675,6 @@
     "Yellow": 375,
     "Green": 380,
     "Grey": 385,
-    "RecipeID": 1,
     "Source": "Vendor"
   },
   "Figurine - Talasite Owl": {
@@ -1687,7 +1690,6 @@
     "Yellow": 375,
     "Green": 380,
     "Grey": 385,
-    "RecipeID": 1,
     "Source": "Vendor"
   },
   "Figurine - Nightseye Panther": {
@@ -1703,7 +1705,6 @@
     "Yellow": 375,
     "Green": 380,
     "Grey": 385,
-    "RecipeID": 1,
     "Source": "Vendor"
   },
   "Bold Living Ruby": {
@@ -1717,7 +1718,7 @@
     "Yellow": 350,
     "Green": 365,
     "Grey": 380,
-    "RecipeID": 1,
+    "RecipeID": 24193,
     "Source": "Drop"
   },
   "Delicate Living Ruby": {
@@ -1731,7 +1732,7 @@
     "Yellow": 350,
     "Green": 365,
     "Grey": 380,
-    "RecipeID": 1,
+    "RecipeID": 24194,
     "Source": "Drop"
   },
   "Teardrop Living Ruby": {
@@ -1745,7 +1746,7 @@
     "Yellow": 350,
     "Green": 365,
     "Grey": 380,
-    "RecipeID": 1,
+    "RecipeID": 24195,
     "Source": "Drop"
   },
   "Runed Living Ruby": {
@@ -1759,7 +1760,7 @@
     "Yellow": 350,
     "Green": 365,
     "Grey": 380,
-    "RecipeID": 1,
+    "RecipeID": 35305,
     "Source": "Drop"
   },
   "Bright Living Ruby": {
@@ -1773,7 +1774,7 @@
     "Yellow": 350,
     "Green": 365,
     "Grey": 380,
-    "RecipeID": 1,
+    "RecipeID": 35306,
     "Source": "Drop"
   },
   "Subtle Living Ruby": {
@@ -1787,7 +1788,7 @@
     "Yellow": 350,
     "Green": 365,
     "Grey": 380,
-    "RecipeID": 1,
+    "RecipeID": 24197,
     "Source": "Drop"
   },
   "Flashing Living Ruby": {
@@ -1801,7 +1802,7 @@
     "Yellow": 350,
     "Green": 365,
     "Grey": 380,
-    "RecipeID": 1,
+    "RecipeID": 24198,
     "Source": "Drop"
   },
   "Solid Star of Elune": {
@@ -1815,7 +1816,7 @@
     "Yellow": 350,
     "Green": 365,
     "Grey": 380,
-    "RecipeID": 1,
+    "RecipeID": 35304,
     "Source": "Drop"
   },
   "Lustrous Star of Elune": {
@@ -1829,7 +1830,7 @@
     "Yellow": 350,
     "Green": 365,
     "Grey": 380,
-    "RecipeID": 1,
+    "RecipeID": 24201,
     "Source": "Drop"
   },
   "Stormy Star of Elune": {
@@ -1843,7 +1844,7 @@
     "Yellow": 350,
     "Green": 365,
     "Grey": 380,
-    "RecipeID": 1,
+    "RecipeID": 24202,
     "Source": "Drop"
   },
   "Brilliant Dawnstone": {
@@ -1857,7 +1858,7 @@
     "Yellow": 350,
     "Green": 365,
     "Grey": 380,
-    "RecipeID": 1,
+    "RecipeID": 24203,
     "Source": "Drop"
   },
   "Smooth Dawnstone": {
@@ -1871,7 +1872,7 @@
     "Yellow": 350,
     "Green": 365,
     "Grey": 380,
-    "RecipeID": 1,
+    "RecipeID": 24204,
     "Source": "Drop"
   },
   "Rigid Dawnstone": {
@@ -1885,7 +1886,7 @@
     "Yellow": 350,
     "Green": 365,
     "Grey": 380,
-    "RecipeID": 1,
+    "RecipeID": 35307,
     "Source": "Drop"
   },
   "Gleaming Dawnstone": {
@@ -1899,7 +1900,7 @@
     "Yellow": 350,
     "Green": 365,
     "Grey": 380,
-    "RecipeID": 1,
+    "RecipeID": 24206,
     "Source": "Drop"
   },
   "Thick Dawnstone": {
@@ -1913,7 +1914,7 @@
     "Yellow": 350,
     "Green": 365,
     "Grey": 380,
-    "RecipeID": 1,
+    "RecipeID": 24207,
     "Source": "Drop"
   },
   "Mystic Dawnstone": {
@@ -1927,7 +1928,7 @@
     "Yellow": 350,
     "Green": 365,
     "Grey": 380,
-    "RecipeID": 1,
+    "RecipeID": 24208,
     "Source": "Vendor"
   },
   "Sovereign Nightseye": {
@@ -1941,7 +1942,7 @@
     "Yellow": 350,
     "Green": 365,
     "Grey": 380,
-    "RecipeID": 1,
+    "RecipeID": 24209,
     "Source": "Drop"
   },
   "Shifting Nightseye": {
@@ -1955,7 +1956,7 @@
     "Yellow": 350,
     "Green": 365,
     "Grey": 380,
-    "RecipeID": 1,
+    "RecipeID": 24210,
     "Source": "Drop"
   },
   "Glowing Nightseye": {
@@ -1969,7 +1970,7 @@
     "Yellow": 350,
     "Green": 365,
     "Grey": 380,
-    "RecipeID": 1,
+    "RecipeID": 24211,
     "Source": "Drop"
   },
   "Royal Nightseye": {
@@ -1983,7 +1984,7 @@
     "Yellow": 350,
     "Green": 365,
     "Grey": 380,
-    "RecipeID": 1,
+    "RecipeID": 24212,
     "Source": "Drop"
   },
   "Inscribed Noble Topaz": {
@@ -1997,7 +1998,7 @@
     "Yellow": 350,
     "Green": 365,
     "Grey": 380,
-    "RecipeID": 1,
+    "RecipeID": 24213,
     "Source": "Drop"
   },
   "Potent Noble Topaz": {
@@ -2011,7 +2012,7 @@
     "Yellow": 350,
     "Green": 365,
     "Grey": 380,
-    "RecipeID": 1,
+    "RecipeID": 24214,
     "Source": "Drop"
   },
   "Luminous Noble Topaz": {
@@ -2025,7 +2026,7 @@
     "Yellow": 350,
     "Green": 365,
     "Grey": 380,
-    "RecipeID": 1,
+    "RecipeID": 24215,
     "Source": "Drop"
   },
   "Glinting Noble Topaz": {
@@ -2039,7 +2040,7 @@
     "Yellow": 350,
     "Green": 365,
     "Grey": 380,
-    "RecipeID": 1,
+    "RecipeID": 24216,
     "Source": "Drop"
   },
   "Enduring Talasite": {
@@ -2053,7 +2054,7 @@
     "Yellow": 350,
     "Green": 365,
     "Grey": 380,
-    "RecipeID": 1,
+    "RecipeID": 24217,
     "Source": "Drop"
   },
   "Radiant Talasite": {
@@ -2067,7 +2068,7 @@
     "Yellow": 350,
     "Green": 365,
     "Grey": 380,
-    "RecipeID": 1,
+    "RecipeID": 24218,
     "Source": "Drop"
   },
   "Dazzling Talasite": {
@@ -2081,7 +2082,7 @@
     "Yellow": 350,
     "Green": 365,
     "Grey": 380,
-    "RecipeID": 1,
+    "RecipeID": 24219,
     "Source": "Drop"
   },
   "Jagged Talasite": {
@@ -2095,7 +2096,7 @@
     "Yellow": 350,
     "Green": 365,
     "Grey": 380,
-    "RecipeID": 1,
+    "RecipeID": 24220,
     "Source": "Drop"
   },
   "Sparkling Star of Elune": {
@@ -2109,7 +2110,7 @@
     "Yellow": 350,
     "Green": 365,
     "Grey": 380,
-    "RecipeID": 1,
+    "RecipeID": 24200,
     "Source": "Drop"
   },
   "Malachite Pendant": {
@@ -2216,8 +2217,8 @@
     "Yellow": 375,
     "Green": 377,
     "Grey": 380,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 25902,
+    "Source": "Reputation"
   },
   "Bracing Earthstorm Diamond": {
     "ID": 32867,
@@ -2230,8 +2231,8 @@
     "Yellow": 375,
     "Green": 377,
     "Grey": 380,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 25903,
+    "Source": "Reputation"
   },
   "Tenacious Earthstorm Diamond": {
     "ID": 32868,
@@ -2244,7 +2245,7 @@
     "Yellow": 375,
     "Green": 377,
     "Grey": 380,
-    "RecipeID": 1,
+    "RecipeID": 25905,
     "Source": "Drop"
   },
   "Brutal Earthstorm Diamond": {
@@ -2258,7 +2259,7 @@
     "Yellow": 375,
     "Green": 377,
     "Grey": 380,
-    "RecipeID": 1,
+    "RecipeID": 25906,
     "Source": "Drop"
   },
   "Insightful Earthstorm Diamond": {
@@ -2272,8 +2273,8 @@
     "Yellow": 375,
     "Green": 377,
     "Grey": 380,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 25904,
+    "Source": "Reputation"
   },
   "Destructive Skyfire Diamond": {
     "ID": 32871,
@@ -2286,7 +2287,7 @@
     "Yellow": 375,
     "Green": 377,
     "Grey": 380,
-    "RecipeID": 1,
+    "RecipeID": 25907,
     "Source": "Drop"
   },
   "Mystical Skyfire Diamond": {
@@ -2300,7 +2301,7 @@
     "Yellow": 375,
     "Green": 377,
     "Grey": 380,
-    "RecipeID": 1,
+    "RecipeID": 25909,
     "Source": "Drop"
   },
   "Swift Skyfire Diamond": {
@@ -2314,8 +2315,8 @@
     "Yellow": 375,
     "Green": 377,
     "Grey": 380,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 25908,
+    "Source": "Reputation"
   },
   "Enigmatic Skyfire Diamond": {
     "ID": 32874,
@@ -2328,8 +2329,8 @@
     "Yellow": 375,
     "Green": 377,
     "Grey": 380,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 25910,
+    "Source": "Reputation"
   },
   "Smooth Golden Draenite": {
     "ID": 34069,
@@ -2342,6 +2343,7 @@
     "Yellow": 325,
     "Green": 340,
     "Grey": 355,
+    "RecipeID": 28291,
     "Source": "Trainer"
   },
   "Bright Blood Garnet": {
@@ -2355,6 +2357,7 @@
     "Yellow": 305,
     "Green": 325,
     "Grey": 345,
+    "RecipeID": 28596,
     "Source": "Trainer"
   },
   "Golden Ring of Power": {
@@ -2503,8 +2506,8 @@
     "Yellow": 370,
     "Green": 375,
     "Grey": 380,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 30826,
+    "Source": "Reputation"
   },
   "Mercurial Adamantite": {
     "ID": 38068,
@@ -2549,8 +2552,8 @@
     "Yellow": 375,
     "Green": 380,
     "Grey": 385,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 31401,
+    "Source": "Reputation"
   },
   "The Natural Ward": {
     "ID": 38504,
@@ -2566,8 +2569,8 @@
     "Yellow": 375,
     "Green": 380,
     "Grey": 385,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 31402,
+    "Source": "Reputation"
   },
   "Great Golden Draenite": {
     "ID": 39451,
@@ -2580,7 +2583,7 @@
     "Yellow": 325,
     "Green": 340,
     "Grey": 355,
-    "RecipeID": 1,
+    "RecipeID": 31870,
     "Source": "Drop"
   },
   "Great Dawnstone": {
@@ -2594,7 +2597,7 @@
     "Yellow": 350,
     "Green": 365,
     "Grey": 380,
-    "RecipeID": 1,
+    "RecipeID": 31875,
     "Source": "Drop"
   },
   "Balanced Shadow Draenite": {
@@ -2608,7 +2611,7 @@
     "Yellow": 325,
     "Green": 340,
     "Grey": 355,
-    "RecipeID": 1,
+    "RecipeID": 31871,
     "Source": "Drop"
   },
   "Infused Shadow Draenite": {
@@ -2622,7 +2625,7 @@
     "Yellow": 325,
     "Green": 340,
     "Grey": 355,
-    "RecipeID": 1,
+    "RecipeID": 31872,
     "Source": "Drop"
   },
   "Infused Nightseye": {
@@ -2636,7 +2639,7 @@
     "Yellow": 350,
     "Green": 365,
     "Grey": 380,
-    "RecipeID": 1,
+    "RecipeID": 31877,
     "Source": "Drop"
   },
   "Balanced Nightseye": {
@@ -2650,7 +2653,7 @@
     "Yellow": 350,
     "Green": 365,
     "Grey": 380,
-    "RecipeID": 1,
+    "RecipeID": 31876,
     "Source": "Drop"
   },
   "Veiled Flame Spessarite": {
@@ -2664,7 +2667,7 @@
     "Yellow": 325,
     "Green": 340,
     "Grey": 355,
-    "RecipeID": 1,
+    "RecipeID": 31873,
     "Source": "Drop"
   },
   "Wicked Flame Spessarite": {
@@ -2678,7 +2681,7 @@
     "Yellow": 325,
     "Green": 340,
     "Grey": 355,
-    "RecipeID": 1,
+    "RecipeID": 31874,
     "Source": "Drop"
   },
   "Veiled Noble Topaz": {
@@ -2692,7 +2695,7 @@
     "Yellow": 350,
     "Green": 365,
     "Grey": 380,
-    "RecipeID": 1,
+    "RecipeID": 31878,
     "Source": "Drop"
   },
   "Wicked Noble Topaz": {
@@ -2706,7 +2709,7 @@
     "Yellow": 350,
     "Green": 365,
     "Grey": 380,
-    "RecipeID": 1,
+    "RecipeID": 31879,
     "Source": "Drop"
   },
   "Bold Crimson Spinel": {
@@ -2720,8 +2723,8 @@
     "Yellow": 375,
     "Green": 380,
     "Grey": 385,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 35244,
+    "Source": "Reputation"
   },
   "Delicate Crimson Spinel": {
     "ID": 39706,
@@ -2734,8 +2737,8 @@
     "Yellow": 375,
     "Green": 380,
     "Grey": 385,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 35246,
+    "Source": "Reputation"
   },
   "Teardrop Crimson Spinel": {
     "ID": 39710,
@@ -2748,8 +2751,8 @@
     "Yellow": 375,
     "Green": 380,
     "Grey": 385,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 35250,
+    "Source": "Reputation"
   },
   "Runed Crimson Spinel": {
     "ID": 39711,
@@ -2762,8 +2765,8 @@
     "Yellow": 375,
     "Green": 380,
     "Grey": 385,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 35248,
+    "Source": "Reputation"
   },
   "Bright Crimson Spinel": {
     "ID": 39712,
@@ -2776,8 +2779,8 @@
     "Yellow": 375,
     "Green": 380,
     "Grey": 385,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 35245,
+    "Source": "Reputation"
   },
   "Subtle Crimson Spinel": {
     "ID": 39713,
@@ -2790,8 +2793,8 @@
     "Yellow": 375,
     "Green": 380,
     "Grey": 385,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 35249,
+    "Source": "Reputation"
   },
   "Flashing Crimson Spinel": {
     "ID": 39714,
@@ -2804,8 +2807,8 @@
     "Yellow": 375,
     "Green": 380,
     "Grey": 385,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 35247,
+    "Source": "Reputation"
   },
   "Solid Empyrean Sapphire": {
     "ID": 39715,
@@ -2818,8 +2821,8 @@
     "Yellow": 375,
     "Green": 380,
     "Grey": 385,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 35263,
+    "Source": "Reputation"
   },
   "Sparkling Empyrean Sapphire": {
     "ID": 39716,
@@ -2832,8 +2835,8 @@
     "Yellow": 375,
     "Green": 380,
     "Grey": 385,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 35264,
+    "Source": "Reputation"
   },
   "Lustrous Empyrean Sapphire": {
     "ID": 39717,
@@ -2846,8 +2849,8 @@
     "Yellow": 375,
     "Green": 380,
     "Grey": 385,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 35262,
+    "Source": "Reputation"
   },
   "Stormy Empyrean Sapphire": {
     "ID": 39718,
@@ -2860,8 +2863,8 @@
     "Yellow": 375,
     "Green": 380,
     "Grey": 385,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 35265,
+    "Source": "Reputation"
   },
   "Brilliant Lionseye": {
     "ID": 39719,
@@ -2874,8 +2877,8 @@
     "Yellow": 375,
     "Green": 380,
     "Grey": 385,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 35255,
+    "Source": "Reputation"
   },
   "Smooth Lionseye": {
     "ID": 39720,
@@ -2888,8 +2891,8 @@
     "Yellow": 375,
     "Green": 380,
     "Grey": 385,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 35260,
+    "Source": "Reputation"
   },
   "Rigid Lionseye": {
     "ID": 39721,
@@ -2902,8 +2905,8 @@
     "Yellow": 375,
     "Green": 380,
     "Grey": 385,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 35259,
+    "Source": "Reputation"
   },
   "Gleaming Lionseye": {
     "ID": 39722,
@@ -2916,8 +2919,8 @@
     "Yellow": 375,
     "Green": 380,
     "Grey": 385,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 35256,
+    "Source": "Reputation"
   },
   "Thick Lionseye": {
     "ID": 39723,
@@ -2930,8 +2933,8 @@
     "Yellow": 375,
     "Green": 380,
     "Grey": 385,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 35261,
+    "Source": "Reputation"
   },
   "Mystic Lionseye": {
     "ID": 39724,
@@ -2944,8 +2947,8 @@
     "Yellow": 375,
     "Green": 380,
     "Grey": 385,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 35258,
+    "Source": "Reputation"
   },
   "Great Lionseye": {
     "ID": 39725,
@@ -2958,8 +2961,8 @@
     "Yellow": 375,
     "Green": 380,
     "Grey": 385,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 35257,
+    "Source": "Reputation"
   },
   "Sovereign Shadowsong Amethyst": {
     "ID": 39727,
@@ -2972,8 +2975,8 @@
     "Yellow": 375,
     "Green": 380,
     "Grey": 385,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 35243,
+    "Source": "Reputation"
   },
   "Shifting Shadowsong Amethyst": {
     "ID": 39728,
@@ -2986,8 +2989,8 @@
     "Yellow": 375,
     "Green": 380,
     "Grey": 385,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 35242,
+    "Source": "Reputation"
   },
   "Balanced Shadowsong Amethyst": {
     "ID": 39729,
@@ -3000,8 +3003,8 @@
     "Yellow": 375,
     "Green": 380,
     "Grey": 385,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 35238,
+    "Source": "Reputation"
   },
   "Infused Shadowsong Amethyst": {
     "ID": 39730,
@@ -3014,8 +3017,8 @@
     "Yellow": 375,
     "Green": 380,
     "Grey": 385,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 35240,
+    "Source": "Reputation"
   },
   "Glowing Shadowsong Amethyst": {
     "ID": 39731,
@@ -3028,8 +3031,8 @@
     "Yellow": 375,
     "Green": 380,
     "Grey": 385,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 35239,
+    "Source": "Reputation"
   },
   "Royal Shadowsong Amethyst": {
     "ID": 39732,
@@ -3042,8 +3045,8 @@
     "Yellow": 375,
     "Green": 380,
     "Grey": 385,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 35241,
+    "Source": "Reputation"
   },
   "Inscribed Pyrestone": {
     "ID": 39733,
@@ -3056,8 +3059,8 @@
     "Yellow": 375,
     "Green": 380,
     "Grey": 385,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 35267,
+    "Source": "Reputation"
   },
   "Potent Pyrestone": {
     "ID": 39734,
@@ -3070,8 +3073,8 @@
     "Yellow": 375,
     "Green": 380,
     "Grey": 385,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 35269,
+    "Source": "Reputation"
   },
   "Luminous Pyrestone": {
     "ID": 39735,
@@ -3084,8 +3087,8 @@
     "Yellow": 375,
     "Green": 380,
     "Grey": 385,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 35268,
+    "Source": "Reputation"
   },
   "Glinting Pyrestone": {
     "ID": 39736,
@@ -3098,8 +3101,8 @@
     "Yellow": 375,
     "Green": 380,
     "Grey": 385,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 35266,
+    "Source": "Reputation"
   },
   "Veiled Pyrestone": {
     "ID": 39737,
@@ -3112,8 +3115,8 @@
     "Yellow": 375,
     "Green": 380,
     "Grey": 385,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 35270,
+    "Source": "Reputation"
   },
   "Wicked Pyrestone": {
     "ID": 39738,
@@ -3126,8 +3129,8 @@
     "Yellow": 375,
     "Green": 380,
     "Grey": 385,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 35271,
+    "Source": "Reputation"
   },
   "Enduring Seaspray Emerald": {
     "ID": 39739,
@@ -3140,8 +3143,8 @@
     "Yellow": 375,
     "Green": 380,
     "Grey": 385,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 35252,
+    "Source": "Reputation"
   },
   "Radiant Seaspray Emerald": {
     "ID": 39740,
@@ -3154,8 +3157,8 @@
     "Yellow": 375,
     "Green": 380,
     "Grey": 385,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 35254,
+    "Source": "Reputation"
   },
   "Dazzling Seaspray Emerald": {
     "ID": 39741,
@@ -3168,8 +3171,8 @@
     "Yellow": 375,
     "Green": 380,
     "Grey": 385,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 35251,
+    "Source": "Reputation"
   },
   "Jagged Seaspray Emerald": {
     "ID": 39742,
@@ -3182,8 +3185,8 @@
     "Yellow": 375,
     "Green": 380,
     "Grey": 385,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 35253,
+    "Source": "Reputation"
   },
   "Relentless Earthstorm Diamond": {
     "ID": 39961,
@@ -3196,8 +3199,8 @@
     "Yellow": 375,
     "Green": 377,
     "Grey": 380,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 33622,
+    "Source": "Reputation"
   },
   "Thundering Skyfire Diamond": {
     "ID": 39963,
@@ -3210,7 +3213,7 @@
     "Yellow": 375,
     "Green": 377,
     "Grey": 380,
-    "RecipeID": 1,
+    "RecipeID": 32411,
     "Source": "Drop"
   },
   "Necklace of the Deep": {
@@ -3311,8 +3314,8 @@
     "Yellow": 365,
     "Green": 370,
     "Grey": 375,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 33305,
+    "Source": "Reputation"
   },
   "Kailee's Rose": {
     "ID": 42588,
@@ -3325,8 +3328,8 @@
     "Yellow": 365,
     "Green": 370,
     "Grey": 375,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 33155,
+    "Source": "Reputation"
   },
   "Crimson Sun": {
     "ID": 42589,
@@ -3339,8 +3342,8 @@
     "Yellow": 365,
     "Green": 370,
     "Grey": 375,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 33156,
+    "Source": "Reputation"
   },
   "Falling Star": {
     "ID": 42590,
@@ -3353,8 +3356,8 @@
     "Yellow": 365,
     "Green": 370,
     "Grey": 375,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 33157,
+    "Source": "Reputation"
   },
   "Stone of Blades": {
     "ID": 42591,
@@ -3367,8 +3370,8 @@
     "Yellow": 365,
     "Green": 370,
     "Grey": 375,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 33158,
+    "Source": "Reputation"
   },
   "Blood of Amber": {
     "ID": 42592,
@@ -3381,8 +3384,8 @@
     "Yellow": 365,
     "Green": 370,
     "Grey": 375,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 33159,
+    "Source": "Reputation"
   },
   "Facet of Eternity": {
     "ID": 42593,
@@ -3395,8 +3398,8 @@
     "Yellow": 365,
     "Green": 370,
     "Grey": 375,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 33160,
+    "Source": "Reputation"
   },
   "Steady Talasite": {
     "ID": 43493,
@@ -3409,7 +3412,7 @@
     "Yellow": 350,
     "Green": 365,
     "Grey": 380,
-    "RecipeID": 1,
+    "RecipeID": 33783,
     "Source": "Vendor"
   },
   "Chaotic Skyfire Diamond": {
@@ -3423,7 +3426,7 @@
     "Yellow": 375,
     "Green": 377,
     "Grey": 380,
-    "RecipeID": 1,
+    "RecipeID": 34689,
     "Source": "Drop"
   },
   "Loop of Forged Power": {
@@ -3440,7 +3443,7 @@
     "Yellow": 375,
     "Green": 380,
     "Grey": 385,
-    "RecipeID": 1,
+    "RecipeID": 35536,
     "Source": "Drop"
   },
   "Ring of Flowing Life": {
@@ -3457,7 +3460,7 @@
     "Yellow": 375,
     "Green": 380,
     "Grey": 385,
-    "RecipeID": 1,
+    "RecipeID": 35538,
     "Source": "Drop"
   },
   "Hard Khorium Band": {
@@ -3474,7 +3477,7 @@
     "Yellow": 375,
     "Green": 380,
     "Grey": 385,
-    "RecipeID": 1,
+    "RecipeID": 35534,
     "Source": "Drop"
   },
   "Pendant of Sunfire": {
@@ -3490,7 +3493,7 @@
     "Yellow": 375,
     "Green": 380,
     "Grey": 385,
-    "RecipeID": 1,
+    "RecipeID": 35537,
     "Source": "Drop"
   },
   "Amulet of Flowing Life": {
@@ -3505,7 +3508,7 @@
     "Yellow": 375,
     "Green": 380,
     "Grey": 385,
-    "RecipeID": 1,
+    "RecipeID": 35533,
     "Source": "Drop"
   },
   "Hard Khorium Choker": {
@@ -3520,7 +3523,7 @@
     "Yellow": 375,
     "Green": 380,
     "Grey": 385,
-    "RecipeID": 1,
+    "RecipeID": 35535,
     "Source": "Drop"
   },
   "Quick Dawnstone": {
@@ -3534,8 +3537,8 @@
     "Yellow": 350,
     "Green": 365,
     "Grey": 380,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 35322,
+    "Source": "Reputation"
   },
   "Reckless Noble Topaz": {
     "ID": 46404,
@@ -3548,8 +3551,8 @@
     "Yellow": 350,
     "Green": 365,
     "Grey": 380,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 35323,
+    "Source": "Reputation"
   },
   "Forceful Talasite": {
     "ID": 46405,
@@ -3562,8 +3565,8 @@
     "Yellow": 350,
     "Green": 365,
     "Grey": 380,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 35325,
+    "Source": "Reputation"
   },
   "Eternal Earthstorm Diamond": {
     "ID": 46597,
@@ -3576,8 +3579,8 @@
     "Yellow": 375,
     "Green": 377,
     "Grey": 380,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 35502,
+    "Source": "Reputation"
   },
   "Ember Skyfire Diamond": {
     "ID": 46601,
@@ -3590,8 +3593,8 @@
     "Yellow": 375,
     "Green": 377,
     "Grey": 380,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 35505,
+    "Source": "Reputation"
   },
   "Figurine - Empyrean Tortoise": {
     "ID": 46775,
@@ -3606,8 +3609,8 @@
     "Yellow": 375,
     "Green": 380,
     "Grey": 385,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 35695,
+    "Source": "Reputation"
   },
   "Figurine - Khorium Boar": {
     "ID": 46776,
@@ -3622,8 +3625,8 @@
     "Yellow": 375,
     "Green": 380,
     "Grey": 385,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 35696,
+    "Source": "Reputation"
   },
   "Figurine - Crimson Serpent": {
     "ID": 46777,
@@ -3638,8 +3641,8 @@
     "Yellow": 375,
     "Green": 380,
     "Grey": 385,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 35697,
+    "Source": "Reputation"
   },
   "Figurine - Shadowsong Panther": {
     "ID": 46778,
@@ -3654,8 +3657,8 @@
     "Yellow": 375,
     "Green": 380,
     "Grey": 385,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 35698,
+    "Source": "Reputation"
   },
   "Figurine - Seaspray Albatross": {
     "ID": 46779,
@@ -3670,8 +3673,8 @@
     "Yellow": 375,
     "Green": 380,
     "Grey": 385,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 35699,
+    "Source": "Reputation"
   },
   "Regal Nightseye": {
     "ID": 46803,
@@ -3684,8 +3687,8 @@
     "Yellow": 350,
     "Green": 365,
     "Grey": 380,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 35708,
+    "Source": "Reputation"
   },
   "Forceful Seaspray Emerald": {
     "ID": 47053,
@@ -3698,8 +3701,8 @@
     "Yellow": 375,
     "Green": 380,
     "Grey": 385,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 35769,
+    "Source": "Reputation"
   },
   "Steady Seaspray Emerald": {
     "ID": 47054,
@@ -3712,8 +3715,8 @@
     "Yellow": 375,
     "Green": 380,
     "Grey": 385,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 35766,
+    "Source": "Reputation"
   },
   "Reckless Pyrestone": {
     "ID": 47055,
@@ -3726,8 +3729,8 @@
     "Yellow": 375,
     "Green": 380,
     "Grey": 385,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 35767,
+    "Source": "Reputation"
   },
   "Quick Lionseye": {
     "ID": 47056,
@@ -3740,8 +3743,8 @@
     "Yellow": 375,
     "Green": 380,
     "Grey": 385,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 35768,
+    "Source": "Reputation"
   },
   "Brilliant Glass": {
     "ID": 47280,
@@ -3772,8 +3775,8 @@
     "Yellow": 375,
     "Green": 380,
     "Grey": 385,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 37504,
+    "Source": "Reputation"
   },
   "Bold Scarlet Ruby": {
     "ID": 53830,
@@ -3786,7 +3789,7 @@
     "Yellow": 410,
     "Green": 425,
     "Grey": 440,
-    "RecipeID": 1,
+    "RecipeID": 41576,
     "Source": "Vendor"
   },
   "Bold Bloodstone": {
@@ -3956,7 +3959,7 @@
     "Yellow": 375,
     "Green": 395,
     "Grey": 415,
-    "RecipeID": 1,
+    "RecipeID": 41559,
     "Source": "Vendor"
   },
   "Sovereign Shadow Crystal": {
@@ -4048,7 +4051,7 @@
     "Yellow": 375,
     "Green": 395,
     "Grey": 415,
-    "RecipeID": 1,
+    "RecipeID": 41575,
     "Source": "Vendor"
   },
   "Balanced Shadow Crystal": {
@@ -4101,8 +4104,8 @@
     "Yellow": 375,
     "Green": 395,
     "Grey": 415,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 41574,
+    "Source": "Reputation"
   },
   "Puissant Shadow Crystal": {
     "ID": 53870,
@@ -4180,7 +4183,7 @@
     "Yellow": 375,
     "Green": 395,
     "Grey": 415,
-    "RecipeID": 1,
+    "RecipeID": 41566,
     "Source": "Vendor"
   },
   "Fierce Huge Citrine": {
@@ -4207,8 +4210,8 @@
     "Yellow": 375,
     "Green": 395,
     "Grey": 415,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 41562,
+    "Source": "Reputation"
   },
   "Glinting Huge Citrine": {
     "ID": 53878,
@@ -4234,7 +4237,7 @@
     "Yellow": 375,
     "Green": 395,
     "Grey": 415,
-    "RecipeID": 1,
+    "RecipeID": 41565,
     "Source": "Vendor"
   },
   "Deft Huge Citrine": {
@@ -4300,7 +4303,7 @@
     "Yellow": 375,
     "Green": 395,
     "Grey": 415,
-    "RecipeID": 1,
+    "RecipeID": 41563,
     "Source": "Vendor"
   },
   "Reckless Huge Citrine": {
@@ -4314,8 +4317,8 @@
     "Yellow": 375,
     "Green": 395,
     "Grey": 415,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 41561,
+    "Source": "Reputation"
   },
   "Wicked Huge Citrine": {
     "ID": 53886,
@@ -4354,7 +4357,7 @@
     "Yellow": 375,
     "Green": 395,
     "Grey": 415,
-    "RecipeID": 1,
+    "RecipeID": 41564,
     "Source": "Vendor"
   },
   "Stark Huge Citrine": {
@@ -4459,8 +4462,8 @@
     "Yellow": 375,
     "Green": 395,
     "Grey": 415,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 41567,
+    "Source": "Reputation"
   },
   "Enduring Dark Jade": {
     "ID": 53918,
@@ -4486,7 +4489,7 @@
     "Yellow": 375,
     "Green": 395,
     "Grey": 415,
-    "RecipeID": 1,
+    "RecipeID": 41572,
     "Source": "Vendor"
   },
   "Forceful Dark Jade": {
@@ -4513,8 +4516,8 @@
     "Yellow": 375,
     "Green": 395,
     "Grey": 415,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 41568,
+    "Source": "Reputation"
   },
   "Misty Dark Jade": {
     "ID": 53922,
@@ -4553,7 +4556,7 @@
     "Yellow": 375,
     "Green": 395,
     "Grey": 415,
-    "RecipeID": 1,
+    "RecipeID": 41571,
     "Source": "Vendor"
   },
   "Intricate Dark Jade": {
@@ -4619,7 +4622,7 @@
     "Yellow": 375,
     "Green": 395,
     "Grey": 415,
-    "RecipeID": 1,
+    "RecipeID": 41573,
     "Source": "Vendor"
   },
   "Energized Dark Jade": {
@@ -4659,7 +4662,7 @@
     "Yellow": 375,
     "Green": 395,
     "Grey": 415,
-    "RecipeID": 1,
+    "RecipeID": 41570,
     "Source": "Vendor"
   },
   "Shattered Dark Jade": {
@@ -4673,7 +4676,7 @@
     "Yellow": 375,
     "Green": 395,
     "Grey": 415,
-    "RecipeID": 1,
+    "RecipeID": 41569,
     "Source": "Vendor"
   },
   "Solid Chalcedony": {
@@ -4726,7 +4729,7 @@
     "Yellow": 375,
     "Green": 395,
     "Grey": 415,
-    "RecipeID": 1,
+    "RecipeID": 41560,
     "Source": "Vendor"
   },
   "Delicate Scarlet Ruby": {
@@ -4740,7 +4743,7 @@
     "Yellow": 410,
     "Green": 425,
     "Grey": 440,
-    "RecipeID": 1,
+    "RecipeID": 41577,
     "Source": "Vendor"
   },
   "Runed Scarlet Ruby": {
@@ -4754,8 +4757,8 @@
     "Yellow": 410,
     "Green": 425,
     "Grey": 440,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 41718,
+    "Source": "Reputation"
   },
   "Bright Scarlet Ruby": {
     "ID": 53947,
@@ -4781,7 +4784,7 @@
     "Yellow": 410,
     "Green": 425,
     "Grey": 440,
-    "RecipeID": 1,
+    "RecipeID": 41719,
     "Source": "Vendor"
   },
   "Flashing Scarlet Ruby": {
@@ -4795,7 +4798,7 @@
     "Yellow": 410,
     "Green": 425,
     "Grey": 440,
-    "RecipeID": 1,
+    "RecipeID": 41578,
     "Source": "Vendor"
   },
   "Fractured Scarlet Ruby": {
@@ -4809,6 +4812,7 @@
     "Yellow": 410,
     "Green": 425,
     "Grey": 440,
+    "RecipeID": 41817,
     "Source": "Trainer"
   },
   "Precise Scarlet Ruby": {
@@ -4822,7 +4826,7 @@
     "Yellow": 410,
     "Green": 425,
     "Grey": 440,
-    "RecipeID": 1,
+    "RecipeID": 41790,
     "Source": "Drop"
   },
   "Solid Sky Sapphire": {
@@ -4836,7 +4840,7 @@
     "Yellow": 410,
     "Green": 425,
     "Grey": 440,
-    "RecipeID": 1,
+    "RecipeID": 42138,
     "Source": "Vendor"
   },
   "Sparkling Sky Sapphire": {
@@ -4863,7 +4867,7 @@
     "Yellow": 410,
     "Green": 425,
     "Grey": 440,
-    "RecipeID": 1,
+    "RecipeID": 41581,
     "Source": "Vendor"
   },
   "Stormy Sky Sapphire": {
@@ -4877,6 +4881,7 @@
     "Yellow": 410,
     "Green": 425,
     "Grey": 440,
+    "RecipeID": 41728,
     "Source": "Trainer"
   },
   "Brilliant Autumn's Glow": {
@@ -4903,8 +4908,8 @@
     "Yellow": 410,
     "Green": 425,
     "Grey": 440,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 41720,
+    "Source": "Reputation"
   },
   "Rigid Autumn's Glow": {
     "ID": 53958,
@@ -4917,7 +4922,7 @@
     "Yellow": 410,
     "Green": 425,
     "Grey": 440,
-    "RecipeID": 1,
+    "RecipeID": 41580,
     "Source": "Vendor"
   },
   "Thick Autumn's Glow": {
@@ -4931,7 +4936,7 @@
     "Yellow": 410,
     "Green": 425,
     "Grey": 440,
-    "RecipeID": 1,
+    "RecipeID": 41791,
     "Source": "Drop"
   },
   "Mystic Autumn's Glow": {
@@ -4945,6 +4950,7 @@
     "Yellow": 410,
     "Green": 425,
     "Grey": 440,
+    "RecipeID": 41727,
     "Source": "Trainer"
   },
   "Quick Autumn's Glow": {
@@ -4958,7 +4964,7 @@
     "Yellow": 410,
     "Green": 425,
     "Grey": 440,
-    "RecipeID": 1,
+    "RecipeID": 41579,
     "Source": "Vendor"
   },
   "Sovereign Twilight Opal": {
@@ -4972,6 +4978,7 @@
     "Yellow": 410,
     "Green": 425,
     "Grey": 440,
+    "RecipeID": 41784,
     "Source": "Trainer"
   },
   "Shifting Twilight Opal": {
@@ -4985,7 +4992,7 @@
     "Yellow": 410,
     "Green": 425,
     "Grey": 440,
-    "RecipeID": 1,
+    "RecipeID": 41747,
     "Source": "Vendor"
   },
   "Tenuous Twilight Opal": {
@@ -4999,6 +5006,7 @@
     "Yellow": 410,
     "Green": 425,
     "Grey": 440,
+    "RecipeID": 41785,
     "Source": "Trainer"
   },
   "Glowing Twilight Opal": {
@@ -5012,8 +5020,8 @@
     "Yellow": 410,
     "Green": 425,
     "Grey": 440,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 41725,
+    "Source": "Reputation"
   },
   "Purified Twilight Opal": {
     "ID": 53966,
@@ -5026,6 +5034,7 @@
     "Yellow": 410,
     "Green": 425,
     "Grey": 440,
+    "RecipeID": 41783,
     "Source": "Trainer"
   },
   "Royal Twilight Opal": {
@@ -5039,7 +5048,7 @@
     "Yellow": 410,
     "Green": 425,
     "Grey": 440,
-    "RecipeID": 1,
+    "RecipeID": 41701,
     "Source": "Vendor"
   },
   "Mysterious Twilight Opal": {
@@ -5053,6 +5062,7 @@
     "Yellow": 410,
     "Green": 425,
     "Grey": 440,
+    "RecipeID": 41740,
     "Source": "Trainer"
   },
   "Balanced Twilight Opal": {
@@ -5079,7 +5089,7 @@
     "Yellow": 410,
     "Green": 425,
     "Grey": 440,
-    "RecipeID": 1,
+    "RecipeID": 41796,
     "Source": "Drop"
   },
   "Regal Twilight Opal": {
@@ -5093,7 +5103,7 @@
     "Yellow": 410,
     "Green": 425,
     "Grey": 440,
-    "RecipeID": 1,
+    "RecipeID": 41703,
     "Source": "Vendor"
   },
   "Defender's Twilight Opal": {
@@ -5107,7 +5117,7 @@
     "Yellow": 410,
     "Green": 425,
     "Grey": 440,
-    "RecipeID": 1,
+    "RecipeID": 41820,
     "Source": "Drop"
   },
   "Puissant Twilight Opal": {
@@ -5121,7 +5131,7 @@
     "Yellow": 410,
     "Green": 425,
     "Grey": 440,
-    "RecipeID": 1,
+    "RecipeID": 41702,
     "Source": "Vendor"
   },
   "Guardian's Twilight Opal": {
@@ -5135,8 +5145,8 @@
     "Yellow": 410,
     "Green": 425,
     "Grey": 440,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 41726,
+    "Source": "Reputation"
   },
   "Inscribed Monarch Topaz": {
     "ID": 53975,
@@ -5149,7 +5159,7 @@
     "Yellow": 410,
     "Green": 425,
     "Grey": 440,
-    "RecipeID": 1,
+    "RecipeID": 41789,
     "Source": "Drop"
   },
   "Etched Monarch Topaz": {
@@ -5163,6 +5173,7 @@
     "Yellow": 410,
     "Green": 425,
     "Grey": 440,
+    "RecipeID": 41777,
     "Source": "Trainer"
   },
   "Champion's Monarch Topaz": {
@@ -5176,6 +5187,7 @@
     "Yellow": 410,
     "Green": 425,
     "Grey": 440,
+    "RecipeID": 41780,
     "Source": "Trainer"
   },
   "Resplendent Monarch Topaz": {
@@ -5189,6 +5201,7 @@
     "Yellow": 410,
     "Green": 425,
     "Grey": 440,
+    "RecipeID": 41734,
     "Source": "Trainer"
   },
   "Deadly Monarch Topaz": {
@@ -5202,7 +5215,7 @@
     "Yellow": 410,
     "Green": 425,
     "Grey": 440,
-    "RecipeID": 1,
+    "RecipeID": 41794,
     "Source": "Drop"
   },
   "Glinting Monarch Topaz": {
@@ -5216,7 +5229,7 @@
     "Yellow": 410,
     "Green": 425,
     "Grey": 440,
-    "RecipeID": 1,
+    "RecipeID": 41582,
     "Source": "Vendor"
   },
   "Lucent Monarch Topaz": {
@@ -5230,6 +5243,7 @@
     "Yellow": 410,
     "Green": 425,
     "Grey": 440,
+    "RecipeID": 41733,
     "Source": "Trainer"
   },
   "Deft Monarch Topaz": {
@@ -5243,7 +5257,7 @@
     "Yellow": 410,
     "Green": 425,
     "Grey": 440,
-    "RecipeID": 1,
+    "RecipeID": 41792,
     "Source": "Drop"
   },
   "Luminous Monarch Topaz": {
@@ -5257,7 +5271,7 @@
     "Yellow": 410,
     "Green": 425,
     "Grey": 440,
-    "RecipeID": 1,
+    "RecipeID": 41689,
     "Source": "Vendor"
   },
   "Potent Monarch Topaz": {
@@ -5271,7 +5285,7 @@
     "Yellow": 410,
     "Green": 425,
     "Grey": 440,
-    "RecipeID": 1,
+    "RecipeID": 41686,
     "Source": "Vendor"
   },
   "Veiled Monarch Topaz": {
@@ -5285,7 +5299,7 @@
     "Yellow": 410,
     "Green": 425,
     "Grey": 440,
-    "RecipeID": 1,
+    "RecipeID": 41688,
     "Source": "Vendor"
   },
   "Durable Monarch Topaz": {
@@ -5299,6 +5313,7 @@
     "Yellow": 410,
     "Green": 425,
     "Grey": 440,
+    "RecipeID": 41730,
     "Source": "Trainer"
   },
   "Reckless Monarch Topaz": {
@@ -5312,7 +5327,7 @@
     "Yellow": 410,
     "Green": 425,
     "Grey": 440,
-    "RecipeID": 1,
+    "RecipeID": 41690,
     "Source": "Vendor"
   },
   "Wicked Monarch Topaz": {
@@ -5326,8 +5341,8 @@
     "Yellow": 410,
     "Green": 425,
     "Grey": 440,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 41721,
+    "Source": "Reputation"
   },
   "Pristine Monarch Topaz": {
     "ID": 53989,
@@ -5353,6 +5368,7 @@
     "Yellow": 410,
     "Green": 425,
     "Grey": 440,
+    "RecipeID": 41732,
     "Source": "Trainer"
   },
   "Stark Monarch Topaz": {
@@ -5366,7 +5382,7 @@
     "Yellow": 410,
     "Green": 425,
     "Grey": 440,
-    "RecipeID": 1,
+    "RecipeID": 41687,
     "Source": "Vendor"
   },
   "Stalwart Monarch Topaz": {
@@ -5380,6 +5396,7 @@
     "Yellow": 410,
     "Green": 425,
     "Grey": 440,
+    "RecipeID": 41779,
     "Source": "Trainer"
   },
   "Glimmering Monarch Topaz": {
@@ -5393,8 +5410,8 @@
     "Yellow": 410,
     "Green": 425,
     "Grey": 440,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 41722,
+    "Source": "Reputation"
   },
   "Accurate Monarch Topaz": {
     "ID": 53994,
@@ -5407,6 +5424,7 @@
     "Yellow": 410,
     "Green": 425,
     "Grey": 440,
+    "RecipeID": 41818,
     "Source": "Trainer"
   },
   "Timeless Forest Emerald": {
@@ -5420,7 +5438,7 @@
     "Yellow": 410,
     "Green": 425,
     "Grey": 440,
-    "RecipeID": 1,
+    "RecipeID": 41795,
     "Source": "Drop"
   },
   "Jagged Forest Emerald": {
@@ -5434,8 +5452,8 @@
     "Yellow": 410,
     "Green": 425,
     "Grey": 440,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 41723,
+    "Source": "Reputation"
   },
   "Vivid Forest Emerald": {
     "ID": 53997,
@@ -5448,7 +5466,7 @@
     "Yellow": 410,
     "Green": 425,
     "Grey": 440,
-    "RecipeID": 1,
+    "RecipeID": 41698,
     "Source": "Vendor"
   },
   "Enduring Forest Emerald": {
@@ -5462,7 +5480,7 @@
     "Yellow": 410,
     "Green": 425,
     "Grey": 440,
-    "RecipeID": 1,
+    "RecipeID": 41697,
     "Source": "Vendor"
   },
   "Steady Forest Emerald": {
@@ -5476,6 +5494,7 @@
     "Yellow": 410,
     "Green": 425,
     "Grey": 440,
+    "RecipeID": 41738,
     "Source": "Trainer"
   },
   "Forceful Forest Emerald": {
@@ -5489,7 +5508,7 @@
     "Yellow": 410,
     "Green": 425,
     "Grey": 440,
-    "RecipeID": 1,
+    "RecipeID": 41693,
     "Source": "Vendor"
   },
   "Seer's Forest Emerald": {
@@ -5503,7 +5522,7 @@
     "Yellow": 410,
     "Green": 425,
     "Grey": 440,
-    "RecipeID": 1,
+    "RecipeID": 41699,
     "Source": "Vendor"
   },
   "Misty Forest Emerald": {
@@ -5517,6 +5536,7 @@
     "Yellow": 410,
     "Green": 425,
     "Grey": 440,
+    "RecipeID": 41781,
     "Source": "Trainer"
   },
   "Shining Forest Emerald": {
@@ -5530,7 +5550,7 @@
     "Yellow": 410,
     "Green": 425,
     "Grey": 440,
-    "RecipeID": 1,
+    "RecipeID": 41782,
     "Source": "Drop"
   },
   "Turbid Forest Emerald": {
@@ -5544,6 +5564,7 @@
     "Yellow": 410,
     "Green": 425,
     "Grey": 440,
+    "RecipeID": 41737,
     "Source": "Trainer"
   },
   "Intricate Forest Emerald": {
@@ -5557,7 +5578,7 @@
     "Yellow": 410,
     "Green": 425,
     "Grey": 440,
-    "RecipeID": 1,
+    "RecipeID": 41694,
     "Source": "Vendor"
   },
   "Dazzling Forest Emerald": {
@@ -5584,8 +5605,8 @@
     "Yellow": 410,
     "Green": 425,
     "Grey": 440,
-    "RecipeID": 1,
-    "Source": "Vendor"
+    "RecipeID": 41724,
+    "Source": "Reputation"
   },
   "Lambent Forest Emerald": {
     "ID": 54009,
@@ -5598,7 +5619,7 @@
     "Yellow": 410,
     "Green": 425,
     "Grey": 440,
-    "RecipeID": 1,
+    "RecipeID": 41696,
     "Source": "Vendor"
   },
   "Opaque Forest Emerald": {
@@ -5612,6 +5633,7 @@
     "Yellow": 410,
     "Green": 425,
     "Grey": 440,
+    "RecipeID": 41739,
     "Source": "Trainer"
   },
   "Energized Forest Emerald": {
@@ -5625,7 +5647,7 @@
     "Yellow": 410,
     "Green": 425,
     "Grey": 440,
-    "RecipeID": 1,
+    "RecipeID": 41692,
     "Source": "Vendor"
   },
   "Radiant Forest Emerald": {
@@ -5639,7 +5661,7 @@
     "Yellow": 410,
     "Green": 425,
     "Grey": 440,
-    "RecipeID": 1,
+    "RecipeID": 41819,
     "Source": "Drop"
   },
   "Tense Forest Emerald": {
@@ -5653,6 +5675,7 @@
     "Yellow": 410,
     "Green": 425,
     "Grey": 440,
+    "RecipeID": 41736,
     "Source": "Trainer"
   },
   "Shattered Forest Emerald": {
@@ -5666,6 +5689,7 @@
     "Yellow": 410,
     "Green": 425,
     "Grey": 440,
+    "RecipeID": 41735,
     "Source": "Trainer"
   },
   "Precise Bloodstone": {
@@ -5692,7 +5716,7 @@
     "Yellow": 410,
     "Green": 425,
     "Grey": 440,
-    "RecipeID": 1,
+    "RecipeID": 41793,
     "Source": "Drop"
   },
   "Resolute Monarch Topaz": {
@@ -5706,6 +5730,7 @@
     "Yellow": 410,
     "Green": 425,
     "Grey": 440,
+    "RecipeID": 41778,
     "Source": "Trainer"
   },
   "Effulgent Skyflare Diamond": {
@@ -5719,7 +5744,7 @@
     "Yellow": 440,
     "Green": 450,
     "Grey": 460,
-    "RecipeID": 1,
+    "RecipeID": 41705,
     "Source": "Vendor"
   },
   "Tireless Skyflare Diamond": {
@@ -5733,6 +5758,7 @@
     "Yellow": 440,
     "Green": 450,
     "Grey": 460,
+    "RecipeID": 41415,
     "Source": "Trainer"
   },
   "Forlorn Skyflare Diamond": {
@@ -5746,6 +5772,7 @@
     "Yellow": 440,
     "Green": 450,
     "Grey": 460,
+    "RecipeID": 41743,
     "Source": "Trainer"
   },
   "Impassive Skyflare Diamond": {
@@ -5759,6 +5786,7 @@
     "Yellow": 440,
     "Green": 450,
     "Grey": 460,
+    "RecipeID": 41744,
     "Source": "Trainer"
   },
   "Chaotic Skyflare Diamond": {
@@ -5772,7 +5800,7 @@
     "Yellow": 440,
     "Green": 450,
     "Grey": 460,
-    "RecipeID": 1,
+    "RecipeID": 41704,
     "Source": "Vendor"
   },
   "Destructive Skyflare Diamond": {
@@ -5786,6 +5814,7 @@
     "Yellow": 440,
     "Green": 450,
     "Grey": 460,
+    "RecipeID": 41786,
     "Source": "Trainer"
   },
   "Ember Skyflare Diamond": {
@@ -5799,7 +5828,7 @@
     "Yellow": 440,
     "Green": 450,
     "Grey": 460,
-    "RecipeID": 1,
+    "RecipeID": 41706,
     "Source": "Vendor"
   },
   "Enigmatic Skyflare Diamond": {
@@ -5813,6 +5842,7 @@
     "Yellow": 440,
     "Green": 450,
     "Grey": 460,
+    "RecipeID": 41742,
     "Source": "Trainer"
   },
   "Swift Skyflare Diamond": {
@@ -5826,6 +5856,7 @@
     "Yellow": 440,
     "Green": 450,
     "Grey": 460,
+    "RecipeID": 41422,
     "Source": "Trainer"
   },
   "Thundering Skyflare Diamond": {
@@ -5839,6 +5870,7 @@
     "Yellow": 440,
     "Green": 450,
     "Grey": 460,
+    "RecipeID": 41787,
     "Source": "Trainer"
   },
   "Insightful Earthsiege Diamond": {
@@ -5852,7 +5884,7 @@
     "Yellow": 440,
     "Green": 450,
     "Grey": 460,
-    "RecipeID": 1,
+    "RecipeID": 41708,
     "Source": "Vendor"
   },
   "Bracing Earthsiege Diamond": {
@@ -5866,7 +5898,7 @@
     "Yellow": 440,
     "Green": 450,
     "Grey": 460,
-    "RecipeID": 1,
+    "RecipeID": 41798,
     "Source": "Drop"
   },
   "Eternal Earthsiege Diamond": {
@@ -5880,7 +5912,7 @@
     "Yellow": 440,
     "Green": 450,
     "Grey": 460,
-    "RecipeID": 1,
+    "RecipeID": 41799,
     "Source": "Drop"
   },
   "Powerful Earthsiege Diamond": {
@@ -5894,6 +5926,7 @@
     "Yellow": 440,
     "Green": 450,
     "Grey": 460,
+    "RecipeID": 41406,
     "Source": "Trainer"
   },
   "Relentless Earthsiege Diamond": {
@@ -5907,7 +5940,7 @@
     "Yellow": 440,
     "Green": 450,
     "Grey": 460,
-    "RecipeID": 1,
+    "RecipeID": 41710,
     "Source": "Vendor"
   },
   "Austere Earthsiege Diamond": {
@@ -5921,7 +5954,7 @@
     "Yellow": 440,
     "Green": 450,
     "Grey": 460,
-    "RecipeID": 1,
+    "RecipeID": 41797,
     "Source": "Drop"
   },
   "Persistent Earthsiege Diamond": {
@@ -5935,6 +5968,7 @@
     "Yellow": 440,
     "Green": 450,
     "Grey": 460,
+    "RecipeID": 41409,
     "Source": "Trainer"
   },
   "Trenchant Earthsiege Diamond": {
@@ -5948,7 +5982,7 @@
     "Yellow": 440,
     "Green": 450,
     "Grey": 460,
-    "RecipeID": 1,
+    "RecipeID": 41711,
     "Source": "Vendor"
   },
   "Invigorating Earthsiege Diamond": {
@@ -5962,7 +5996,7 @@
     "Yellow": 440,
     "Green": 450,
     "Grey": 460,
-    "RecipeID": 1,
+    "RecipeID": 41709,
     "Source": "Vendor"
   },
   "Beaming Earthsiege Diamond": {
@@ -5976,6 +6010,7 @@
     "Yellow": 440,
     "Green": 450,
     "Grey": 460,
+    "RecipeID": 41788,
     "Source": "Trainer"
   },
   "Revitalizing Skyflare Diamond": {
@@ -5989,7 +6024,7 @@
     "Yellow": 440,
     "Green": 450,
     "Grey": 460,
-    "RecipeID": 1,
+    "RecipeID": 41707,
     "Source": "Vendor"
   },
   "Bold Dragon's Eye": {
@@ -6003,7 +6038,7 @@
     "Yellow": 390,
     "Green": 415,
     "Grey": 440,
-    "RecipeID": 1,
+    "RecipeID": 42298,
     "Source": "Vendor"
   },
   "Delicate Dragon's Eye": {
@@ -6017,7 +6052,7 @@
     "Yellow": 390,
     "Green": 415,
     "Grey": 440,
-    "RecipeID": 1,
+    "RecipeID": 42301,
     "Source": "Vendor"
   },
   "Runed Dragon's Eye": {
@@ -6031,7 +6066,7 @@
     "Yellow": 390,
     "Green": 415,
     "Grey": 440,
-    "RecipeID": 1,
+    "RecipeID": 42309,
     "Source": "Vendor"
   },
   "Bright Dragon's Eye": {
@@ -6045,7 +6080,7 @@
     "Yellow": 390,
     "Green": 415,
     "Grey": 440,
-    "RecipeID": 1,
+    "RecipeID": 42299,
     "Source": "Vendor"
   },
   "Subtle Dragon's Eye": {
@@ -6059,7 +6094,7 @@
     "Yellow": 390,
     "Green": 415,
     "Grey": 440,
-    "RecipeID": 1,
+    "RecipeID": 42314,
     "Source": "Vendor"
   },
   "Flashing Dragon's Eye": {
@@ -6073,7 +6108,7 @@
     "Yellow": 390,
     "Green": 415,
     "Grey": 440,
-    "RecipeID": 1,
+    "RecipeID": 42302,
     "Source": "Vendor"
   },
   "Brilliant Dragon's Eye": {
@@ -6087,7 +6122,7 @@
     "Yellow": 390,
     "Green": 415,
     "Grey": 440,
-    "RecipeID": 1,
+    "RecipeID": 42300,
     "Source": "Vendor"
   },
   "Fractured Dragon's Eye": {
@@ -6101,7 +6136,7 @@
     "Yellow": 390,
     "Green": 415,
     "Grey": 440,
-    "RecipeID": 1,
+    "RecipeID": 42303,
     "Source": "Vendor"
   },
   "Lustrous Dragon's Eye": {
@@ -6115,7 +6150,7 @@
     "Yellow": 390,
     "Green": 415,
     "Grey": 440,
-    "RecipeID": 1,
+    "RecipeID": 42304,
     "Source": "Vendor"
   },
   "Mystic Dragon's Eye": {
@@ -6129,7 +6164,7 @@
     "Yellow": 390,
     "Green": 415,
     "Grey": 440,
-    "RecipeID": 1,
+    "RecipeID": 42305,
     "Source": "Vendor"
   },
   "Precise Dragon's Eye": {
@@ -6143,7 +6178,7 @@
     "Yellow": 390,
     "Green": 415,
     "Grey": 440,
-    "RecipeID": 1,
+    "RecipeID": 42306,
     "Source": "Vendor"
   },
   "Quick Dragon's Eye": {
@@ -6157,7 +6192,7 @@
     "Yellow": 390,
     "Green": 415,
     "Grey": 440,
-    "RecipeID": 1,
+    "RecipeID": 42307,
     "Source": "Vendor"
   },
   "Rigid Dragon's Eye": {
@@ -6171,7 +6206,7 @@
     "Yellow": 390,
     "Green": 415,
     "Grey": 440,
-    "RecipeID": 1,
+    "RecipeID": 42308,
     "Source": "Vendor"
   },
   "Smooth Dragon's Eye": {
@@ -6185,7 +6220,7 @@
     "Yellow": 390,
     "Green": 415,
     "Grey": 440,
-    "RecipeID": 1,
+    "RecipeID": 42310,
     "Source": "Vendor"
   },
   "Solid Dragon's Eye": {
@@ -6199,7 +6234,7 @@
     "Yellow": 390,
     "Green": 415,
     "Grey": 440,
-    "RecipeID": 1,
+    "RecipeID": 42311,
     "Source": "Vendor"
   },
   "Sparkling Dragon's Eye": {
@@ -6213,7 +6248,7 @@
     "Yellow": 390,
     "Green": 415,
     "Grey": 440,
-    "RecipeID": 1,
+    "RecipeID": 42312,
     "Source": "Vendor"
   },
   "Stormy Dragon's Eye": {
@@ -6227,7 +6262,7 @@
     "Yellow": 390,
     "Green": 415,
     "Grey": 440,
-    "RecipeID": 1,
+    "RecipeID": 42313,
     "Source": "Vendor"
   },
   "Thick Dragon's Eye": {
@@ -6241,7 +6276,7 @@
     "Yellow": 390,
     "Green": 415,
     "Grey": 440,
-    "RecipeID": 1,
+    "RecipeID": 42315,
     "Source": "Vendor"
   },
   "Bloodstone Band": {
@@ -6433,7 +6468,7 @@
     "Yellow": 450,
     "Green": 455,
     "Grey": 460,
-    "RecipeID": 1,
+    "RecipeID": 42648,
     "Source": "Vendor"
   },
   "Titanium Earthguard Ring": {
@@ -6451,7 +6486,7 @@
     "Yellow": 450,
     "Green": 455,
     "Grey": 460,
-    "RecipeID": 1,
+    "RecipeID": 42649,
     "Source": "Vendor"
   },
   "Titanium Spellshock Ring": {
@@ -6469,7 +6504,7 @@
     "Yellow": 450,
     "Green": 455,
     "Grey": 460,
-    "RecipeID": 1,
+    "RecipeID": 42650,
     "Source": "Vendor"
   },
   "Titanium Impact Choker": {
@@ -6487,7 +6522,7 @@
     "Yellow": 450,
     "Green": 455,
     "Grey": 460,
-    "RecipeID": 1,
+    "RecipeID": 42651,
     "Source": "Vendor"
   },
   "Titanium Earthguard Chain": {
@@ -6505,7 +6540,7 @@
     "Yellow": 450,
     "Green": 455,
     "Grey": 460,
-    "RecipeID": 1,
+    "RecipeID": 42652,
     "Source": "Vendor"
   },
   "Titanium Spellshock Necklace": {
@@ -6523,7 +6558,7 @@
     "Yellow": 450,
     "Green": 455,
     "Grey": 460,
-    "RecipeID": 1,
+    "RecipeID": 42653,
     "Source": "Vendor"
   },
   "Enchanted Pearl": {
@@ -6649,7 +6684,7 @@
     "Yellow": 440,
     "Green": 450,
     "Grey": 460,
-    "RecipeID": 1,
+    "RecipeID": 43317,
     "Source": "Vendor"
   },
   "Ring of Scarlet Shadows": {
@@ -6665,7 +6700,7 @@
     "Yellow": 440,
     "Green": 450,
     "Grey": 460,
-    "RecipeID": 1,
+    "RecipeID": 43318,
     "Source": "Vendor"
   },
   "Windfire Band": {
@@ -6681,7 +6716,7 @@
     "Yellow": 440,
     "Green": 450,
     "Grey": 460,
-    "RecipeID": 1,
+    "RecipeID": 43319,
     "Source": "Vendor"
   },
   "Ring of Northern Tears": {
@@ -6697,7 +6732,7 @@
     "Yellow": 440,
     "Green": 450,
     "Grey": 460,
-    "RecipeID": 1,
+    "RecipeID": 43320,
     "Source": "Vendor"
   },
   "Savage Titanium Ring": {
@@ -6712,7 +6747,7 @@
     "Yellow": 440,
     "Green": 450,
     "Grey": 460,
-    "RecipeID": 1,
+    "RecipeID": 43485,
     "Source": "Vendor"
   },
   "Savage Titanium Band": {
@@ -6727,7 +6762,7 @@
     "Yellow": 440,
     "Green": 450,
     "Grey": 460,
-    "RecipeID": 1,
+    "RecipeID": 43497,
     "Source": "Vendor"
   },
   "Titanium Frostguard Ring": {
@@ -6744,7 +6779,7 @@
     "Yellow": 440,
     "Green": 450,
     "Grey": 460,
-    "RecipeID": 1,
+    "RecipeID": 43597,
     "Source": "Vendor"
   },
   "Monarch Crab": {
@@ -6871,7 +6906,7 @@
     "Yellow": 450,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
+    "RecipeID": 46897,
     "Source": "Vendor"
   },
   "Steady Eye of Zul": {
@@ -6885,7 +6920,7 @@
     "Yellow": 450,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
+    "RecipeID": 46898,
     "Source": "Vendor"
   },
   "Vivid Eye of Zul": {
@@ -6899,7 +6934,7 @@
     "Yellow": 450,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
+    "RecipeID": 46899,
     "Source": "Vendor"
   },
   "Dazzling Eye of Zul": {
@@ -6913,7 +6948,7 @@
     "Yellow": 450,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
+    "RecipeID": 46900,
     "Source": "Vendor"
   },
   "Jagged Eye of Zul": {
@@ -6927,7 +6962,7 @@
     "Yellow": 450,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
+    "RecipeID": 46901,
     "Source": "Vendor"
   },
   "Timeless Eye of Zul": {
@@ -6941,7 +6976,7 @@
     "Yellow": 450,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
+    "RecipeID": 46902,
     "Source": "Vendor"
   },
   "Seer's Eye of Zul": {
@@ -6955,7 +6990,7 @@
     "Yellow": 450,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
+    "RecipeID": 46903,
     "Source": "Vendor"
   },
   "Forceful Eye of Zul": {
@@ -6969,7 +7004,7 @@
     "Yellow": 450,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
+    "RecipeID": 46904,
     "Source": "Vendor"
   },
   "Misty Eye of Zul": {
@@ -6983,7 +7018,7 @@
     "Yellow": 450,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
+    "RecipeID": 46905,
     "Source": "Vendor"
   },
   "Sundered Eye of Zul": {
@@ -6997,7 +7032,7 @@
     "Yellow": 450,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
+    "RecipeID": 46906,
     "Source": "Vendor"
   },
   "Shining Eye of Zul": {
@@ -7011,7 +7046,7 @@
     "Yellow": 450,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
+    "RecipeID": 46907,
     "Source": "Vendor"
   },
   "Tense Eye of Zul": {
@@ -7025,7 +7060,7 @@
     "Yellow": 450,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
+    "RecipeID": 46908,
     "Source": "Vendor"
   },
   "Lambent Eye of Zul": {
@@ -7039,7 +7074,7 @@
     "Yellow": 450,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
+    "RecipeID": 46909,
     "Source": "Vendor"
   },
   "Intricate Eye of Zul": {
@@ -7053,7 +7088,7 @@
     "Yellow": 450,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
+    "RecipeID": 46910,
     "Source": "Vendor"
   },
   "Radiant Eye of Zul": {
@@ -7067,7 +7102,7 @@
     "Yellow": 450,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
+    "RecipeID": 46911,
     "Source": "Vendor"
   },
   "Energized Eye of Zul": {
@@ -7081,7 +7116,7 @@
     "Yellow": 450,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
+    "RecipeID": 46912,
     "Source": "Vendor"
   },
   "Shattered Eye of Zul": {
@@ -7095,7 +7130,7 @@
     "Yellow": 450,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
+    "RecipeID": 46913,
     "Source": "Vendor"
   },
   "Opaque Eye of Zul": {
@@ -7109,7 +7144,7 @@
     "Yellow": 450,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
+    "RecipeID": 46914,
     "Source": "Vendor"
   },
   "Turbid Eye of Zul": {
@@ -7123,7 +7158,7 @@
     "Yellow": 450,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
+    "RecipeID": 46915,
     "Source": "Vendor"
   },
   "Runed Cardinal Ruby": {
@@ -7137,7 +7172,7 @@
     "Yellow": 450,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
+    "RecipeID": 46916,
     "Source": "Vendor"
   },
   "Bold Cardinal Ruby": {
@@ -7151,7 +7186,7 @@
     "Yellow": 450,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
+    "RecipeID": 46917,
     "Source": "Vendor"
   },
   "Delicate Cardinal Ruby": {
@@ -7165,7 +7200,7 @@
     "Yellow": 450,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
+    "RecipeID": 46918,
     "Source": "Vendor"
   },
   "Bright Cardinal Ruby": {
@@ -7179,7 +7214,7 @@
     "Yellow": 450,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
+    "RecipeID": 46919,
     "Source": "Vendor"
   },
   "Precise Cardinal Ruby": {
@@ -7193,7 +7228,7 @@
     "Yellow": 450,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
+    "RecipeID": 46920,
     "Source": "Vendor"
   },
   "Fractured Cardinal Ruby": {
@@ -7207,7 +7242,7 @@
     "Yellow": 450,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
+    "RecipeID": 46921,
     "Source": "Vendor"
   },
   "Subtle Cardinal Ruby": {
@@ -7221,7 +7256,7 @@
     "Yellow": 450,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
+    "RecipeID": 46922,
     "Source": "Vendor"
   },
   "Flashing Cardinal Ruby": {
@@ -7235,7 +7270,7 @@
     "Yellow": 450,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
+    "RecipeID": 46923,
     "Source": "Vendor"
   },
   "Solid Majestic Zircon": {
@@ -7249,7 +7284,7 @@
     "Yellow": 450,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
+    "RecipeID": 46924,
     "Source": "Vendor"
   },
   "Sparkling Majestic Zircon": {
@@ -7263,7 +7298,7 @@
     "Yellow": 450,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
+    "RecipeID": 46925,
     "Source": "Vendor"
   },
   "Stormy Majestic Zircon": {
@@ -7277,7 +7312,7 @@
     "Yellow": 450,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
+    "RecipeID": 46926,
     "Source": "Vendor"
   },
   "Lustrous Majestic Zircon": {
@@ -7291,7 +7326,7 @@
     "Yellow": 450,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
+    "RecipeID": 46927,
     "Source": "Vendor"
   },
   "Rigid King's Amber": {
@@ -7305,7 +7340,7 @@
     "Yellow": 450,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
+    "RecipeID": 46928,
     "Source": "Vendor"
   },
   "Smooth King's Amber": {
@@ -7319,7 +7354,7 @@
     "Yellow": 450,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
+    "RecipeID": 46929,
     "Source": "Vendor"
   },
   "Brilliant King's Amber": {
@@ -7333,7 +7368,7 @@
     "Yellow": 450,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
+    "RecipeID": 46930,
     "Source": "Vendor"
   },
   "Thick King's Amber": {
@@ -7347,7 +7382,7 @@
     "Yellow": 450,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
+    "RecipeID": 46931,
     "Source": "Vendor"
   },
   "Mystic King's Amber": {
@@ -7361,7 +7396,7 @@
     "Yellow": 450,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
+    "RecipeID": 46932,
     "Source": "Vendor"
   },
   "Quick King's Amber": {
@@ -7375,7 +7410,7 @@
     "Yellow": 450,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
+    "RecipeID": 46933,
     "Source": "Vendor"
   },
   "Balanced Dreadstone": {
@@ -7389,7 +7424,7 @@
     "Yellow": 450,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
+    "RecipeID": 46934,
     "Source": "Vendor"
   },
   "Sovereign Dreadstone": {
@@ -7403,7 +7438,7 @@
     "Yellow": 450,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
+    "RecipeID": 46935,
     "Source": "Vendor"
   },
   "Glowing Dreadstone": {
@@ -7417,7 +7452,7 @@
     "Yellow": 450,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
+    "RecipeID": 46936,
     "Source": "Vendor"
   },
   "Purified Dreadstone": {
@@ -7431,7 +7466,7 @@
     "Yellow": 450,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
+    "RecipeID": 46937,
     "Source": "Vendor"
   },
   "Shifting Dreadstone": {
@@ -7445,7 +7480,7 @@
     "Yellow": 450,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
+    "RecipeID": 46938,
     "Source": "Vendor"
   },
   "Royal Dreadstone": {
@@ -7459,7 +7494,7 @@
     "Yellow": 450,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
+    "RecipeID": 46939,
     "Source": "Vendor"
   },
   "Regal Dreadstone": {
@@ -7473,7 +7508,7 @@
     "Yellow": 450,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
+    "RecipeID": 46940,
     "Source": "Vendor"
   },
   "Defender's Dreadstone": {
@@ -7487,7 +7522,7 @@
     "Yellow": 450,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
+    "RecipeID": 46941,
     "Source": "Vendor"
   },
   "Guardian's Dreadstone": {
@@ -7501,7 +7536,7 @@
     "Yellow": 450,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
+    "RecipeID": 46942,
     "Source": "Vendor"
   },
   "Mysterious Dreadstone": {
@@ -7515,7 +7550,7 @@
     "Yellow": 450,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
+    "RecipeID": 46943,
     "Source": "Vendor"
   },
   "Puissant Dreadstone": {
@@ -7529,7 +7564,7 @@
     "Yellow": 450,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
+    "RecipeID": 46944,
     "Source": "Vendor"
   },
   "Infused Dreadstone": {
@@ -7543,7 +7578,7 @@
     "Yellow": 450,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
+    "RecipeID": 46945,
     "Source": "Vendor"
   },
   "Tenuous Dreadstone": {
@@ -7557,7 +7592,7 @@
     "Yellow": 450,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
+    "RecipeID": 46946,
     "Source": "Vendor"
   },
   "Luminous Ametrine": {
@@ -7571,7 +7606,7 @@
     "Yellow": 450,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
+    "RecipeID": 46947,
     "Source": "Vendor"
   },
   "Inscribed Ametrine": {
@@ -7585,7 +7620,7 @@
     "Yellow": 450,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
+    "RecipeID": 46948,
     "Source": "Vendor"
   },
   "Deadly Ametrine": {
@@ -7599,7 +7634,7 @@
     "Yellow": 450,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
+    "RecipeID": 46949,
     "Source": "Vendor"
   },
   "Potent Ametrine": {
@@ -7613,7 +7648,7 @@
     "Yellow": 450,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
+    "RecipeID": 46950,
     "Source": "Vendor"
   },
   "Veiled Ametrine": {
@@ -7627,7 +7662,7 @@
     "Yellow": 450,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
+    "RecipeID": 46951,
     "Source": "Vendor"
   },
   "Durable Ametrine": {
@@ -7641,7 +7676,7 @@
     "Yellow": 450,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
+    "RecipeID": 46952,
     "Source": "Vendor"
   },
   "Etched Ametrine": {
@@ -7655,7 +7690,7 @@
     "Yellow": 450,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
+    "RecipeID": 46953,
     "Source": "Vendor"
   },
   "Pristine Ametrine": {
@@ -7669,7 +7704,7 @@
     "Yellow": 450,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
+    "RecipeID": 46956,
     "Source": "Vendor"
   },
   "Reckless Ametrine": {
@@ -7683,7 +7718,7 @@
     "Yellow": 450,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
+    "RecipeID": 47007,
     "Source": "Vendor"
   },
   "Glinting Ametrine": {
@@ -7697,7 +7732,7 @@
     "Yellow": 450,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
+    "RecipeID": 47008,
     "Source": "Vendor"
   },
   "Accurate Ametrine": {
@@ -7711,7 +7746,7 @@
     "Yellow": 450,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
+    "RecipeID": 47010,
     "Source": "Vendor"
   },
   "Wicked Ametrine": {
@@ -7725,7 +7760,7 @@
     "Yellow": 450,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
+    "RecipeID": 47011,
     "Source": "Vendor"
   },
   "Glimmering Ametrine": {
@@ -7739,7 +7774,7 @@
     "Yellow": 450,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
+    "RecipeID": 47012,
     "Source": "Vendor"
   },
   "Champion's Ametrine": {
@@ -7753,7 +7788,7 @@
     "Yellow": 450,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
+    "RecipeID": 47015,
     "Source": "Vendor"
   },
   "Empowered Ametrine": {
@@ -7767,7 +7802,7 @@
     "Yellow": 450,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
+    "RecipeID": 47016,
     "Source": "Vendor"
   },
   "Stalwart Ametrine": {
@@ -7781,7 +7816,7 @@
     "Yellow": 450,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
+    "RecipeID": 47017,
     "Source": "Vendor"
   },
   "Resplendent Ametrine": {
@@ -7795,7 +7830,7 @@
     "Yellow": 450,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
+    "RecipeID": 47018,
     "Source": "Vendor"
   },
   "Fierce Ametrine": {
@@ -7809,7 +7844,7 @@
     "Yellow": 450,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
+    "RecipeID": 47019,
     "Source": "Vendor"
   },
   "Deft Ametrine": {
@@ -7823,7 +7858,7 @@
     "Yellow": 450,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
+    "RecipeID": 47020,
     "Source": "Vendor"
   },
   "Lucent Ametrine": {
@@ -7837,7 +7872,7 @@
     "Yellow": 450,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
+    "RecipeID": 47021,
     "Source": "Vendor"
   },
   "Resolute Ametrine": {
@@ -7851,7 +7886,7 @@
     "Yellow": 450,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
+    "RecipeID": 47022,
     "Source": "Vendor"
   },
   "Stark Ametrine": {
@@ -7865,7 +7900,7 @@
     "Yellow": 450,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
+    "RecipeID": 47023,
     "Source": "Vendor"
   },
   "Nightmare Tear": {
@@ -7880,7 +7915,7 @@
     "Yellow": 450,
     "Green": 452,
     "Grey": 465,
-    "RecipeID": 1,
+    "RecipeID": 49112,
     "Source": "Vendor"
   }
 }

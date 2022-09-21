@@ -31,6 +31,10 @@ export interface WHItem {
   readonly flags2: number;
 }
 
+export interface WHItemWithID extends WHItem {
+  readonly id: ItemId;
+}
+
 export type ItemId = Id<"ItemId">;
 export interface WHItemMap {
   [id: string]: WHItem;
@@ -43,7 +47,7 @@ export type SourceString =
   | "Vendor"
   | "VendorLimited"
   | "Seasonal"
-  | "Fished";
+  | "Reputation";
 
 type Id<I, T = number> = T & { __dont_set_this?: I };
 
@@ -88,7 +92,7 @@ export type Output = { [name: string]: Spell };
 
 export interface Spell {
   readonly ID: SpellId;
-  readonly Creates: ItemId;
+  readonly Creates?: ItemId;
   readonly Learn: number;
   readonly Yellow: number;
   readonly Green: number;
@@ -101,7 +105,11 @@ export interface Spell {
 
 type ReagentMap = { [name: string]: number };
 
-export function toSpell(s: WHSpell, items: Map<ItemId, WHItem>): Spell {
+export function toSpell(
+  s: WHSpell,
+  items: Map<ItemId, WHItem>,
+  recipes: Map<string, WHItemWithID>
+): Spell {
   const [, Yellow, Green, Grey] = s.colors!;
 
   const reagentsEntries = s.reagents
@@ -118,18 +126,27 @@ export function toSpell(s: WHSpell, items: Map<ItemId, WHItem>): Spell {
     reagentsEntries.filter((r): r is [string, number] => r !== null)
   );
 
-  const Source = toSourceString(minSourceId(s.source));
+  const createdItemId = s.creates && s.creates[0];
+  const createdItemName = createdItemId
+    ? items.get(createdItemId)?.name_enus
+    : undefined;
+
+  const recipe = createdItemName ? recipes.get(createdItemName) : undefined;
+
+  const src = toSourceString(minSourceId(s.source));
+  const Source: SourceString =
+    src !== "Trainer" && recipe?.jsonequip.reqfaction ? "Reputation" : src;
 
   return {
     ID: s.id,
-    Creates: s.creates ? s.creates[0] : undefined,
+    Creates: createdItemId,
     Learn: s.learnedat,
     Phase: 1,
     Reagents,
     Yellow,
     Green,
     Grey,
-    RecipeID: Source !== "Trainer" ? 1 : undefined,
+    RecipeID: recipe?.id,
     Source,
   };
 }
@@ -158,4 +175,11 @@ export function minSourceId(sources?: readonly Source[]): Source {
 
 function assertNever(v: never): never {
   throw new Error(`AssertNever: ${v}`);
+}
+
+export function stripRecipePrefix(recipeName: string) {
+  if (!recipeName.includes(":")) return recipeName;
+
+  const [, itemName] = recipeName.split(":");
+  return itemName.trim();
 }
