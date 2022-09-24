@@ -49,7 +49,8 @@ export type SourceString =
   | "Vendor"
   | "VendorLimited"
   | "Seasonal"
-  | "Reputation";
+  | "Reputation"
+  | "Discovery";
 
 type Id<I, T = number> = T & { __dont_set_this?: I };
 
@@ -61,14 +62,17 @@ type SpellId = Id<"SpellId">;
 type Ingredient = [ItemId, number];
 
 enum Source {
+  ONE = 1,
   DROP = 2,
+  FOUR = 4,
   VENDOR = 5,
   TRAINER = 6,
+  DISCOVERY = 7,
   FISHED = 16,
   PICKPOCKETED = 21,
 }
 
-type SourceId = 2 | 5 | 6 | 16 | 21;
+type SourceId = 1 | 2 | 4 | 5 | 6 | 7 | 16 | 21;
 
 export interface WHSpell {
   readonly id: SpellId;
@@ -84,7 +88,7 @@ export interface WHSpell {
   readonly reagents?: readonly Ingredient[];
   readonly schools: number;
   readonly skill: SkillId[];
-  readonly source?: SourceId[];
+  readonly source?: Source[];
   readonly trainingcost?: number;
   readonly popularity: number;
   readonly specialization?: SpecializationId;
@@ -164,11 +168,17 @@ export function toSourceString(source: Source): SourceString {
   switch (source) {
     case Source.TRAINER:
       return "Trainer";
+    case Source.DISCOVERY:
+      return "Discovery";
     case Source.VENDOR:
       return "Vendor";
     case Source.DROP:
     case Source.FISHED:
     case Source.PICKPOCKETED:
+      return "Drop";
+    case Source.ONE:
+    case Source.FOUR:
+      console.warn(`Source id unknown: ${source}`);
       return "Drop";
     default:
       return assertNever(source);
@@ -179,6 +189,7 @@ export function minSourceId(sources?: readonly Source[]): Source {
   if (!sources) return Source.TRAINER;
   if (sources.includes(Source.TRAINER)) return Source.TRAINER;
   if (sources.includes(Source.VENDOR)) return Source.VENDOR;
+  if (sources.includes(Source.DISCOVERY)) return Source.DISCOVERY;
   return Source.DROP;
 }
 

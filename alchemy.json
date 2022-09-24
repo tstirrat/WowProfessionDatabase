@@ -3120,7 +3120,7 @@
     "Yellow": 415,
     "Green": 422,
     "Grey": 430,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Elixir of Mighty Fortitude": {
     "ID": 53898,
@@ -3227,7 +3227,7 @@
     "Yellow": 415,
     "Green": 422,
     "Grey": 430,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Indestructible Potion": {
     "ID": 53905,
@@ -3361,7 +3361,7 @@
     "Yellow": 415,
     "Green": 422,
     "Grey": 430,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Potion of Speed": {
     "ID": 54221,
@@ -3376,7 +3376,7 @@
     "Yellow": 415,
     "Green": 422,
     "Grey": 430,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Potion of Wild Magic": {
     "ID": 54222,
@@ -3391,7 +3391,7 @@
     "Yellow": 415,
     "Green": 422,
     "Grey": 430,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Elixir of Mighty Mageblood": {
     "ID": 56519,
@@ -3406,7 +3406,7 @@
     "Yellow": 415,
     "Green": 422,
     "Grey": 430,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Transmute: Skyflare Diamond": {
     "ID": 57425,
@@ -3492,7 +3492,7 @@
     "Yellow": 415,
     "Green": 422,
     "Grey": 430,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Elixir of Deadly Strikes": {
     "ID": 60355,
@@ -3507,7 +3507,7 @@
     "Yellow": 415,
     "Green": 422,
     "Grey": 430,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Elixir of Mighty Defense": {
     "ID": 60356,
@@ -3522,7 +3522,7 @@
     "Yellow": 415,
     "Green": 422,
     "Grey": 430,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Elixir of Expertise": {
     "ID": 60357,
@@ -3537,7 +3537,7 @@
     "Yellow": 415,
     "Green": 422,
     "Grey": 430,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Elixir of Armor Piercing": {
     "ID": 60365,
@@ -3551,7 +3551,7 @@
     "Yellow": 415,
     "Green": 422,
     "Grey": 430,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Elixir of Lightning Speed": {
     "ID": 60366,
@@ -3566,7 +3566,7 @@
     "Yellow": 415,
     "Green": 422,
     "Grey": 430,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Elixir of Mighty Thoughts": {
     "ID": 60367,
@@ -3682,7 +3682,7 @@
     "Yellow": 415,
     "Green": 422,
     "Grey": 430,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Elixir of Minor Accuracy": {
     "ID": 63732,

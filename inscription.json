@@ -371,7 +371,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Healing Touch": {
     "ID": 56945,
@@ -393,7 +393,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Innervate": {
     "ID": 56947,
@@ -404,7 +404,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Insect Swarm": {
     "ID": 56948,
@@ -415,7 +415,7 @@
     "Yellow": 155,
     "Green": 160,
     "Grey": 165,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Lifebloom": {
     "ID": 56949,
@@ -426,7 +426,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Mangle": {
     "ID": 56950,
@@ -437,7 +437,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Moonfire": {
     "ID": 56951,
@@ -459,7 +459,7 @@
     "Yellow": 315,
     "Green": 320,
     "Grey": 325,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Rebirth": {
     "ID": 56953,
@@ -481,7 +481,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Rejuvenation": {
     "ID": 56955,
@@ -525,7 +525,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Starfire": {
     "ID": 56959,
@@ -536,7 +536,7 @@
     "Yellow": 225,
     "Green": 230,
     "Grey": 235,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Swiftmend": {
     "ID": 56960,
@@ -547,7 +547,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Maul": {
     "ID": 56961,
@@ -580,7 +580,7 @@
     "Yellow": 355,
     "Green": 360,
     "Grey": 365,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Arcane Explosion": {
     "ID": 56968,
@@ -613,7 +613,7 @@
     "Yellow": 340,
     "Green": 345,
     "Grey": 350,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Blink": {
     "ID": 56973,
@@ -646,7 +646,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Frost Nova": {
     "ID": 56976,
@@ -668,7 +668,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Ice Armor": {
     "ID": 56978,
@@ -679,7 +679,7 @@
     "Yellow": 100,
     "Green": 110,
     "Grey": 120,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Ice Block": {
     "ID": 56979,
@@ -690,7 +690,7 @@
     "Yellow": 230,
     "Green": 235,
     "Grey": 240,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Ice Lance": {
     "ID": 56980,
@@ -701,7 +701,7 @@
     "Yellow": 380,
     "Green": 385,
     "Grey": 390,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Icy Veins": {
     "ID": 56981,
@@ -712,7 +712,7 @@
     "Yellow": 180,
     "Green": 185,
     "Grey": 190,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Scorch": {
     "ID": 56982,
@@ -734,7 +734,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Mage Armor": {
     "ID": 56984,
@@ -767,7 +767,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Polymorph": {
     "ID": 56987,
@@ -789,7 +789,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Water Elemental": {
     "ID": 56989,
@@ -800,7 +800,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Blast Wave": {
     "ID": 56990,
@@ -811,7 +811,7 @@
     "Yellow": 355,
     "Green": 360,
     "Grey": 365,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Arcane Blast": {
     "ID": 56991,
@@ -822,7 +822,7 @@
     "Yellow": 320,
     "Green": 325,
     "Grey": 330,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Aimed Shot": {
     "ID": 56994,
@@ -833,7 +833,7 @@
     "Yellow": 180,
     "Green": 185,
     "Grey": 190,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Arcane Shot": {
     "ID": 56995,
@@ -844,7 +844,7 @@
     "Yellow": 105,
     "Green": 110,
     "Grey": 115,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of the Beast": {
     "ID": 56996,
@@ -855,7 +855,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Mending": {
     "ID": 56997,
@@ -877,7 +877,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Bestial Wrath": {
     "ID": 56999,
@@ -888,7 +888,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Deterrence": {
     "ID": 57000,
@@ -899,7 +899,7 @@
     "Yellow": 205,
     "Green": 210,
     "Grey": 215,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Disengage": {
     "ID": 57001,
@@ -910,7 +910,7 @@
     "Yellow": 230,
     "Green": 235,
     "Grey": 240,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Freezing Trap": {
     "ID": 57002,
@@ -921,7 +921,7 @@
     "Yellow": 265,
     "Green": 270,
     "Grey": 275,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Frost Trap": {
     "ID": 57003,
@@ -932,7 +932,7 @@
     "Yellow": 355,
     "Green": 360,
     "Grey": 365,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Hunter's Mark": {
     "ID": 57004,
@@ -954,7 +954,7 @@
     "Yellow": 135,
     "Green": 140,
     "Grey": 145,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of the Hawk": {
     "ID": 57006,
@@ -976,7 +976,7 @@
     "Yellow": 155,
     "Green": 160,
     "Grey": 165,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Rapid Fire": {
     "ID": 57008,
@@ -998,7 +998,7 @@
     "Yellow": 100,
     "Green": 110,
     "Grey": 120,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Snake Trap": {
     "ID": 57010,
@@ -1009,7 +1009,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Steady Shot": {
     "ID": 57011,
@@ -1020,7 +1020,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Trueshot Aura": {
     "ID": 57012,
@@ -1031,7 +1031,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Volley": {
     "ID": 57013,
@@ -1042,7 +1042,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Wyvern Sting": {
     "ID": 57014,
@@ -1053,7 +1053,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Avenger's Shield": {
     "ID": 57019,
@@ -1064,7 +1064,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Cleansing": {
     "ID": 57020,
@@ -1086,7 +1086,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Spiritual Attunement": {
     "ID": 57022,
@@ -1097,7 +1097,7 @@
     "Yellow": 90,
     "Green": 100,
     "Grey": 110,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Consecration": {
     "ID": 57023,
@@ -1108,7 +1108,7 @@
     "Yellow": 210,
     "Green": 215,
     "Grey": 220,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Crusader Strike": {
     "ID": 57024,
@@ -1152,7 +1152,7 @@
     "Yellow": 100,
     "Green": 110,
     "Grey": 120,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Hammer of Wrath": {
     "ID": 57028,
@@ -1163,7 +1163,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Holy Light": {
     "ID": 57029,
@@ -1196,7 +1196,7 @@
     "Yellow": 140,
     "Green": 145,
     "Grey": 150,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Righteous Defense": {
     "ID": 57032,
@@ -1207,7 +1207,7 @@
     "Yellow": 160,
     "Green": 165,
     "Grey": 170,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Seal of Command": {
     "ID": 57033,
@@ -1218,7 +1218,7 @@
     "Yellow": 340,
     "Green": 345,
     "Grey": 350,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Seal of Light": {
     "ID": 57034,
@@ -1229,7 +1229,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Seal of Wisdom": {
     "ID": 57035,
@@ -1240,7 +1240,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Turn Evil": {
     "ID": 57036,
@@ -1251,7 +1251,7 @@
     "Yellow": 380,
     "Green": 385,
     "Grey": 390,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Adrenaline Rush": {
     "ID": 57112,
@@ -1262,7 +1262,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Ambush": {
     "ID": 57113,
@@ -1284,7 +1284,7 @@
     "Yellow": 90,
     "Green": 100,
     "Grey": 110,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Blade Flurry": {
     "ID": 57115,
@@ -1295,7 +1295,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Crippling Poison": {
     "ID": 57116,
@@ -1306,7 +1306,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Deadly Throw": {
     "ID": 57117,
@@ -1317,7 +1317,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Evasion": {
     "ID": 57119,
@@ -1328,7 +1328,7 @@
     "Yellow": 105,
     "Green": 115,
     "Grey": 125,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Eviscerate": {
     "ID": 57120,
@@ -1339,7 +1339,7 @@
     "Yellow": 110,
     "Green": 115,
     "Grey": 120,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Expose Armor": {
     "ID": 57121,
@@ -1361,7 +1361,7 @@
     "Yellow": 310,
     "Green": 315,
     "Grey": 320,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Garrote": {
     "ID": 57123,
@@ -1372,7 +1372,7 @@
     "Yellow": 140,
     "Green": 145,
     "Grey": 150,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Ghostly Strike": {
     "ID": 57124,
@@ -1383,7 +1383,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Gouge": {
     "ID": 57125,
@@ -1394,7 +1394,7 @@
     "Yellow": 165,
     "Green": 170,
     "Grey": 175,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Hemorrhage": {
     "ID": 57126,
@@ -1405,7 +1405,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Preparation": {
     "ID": 57127,
@@ -1416,7 +1416,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Rupture": {
     "ID": 57128,
@@ -1427,7 +1427,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Sap": {
     "ID": 57129,
@@ -1438,7 +1438,7 @@
     "Yellow": 190,
     "Green": 195,
     "Grey": 200,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Vigor": {
     "ID": 57130,
@@ -1449,7 +1449,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Sinister Strike": {
     "ID": 57131,
@@ -1471,7 +1471,7 @@
     "Yellow": 240,
     "Green": 245,
     "Grey": 250,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Sprint": {
     "ID": 57133,
@@ -1482,7 +1482,7 @@
     "Yellow": 290,
     "Green": 295,
     "Grey": 300,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Barbaric Insults": {
     "ID": 57151,
@@ -1504,7 +1504,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Bloodthirst": {
     "ID": 57153,
@@ -1515,7 +1515,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Cleaving": {
     "ID": 57154,
@@ -1526,7 +1526,7 @@
     "Yellow": 245,
     "Green": 250,
     "Grey": 255,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Devastate": {
     "ID": 57155,
@@ -1537,7 +1537,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Execution": {
     "ID": 57156,
@@ -1559,7 +1559,7 @@
     "Yellow": 130,
     "Green": 135,
     "Grey": 140,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Heroic Strike": {
     "ID": 57158,
@@ -1581,7 +1581,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Mortal Strike": {
     "ID": 57160,
@@ -1592,7 +1592,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Overpower": {
     "ID": 57161,
@@ -1603,7 +1603,7 @@
     "Yellow": 175,
     "Green": 180,
     "Grey": 185,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Rapid Charge": {
     "ID": 57162,
@@ -1636,7 +1636,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Revenge": {
     "ID": 57165,
@@ -1658,7 +1658,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Sunder Armor": {
     "ID": 57167,
@@ -1680,7 +1680,7 @@
     "Yellow": 325,
     "Green": 330,
     "Grey": 335,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Taunt": {
     "ID": 57169,
@@ -1691,7 +1691,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Victory Rush": {
     "ID": 57170,
@@ -1702,7 +1702,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Whirlwind": {
     "ID": 57172,
@@ -1713,7 +1713,7 @@
     "Yellow": 350,
     "Green": 355,
     "Grey": 360,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Circle of Healing": {
     "ID": 57181,
@@ -1724,7 +1724,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Dispel Magic": {
     "ID": 57183,
@@ -1735,7 +1735,7 @@
     "Yellow": 235,
     "Green": 240,
     "Grey": 245,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Fade": {
     "ID": 57184,
@@ -1757,7 +1757,7 @@
     "Yellow": 275,
     "Green": 280,
     "Grey": 285,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Flash Heal": {
     "ID": 57186,
@@ -1801,7 +1801,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Mass Dispel": {
     "ID": 57190,
@@ -1812,7 +1812,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Mind Control": {
     "ID": 57191,
@@ -1823,7 +1823,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Shadow Word: Pain": {
     "ID": 57192,
@@ -1845,7 +1845,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Power Word: Shield": {
     "ID": 57194,
@@ -1856,7 +1856,7 @@
     "Yellow": 90,
     "Green": 100,
     "Grey": 110,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Prayer of Healing": {
     "ID": 57195,
@@ -1867,7 +1867,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Psychic Scream": {
     "ID": 57196,
@@ -1878,7 +1878,7 @@
     "Yellow": 105,
     "Green": 115,
     "Grey": 125,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Renew": {
     "ID": 57197,
@@ -1900,7 +1900,7 @@
     "Yellow": 380,
     "Green": 385,
     "Grey": 390,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Shadow Word: Death": {
     "ID": 57199,
@@ -1911,7 +1911,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Mind Flay": {
     "ID": 57200,
@@ -1922,7 +1922,7 @@
     "Yellow": 185,
     "Green": 190,
     "Grey": 195,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Smite": {
     "ID": 57201,
@@ -1944,7 +1944,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Anti-Magic Shell": {
     "ID": 57207,
@@ -1955,7 +1955,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Heart Strike": {
     "ID": 57208,
@@ -1966,7 +1966,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Blood Tap": {
     "ID": 57209,
@@ -1977,7 +1977,7 @@
     "Yellow": 330,
     "Green": 335,
     "Grey": 340,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Bone Shield": {
     "ID": 57210,
@@ -1988,7 +1988,7 @@
     "Yellow": 270,
     "Green": 275,
     "Grey": 280,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Chains of Ice": {
     "ID": 57211,
@@ -1999,7 +1999,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Dark Command": {
     "ID": 57212,
@@ -2010,7 +2010,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Death Grip": {
     "ID": 57213,
@@ -2032,7 +2032,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Death's Embrace": {
     "ID": 57215,
@@ -2043,7 +2043,7 @@
     "Yellow": 305,
     "Green": 310,
     "Grey": 315,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Frost Strike": {
     "ID": 57216,
@@ -2065,7 +2065,7 @@
     "Yellow": 330,
     "Green": 335,
     "Grey": 340,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Icebound Fortitude": {
     "ID": 57218,
@@ -2076,7 +2076,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Icy Touch": {
     "ID": 57219,
@@ -2087,7 +2087,7 @@
     "Yellow": 285,
     "Green": 290,
     "Grey": 295,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Obliterate": {
     "ID": 57220,
@@ -2098,7 +2098,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Plague Strike": {
     "ID": 57221,
@@ -2109,7 +2109,7 @@
     "Yellow": 305,
     "Green": 310,
     "Grey": 315,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of the Ghoul": {
     "ID": 57222,
@@ -2120,7 +2120,7 @@
     "Yellow": 355,
     "Green": 360,
     "Grey": 365,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Rune Strike": {
     "ID": 57223,
@@ -2131,7 +2131,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Scourge Strike": {
     "ID": 57224,
@@ -2142,7 +2142,7 @@
     "Yellow": 335,
     "Green": 340,
     "Grey": 345,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Strangulate": {
     "ID": 57225,
@@ -2153,7 +2153,7 @@
     "Yellow": 380,
     "Green": 385,
     "Grey": 390,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Unbreakable Armor": {
     "ID": 57226,
@@ -2164,7 +2164,7 @@
     "Yellow": 310,
     "Green": 315,
     "Grey": 320,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Vampiric Blood": {
     "ID": 57227,
@@ -2175,7 +2175,7 @@
     "Yellow": 350,
     "Green": 355,
     "Grey": 360,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Raise Dead": {
     "ID": 57228,
@@ -2186,7 +2186,7 @@
     "Yellow": 305,
     "Green": 310,
     "Grey": 315,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Corpse Explosion": {
     "ID": 57229,
@@ -2197,7 +2197,7 @@
     "Yellow": 305,
     "Green": 310,
     "Grey": 315,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Pestilence": {
     "ID": 57230,
@@ -2208,7 +2208,7 @@
     "Yellow": 305,
     "Green": 310,
     "Grey": 315,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Chain Heal": {
     "ID": 57232,
@@ -2219,7 +2219,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Chain Lightning": {
     "ID": 57233,
@@ -2230,7 +2230,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Lava": {
     "ID": 57234,
@@ -2241,7 +2241,7 @@
     "Yellow": 390,
     "Green": 395,
     "Grey": 400,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Shocking": {
     "ID": 57235,
@@ -2252,7 +2252,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Earthliving Weapon": {
     "ID": 57236,
@@ -2263,7 +2263,7 @@
     "Yellow": 305,
     "Green": 310,
     "Grey": 315,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Fire Elemental Totem": {
     "ID": 57237,
@@ -2274,7 +2274,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Fire Nova": {
     "ID": 57238,
@@ -2285,7 +2285,7 @@
     "Yellow": 115,
     "Green": 120,
     "Grey": 125,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Flame Shock": {
     "ID": 57239,
@@ -2307,7 +2307,7 @@
     "Yellow": 130,
     "Green": 135,
     "Grey": 140,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Frost Shock": {
     "ID": 57241,
@@ -2329,7 +2329,7 @@
     "Yellow": 220,
     "Green": 225,
     "Grey": 230,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Healing Wave": {
     "ID": 57243,
@@ -2340,7 +2340,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Lesser Healing Wave": {
     "ID": 57244,
@@ -2373,7 +2373,7 @@
     "Yellow": 105,
     "Green": 115,
     "Grey": 125,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Mana Tide Totem": {
     "ID": 57247,
@@ -2384,7 +2384,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Stormstrike": {
     "ID": 57248,
@@ -2406,7 +2406,7 @@
     "Yellow": 170,
     "Green": 175,
     "Grey": 180,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Elemental Mastery": {
     "ID": 57250,
@@ -2417,7 +2417,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Water Mastery": {
     "ID": 57251,
@@ -2428,7 +2428,7 @@
     "Yellow": 280,
     "Green": 285,
     "Grey": 290,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Windfury Weapon": {
     "ID": 57252,
@@ -2439,7 +2439,7 @@
     "Yellow": 335,
     "Green": 340,
     "Grey": 345,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Thunderstorm": {
     "ID": 57253,
@@ -2450,7 +2450,7 @@
     "Yellow": 355,
     "Green": 360,
     "Grey": 365,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Incinerate": {
     "ID": 57257,
@@ -2461,7 +2461,7 @@
     "Yellow": 355,
     "Green": 360,
     "Grey": 365,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Conflagrate": {
     "ID": 57258,
@@ -2472,7 +2472,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Corruption": {
     "ID": 57259,
@@ -2494,7 +2494,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Death Coil": {
     "ID": 57261,
@@ -2505,7 +2505,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Fear": {
     "ID": 57262,
@@ -2527,7 +2527,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Felhunter": {
     "ID": 57264,
@@ -2538,7 +2538,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Health Funnel": {
     "ID": 57265,
@@ -2549,7 +2549,7 @@
     "Yellow": 115,
     "Green": 120,
     "Grey": 125,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Healthstone": {
     "ID": 57266,
@@ -2571,7 +2571,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Immolate": {
     "ID": 57268,
@@ -2582,7 +2582,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Imp": {
     "ID": 57269,
@@ -2593,7 +2593,7 @@
     "Yellow": 145,
     "Green": 150,
     "Grey": 155,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Searing Pain": {
     "ID": 57270,
@@ -2604,7 +2604,7 @@
     "Yellow": 220,
     "Green": 225,
     "Grey": 230,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Shadow Bolt": {
     "ID": 57271,
@@ -2615,7 +2615,7 @@
     "Yellow": 170,
     "Green": 175,
     "Grey": 180,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Shadowburn": {
     "ID": 57272,
@@ -2637,7 +2637,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Soulstone": {
     "ID": 57274,
@@ -2648,7 +2648,7 @@
     "Yellow": 245,
     "Green": 250,
     "Grey": 255,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Succubus": {
     "ID": 57275,
@@ -2670,7 +2670,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Voidwalker": {
     "ID": 57277,
@@ -2681,7 +2681,7 @@
     "Yellow": 195,
     "Green": 200,
     "Grey": 205,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Hunter's Ink": {
     "ID": 57703,
@@ -2835,7 +2835,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Aquatic Form": {
     "ID": 58286,
@@ -2846,7 +2846,7 @@
     "Yellow": 105,
     "Green": 110,
     "Grey": 115,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Challenging Roar": {
     "ID": 58287,
@@ -2857,7 +2857,7 @@
     "Yellow": 155,
     "Green": 160,
     "Grey": 165,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Unburdened Rebirth": {
     "ID": 58288,
@@ -2868,7 +2868,7 @@
     "Yellow": 105,
     "Green": 110,
     "Grey": 115,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Thorns": {
     "ID": 58289,
@@ -2879,7 +2879,7 @@
     "Yellow": 80,
     "Green": 85,
     "Grey": 90,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of the Wild": {
     "ID": 58296,
@@ -2890,7 +2890,7 @@
     "Yellow": 80,
     "Green": 85,
     "Grey": 90,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of the Pack": {
     "ID": 58297,
@@ -2901,7 +2901,7 @@
     "Yellow": 205,
     "Green": 210,
     "Grey": 215,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Scare Beast": {
     "ID": 58298,
@@ -2912,7 +2912,7 @@
     "Yellow": 80,
     "Green": 85,
     "Grey": 90,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Revive Pet": {
     "ID": 58299,
@@ -2923,7 +2923,7 @@
     "Yellow": 80,
     "Green": 85,
     "Grey": 90,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Possessed Strength": {
     "ID": 58300,
@@ -2934,7 +2934,7 @@
     "Yellow": 80,
     "Green": 85,
     "Grey": 90,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Mend Pet": {
     "ID": 58301,
@@ -2945,7 +2945,7 @@
     "Yellow": 80,
     "Green": 85,
     "Grey": 90,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Feign Death": {
     "ID": 58302,
@@ -2956,7 +2956,7 @@
     "Yellow": 155,
     "Green": 160,
     "Grey": 165,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Arcane Intellect": {
     "ID": 58303,
@@ -2967,7 +2967,7 @@
     "Yellow": 80,
     "Green": 85,
     "Grey": 90,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Fire Ward": {
     "ID": 58305,
@@ -2978,7 +2978,7 @@
     "Yellow": 105,
     "Green": 110,
     "Grey": 115,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Frost Armor": {
     "ID": 58306,
@@ -2989,7 +2989,7 @@
     "Yellow": 80,
     "Green": 85,
     "Grey": 90,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Frost Ward": {
     "ID": 58307,
@@ -3000,7 +3000,7 @@
     "Yellow": 130,
     "Green": 135,
     "Grey": 140,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Slow Fall": {
     "ID": 58308,
@@ -3011,7 +3011,7 @@
     "Yellow": 80,
     "Green": 85,
     "Grey": 90,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of the Penguin": {
     "ID": 58310,
@@ -3022,7 +3022,7 @@
     "Yellow": 80,
     "Green": 85,
     "Grey": 90,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Blessing of Kings": {
     "ID": 58311,
@@ -3033,7 +3033,7 @@
     "Yellow": 105,
     "Green": 110,
     "Grey": 115,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Blessing of Wisdom": {
     "ID": 58312,
@@ -3044,7 +3044,7 @@
     "Yellow": 80,
     "Green": 85,
     "Grey": 90,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Lay on Hands": {
     "ID": 58313,
@@ -3055,7 +3055,7 @@
     "Yellow": 80,
     "Green": 85,
     "Grey": 90,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Blessing of Might": {
     "ID": 58314,
@@ -3066,7 +3066,7 @@
     "Yellow": 80,
     "Green": 85,
     "Grey": 90,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Sense Undead": {
     "ID": 58315,
@@ -3077,7 +3077,7 @@
     "Yellow": 105,
     "Green": 110,
     "Grey": 115,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of the Wise": {
     "ID": 58316,
@@ -3088,7 +3088,7 @@
     "Yellow": 155,
     "Green": 160,
     "Grey": 165,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Fading": {
     "ID": 58317,
@@ -3099,7 +3099,7 @@
     "Yellow": 80,
     "Green": 85,
     "Grey": 90,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Fortitude": {
     "ID": 58318,
@@ -3110,7 +3110,7 @@
     "Yellow": 80,
     "Green": 85,
     "Grey": 90,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Levitate": {
     "ID": 58319,
@@ -3121,7 +3121,7 @@
     "Yellow": 180,
     "Green": 185,
     "Grey": 190,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Shackle Undead": {
     "ID": 58320,
@@ -3132,7 +3132,7 @@
     "Yellow": 105,
     "Green": 110,
     "Grey": 115,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Shadow Protection": {
     "ID": 58321,
@@ -3143,7 +3143,7 @@
     "Yellow": 155,
     "Green": 160,
     "Grey": 165,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Shadowfiend": {
     "ID": 58322,
@@ -3154,7 +3154,7 @@
     "Yellow": 355,
     "Green": 360,
     "Grey": 365,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Blurred Speed": {
     "ID": 58323,
@@ -3165,7 +3165,7 @@
     "Yellow": 80,
     "Green": 85,
     "Grey": 90,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Distract": {
     "ID": 58324,
@@ -3176,7 +3176,7 @@
     "Yellow": 130,
     "Green": 135,
     "Grey": 140,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Pick Lock": {
     "ID": 58325,
@@ -3187,7 +3187,7 @@
     "Yellow": 105,
     "Green": 110,
     "Grey": 115,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Pick Pocket": {
     "ID": 58326,
@@ -3198,7 +3198,7 @@
     "Yellow": 80,
     "Green": 85,
     "Grey": 90,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Safe Fall": {
     "ID": 58327,
@@ -3209,7 +3209,7 @@
     "Yellow": 205,
     "Green": 210,
     "Grey": 215,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Vanish": {
     "ID": 58328,
@@ -3220,7 +3220,7 @@
     "Yellow": 130,
     "Green": 135,
     "Grey": 140,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Astral Recall": {
     "ID": 58329,
@@ -3231,7 +3231,7 @@
     "Yellow": 155,
     "Green": 160,
     "Grey": 165,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Renewed Life": {
     "ID": 58330,
@@ -3242,7 +3242,7 @@
     "Yellow": 155,
     "Green": 160,
     "Grey": 165,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Water Breathing": {
     "ID": 58331,
@@ -3253,7 +3253,7 @@
     "Yellow": 130,
     "Green": 135,
     "Grey": 140,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Water Shield": {
     "ID": 58332,
@@ -3264,7 +3264,7 @@
     "Yellow": 105,
     "Green": 110,
     "Grey": 115,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Water Walking": {
     "ID": 58333,
@@ -3275,7 +3275,7 @@
     "Yellow": 155,
     "Green": 160,
     "Grey": 165,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Unending Breath": {
     "ID": 58336,
@@ -3286,7 +3286,7 @@
     "Yellow": 105,
     "Green": 110,
     "Grey": 115,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Drain Soul": {
     "ID": 58337,
@@ -3297,7 +3297,7 @@
     "Yellow": 80,
     "Green": 85,
     "Grey": 90,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Curse of Exhaustion": {
     "ID": 58338,
@@ -3308,7 +3308,7 @@
     "Yellow": 155,
     "Green": 160,
     "Grey": 165,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Subjugate Demon": {
     "ID": 58339,
@@ -3319,7 +3319,7 @@
     "Yellow": 155,
     "Green": 160,
     "Grey": 165,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Kilrogg": {
     "ID": 58340,
@@ -3330,7 +3330,7 @@
     "Yellow": 130,
     "Green": 135,
     "Grey": 140,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Souls": {
     "ID": 58341,
@@ -3341,7 +3341,7 @@
     "Yellow": 355,
     "Green": 360,
     "Grey": 365,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Battle": {
     "ID": 58342,
@@ -3352,7 +3352,7 @@
     "Yellow": 80,
     "Green": 85,
     "Grey": 90,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Bloodrage": {
     "ID": 58343,
@@ -3363,7 +3363,7 @@
     "Yellow": 80,
     "Green": 85,
     "Grey": 90,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Charge": {
     "ID": 58344,
@@ -3374,7 +3374,7 @@
     "Yellow": 80,
     "Green": 85,
     "Grey": 90,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Mocking Blow": {
     "ID": 58345,
@@ -3385,7 +3385,7 @@
     "Yellow": 105,
     "Green": 110,
     "Grey": 115,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Thunder Clap": {
     "ID": 58346,
@@ -3396,7 +3396,7 @@
     "Yellow": 80,
     "Green": 85,
     "Grey": 90,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Enduring Victory": {
     "ID": 58347,
@@ -3407,7 +3407,7 @@
     "Yellow": 330,
     "Green": 335,
     "Grey": 340,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Scroll of Agility": {
     "ID": 58472,
@@ -3605,7 +3605,7 @@
     "Yellow": 155,
     "Green": 160,
     "Grey": 165,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Ghost Wolf": {
     "ID": 59326,
@@ -3616,7 +3616,7 @@
     "Yellow": 105,
     "Green": 110,
     "Grey": 115,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Rune Tap": {
     "ID": 59338,
@@ -3638,7 +3638,7 @@
     "Yellow": 325,
     "Green": 330,
     "Grey": 335,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Death Strike": {
     "ID": 59340,
@@ -3649,7 +3649,7 @@
     "Yellow": 345,
     "Green": 350,
     "Grey": 355,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Certificate of Ownership": {
     "ID": 59387,
@@ -3913,7 +3913,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Seal of Righteousness": {
     "ID": 59560,
@@ -3924,7 +3924,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Seal of Vengeance": {
     "ID": 59561,
@@ -3935,7 +3935,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Scroll of Recall II": {
     "ID": 60336,
@@ -4028,7 +4028,7 @@
     "Yellow": 390,
     "Green": 397,
     "Grey": 405,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Focus": {
     "ID": 62162,
@@ -4073,7 +4073,7 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Stoneclaw Totem": {
     "ID": 64247,
@@ -4084,7 +4084,7 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Life Tap": {
     "ID": 64248,
@@ -4095,7 +4095,7 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Scatter Shot": {
     "ID": 64249,
@@ -4106,7 +4106,7 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Soul Link": {
     "ID": 64250,
@@ -4117,7 +4117,7 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Salvation": {
     "ID": 64251,
@@ -4128,7 +4128,7 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Shield Wall": {
     "ID": 64252,
@@ -4139,7 +4139,7 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Explosive Trap": {
     "ID": 64253,
@@ -4150,7 +4150,7 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Holy Shock": {
     "ID": 64254,
@@ -4161,7 +4161,7 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Vigilance": {
     "ID": 64255,
@@ -4172,7 +4172,7 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Barkskin": {
     "ID": 64256,
@@ -4183,7 +4183,7 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Ice Barrier": {
     "ID": 64257,
@@ -4194,7 +4194,7 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Monsoon": {
     "ID": 64258,
@@ -4205,7 +4205,7 @@
     "Yellow": 255,
     "Green": 262,
     "Grey": 270,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Pain Suppression": {
     "ID": 64259,
@@ -4216,7 +4216,7 @@
     "Yellow": 255,
     "Green": 262,
     "Grey": 270,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Mutilate": {
     "ID": 64260,
@@ -4227,7 +4227,7 @@
     "Yellow": 255,
     "Green": 262,
     "Grey": 270,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Earth Shield": {
     "ID": 64261,
@@ -4238,7 +4238,7 @@
     "Yellow": 255,
     "Green": 262,
     "Grey": 270,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Totem of Wrath": {
     "ID": 64262,
@@ -4249,7 +4249,7 @@
     "Yellow": 255,
     "Green": 262,
     "Grey": 270,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Dark Death": {
     "ID": 64266,
@@ -4260,7 +4260,7 @@
     "Yellow": 280,
     "Green": 287,
     "Grey": 295,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Disease": {
     "ID": 64267,
@@ -4282,7 +4282,7 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Wild Growth": {
     "ID": 64270,
@@ -4293,7 +4293,7 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Chimera Shot": {
     "ID": 64271,
@@ -4304,7 +4304,7 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Explosive Shot": {
     "ID": 64273,
@@ -4315,7 +4315,7 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Deep Freeze": {
     "ID": 64274,
@@ -4326,7 +4326,7 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Living Bomb": {
     "ID": 64275,
@@ -4337,7 +4337,7 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Arcane Barrage": {
     "ID": 64276,
@@ -4348,7 +4348,7 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Beacon of Light": {
     "ID": 64277,
@@ -4359,7 +4359,7 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Hammer of the Righteous": {
     "ID": 64278,
@@ -4370,7 +4370,7 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Divine Storm": {
     "ID": 64279,
@@ -4381,7 +4381,7 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Dispersion": {
     "ID": 64280,
@@ -4392,7 +4392,7 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Guardian Spirit": {
     "ID": 64281,
@@ -4403,7 +4403,7 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Penance": {
     "ID": 64282,
@@ -4414,7 +4414,7 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Hymn of Hope": {
     "ID": 64283,
@@ -4425,7 +4425,7 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Hunger for Blood": {
     "ID": 64284,
@@ -4436,7 +4436,7 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Killing Spree": {
     "ID": 64285,
@@ -4447,7 +4447,7 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Shadow Dance": {
     "ID": 64286,
@@ -4458,7 +4458,7 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Thunder": {
     "ID": 64287,
@@ -4469,7 +4469,7 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Feral Spirit": {
     "ID": 64288,
@@ -4480,7 +4480,7 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Riptide": {
     "ID": 64289,
@@ -4491,7 +4491,7 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Haunt": {
     "ID": 64291,
@@ -4502,7 +4502,7 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Chaos Bolt": {
     "ID": 64294,
@@ -4513,7 +4513,7 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Bladestorm": {
     "ID": 64295,
@@ -4524,7 +4524,7 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Shockwave": {
     "ID": 64296,
@@ -4535,7 +4535,7 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Dancing Rune Weapon": {
     "ID": 64297,
@@ -4546,7 +4546,7 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Hungering Cold": {
     "ID": 64298,
@@ -4557,7 +4557,7 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Unholy Blight": {
     "ID": 64299,
@@ -4568,7 +4568,7 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Howling Blast": {
     "ID": 64300,
@@ -4579,7 +4579,7 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Spell Reflection": {
     "ID": 64302,
@@ -4590,7 +4590,7 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Cloak of Shadows": {
     "ID": 64303,
@@ -4601,7 +4601,7 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Kill Shot": {
     "ID": 64304,
@@ -4612,7 +4612,7 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Divine Plea": {
     "ID": 64305,
@@ -4623,7 +4623,7 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Savage Roar": {
     "ID": 64307,
@@ -4634,7 +4634,7 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Shield of Righteousness": {
     "ID": 64308,
@@ -4645,7 +4645,7 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Mind Sear": {
     "ID": 64309,
@@ -4656,7 +4656,7 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Tricks of the Trade": {
     "ID": 64310,
@@ -4667,7 +4667,7 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Shadowflame": {
     "ID": 64311,
@@ -4678,7 +4678,7 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Enraged Regeneration": {
     "ID": 64312,
@@ -4689,7 +4689,7 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Nourish": {
     "ID": 64313,
@@ -4700,7 +4700,7 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Mirror Image": {
     "ID": 64314,
@@ -4711,7 +4711,7 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Fan of Knives": {
     "ID": 64315,
@@ -4722,7 +4722,7 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Hex": {
     "ID": 64316,
@@ -4733,7 +4733,7 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Demonic Circle": {
     "ID": 64317,
@@ -4744,7 +4744,7 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Metamorphosis": {
     "ID": 64318,
@@ -4755,7 +4755,7 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Survival Instincts": {
     "ID": 65245,
@@ -4766,7 +4766,7 @@
     "Yellow": 430,
     "Green": 435,
     "Grey": 440,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Glyph of Claw": {
     "ID": 67600,
@@ -4788,7 +4788,7 @@
     "Yellow": 355,
     "Green": 360,
     "Grey": 365,
-    "Source": "Drop"
+    "Source": "Discovery"
   },
   "Runescroll of Fortitude": {
     "ID": 69385,
