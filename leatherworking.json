@@ -3,7 +3,7 @@
     "ID": 2149,
     "Creates": 2302,
     "Learn": 1,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Light Leather": 2,
       "Coarse Thread": 1
@@ -17,7 +17,7 @@
     "ID": 2152,
     "Creates": 2304,
     "Learn": 1,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Light Leather": 1
     },
@@ -30,7 +30,7 @@
     "ID": 2153,
     "Creates": 2303,
     "Learn": 15,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Light Leather": 4,
       "Coarse Thread": 1
@@ -44,7 +44,7 @@
     "ID": 2158,
     "Creates": 2307,
     "Learn": 90,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Light Leather": 7,
       "Coarse Thread": 2
@@ -59,7 +59,7 @@
     "ID": 2159,
     "Creates": 2308,
     "Learn": 85,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Light Leather": 10,
       "Fine Thread": 2
@@ -73,7 +73,7 @@
     "ID": 2160,
     "Creates": 2300,
     "Learn": 40,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Light Leather": 8,
       "Coarse Thread": 4
@@ -87,7 +87,7 @@
     "ID": 2161,
     "Creates": 2309,
     "Learn": 55,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Light Leather": 8,
       "Coarse Thread": 5
@@ -101,7 +101,7 @@
     "ID": 2162,
     "Creates": 2310,
     "Learn": 60,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Light Leather": 5,
       "Coarse Thread": 2
@@ -115,7 +115,7 @@
     "ID": 2163,
     "Creates": 2311,
     "Learn": 60,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Light Leather": 8,
       "Coarse Thread": 2,
@@ -131,7 +131,7 @@
     "ID": 2164,
     "Creates": 2312,
     "Learn": 75,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Cured Light Hide": 1,
       "Light Leather": 4,
@@ -147,7 +147,7 @@
     "ID": 2165,
     "Creates": 2313,
     "Learn": 100,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Medium Leather": 4,
       "Coarse Thread": 1
@@ -161,7 +161,7 @@
     "ID": 2166,
     "Creates": 2314,
     "Learn": 120,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Medium Leather": 10,
       "Cured Light Hide": 6,
@@ -176,7 +176,7 @@
     "ID": 2167,
     "Creates": 2315,
     "Learn": 100,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Medium Leather": 4,
       "Fine Thread": 2,
@@ -191,7 +191,7 @@
     "ID": 2168,
     "Creates": 2316,
     "Learn": 110,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Medium Leather": 8,
       "Fine Thread": 1,
@@ -206,7 +206,7 @@
     "ID": 2169,
     "Creates": 2317,
     "Learn": 100,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Medium Leather": 6,
       "Fine Thread": 1,
@@ -222,7 +222,7 @@
     "ID": 2881,
     "Creates": 2318,
     "Learn": 1,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Ruined Leather Scraps": 3
     },
@@ -235,7 +235,7 @@
     "ID": 3753,
     "Creates": 4237,
     "Learn": 25,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Light Leather": 6,
       "Coarse Thread": 1
@@ -249,7 +249,7 @@
     "ID": 3756,
     "Creates": 4239,
     "Learn": 55,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Light Leather": 3,
       "Coarse Thread": 2
@@ -263,7 +263,7 @@
     "ID": 3759,
     "Creates": 4242,
     "Learn": 75,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Cured Light Hide": 1,
       "Light Leather": 6,
@@ -278,7 +278,7 @@
     "ID": 3760,
     "Creates": 3719,
     "Learn": 150,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Leather": 5,
       "Fine Thread": 2
@@ -292,7 +292,7 @@
     "ID": 3761,
     "Creates": 4243,
     "Learn": 85,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Cured Light Hide": 3,
       "Light Leather": 6,
@@ -307,7 +307,7 @@
     "ID": 3762,
     "Creates": 4244,
     "Learn": 100,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Fine Leather Tunic": 1,
       "Cured Light Hide": 2,
@@ -323,7 +323,7 @@
     "ID": 3763,
     "Creates": 4246,
     "Learn": 80,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Light Leather": 6,
       "Coarse Thread": 2
@@ -337,7 +337,7 @@
     "ID": 3764,
     "Creates": 4247,
     "Learn": 145,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Medium Leather": 14,
       "Fine Thread": 4
@@ -351,7 +351,7 @@
     "ID": 3765,
     "Creates": 4248,
     "Learn": 120,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Medium Leather": 8,
       "Lucky Charm": 2,
@@ -368,7 +368,7 @@
     "ID": 3766,
     "Creates": 4249,
     "Learn": 125,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Fine Leather Belt": 1,
       "Cured Medium Hide": 1,
@@ -384,7 +384,7 @@
     "ID": 3767,
     "Creates": 4250,
     "Learn": 120,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Medium Leather": 8,
       "Elixir of Wisdom": 1,
@@ -400,7 +400,7 @@
     "ID": 3768,
     "Creates": 4251,
     "Learn": 130,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Cured Medium Hide": 1,
       "Medium Leather": 4,
@@ -415,7 +415,7 @@
     "ID": 3769,
     "Creates": 4252,
     "Learn": 140,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Medium Leather": 12,
       "Elixir of Lesser Agility": 1,
@@ -432,7 +432,7 @@
     "ID": 3770,
     "Creates": 4253,
     "Learn": 135,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Medium Leather": 4,
       "Cured Medium Hide": 2,
@@ -449,7 +449,7 @@
     "ID": 3771,
     "Creates": 4254,
     "Learn": 150,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Leather": 6,
       "Large Fang": 2,
@@ -465,7 +465,7 @@
     "ID": 3772,
     "Creates": 4255,
     "Learn": 155,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Leather": 9,
       "Green Dye": 2,
@@ -481,7 +481,7 @@
     "ID": 3773,
     "Creates": 4256,
     "Learn": 175,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Cured Heavy Hide": 2,
       "Heavy Leather": 12,
@@ -498,7 +498,7 @@
     "ID": 3774,
     "Creates": 4257,
     "Learn": 160,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Cured Heavy Hide": 1,
       "Heavy Leather": 5,
@@ -515,7 +515,7 @@
     "ID": 3775,
     "Creates": 4258,
     "Learn": 170,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Cured Heavy Hide": 2,
       "Heavy Leather": 4,
@@ -532,7 +532,7 @@
     "ID": 3776,
     "Creates": 4259,
     "Learn": 180,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Cured Heavy Hide": 2,
       "Heavy Leather": 6,
@@ -548,7 +548,7 @@
     "ID": 3777,
     "Creates": 4260,
     "Learn": 195,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Leather": 6,
       "Cured Heavy Hide": 2,
@@ -564,7 +564,7 @@
     "ID": 3778,
     "Creates": 4262,
     "Learn": 185,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Cured Heavy Hide": 4,
       "Iridescent Pearl": 1,
@@ -582,7 +582,7 @@
     "ID": 3779,
     "Creates": 4264,
     "Learn": 200,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Leather": 6,
       "Cured Heavy Hide": 2,
@@ -601,7 +601,7 @@
     "ID": 3780,
     "Creates": 4265,
     "Learn": 150,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Leather": 5,
       "Fine Thread": 1
@@ -615,7 +615,7 @@
     "ID": 3816,
     "Creates": 4231,
     "Learn": 35,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Light Hide": 1,
       "Salt": 1
@@ -629,7 +629,7 @@
     "ID": 3817,
     "Creates": 4233,
     "Learn": 100,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Medium Hide": 1,
       "Salt": 1
@@ -643,7 +643,7 @@
     "ID": 3818,
     "Creates": 4236,
     "Learn": 150,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Hide": 1,
       "Salt": 3
@@ -657,7 +657,7 @@
     "ID": 4096,
     "Creates": 4455,
     "Learn": 165,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Raptor Hide": 6,
       "Heavy Leather": 4,
@@ -673,7 +673,7 @@
     "ID": 4097,
     "Creates": 4456,
     "Learn": 165,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Raptor Hide": 4,
       "Heavy Leather": 4,
@@ -689,7 +689,7 @@
     "ID": 5244,
     "Creates": 5081,
     "Learn": 40,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Thin Kodo Leather": 3,
       "Light Leather": 4,
@@ -705,7 +705,7 @@
     "ID": 6661,
     "Creates": 5739,
     "Learn": 190,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Leather": 14,
       "Fine Thread": 2,
@@ -720,7 +720,7 @@
     "ID": 6702,
     "Creates": 5780,
     "Learn": 90,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Slimy Murloc Scale": 8,
       "Light Leather": 6,
@@ -736,7 +736,7 @@
     "ID": 6703,
     "Creates": 5781,
     "Learn": 95,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Slimy Murloc Scale": 12,
       "Cured Light Hide": 1,
@@ -753,7 +753,7 @@
     "ID": 6704,
     "Creates": 5782,
     "Learn": 170,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Thick Murloc Scale": 12,
       "Cured Heavy Hide": 1,
@@ -770,7 +770,7 @@
     "ID": 6705,
     "Creates": 5783,
     "Learn": 190,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Thick Murloc Scale": 16,
       "Cured Heavy Hide": 1,
@@ -787,7 +787,7 @@
     "ID": 7126,
     "Creates": 5957,
     "Learn": 1,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Light Leather": 3,
       "Coarse Thread": 1
@@ -801,7 +801,7 @@
     "ID": 7133,
     "Creates": 5958,
     "Learn": 105,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Medium Leather": 8,
       "Bolt of Woolen Cloth": 1,
@@ -817,7 +817,7 @@
     "ID": 7135,
     "Creates": 5961,
     "Learn": 115,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Medium Leather": 12,
       "Gray Dye": 1,
@@ -832,7 +832,7 @@
     "ID": 7147,
     "Creates": 5962,
     "Learn": 160,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Leather": 12,
       "Bolt of Silk Cloth": 2,
@@ -847,7 +847,7 @@
     "ID": 7149,
     "Creates": 5963,
     "Learn": 170,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Leather": 10,
       "Fine Thread": 2,
@@ -863,7 +863,7 @@
     "ID": 7151,
     "Creates": 5964,
     "Learn": 175,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Leather": 8,
       "Cured Heavy Hide": 1,
@@ -878,7 +878,7 @@
     "ID": 7153,
     "Creates": 5965,
     "Learn": 185,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Leather": 14,
       "Bolt of Silk Cloth": 2,
@@ -894,7 +894,7 @@
     "ID": 7156,
     "Creates": 5966,
     "Learn": 190,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Leather": 4,
       "Cured Heavy Hide": 1,
@@ -909,7 +909,7 @@
     "ID": 7953,
     "Creates": 6466,
     "Learn": 90,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Deviate Scale": 4,
       "Cured Light Hide": 1,
@@ -925,7 +925,7 @@
     "ID": 7954,
     "Creates": 6467,
     "Learn": 105,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Deviate Scale": 5,
       "Fine Thread": 2
@@ -940,7 +940,7 @@
     "ID": 7955,
     "Creates": 6468,
     "Learn": 115,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Perfect Deviate Scale": 6,
       "Deviate Scale": 4,
@@ -956,7 +956,7 @@
     "ID": 8322,
     "Creates": 6709,
     "Learn": 90,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Light Leather": 6,
       "Cured Light Hide": 1,
@@ -973,7 +973,7 @@
     "ID": 9058,
     "Creates": 7276,
     "Learn": 1,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Light Leather": 2,
       "Coarse Thread": 1
@@ -987,7 +987,7 @@
     "ID": 9059,
     "Creates": 7277,
     "Learn": 1,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Light Leather": 2,
       "Coarse Thread": 3
@@ -1001,7 +1001,7 @@
     "ID": 9060,
     "Creates": 7278,
     "Learn": 30,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Light Leather": 4,
       "Coarse Thread": 2
@@ -1015,7 +1015,7 @@
     "ID": 9062,
     "Creates": 7279,
     "Learn": 30,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Light Leather": 3,
       "Coarse Thread": 4
@@ -1029,7 +1029,7 @@
     "ID": 9064,
     "Creates": 7280,
     "Learn": 35,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Light Leather": 5,
       "Coarse Thread": 5
@@ -1044,7 +1044,7 @@
     "ID": 9065,
     "Creates": 7281,
     "Learn": 70,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Light Leather": 6,
       "Coarse Thread": 4
@@ -1058,7 +1058,7 @@
     "ID": 9068,
     "Creates": 7282,
     "Learn": 95,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Light Leather": 10,
       "Cured Light Hide": 1,
@@ -1073,7 +1073,7 @@
     "ID": 9070,
     "Creates": 7283,
     "Learn": 100,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Black Whelp Scale": 12,
       "Medium Leather": 4,
@@ -1089,7 +1089,7 @@
     "ID": 9072,
     "Creates": 7284,
     "Learn": 120,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Red Whelp Scale": 6,
       "Medium Leather": 4,
@@ -1105,7 +1105,7 @@
     "ID": 9074,
     "Creates": 7285,
     "Learn": 120,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Elixir of Minor Agility": 1,
       "Medium Leather": 6,
@@ -1120,7 +1120,7 @@
     "ID": 9145,
     "Creates": 7348,
     "Learn": 125,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Medium Leather": 8,
       "Cured Medium Hide": 4,
@@ -1135,7 +1135,7 @@
     "ID": 9146,
     "Creates": 7349,
     "Learn": 135,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Medium Leather": 8,
       "Kingsblood": 4,
@@ -1151,7 +1151,7 @@
     "ID": 9147,
     "Creates": 7352,
     "Learn": 135,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Medium Leather": 6,
       "Elemental Earth": 1,
@@ -1167,7 +1167,7 @@
     "ID": 9148,
     "Creates": 7358,
     "Learn": 140,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Medium Leather": 10,
       "Lucky Charm": 2,
@@ -1183,7 +1183,7 @@
     "ID": 9149,
     "Creates": 7359,
     "Learn": 145,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Medium Leather": 12,
       "Elemental Earth": 2,
@@ -1200,7 +1200,7 @@
     "ID": 9193,
     "Creates": 7371,
     "Learn": 150,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Leather": 8,
       "Fine Thread": 2
@@ -1214,7 +1214,7 @@
     "ID": 9194,
     "Creates": 7372,
     "Learn": 150,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Leather": 8,
       "Fine Thread": 2
@@ -1228,7 +1228,7 @@
     "ID": 9195,
     "Creates": 7373,
     "Learn": 165,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Leather": 10,
       "Black Dye": 1,
@@ -1244,7 +1244,7 @@
     "ID": 9196,
     "Creates": 7374,
     "Learn": 175,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Leather": 10,
       "Shadow Oil": 1,
@@ -1259,7 +1259,7 @@
     "ID": 9197,
     "Creates": 7375,
     "Learn": 175,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Green Whelp Scale": 4,
       "Heavy Leather": 10,
@@ -1275,7 +1275,7 @@
     "ID": 9198,
     "Creates": 7377,
     "Learn": 180,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Leather": 6,
       "Elemental Earth": 2,
@@ -1291,7 +1291,7 @@
     "ID": 9201,
     "Creates": 7378,
     "Learn": 185,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Leather": 16,
       "Black Dye": 1,
@@ -1306,7 +1306,7 @@
     "ID": 9202,
     "Creates": 7386,
     "Learn": 190,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Green Whelp Scale": 6,
       "Heavy Leather": 8,
@@ -1322,7 +1322,7 @@
     "ID": 9206,
     "Creates": 7387,
     "Learn": 195,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Leather": 10,
       "Bolt of Silk Cloth": 2,
@@ -1338,7 +1338,7 @@
     "ID": 9207,
     "Creates": 7390,
     "Learn": 200,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Leather": 8,
       "Shadow Silk": 2,
@@ -1354,7 +1354,7 @@
     "ID": 9208,
     "Creates": 7391,
     "Learn": 200,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Leather": 10,
       "Swiftness Potion": 2,
@@ -1371,7 +1371,7 @@
     "ID": 10482,
     "Creates": 8172,
     "Learn": 200,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Thick Hide": 1,
       "Deeprock Salt": 1
@@ -1385,7 +1385,7 @@
     "ID": 10487,
     "Creates": 8173,
     "Learn": 200,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Thick Leather": 5,
       "Silken Thread": 1
@@ -1399,7 +1399,7 @@
     "ID": 10490,
     "Creates": 8174,
     "Learn": 200,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Leather": 12,
       "Cured Heavy Hide": 2,
@@ -1415,7 +1415,7 @@
     "ID": 10499,
     "Creates": 8175,
     "Learn": 205,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Thick Leather": 7,
       "Silken Thread": 2
@@ -1429,7 +1429,7 @@
     "ID": 10507,
     "Creates": 8176,
     "Learn": 205,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Thick Leather": 5,
       "Silken Thread": 2
@@ -1443,7 +1443,7 @@
     "ID": 10509,
     "Creates": 8187,
     "Learn": 205,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Thick Leather": 6,
       "Turtle Scale": 8,
@@ -1459,7 +1459,7 @@
     "ID": 10511,
     "Creates": 8189,
     "Learn": 210,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Thick Leather": 6,
       "Turtle Scale": 12,
@@ -1474,7 +1474,7 @@
     "ID": 10516,
     "Creates": 8192,
     "Learn": 210,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Thick Leather": 8,
       "Mageweave Cloth": 6,
@@ -1490,7 +1490,7 @@
     "ID": 10518,
     "Creates": 8198,
     "Learn": 210,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Thick Leather": 8,
       "Turtle Scale": 12,
@@ -1505,7 +1505,7 @@
     "ID": 10520,
     "Creates": 8200,
     "Learn": 215,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Thick Leather": 10,
       "Flask of Mojo": 4,
@@ -1521,7 +1521,7 @@
     "ID": 10525,
     "Creates": 8203,
     "Learn": 220,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Thick Leather": 12,
       "Scorpid Scale": 12,
@@ -1537,7 +1537,7 @@
     "ID": 10529,
     "Creates": 8210,
     "Learn": 220,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Thick Leather": 10,
       "Wildvine": 1,
@@ -1553,7 +1553,7 @@
     "ID": 10531,
     "Creates": 8201,
     "Learn": 220,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Thick Leather": 8,
       "Flask of Mojo": 6,
@@ -1569,7 +1569,7 @@
     "ID": 10533,
     "Creates": 8205,
     "Learn": 220,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Thick Leather": 10,
       "Scorpid Scale": 4,
@@ -1585,7 +1585,7 @@
     "ID": 10542,
     "Creates": 8204,
     "Learn": 225,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Thick Leather": 6,
       "Scorpid Scale": 8,
@@ -1601,7 +1601,7 @@
     "ID": 10544,
     "Creates": 8211,
     "Learn": 225,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Thick Leather": 12,
       "Wildvine": 2,
@@ -1617,7 +1617,7 @@
     "ID": 10546,
     "Creates": 8214,
     "Learn": 225,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Thick Leather": 10,
       "Wildvine": 2,
@@ -1633,7 +1633,7 @@
     "ID": 10548,
     "Creates": 8193,
     "Learn": 230,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Thick Leather": 14,
       "Silken Thread": 4
@@ -1647,7 +1647,7 @@
     "ID": 10552,
     "Creates": 8191,
     "Learn": 230,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Thick Leather": 14,
       "Turtle Scale": 24,
@@ -1662,7 +1662,7 @@
     "ID": 10554,
     "Creates": 8209,
     "Learn": 235,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Thick Leather": 12,
       "Scorpid Scale": 12,
@@ -1678,7 +1678,7 @@
     "ID": 10556,
     "Creates": 8185,
     "Learn": 235,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Thick Leather": 14,
       "Turtle Scale": 28,
@@ -1693,7 +1693,7 @@
     "ID": 10558,
     "Creates": 8197,
     "Learn": 235,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Thick Leather": 16,
       "Heavy Silken Thread": 2
@@ -1707,7 +1707,7 @@
     "ID": 10560,
     "Creates": 8202,
     "Learn": 240,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Thick Leather": 10,
       "Flask of Big Mojo": 6,
@@ -1723,7 +1723,7 @@
     "ID": 10562,
     "Creates": 8216,
     "Learn": 240,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Thick Leather": 14,
       "Flask of Big Mojo": 4,
@@ -1739,7 +1739,7 @@
     "ID": 10564,
     "Creates": 8207,
     "Learn": 240,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Thick Leather": 12,
       "Scorpid Scale": 16,
@@ -1755,7 +1755,7 @@
     "ID": 10566,
     "Creates": 8213,
     "Learn": 245,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Thick Leather": 14,
       "Wildvine": 4,
@@ -1771,7 +1771,7 @@
     "ID": 10568,
     "Creates": 8206,
     "Learn": 245,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Thick Leather": 14,
       "Scorpid Scale": 8,
@@ -1787,7 +1787,7 @@
     "ID": 10570,
     "Creates": 8208,
     "Learn": 250,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Thick Leather": 10,
       "Scorpid Scale": 20,
@@ -1803,7 +1803,7 @@
     "ID": 10572,
     "Creates": 8212,
     "Learn": 250,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Thick Leather": 16,
       "Wildvine": 6,
@@ -1819,7 +1819,7 @@
     "ID": 10574,
     "Creates": 8215,
     "Learn": 250,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Thick Leather": 16,
       "Wildvine": 6,
@@ -1835,7 +1835,7 @@
     "ID": 10619,
     "Creates": 8347,
     "Learn": 225,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Thick Leather": 24,
       "Worn Dragonscale": 12,
@@ -1851,7 +1851,7 @@
     "ID": 10621,
     "Creates": 8345,
     "Learn": 225,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Thick Leather": 18,
       "Wildvine": 12,
@@ -1867,7 +1867,7 @@
     "ID": 10630,
     "Creates": 8346,
     "Learn": 230,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Thick Leather": 20,
       "Globe of Water": 4,
@@ -1883,7 +1883,7 @@
     "ID": 10632,
     "Creates": 8348,
     "Learn": 250,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Thick Leather": 30,
       "Heart of Fire": 8,
@@ -1899,7 +1899,7 @@
     "ID": 10647,
     "Creates": 8349,
     "Learn": 250,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Thick Leather": 25,
       "Light Feather": 20,
@@ -1916,7 +1916,7 @@
     "ID": 10650,
     "Creates": 8367,
     "Learn": 255,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Thick Leather": 40,
       "Worn Dragonscale": 30,
@@ -1932,7 +1932,7 @@
     "ID": 14930,
     "Creates": 8217,
     "Learn": 225,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Thick Leather": 12,
       "Cured Thick Hide": 1,
@@ -1948,7 +1948,7 @@
     "ID": 14932,
     "Creates": 8218,
     "Learn": 225,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Thick Leather": 10,
       "Cured Thick Hide": 1,
@@ -1964,7 +1964,7 @@
     "ID": 19047,
     "Creates": 15407,
     "Learn": 250,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Rugged Hide": 1,
       "Refined Deeprock Salt": 1
@@ -1978,7 +1978,7 @@
     "ID": 19048,
     "Creates": 15077,
     "Learn": 255,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Rugged Leather": 4,
       "Heavy Scorpid Scale": 4,
@@ -1994,7 +1994,7 @@
     "ID": 19049,
     "Creates": 15083,
     "Learn": 260,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Rugged Leather": 8,
       "Black Dye": 1,
@@ -2010,7 +2010,7 @@
     "ID": 19050,
     "Creates": 15045,
     "Learn": 260,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Rugged Leather": 20,
       "Green Dragonscale": 25,
@@ -2026,7 +2026,7 @@
     "ID": 19051,
     "Creates": 15076,
     "Learn": 265,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Rugged Leather": 6,
       "Heavy Scorpid Scale": 6,
@@ -2042,7 +2042,7 @@
     "ID": 19052,
     "Creates": 15084,
     "Learn": 265,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Rugged Leather": 8,
       "Black Dye": 1,
@@ -2058,7 +2058,7 @@
     "ID": 19053,
     "Creates": 15074,
     "Learn": 265,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Rugged Leather": 6,
       "Living Essence": 1,
@@ -2074,7 +2074,7 @@
     "ID": 19054,
     "Creates": 15047,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Rugged Leather": 40,
       "Red Dragonscale": 30,
@@ -2090,7 +2090,7 @@
     "ID": 19055,
     "Creates": 15091,
     "Learn": 270,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Rugged Leather": 10,
       "Runecloth": 6,
@@ -2106,7 +2106,7 @@
     "ID": 19058,
     "Creates": 15564,
     "Learn": 250,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Rugged Leather": 5
     },
@@ -2119,7 +2119,7 @@
     "ID": 19059,
     "Creates": 15054,
     "Learn": 270,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Rugged Leather": 6,
       "Essence of Fire": 1,
@@ -2136,7 +2136,7 @@
     "ID": 19060,
     "Creates": 15046,
     "Learn": 270,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Rugged Leather": 20,
       "Green Dragonscale": 25,
@@ -2152,7 +2152,7 @@
     "ID": 19061,
     "Creates": 15061,
     "Learn": 270,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Rugged Leather": 12,
       "Living Essence": 4,
@@ -2168,7 +2168,7 @@
     "ID": 19062,
     "Creates": 15067,
     "Learn": 270,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Rugged Leather": 24,
       "Light Feather": 40,
@@ -2185,7 +2185,7 @@
     "ID": 19063,
     "Creates": 15073,
     "Learn": 275,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Rugged Leather": 4,
       "Living Essence": 1,
@@ -2201,7 +2201,7 @@
     "ID": 19064,
     "Creates": 15078,
     "Learn": 275,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Rugged Leather": 6,
       "Heavy Scorpid Scale": 8,
@@ -2217,7 +2217,7 @@
     "ID": 19065,
     "Creates": 15092,
     "Learn": 275,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Rugged Leather": 6,
       "Black Pearl": 1,
@@ -2233,7 +2233,7 @@
     "ID": 19066,
     "Creates": 15071,
     "Learn": 275,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Rugged Leather": 4,
       "Essence of Water": 1,
@@ -2249,7 +2249,7 @@
     "ID": 19067,
     "Creates": 15057,
     "Learn": 275,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Rugged Leather": 16,
       "Essence of Air": 2,
@@ -2265,7 +2265,7 @@
     "ID": 19068,
     "Creates": 15064,
     "Learn": 275,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Rugged Leather": 28,
       "Warbear Leather": 12,
@@ -2281,7 +2281,7 @@
     "ID": 19070,
     "Creates": 15082,
     "Learn": 280,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Rugged Leather": 6,
       "Heavy Scorpid Scale": 8,
@@ -2297,7 +2297,7 @@
     "ID": 19071,
     "Creates": 15086,
     "Learn": 280,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Rugged Leather": 12,
       "Black Dye": 1,
@@ -2313,7 +2313,7 @@
     "ID": 19072,
     "Creates": 15093,
     "Learn": 280,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Rugged Leather": 10,
       "Runecloth": 10,
@@ -2329,7 +2329,7 @@
     "ID": 19073,
     "Creates": 15072,
     "Learn": 280,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Rugged Leather": 8,
       "Living Essence": 1,
@@ -2345,7 +2345,7 @@
     "ID": 19074,
     "Creates": 15069,
     "Learn": 285,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Rugged Leather": 6,
       "Essence of Water": 1,
@@ -2361,7 +2361,7 @@
     "ID": 19075,
     "Creates": 15079,
     "Learn": 285,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Rugged Leather": 8,
       "Heavy Scorpid Scale": 12,
@@ -2377,7 +2377,7 @@
     "ID": 19076,
     "Creates": 15053,
     "Learn": 285,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Rugged Leather": 8,
       "Essence of Fire": 1,
@@ -2394,7 +2394,7 @@
     "ID": 19077,
     "Creates": 15048,
     "Learn": 285,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Rugged Leather": 28,
       "Blue Dragonscale": 30,
@@ -2411,7 +2411,7 @@
     "ID": 19078,
     "Creates": 15060,
     "Learn": 285,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Rugged Leather": 16,
       "Living Essence": 6,
@@ -2428,7 +2428,7 @@
     "ID": 19079,
     "Creates": 15056,
     "Learn": 285,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Rugged Leather": 16,
       "Essence of Air": 3,
@@ -2445,7 +2445,7 @@
     "ID": 19080,
     "Creates": 15065,
     "Learn": 285,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Rugged Leather": 24,
       "Warbear Leather": 14,
@@ -2461,7 +2461,7 @@
     "ID": 19081,
     "Creates": 15075,
     "Learn": 290,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Rugged Leather": 10,
       "Living Essence": 1,
@@ -2477,7 +2477,7 @@
     "ID": 19082,
     "Creates": 15094,
     "Learn": 290,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Rugged Leather": 14,
       "Runecloth": 10,
@@ -2493,7 +2493,7 @@
     "ID": 19083,
     "Creates": 15087,
     "Learn": 290,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Rugged Leather": 12,
       "Cured Rugged Hide": 1,
@@ -2510,7 +2510,7 @@
     "ID": 19084,
     "Creates": 15063,
     "Learn": 290,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Rugged Leather": 30,
       "Devilsaur Leather": 8,
@@ -2526,7 +2526,7 @@
     "ID": 19085,
     "Creates": 15050,
     "Learn": 290,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Rugged Leather": 25,
       "Black Dragonscale": 25,
@@ -2543,7 +2543,7 @@
     "ID": 19086,
     "Creates": 15066,
     "Learn": 290,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Rugged Leather": 35,
       "Light Feather": 40,
@@ -2561,7 +2561,7 @@
     "ID": 19087,
     "Creates": 15070,
     "Learn": 295,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Rugged Leather": 6,
       "Essence of Water": 1,
@@ -2577,7 +2577,7 @@
     "ID": 19088,
     "Creates": 15080,
     "Learn": 295,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Rugged Leather": 8,
       "Heavy Scorpid Scale": 12,
@@ -2594,7 +2594,7 @@
     "ID": 19089,
     "Creates": 15049,
     "Learn": 295,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Rugged Leather": 28,
       "Blue Dragonscale": 30,
@@ -2612,7 +2612,7 @@
     "ID": 19090,
     "Creates": 15058,
     "Learn": 295,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Rugged Leather": 12,
       "Essence of Air": 3,
@@ -2628,7 +2628,7 @@
     "ID": 19091,
     "Creates": 15095,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Rugged Leather": 18,
       "Runecloth": 12,
@@ -2645,7 +2645,7 @@
     "ID": 19092,
     "Creates": 15088,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Rugged Leather": 14,
       "Black Dye": 2,
@@ -2661,7 +2661,7 @@
     "ID": 19093,
     "Creates": 15138,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Scale of Onyxia": 1,
       "Cindercloth Cloak": 1,
@@ -2677,7 +2677,7 @@
     "ID": 19094,
     "Creates": 15051,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Rugged Leather": 20,
       "Black Dragonscale": 15,
@@ -2694,7 +2694,7 @@
     "ID": 19095,
     "Creates": 15059,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Rugged Leather": 16,
       "Living Essence": 8,
@@ -2712,7 +2712,7 @@
     "ID": 19097,
     "Creates": 15062,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Rugged Leather": 30,
       "Devilsaur Leather": 14,
@@ -2729,7 +2729,7 @@
     "ID": 19098,
     "Creates": 15085,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Rugged Leather": 20,
       "Cured Rugged Hide": 2,
@@ -2747,7 +2747,7 @@
     "ID": 19100,
     "Creates": 15081,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Rugged Leather": 14,
       "Heavy Scorpid Scale": 14,
@@ -2764,7 +2764,7 @@
     "ID": 19101,
     "Creates": 15055,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Rugged Leather": 10,
       "Essence of Fire": 1,
@@ -2781,7 +2781,7 @@
     "ID": 19102,
     "Creates": 15090,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Rugged Leather": 22,
       "Enchanted Leather": 4,
@@ -2799,7 +2799,7 @@
     "ID": 19103,
     "Creates": 15096,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Rugged Leather": 16,
       "Enchanted Leather": 4,
@@ -2817,7 +2817,7 @@
     "ID": 19104,
     "Creates": 15068,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Rugged Leather": 12,
       "Essence of Water": 1,
@@ -2834,7 +2834,7 @@
     "ID": 19107,
     "Creates": 15052,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Rugged Leather": 25,
       "Black Dragonscale": 25,
@@ -2851,7 +2851,7 @@
     "ID": 20648,
     "Creates": 2319,
     "Learn": 100,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Light Leather": 4
     },
@@ -2864,7 +2864,7 @@
     "ID": 20649,
     "Creates": 4234,
     "Learn": 150,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Medium Leather": 5
     },
@@ -2877,7 +2877,7 @@
     "ID": 20650,
     "Creates": 4304,
     "Learn": 200,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Leather": 6
     },
@@ -2890,7 +2890,7 @@
     "ID": 20853,
     "Creates": 16982,
     "Learn": 295,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Core Leather": 20,
       "Fiery Core": 6,
@@ -2907,7 +2907,7 @@
     "ID": 20854,
     "Creates": 16983,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Core Leather": 12,
       "Fiery Core": 3,
@@ -2924,7 +2924,7 @@
     "ID": 20855,
     "Creates": 16984,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Black Dragonscale": 18,
       "Fiery Core": 3,
@@ -2941,7 +2941,7 @@
     "ID": 21943,
     "Creates": 17721,
     "Learn": 190,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Leather": 8,
       "Elemental Earth": 4,
@@ -2957,7 +2957,7 @@
     "ID": 22331,
     "Creates": 8170,
     "Learn": 250,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Thick Leather": 6
     },
@@ -2970,7 +2970,7 @@
     "ID": 22711,
     "Creates": 18238,
     "Learn": 200,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Thick Leather": 6,
       "Shadow Silk": 8,
@@ -2987,7 +2987,7 @@
     "ID": 22727,
     "Creates": 18251,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Core Leather": 3,
       "Rune Thread": 2
@@ -3002,7 +3002,7 @@
     "ID": 22815,
     "Creates": 18258,
     "Learn": 285,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Rugged Leather": 4,
       "Bolt of Runecloth": 2,
@@ -3018,7 +3018,7 @@
     "ID": 22921,
     "Creates": 18504,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Rugged Leather": 12,
       "Powerful Mojo": 12,
@@ -3035,7 +3035,7 @@
     "ID": 22922,
     "Creates": 18506,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Rugged Leather": 12,
       "Essence of Air": 6,
@@ -3053,7 +3053,7 @@
     "ID": 22923,
     "Creates": 18508,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Rugged Leather": 12,
       "Larval Acid": 8,
@@ -3070,7 +3070,7 @@
     "ID": 22926,
     "Creates": 18509,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Rugged Leather": 25,
       "Brilliant Chromatic Scale": 4,
@@ -3088,7 +3088,7 @@
     "ID": 22927,
     "Creates": 18510,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Rugged Leather": 30,
       "Larval Acid": 5,
@@ -3105,7 +3105,7 @@
     "ID": 22928,
     "Creates": 18511,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Enchanted Leather": 10,
       "Skin of Shadow": 2,
@@ -3121,7 +3121,7 @@
     "ID": 23190,
     "Creates": 18662,
     "Learn": 150,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Leather": 2,
       "Fine Thread": 1
@@ -3136,7 +3136,7 @@
     "ID": 23399,
     "Creates": 18948,
     "Learn": 155,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Leather": 8,
       "Cured Heavy Hide": 2,
@@ -3154,7 +3154,7 @@
     "ID": 23703,
     "Creates": 19044,
     "Learn": 290,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Rugged Leather": 30,
       "Living Essence": 4,
@@ -3171,7 +3171,7 @@
     "ID": 23704,
     "Creates": 19049,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Enchanted Leather": 8,
       "Powerful Mojo": 6,
@@ -3189,7 +3189,7 @@
     "ID": 23705,
     "Creates": 19052,
     "Learn": 290,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Rugged Leather": 30,
       "Guardian Stone": 2,
@@ -3207,7 +3207,7 @@
     "ID": 23706,
     "Creates": 19058,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Enchanted Leather": 8,
       "Living Essence": 4,
@@ -3225,7 +3225,7 @@
     "ID": 23707,
     "Creates": 19149,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Lava Core": 2,
       "Core Leather": 2,
@@ -3241,7 +3241,7 @@
     "ID": 23708,
     "Creates": 19157,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Fiery Core": 3,
       "Lava Core": 2,
@@ -3258,7 +3258,7 @@
     "ID": 23709,
     "Creates": 19162,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Fiery Core": 4,
       "Core Leather": 12,
@@ -3275,7 +3275,7 @@
     "ID": 23710,
     "Creates": 19163,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Fiery Core": 2,
       "Lava Core": 2,
@@ -3292,7 +3292,7 @@
     "ID": 24121,
     "Creates": 19685,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Primal Bat Leather": 14,
       "Cured Rugged Hide": 5,
@@ -3309,7 +3309,7 @@
     "ID": 24122,
     "Creates": 19686,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Primal Bat Leather": 10,
       "Cured Rugged Hide": 4,
@@ -3326,7 +3326,7 @@
     "ID": 24123,
     "Creates": 19687,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Primal Bat Leather": 8,
       "Cured Rugged Hide": 3,
@@ -3343,7 +3343,7 @@
     "ID": 24124,
     "Creates": 19688,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Primal Tiger Leather": 25,
       "Cured Rugged Hide": 3,
@@ -3359,7 +3359,7 @@
     "ID": 24125,
     "Creates": 19689,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Primal Tiger Leather": 25,
       "Cured Rugged Hide": 3,
@@ -3375,7 +3375,7 @@
     "ID": 24654,
     "Creates": 20295,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Rugged Leather": 28,
       "Blue Dragonscale": 36,
@@ -3391,7 +3391,7 @@
     "ID": 24655,
     "Creates": 20296,
     "Learn": 280,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Rugged Leather": 20,
       "Green Dragonscale": 30,
@@ -3407,7 +3407,7 @@
     "ID": 24703,
     "Creates": 20380,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Rugged Leather": 20,
       "Dreamscale": 3,
@@ -3424,7 +3424,7 @@
     "ID": 24846,
     "Creates": 20481,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Light Silithid Carapace": 1,
       "Silithid Chitin": 20,
@@ -3440,7 +3440,7 @@
     "ID": 24847,
     "Creates": 20480,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Light Silithid Carapace": 2,
       "Silithid Chitin": 30,
@@ -3457,7 +3457,7 @@
     "ID": 24848,
     "Creates": 20479,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Light Silithid Carapace": 3,
       "Silithid Chitin": 40,
@@ -3474,7 +3474,7 @@
     "ID": 24849,
     "Creates": 20476,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Silithid Carapace": 1,
       "Silithid Chitin": 20,
@@ -3490,7 +3490,7 @@
     "ID": 24850,
     "Creates": 20477,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Silithid Carapace": 2,
       "Silithid Chitin": 30,
@@ -3507,7 +3507,7 @@
     "ID": 24851,
     "Creates": 20478,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Silithid Carapace": 3,
       "Silithid Chitin": 40,
@@ -3524,7 +3524,7 @@
     "ID": 24940,
     "Creates": 20575,
     "Learn": 100,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Medium Leather": 8,
       "Black Whelp Scale": 8,
@@ -3541,7 +3541,7 @@
     "ID": 26279,
     "Creates": 21278,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Enchanted Leather": 6,
       "Essence of Air": 4,
@@ -3557,7 +3557,7 @@
     "ID": 28219,
     "Creates": 22661,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Frozen Rune": 7,
       "Enchanted Leather": 16,
@@ -3575,7 +3575,7 @@
     "ID": 28220,
     "Creates": 22662,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Frozen Rune": 5,
       "Enchanted Leather": 12,
@@ -3593,7 +3593,7 @@
     "ID": 28221,
     "Creates": 22663,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Frozen Rune": 4,
       "Enchanted Leather": 12,
@@ -3611,7 +3611,7 @@
     "ID": 28222,
     "Creates": 22664,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Frozen Rune": 7,
       "Heavy Scorpid Scale": 24,
@@ -3629,7 +3629,7 @@
     "ID": 28223,
     "Creates": 22666,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Frozen Rune": 5,
       "Heavy Scorpid Scale": 16,
@@ -3647,7 +3647,7 @@
     "ID": 28224,
     "Creates": 22665,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Frozen Rune": 4,
       "Heavy Scorpid Scale": 16,
@@ -3665,7 +3665,7 @@
     "ID": 28472,
     "Creates": 22759,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Rugged Leather": 12,
       "Bloodvine": 2,
@@ -3682,7 +3682,7 @@
     "ID": 28473,
     "Creates": 22760,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Enchanted Leather": 6,
       "Larval Acid": 2,
@@ -3699,7 +3699,7 @@
     "ID": 28474,
     "Creates": 22761,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Enchanted Leather": 4,
       "Living Essence": 2,
@@ -3715,7 +3715,7 @@
     "ID": 32454,
     "Creates": 21887,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Knothide Leather Scraps": 5
     },
@@ -3728,7 +3728,7 @@
     "ID": 32455,
     "Creates": 23793,
     "Learn": 325,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Knothide Leather": 5
     },
@@ -3742,7 +3742,7 @@
     "ID": 32456,
     "Creates": 25650,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Knothide Leather": 4
     },
@@ -3755,7 +3755,7 @@
     "ID": 32457,
     "Creates": 25651,
     "Learn": 325,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 3,
       "Primal Earth": 1
@@ -3770,7 +3770,7 @@
     "ID": 32458,
     "Creates": 25652,
     "Learn": 325,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 3,
       "Primal Mana": 1
@@ -3785,7 +3785,7 @@
     "ID": 32461,
     "Creates": 25653,
     "Learn": 350,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 4,
       "Primal Might": 1,
@@ -3802,7 +3802,7 @@
     "ID": 32462,
     "Creates": 25654,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Knothide Leather": 5,
       "Fel Scales": 1,
@@ -3817,7 +3817,7 @@
     "ID": 32463,
     "Creates": 25655,
     "Learn": 310,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Knothide Leather": 8,
       "Fel Scales": 1,
@@ -3832,7 +3832,7 @@
     "ID": 32464,
     "Creates": 25656,
     "Learn": 320,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Knothide Leather": 10,
       "Fel Scales": 3,
@@ -3847,7 +3847,7 @@
     "ID": 32465,
     "Creates": 25657,
     "Learn": 335,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 2,
       "Fel Scales": 3,
@@ -3862,7 +3862,7 @@
     "ID": 32466,
     "Creates": 25662,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Knothide Leather": 6,
       "Fel Scales": 3,
@@ -3877,7 +3877,7 @@
     "ID": 32467,
     "Creates": 25661,
     "Learn": 310,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Knothide Leather": 8,
       "Fel Scales": 1,
@@ -3892,7 +3892,7 @@
     "ID": 32468,
     "Creates": 25660,
     "Learn": 325,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 2,
       "Fel Scales": 3,
@@ -3907,7 +3907,7 @@
     "ID": 32469,
     "Creates": 25659,
     "Learn": 335,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 2,
       "Fel Scales": 2,
@@ -3922,7 +3922,7 @@
     "ID": 32470,
     "Creates": 25669,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Knothide Leather": 6,
       "Rune Thread": 2
@@ -3936,7 +3936,7 @@
     "ID": 32471,
     "Creates": 25670,
     "Learn": 315,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Knothide Leather": 10,
       "Rune Thread": 2
@@ -3950,7 +3950,7 @@
     "ID": 32472,
     "Creates": 25668,
     "Learn": 320,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Knothide Leather": 10,
       "Rune Thread": 3
@@ -3964,7 +3964,7 @@
     "ID": 32473,
     "Creates": 25671,
     "Learn": 330,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 3,
       "Rune Thread": 3
@@ -3978,7 +3978,7 @@
     "ID": 32478,
     "Creates": 25673,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Knothide Leather": 6,
       "Rune Thread": 3
@@ -3992,7 +3992,7 @@
     "ID": 32479,
     "Creates": 25674,
     "Learn": 310,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Knothide Leather": 9,
       "Rune Thread": 3
@@ -4006,7 +4006,7 @@
     "ID": 32480,
     "Creates": 25675,
     "Learn": 320,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Knothide Leather": 13,
       "Rune Thread": 3
@@ -4020,7 +4020,7 @@
     "ID": 32481,
     "Creates": 25676,
     "Learn": 330,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 3,
       "Rune Thread": 3
@@ -4034,7 +4034,7 @@
     "ID": 32482,
     "Creates": 25679,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Knothide Leather": 2
     },
@@ -4048,7 +4048,7 @@
     "ID": 32485,
     "Creates": 25680,
     "Learn": 350,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 6,
       "Cobra Scales": 2,
@@ -4066,7 +4066,7 @@
     "ID": 32487,
     "Creates": 25681,
     "Learn": 350,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 6,
       "Cobra Scales": 2,
@@ -4084,7 +4084,7 @@
     "ID": 32488,
     "Creates": 25683,
     "Learn": 350,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 6,
       "Cobra Scales": 2,
@@ -4102,7 +4102,7 @@
     "ID": 32489,
     "Creates": 25682,
     "Learn": 350,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 6,
       "Cobra Scales": 2,
@@ -4119,7 +4119,7 @@
     "ID": 32490,
     "Creates": 25685,
     "Learn": 340,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 6,
       "Fel Hide": 6,
@@ -4136,7 +4136,7 @@
     "ID": 32493,
     "Creates": 25686,
     "Learn": 350,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 10,
       "Fel Hide": 8,
@@ -4153,7 +4153,7 @@
     "ID": 32494,
     "Creates": 25687,
     "Learn": 350,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 10,
       "Fel Hide": 10,
@@ -4170,7 +4170,7 @@
     "ID": 32495,
     "Creates": 25689,
     "Learn": 360,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 6,
       "Thick Clefthoof Leather": 40,
@@ -4187,7 +4187,7 @@
     "ID": 32496,
     "Creates": 25690,
     "Learn": 355,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 6,
       "Thick Clefthoof Leather": 34,
@@ -4204,7 +4204,7 @@
     "ID": 32497,
     "Creates": 25691,
     "Learn": 355,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 4,
       "Thick Clefthoof Leather": 20,
@@ -4221,7 +4221,7 @@
     "ID": 32498,
     "Creates": 25695,
     "Learn": 350,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 6,
       "Fel Hide": 4,
@@ -4239,7 +4239,7 @@
     "ID": 32499,
     "Creates": 25697,
     "Learn": 360,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 6,
       "Fel Hide": 6,
@@ -4257,7 +4257,7 @@
     "ID": 32500,
     "Creates": 25696,
     "Learn": 360,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 10,
       "Fel Hide": 4,
@@ -4275,7 +4275,7 @@
     "ID": 32501,
     "Creates": 25694,
     "Learn": 340,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 4,
       "Crystal Infused Leather": 8,
@@ -4293,7 +4293,7 @@
     "ID": 32502,
     "Creates": 25692,
     "Learn": 340,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 8,
       "Crystal Infused Leather": 12,
@@ -4311,7 +4311,7 @@
     "ID": 32503,
     "Creates": 25693,
     "Learn": 350,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 6,
       "Crystal Infused Leather": 10,
@@ -4329,7 +4329,7 @@
     "ID": 35520,
     "Creates": 29483,
     "Learn": 340,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 4,
       "Primal Life": 4
@@ -4344,7 +4344,7 @@
     "ID": 35521,
     "Creates": 29485,
     "Learn": 340,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 4,
       "Primal Water": 4
@@ -4359,7 +4359,7 @@
     "ID": 35522,
     "Creates": 29486,
     "Learn": 340,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 4,
       "Primal Fire": 4
@@ -4374,7 +4374,7 @@
     "ID": 35523,
     "Creates": 29487,
     "Learn": 340,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 4,
       "Primal Shadow": 4
@@ -4389,7 +4389,7 @@
     "ID": 35524,
     "Creates": 29488,
     "Learn": 340,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 4,
       "Primal Mana": 4
@@ -4404,7 +4404,7 @@
     "ID": 35525,
     "Creates": 29489,
     "Learn": 350,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 6,
       "Fel Scales": 12,
@@ -4420,7 +4420,7 @@
     "ID": 35526,
     "Creates": 29490,
     "Learn": 350,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 4,
       "Fel Scales": 10,
@@ -4436,7 +4436,7 @@
     "ID": 35527,
     "Creates": 29491,
     "Learn": 350,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 4,
       "Fel Scales": 10,
@@ -4452,7 +4452,7 @@
     "ID": 35528,
     "Creates": 29493,
     "Learn": 350,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 4,
       "Crystal Infused Leather": 8,
@@ -4469,7 +4469,7 @@
     "ID": 35529,
     "Creates": 29492,
     "Learn": 350,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 6,
       "Crystal Infused Leather": 12,
@@ -4486,7 +4486,7 @@
     "ID": 35530,
     "Creates": 29540,
     "Learn": 325,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 6,
       "Primal Earth": 4
@@ -4501,7 +4501,7 @@
     "ID": 35531,
     "Creates": 29494,
     "Learn": 350,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 4,
       "Crystal Infused Leather": 8,
@@ -4518,7 +4518,7 @@
     "ID": 35532,
     "Creates": 29495,
     "Learn": 350,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 6,
       "Thick Clefthoof Leather": 24,
@@ -4534,7 +4534,7 @@
     "ID": 35533,
     "Creates": 29496,
     "Learn": 350,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 4,
       "Thick Clefthoof Leather": 16,
@@ -4550,7 +4550,7 @@
     "ID": 35534,
     "Creates": 29497,
     "Learn": 350,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 4,
       "Thick Clefthoof Leather": 16,
@@ -4566,7 +4566,7 @@
     "ID": 35535,
     "Creates": 29498,
     "Learn": 350,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 6,
       "Fel Hide": 10,
@@ -4583,7 +4583,7 @@
     "ID": 35536,
     "Creates": 29499,
     "Learn": 350,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 4,
       "Fel Hide": 8,
@@ -4600,7 +4600,7 @@
     "ID": 35537,
     "Creates": 29500,
     "Learn": 350,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 4,
       "Fel Hide": 6,
@@ -4617,7 +4617,7 @@
     "ID": 35538,
     "Creates": 29532,
     "Learn": 370,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 6,
       "Fel Hide": 4
@@ -4632,7 +4632,7 @@
     "ID": 35539,
     "Creates": 29531,
     "Learn": 350,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 6,
       "Nether Dragonscales": 4
@@ -4647,7 +4647,7 @@
     "ID": 35540,
     "Creates": 29528,
     "Learn": 340,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 3,
       "Fel Scales": 3
@@ -4661,7 +4661,7 @@
     "ID": 35543,
     "Creates": 29529,
     "Learn": 365,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 6,
       "Thick Clefthoof Leather": 4
@@ -4676,7 +4676,7 @@
     "ID": 35544,
     "Creates": 29530,
     "Learn": 345,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 6,
       "Wind Scales": 4
@@ -4691,7 +4691,7 @@
     "ID": 35549,
     "Creates": 29533,
     "Learn": 335,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 4,
       "Cobra Scales": 2,
@@ -4707,7 +4707,7 @@
     "ID": 35554,
     "Creates": 29535,
     "Learn": 365,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 4,
       "Cobra Scales": 4,
@@ -4724,7 +4724,7 @@
     "ID": 35555,
     "Creates": 29534,
     "Learn": 335,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 4,
       "Thick Clefthoof Leather": 8,
@@ -4740,7 +4740,7 @@
     "ID": 35557,
     "Creates": 29536,
     "Learn": 365,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 4,
       "Thick Clefthoof Leather": 16,
@@ -4757,7 +4757,7 @@
     "ID": 35558,
     "Creates": 29502,
     "Learn": 365,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 6,
       "Cobra Scales": 10,
@@ -4775,7 +4775,7 @@
     "ID": 35559,
     "Creates": 29503,
     "Learn": 365,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 4,
       "Cobra Scales": 8,
@@ -4793,7 +4793,7 @@
     "ID": 35560,
     "Creates": 29504,
     "Learn": 365,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 6,
       "Wind Scales": 20,
@@ -4811,7 +4811,7 @@
     "ID": 35561,
     "Creates": 29505,
     "Learn": 365,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 6,
       "Primal Life": 20,
@@ -4828,7 +4828,7 @@
     "ID": 35562,
     "Creates": 29506,
     "Learn": 365,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 4,
       "Primal Life": 16,
@@ -4845,7 +4845,7 @@
     "ID": 35563,
     "Creates": 29507,
     "Learn": 365,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 4,
       "Wind Scales": 12,
@@ -4863,7 +4863,7 @@
     "ID": 35564,
     "Creates": 29508,
     "Learn": 365,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 6,
       "Nether Dragonscales": 28,
@@ -4881,7 +4881,7 @@
     "ID": 35567,
     "Creates": 29512,
     "Learn": 365,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 4,
       "Nether Dragonscales": 24,
@@ -4899,7 +4899,7 @@
     "ID": 35568,
     "Creates": 29509,
     "Learn": 365,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 4,
       "Wind Scales": 14,
@@ -4917,7 +4917,7 @@
     "ID": 35572,
     "Creates": 29510,
     "Learn": 365,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 6,
       "Nether Dragonscales": 28,
@@ -4935,7 +4935,7 @@
     "ID": 35573,
     "Creates": 29511,
     "Learn": 365,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 4,
       "Nether Dragonscales": 24,
@@ -4953,7 +4953,7 @@
     "ID": 35574,
     "Creates": 29514,
     "Learn": 365,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 8,
       "Nether Dragonscales": 32,
@@ -4971,7 +4971,7 @@
     "ID": 35575,
     "Creates": 29515,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 8,
       "Nether Dragonscales": 30,
@@ -4988,7 +4988,7 @@
     "ID": 35576,
     "Creates": 29516,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 6,
       "Nether Dragonscales": 24,
@@ -5005,7 +5005,7 @@
     "ID": 35577,
     "Creates": 29517,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 4,
       "Nether Dragonscales": 18,
@@ -5021,7 +5021,7 @@
     "ID": 35580,
     "Creates": 29519,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 8,
       "Nether Dragonscales": 30,
@@ -5038,7 +5038,7 @@
     "ID": 35582,
     "Creates": 29520,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 6,
       "Nether Dragonscales": 24,
@@ -5055,7 +5055,7 @@
     "ID": 35584,
     "Creates": 29521,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 4,
       "Nether Dragonscales": 18,
@@ -5071,7 +5071,7 @@
     "ID": 35585,
     "Creates": 29522,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 8,
       "Wind Scales": 20,
@@ -5088,7 +5088,7 @@
     "ID": 35587,
     "Creates": 29524,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 6,
       "Wind Scales": 16,
@@ -5105,7 +5105,7 @@
     "ID": 35588,
     "Creates": 29523,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 4,
       "Wind Scales": 12,
@@ -5121,7 +5121,7 @@
     "ID": 35589,
     "Creates": 29525,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 8,
       "Primal Might": 6,
@@ -5136,7 +5136,7 @@
     "ID": 35590,
     "Creates": 29526,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 6,
       "Primal Might": 5,
@@ -5151,7 +5151,7 @@
     "ID": 35591,
     "Creates": 29527,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 4,
       "Primal Might": 3
@@ -5165,7 +5165,7 @@
     "ID": 36074,
     "Creates": 29964,
     "Learn": 260,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Rugged Leather": 10,
       "Breath of Wind": 8,
@@ -5181,7 +5181,7 @@
     "ID": 36075,
     "Creates": 29970,
     "Learn": 260,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Rugged Leather": 10,
       "Light Feather": 5,
@@ -5198,7 +5198,7 @@
     "ID": 36076,
     "Creates": 29971,
     "Learn": 260,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Rugged Leather": 10,
       "Worn Dragonscale": 10,
@@ -5214,7 +5214,7 @@
     "ID": 36077,
     "Creates": 29973,
     "Learn": 330,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 4,
       "Primal Air": 2,
@@ -5230,7 +5230,7 @@
     "ID": 36078,
     "Creates": 29974,
     "Learn": 330,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 4,
       "Crystal Infused Leather": 12,
@@ -5246,7 +5246,7 @@
     "ID": 36079,
     "Creates": 29975,
     "Learn": 330,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 4,
       "Black Dragonscale": 8,
@@ -5262,7 +5262,7 @@
     "ID": 36349,
     "Creates": 30042,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Nether Vortex": 2,
       "Heavy Knothide Leather": 4,
@@ -5280,7 +5280,7 @@
     "ID": 36351,
     "Creates": 30040,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Nether Vortex": 2,
       "Heavy Knothide Leather": 4,
@@ -5298,7 +5298,7 @@
     "ID": 36352,
     "Creates": 30046,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Nether Vortex": 2,
       "Heavy Knothide Leather": 4,
@@ -5316,7 +5316,7 @@
     "ID": 36353,
     "Creates": 30044,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Nether Vortex": 2,
       "Heavy Knothide Leather": 4,
@@ -5334,7 +5334,7 @@
     "ID": 36355,
     "Creates": 30041,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Primal Nether": 2,
       "Heavy Knothide Leather": 4,
@@ -5351,7 +5351,7 @@
     "ID": 36357,
     "Creates": 30039,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Primal Nether": 2,
       "Heavy Knothide Leather": 4,
@@ -5368,7 +5368,7 @@
     "ID": 36358,
     "Creates": 30045,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Primal Nether": 2,
       "Heavy Knothide Leather": 4,
@@ -5386,7 +5386,7 @@
     "ID": 36359,
     "Creates": 30043,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Primal Nether": 2,
       "Heavy Knothide Leather": 4,
@@ -5404,7 +5404,7 @@
     "ID": 39997,
     "Creates": 32398,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heart of Darkness": 2,
       "Void Crystal": 1,
@@ -5422,7 +5422,7 @@
     "ID": 40001,
     "Creates": 32400,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heart of Darkness": 3,
       "Void Crystal": 1,
@@ -5440,7 +5440,7 @@
     "ID": 40002,
     "Creates": 32397,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heart of Darkness": 2,
       "Void Crystal": 1,
@@ -5458,7 +5458,7 @@
     "ID": 40003,
     "Creates": 32394,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heart of Darkness": 2,
       "Void Crystal": 1,
@@ -5476,7 +5476,7 @@
     "ID": 40004,
     "Creates": 32395,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heart of Darkness": 1,
       "Void Crystal": 1,
@@ -5494,7 +5494,7 @@
     "ID": 40005,
     "Creates": 32396,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heart of Darkness": 3,
       "Void Crystal": 1,
@@ -5512,7 +5512,7 @@
     "ID": 40006,
     "Creates": 32393,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heart of Darkness": 2,
       "Void Crystal": 1,
@@ -5530,7 +5530,7 @@
     "ID": 41156,
     "Creates": 32582,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 4,
       "Primal Air": 6,
@@ -5547,7 +5547,7 @@
     "ID": 41157,
     "Creates": 32583,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 6,
       "Primal Air": 8,
@@ -5564,7 +5564,7 @@
     "ID": 41158,
     "Creates": 32580,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 4,
       "Primal Air": 10,
@@ -5580,7 +5580,7 @@
     "ID": 41160,
     "Creates": 32581,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 6,
       "Primal Air": 12,
@@ -5596,7 +5596,7 @@
     "ID": 41161,
     "Creates": 32574,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 4,
       "Primal Air": 4,
@@ -5614,7 +5614,7 @@
     "ID": 41162,
     "Creates": 32575,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 6,
       "Primal Air": 6,
@@ -5632,7 +5632,7 @@
     "ID": 41163,
     "Creates": 32577,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 4,
       "Primal Air": 4,
@@ -5650,7 +5650,7 @@
     "ID": 41164,
     "Creates": 32579,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 6,
       "Primal Air": 6,
@@ -5668,7 +5668,7 @@
     "ID": 42546,
     "Creates": 33122,
     "Learn": 360,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 8,
       "Bolt of Soulcloth": 12,
@@ -5685,7 +5685,7 @@
     "ID": 42731,
     "Creates": 33204,
     "Learn": 365,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 10,
       "Bolt of Soulcloth": 16,
@@ -5703,7 +5703,7 @@
     "ID": 44343,
     "Creates": 34099,
     "Learn": 315,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Knothide Leather": 24,
       "Rune Thread": 4,
@@ -5718,7 +5718,7 @@
     "ID": 44344,
     "Creates": 34100,
     "Learn": 315,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Knothide Leather": 20,
       "Arakkoa Feather": 30,
@@ -5733,7 +5733,7 @@
     "ID": 44359,
     "Creates": 34105,
     "Learn": 350,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 8,
       "Light Feather": 99,
@@ -5749,7 +5749,7 @@
     "ID": 44768,
     "Creates": 34106,
     "Learn": 350,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 12,
       "Nether Dragonscales": 12,
@@ -5766,7 +5766,7 @@
     "ID": 44770,
     "Creates": 34207,
     "Learn": 350,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 4,
       "Primal Earth": 3
@@ -5780,7 +5780,7 @@
     "ID": 44953,
     "Creates": 34086,
     "Learn": 285,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Copper Bar": 1,
       "Bolt of Woolen Cloth": 1,
@@ -5797,7 +5797,7 @@
     "ID": 44970,
     "Creates": 34330,
     "Learn": 350,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 3
     },
@@ -5810,7 +5810,7 @@
     "ID": 45100,
     "Creates": 34482,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Knothide Leather": 20,
       "Fel Scales": 4,
@@ -5826,7 +5826,7 @@
     "ID": 45117,
     "Creates": 34490,
     "Learn": 350,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 15,
       "Wind Scales": 5,
@@ -5845,7 +5845,7 @@
     "ID": 46132,
     "Creates": 34372,
     "Learn": 365,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 30,
       "Thick Clefthoof Leather": 16,
@@ -5863,7 +5863,7 @@
     "ID": 46133,
     "Creates": 34374,
     "Learn": 365,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 30,
       "Wind Scales": 16,
@@ -5881,7 +5881,7 @@
     "ID": 46134,
     "Creates": 34370,
     "Learn": 365,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 30,
       "Fel Hide": 16,
@@ -5899,7 +5899,7 @@
     "ID": 46135,
     "Creates": 34376,
     "Learn": 365,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 30,
       "Nether Dragonscales": 16,
@@ -5917,7 +5917,7 @@
     "ID": 46136,
     "Creates": 34371,
     "Learn": 365,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 40,
       "Thick Clefthoof Leather": 24,
@@ -5934,7 +5934,7 @@
     "ID": 46137,
     "Creates": 34373,
     "Learn": 365,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 40,
       "Wind Scales": 24,
@@ -5951,7 +5951,7 @@
     "ID": 46138,
     "Creates": 34369,
     "Learn": 365,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 40,
       "Fel Hide": 24,
@@ -5968,7 +5968,7 @@
     "ID": 46139,
     "Creates": 34375,
     "Learn": 365,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 40,
       "Nether Dragonscales": 24,
@@ -5998,7 +5998,7 @@
     "ID": 50938,
     "Creates": 38408,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Borean Leather": 12
     },
@@ -6011,7 +6011,7 @@
     "ID": 50939,
     "Creates": 38410,
     "Learn": 370,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Borean Leather": 12
     },
@@ -6037,7 +6037,7 @@
     "ID": 50941,
     "Creates": 38409,
     "Learn": 370,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Borean Leather": 8
     },
@@ -6050,7 +6050,7 @@
     "ID": 50942,
     "Creates": 38407,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Borean Leather": 10
     },
@@ -6076,7 +6076,7 @@
     "ID": 50944,
     "Creates": 38400,
     "Learn": 370,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Borean Leather": 12
     },
@@ -6089,7 +6089,7 @@
     "ID": 50945,
     "Creates": 38401,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Borean Leather": 12
     },
@@ -6115,7 +6115,7 @@
     "ID": 50947,
     "Creates": 38403,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Borean Leather": 10
     },
@@ -6128,7 +6128,7 @@
     "ID": 50948,
     "Creates": 38404,
     "Learn": 370,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Borean Leather": 8
     },
@@ -6154,7 +6154,7 @@
     "ID": 50950,
     "Creates": 38414,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Borean Leather": 12
     },
@@ -6167,7 +6167,7 @@
     "ID": 50951,
     "Creates": 38416,
     "Learn": 370,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Borean Leather": 12
     },
@@ -6180,7 +6180,7 @@
     "ID": 50952,
     "Creates": 38424,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Borean Leather": 10
     },
@@ -6219,7 +6219,7 @@
     "ID": 50955,
     "Creates": 38412,
     "Learn": 370,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Borean Leather": 8
     },
@@ -6232,7 +6232,7 @@
     "ID": 50956,
     "Creates": 38420,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Borean Leather": 12
     },
@@ -6245,7 +6245,7 @@
     "ID": 50957,
     "Creates": 38422,
     "Learn": 370,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Borean Leather": 8
     },
@@ -6271,7 +6271,7 @@
     "ID": 50959,
     "Creates": 38421,
     "Learn": 370,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Borean Leather": 12
     },
@@ -6297,7 +6297,7 @@
     "ID": 50961,
     "Creates": 38418,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Borean Leather": 10
     },
@@ -6310,7 +6310,7 @@
     "ID": 50962,
     "Creates": 38375,
     "Learn": 350,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Borean Leather": 4
     },
@@ -6492,7 +6492,7 @@
     "ID": 52733,
     "Creates": 32399,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heart of Darkness": 1,
       "Void Crystal": 1,
@@ -7970,7 +7970,7 @@
     "ID": 64661,
     "Creates": 33568,
     "Learn": 350,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Borean Leather Scraps": 5
     },
@@ -8285,7 +8285,7 @@
     "ID": 351766,
     "Creates": 185852,
     "Learn": 340,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 3,
       "Fel Scales": 3
@@ -8300,7 +8300,7 @@
     "ID": 351768,
     "Creates": 185851,
     "Learn": 345,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 6,
       "Wind Scales": 4
@@ -8315,7 +8315,7 @@
     "ID": 351769,
     "Creates": 185850,
     "Learn": 350,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 6,
       "Nether Dragonscales": 4
@@ -8330,7 +8330,7 @@
     "ID": 351770,
     "Creates": 185849,
     "Learn": 370,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 6,
       "Fel Hide": 4
@@ -8345,7 +8345,7 @@
     "ID": 351771,
     "Creates": 185848,
     "Learn": 365,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 6,
       "Thick Clefthoof Leather": 4

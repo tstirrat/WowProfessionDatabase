@@ -154,7 +154,7 @@ export function toSpell(
     ID: s.id,
     Creates: createdItemId,
     Learn: s.learnedat,
-    Phase: s.learnedat > 375 ? 1 : 0,
+    Phase: 1,
     Reagents,
     Yellow,
     Green,
@@ -203,4 +203,27 @@ export function recipeToSpellName(recipeName: string) {
   let [, spellName] = recipeName.split(":");
   spellName = spellName.trim().replace(/^Transmute\s/, "Transmute: ");
   return spellName;
+}
+
+export enum Slug {
+  SPELLS = "spells/professions",
+  RECIPES = "items/recipes",
+  ITEM = "item=",
+  SPELL = "spell=",
+}
+
+export enum Profession {
+  ALCHEMY = "alchemy",
+  BLACKSMITHING = "blacksmithing",
+  ENCHANTING = "enchanting",
+  ENGINEERING = "engineering",
+  INSCRIPTION = "inscription",
+  JEWELCRAFTING = "jewelcrafting",
+  LEATHERWORKING = "leatherworking",
+  MINING = "mining",
+  TAILORING = "tailoring",
+}
+
+export function url(slug: Slug, id: string) {
+  return `https://www.wowhead.com/wotlk/${slug}/${id}`;
 }

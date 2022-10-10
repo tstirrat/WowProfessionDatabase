@@ -3,7 +3,7 @@
     "ID": 2329,
     "Creates": 2454,
     "Learn": 1,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Earthroot": 1,
       "Silverleaf": 1,
@@ -18,7 +18,7 @@
     "ID": 2330,
     "Creates": 118,
     "Learn": 1,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Peacebloom": 1,
       "Silverleaf": 1,
@@ -33,7 +33,7 @@
     "ID": 2331,
     "Creates": 2455,
     "Learn": 25,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Mageroyal": 1,
       "Silverleaf": 1,
@@ -48,7 +48,7 @@
     "ID": 2332,
     "Creates": 2456,
     "Learn": 40,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Mageroyal": 2,
       "Peacebloom": 1,
@@ -63,7 +63,7 @@
     "ID": 2333,
     "Creates": 3390,
     "Learn": 140,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Wild Steelbloom": 1,
       "Swiftthistle": 1,
@@ -79,7 +79,7 @@
     "ID": 2334,
     "Creates": 2458,
     "Learn": 50,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Earthroot": 2,
       "Peacebloom": 1,
@@ -94,7 +94,7 @@
     "ID": 2335,
     "Creates": 2459,
     "Learn": 60,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Swiftthistle": 1,
       "Briarthorn": 1,
@@ -110,7 +110,7 @@
     "ID": 2337,
     "Creates": 858,
     "Learn": 55,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Minor Healing Potion": 1,
       "Briarthorn": 1
@@ -124,7 +124,7 @@
     "ID": 3170,
     "Creates": 3382,
     "Learn": 15,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Peacebloom": 1,
       "Earthroot": 2,
@@ -139,7 +139,7 @@
     "ID": 3171,
     "Creates": 3383,
     "Learn": 90,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Mageroyal": 1,
       "Briarthorn": 2,
@@ -154,7 +154,7 @@
     "ID": 3172,
     "Creates": 3384,
     "Learn": 110,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Mageroyal": 3,
       "Wild Steelbloom": 1,
@@ -170,7 +170,7 @@
     "ID": 3173,
     "Creates": 3385,
     "Learn": 120,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Mageroyal": 1,
       "Stranglekelp": 1,
@@ -185,7 +185,7 @@
     "ID": 3174,
     "Creates": 3386,
     "Learn": 120,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Large Venom Sac": 1,
       "Bruiseweed": 1,
@@ -201,7 +201,7 @@
     "ID": 3175,
     "Creates": 3387,
     "Learn": 250,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Blindweed": 2,
       "Ghost Mushroom": 1,
@@ -217,7 +217,7 @@
     "ID": 3176,
     "Creates": 3388,
     "Learn": 125,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Bruiseweed": 2,
       "Briarthorn": 2,
@@ -232,7 +232,7 @@
     "ID": 3177,
     "Creates": 3389,
     "Learn": 130,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Wild Steelbloom": 1,
       "Stranglekelp": 1,
@@ -247,7 +247,7 @@
     "ID": 3188,
     "Creates": 3391,
     "Learn": 150,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Earthroot": 1,
       "Kingsblood": 1,
@@ -263,7 +263,7 @@
     "ID": 3230,
     "Creates": 2457,
     "Learn": 50,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Swiftthistle": 1,
       "Silverleaf": 1,
@@ -279,7 +279,7 @@
     "ID": 3447,
     "Creates": 929,
     "Learn": 110,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Bruiseweed": 1,
       "Briarthorn": 1,
@@ -294,7 +294,7 @@
     "ID": 3448,
     "Creates": 3823,
     "Learn": 165,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Fadeleaf": 1,
       "Wild Steelbloom": 1,
@@ -309,7 +309,7 @@
     "ID": 3449,
     "Creates": 3824,
     "Learn": 165,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Fadeleaf": 4,
       "Grave Moss": 4,
@@ -325,7 +325,7 @@
     "ID": 3450,
     "Creates": 3825,
     "Learn": 175,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Wild Steelbloom": 1,
       "Goldthorn": 1,
@@ -341,7 +341,7 @@
     "ID": 3451,
     "Creates": 3826,
     "Learn": 180,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Liferoot": 1,
       "Bruiseweed": 1,
@@ -357,7 +357,7 @@
     "ID": 3452,
     "Creates": 3827,
     "Learn": 160,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Stranglekelp": 1,
       "Kingsblood": 1,
@@ -372,7 +372,7 @@
     "ID": 3453,
     "Creates": 3828,
     "Learn": 195,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Khadgar's Whisker": 1,
       "Fadeleaf": 1,
@@ -388,7 +388,7 @@
     "ID": 3454,
     "Creates": 3829,
     "Learn": 200,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Khadgar's Whisker": 4,
       "Wintersbite": 2,
@@ -404,7 +404,7 @@
     "ID": 4508,
     "Creates": 4596,
     "Learn": 50,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Discolored Worg Heart": 1,
       "Peacebloom": 1,
@@ -420,7 +420,7 @@
     "ID": 4942,
     "Creates": 4623,
     "Learn": 215,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Mithril Ore": 1,
       "Goldthorn": 1,
@@ -436,7 +436,7 @@
     "ID": 6617,
     "Creates": 5631,
     "Learn": 60,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Sharp Claw": 2,
       "Empty Vial": 1
@@ -451,7 +451,7 @@
     "ID": 6618,
     "Creates": 5633,
     "Learn": 175,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Large Fang": 1,
       "Kingsblood": 1,
@@ -467,7 +467,7 @@
     "ID": 6624,
     "Creates": 5634,
     "Learn": 150,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Blackmouth Oil": 2,
       "Stranglekelp": 1,
@@ -483,7 +483,7 @@
     "ID": 7179,
     "Creates": 5996,
     "Learn": 90,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Stranglekelp": 1,
       "Blackmouth Oil": 2,
@@ -498,7 +498,7 @@
     "ID": 7181,
     "Creates": 1710,
     "Learn": 155,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Liferoot": 1,
       "Kingsblood": 1,
@@ -513,7 +513,7 @@
     "ID": 7183,
     "Creates": 5997,
     "Learn": 1,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Silverleaf": 2,
       "Empty Vial": 1
@@ -527,7 +527,7 @@
     "ID": 7255,
     "Creates": 6051,
     "Learn": 100,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Bruiseweed": 1,
       "Swiftthistle": 1,
@@ -543,7 +543,7 @@
     "ID": 7256,
     "Creates": 6048,
     "Learn": 135,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Grave Moss": 1,
       "Kingsblood": 1,
@@ -559,7 +559,7 @@
     "ID": 7257,
     "Creates": 6049,
     "Learn": 165,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Small Flame Sac": 1,
       "Fire Oil": 1,
@@ -575,7 +575,7 @@
     "ID": 7258,
     "Creates": 6050,
     "Learn": 190,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Wintersbite": 1,
       "Goldthorn": 1,
@@ -591,7 +591,7 @@
     "ID": 7259,
     "Creates": 6052,
     "Learn": 190,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Liferoot": 1,
       "Stranglekelp": 1,
@@ -607,7 +607,7 @@
     "ID": 7836,
     "Creates": 6370,
     "Learn": 80,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Oily Blackmouth": 2
     },
@@ -620,7 +620,7 @@
     "ID": 7837,
     "Creates": 6371,
     "Learn": 130,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Firefin Snapper": 2
     },
@@ -633,7 +633,7 @@
     "ID": 7841,
     "Creates": 6372,
     "Learn": 100,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Swiftthistle": 1,
       "Blackmouth Oil": 1,
@@ -648,7 +648,7 @@
     "ID": 7845,
     "Creates": 6373,
     "Learn": 140,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Fire Oil": 2,
       "Kingsblood": 1,
@@ -663,7 +663,7 @@
     "ID": 8240,
     "Creates": 6662,
     "Learn": 90,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Deviate Fish": 1,
       "Earthroot": 1,
@@ -679,7 +679,7 @@
     "ID": 11448,
     "Creates": 6149,
     "Learn": 205,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Khadgar's Whisker": 1,
       "Goldthorn": 1,
@@ -694,7 +694,7 @@
     "ID": 11449,
     "Creates": 8949,
     "Learn": 185,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Stranglekelp": 1,
       "Goldthorn": 1,
@@ -709,7 +709,7 @@
     "ID": 11450,
     "Creates": 8951,
     "Learn": 195,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Wild Steelbloom": 1,
       "Goldthorn": 1,
@@ -724,7 +724,7 @@
     "ID": 11451,
     "Creates": 8956,
     "Learn": 205,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Firebloom": 1,
       "Goldthorn": 1,
@@ -739,7 +739,7 @@
     "ID": 11452,
     "Creates": 9030,
     "Learn": 215,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Elemental Earth": 1,
       "Goldthorn": 1,
@@ -754,7 +754,7 @@
     "ID": 11453,
     "Creates": 9036,
     "Learn": 210,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Khadgar's Whisker": 1,
       "Purple Lotus": 1,
@@ -770,7 +770,7 @@
     "ID": 11456,
     "Creates": 9061,
     "Learn": 210,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Firebloom": 1,
       "Volatile Rum": 1,
@@ -786,7 +786,7 @@
     "ID": 11457,
     "Creates": 3928,
     "Learn": 215,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Sungrass": 1,
       "Khadgar's Whisker": 1,
@@ -801,7 +801,7 @@
     "ID": 11458,
     "Creates": 9144,
     "Learn": 225,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Wildvine": 1,
       "Purple Lotus": 1,
@@ -817,7 +817,7 @@
     "ID": 11459,
     "Creates": 9149,
     "Learn": 225,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Iron Bar": 4,
       "Black Vitriol": 1,
@@ -834,7 +834,7 @@
     "ID": 11460,
     "Creates": 9154,
     "Learn": 230,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Arthas' Tears": 1,
       "Crystal Vial": 1
@@ -848,7 +848,7 @@
     "ID": 11461,
     "Creates": 9155,
     "Learn": 235,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Blindweed": 1,
       "Goldthorn": 1,
@@ -863,7 +863,7 @@
     "ID": 11464,
     "Creates": 9172,
     "Learn": 235,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Ghost Mushroom": 1,
       "Sungrass": 1,
@@ -879,7 +879,7 @@
     "ID": 11465,
     "Creates": 9179,
     "Learn": 235,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Blindweed": 1,
       "Khadgar's Whisker": 1,
@@ -894,7 +894,7 @@
     "ID": 11466,
     "Creates": 9088,
     "Learn": 240,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Arthas' Tears": 1,
       "Blindweed": 1,
@@ -910,7 +910,7 @@
     "ID": 11467,
     "Creates": 9187,
     "Learn": 240,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Sungrass": 1,
       "Goldthorn": 1,
@@ -925,7 +925,7 @@
     "ID": 11468,
     "Creates": 9197,
     "Learn": 240,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Purple Lotus": 3,
       "Crystal Vial": 1
@@ -940,7 +940,7 @@
     "ID": 11472,
     "Creates": 9206,
     "Learn": 245,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Sungrass": 1,
       "Gromsblood": 1,
@@ -956,7 +956,7 @@
     "ID": 11473,
     "Creates": 9210,
     "Learn": 245,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Ghost Mushroom": 2,
       "Purple Dye": 1,
@@ -972,7 +972,7 @@
     "ID": 11476,
     "Creates": 9264,
     "Learn": 250,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Ghost Mushroom": 3,
       "Crystal Vial": 1
@@ -987,7 +987,7 @@
     "ID": 11477,
     "Creates": 9224,
     "Learn": 250,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Gromsblood": 1,
       "Ghost Mushroom": 1,
@@ -1003,7 +1003,7 @@
     "ID": 11478,
     "Creates": 9233,
     "Learn": 250,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Gromsblood": 2,
       "Crystal Vial": 1
@@ -1017,7 +1017,7 @@
     "ID": 11479,
     "Creates": 3577,
     "Learn": 225,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Iron Bar": 1
     },
@@ -1031,7 +1031,7 @@
     "ID": 11480,
     "Creates": 6037,
     "Learn": 225,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Mithril Bar": 1
     },
@@ -1045,7 +1045,7 @@
     "ID": 12609,
     "Creates": 10592,
     "Learn": 200,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Goldthorn": 1,
       "Fadeleaf": 1,
@@ -1060,7 +1060,7 @@
     "ID": 15833,
     "Creates": 12190,
     "Learn": 230,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Purple Lotus": 3,
       "Crystal Vial": 1
@@ -1074,7 +1074,7 @@
     "ID": 17187,
     "Creates": 12360,
     "Learn": 275,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Thorium Bar": 1,
       "Arcane Crystal": 1
@@ -1089,7 +1089,7 @@
     "ID": 17551,
     "Creates": 13423,
     "Learn": 250,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Stonescale Eel": 1
     },
@@ -1102,7 +1102,7 @@
     "ID": 17552,
     "Creates": 13442,
     "Learn": 255,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Gromsblood": 3,
       "Crystal Vial": 1
@@ -1117,7 +1117,7 @@
     "ID": 17553,
     "Creates": 13443,
     "Learn": 260,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Sungrass": 2,
       "Blindweed": 2,
@@ -1133,7 +1133,7 @@
     "ID": 17554,
     "Creates": 13445,
     "Learn": 265,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Stonescale Oil": 2,
       "Sungrass": 1,
@@ -1149,7 +1149,7 @@
     "ID": 17555,
     "Creates": 13447,
     "Learn": 270,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Dreamfoil": 1,
       "Plaguebloom": 2,
@@ -1165,7 +1165,7 @@
     "ID": 17556,
     "Creates": 13446,
     "Learn": 275,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Golden Sansam": 2,
       "Mountain Silversage": 1,
@@ -1181,7 +1181,7 @@
     "ID": 17557,
     "Creates": 13453,
     "Learn": 275,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Gromsblood": 2,
       "Plaguebloom": 2,
@@ -1197,7 +1197,7 @@
     "ID": 17559,
     "Creates": 7078,
     "Learn": 275,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Essence of Air": 1
     },
@@ -1211,7 +1211,7 @@
     "ID": 17560,
     "Creates": 7076,
     "Learn": 275,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Essence of Fire": 1
     },
@@ -1225,7 +1225,7 @@
     "ID": 17561,
     "Creates": 7080,
     "Learn": 275,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Essence of Earth": 1
     },
@@ -1239,7 +1239,7 @@
     "ID": 17562,
     "Creates": 7082,
     "Learn": 275,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Essence of Water": 1
     },
@@ -1253,7 +1253,7 @@
     "ID": 17563,
     "Creates": 7080,
     "Learn": 275,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Essence of Undeath": 1
     },
@@ -1267,7 +1267,7 @@
     "ID": 17564,
     "Creates": 12808,
     "Learn": 275,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Essence of Water": 1
     },
@@ -1281,7 +1281,7 @@
     "ID": 17565,
     "Creates": 7076,
     "Learn": 275,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Living Essence": 1
     },
@@ -1295,7 +1295,7 @@
     "ID": 17566,
     "Creates": 12803,
     "Learn": 275,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Essence of Earth": 1
     },
@@ -1309,7 +1309,7 @@
     "ID": 17570,
     "Creates": 13455,
     "Learn": 280,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Stonescale Oil": 2,
       "Thorium Ore": 1,
@@ -1325,7 +1325,7 @@
     "ID": 17571,
     "Creates": 13452,
     "Learn": 280,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Mountain Silversage": 2,
       "Plaguebloom": 2,
@@ -1341,7 +1341,7 @@
     "ID": 17572,
     "Creates": 13462,
     "Learn": 285,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Icecap": 2,
       "Plaguebloom": 2,
@@ -1357,7 +1357,7 @@
     "ID": 17573,
     "Creates": 13454,
     "Learn": 285,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Dreamfoil": 3,
       "Mountain Silversage": 1,
@@ -1373,7 +1373,7 @@
     "ID": 17574,
     "Creates": 13457,
     "Learn": 290,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Elemental Fire": 1,
       "Dreamfoil": 1,
@@ -1389,7 +1389,7 @@
     "ID": 17575,
     "Creates": 13456,
     "Learn": 290,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Elemental Water": 1,
       "Dreamfoil": 1,
@@ -1405,7 +1405,7 @@
     "ID": 17576,
     "Creates": 13458,
     "Learn": 290,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Elemental Earth": 1,
       "Dreamfoil": 1,
@@ -1421,7 +1421,7 @@
     "ID": 17577,
     "Creates": 13461,
     "Learn": 290,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Dream Dust": 1,
       "Dreamfoil": 1,
@@ -1437,7 +1437,7 @@
     "ID": 17578,
     "Creates": 13459,
     "Learn": 290,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Shadow Oil": 1,
       "Dreamfoil": 1,
@@ -1453,7 +1453,7 @@
     "ID": 17580,
     "Creates": 13444,
     "Learn": 295,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Dreamfoil": 3,
       "Icecap": 2,
@@ -1469,7 +1469,7 @@
     "ID": 17632,
     "Creates": 13503,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Philosopher's Stone": 1,
       "Earthstorm Diamond": 1,
@@ -1487,7 +1487,7 @@
     "ID": 17634,
     "Creates": 13506,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Stonescale Oil": 7,
       "Crystal Vial": 1
@@ -1502,7 +1502,7 @@
     "ID": 17635,
     "Creates": 13510,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Gromsblood": 7,
       "Stonescale Oil": 3,
@@ -1519,7 +1519,7 @@
     "ID": 17636,
     "Creates": 13511,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Dreamfoil": 7,
       "Icecap": 3,
@@ -1536,7 +1536,7 @@
     "ID": 17637,
     "Creates": 13512,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Dreamfoil": 7,
       "Mountain Silversage": 3,
@@ -1553,7 +1553,7 @@
     "ID": 17638,
     "Creates": 13513,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Icecap": 7,
       "Mountain Silversage": 3,
@@ -1570,7 +1570,7 @@
     "ID": 21923,
     "Creates": 17708,
     "Learn": 190,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Wintersbite": 2,
       "Khadgar's Whisker": 1,
@@ -1586,7 +1586,7 @@
     "ID": 22732,
     "Creates": 18253,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heart of the Wild": 1,
       "Golden Sansam": 4,
@@ -1603,7 +1603,7 @@
     "ID": 22808,
     "Creates": 18294,
     "Learn": 215,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Ichor of Undeath": 1,
       "Purple Lotus": 2,
@@ -1618,7 +1618,7 @@
     "ID": 24266,
     "Creates": 19931,
     "Learn": 315,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Blood of Heroes": 1,
       "Massive Mojo": 1,
@@ -1634,7 +1634,7 @@
     "ID": 24365,
     "Creates": 20007,
     "Learn": 275,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Dreamfoil": 1,
       "Plaguebloom": 2,
@@ -1650,7 +1650,7 @@
     "ID": 24366,
     "Creates": 20002,
     "Learn": 275,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Dreamfoil": 2,
       "Golden Sansam": 1,
@@ -1666,7 +1666,7 @@
     "ID": 24367,
     "Creates": 20008,
     "Learn": 285,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Icecap": 2,
       "Mountain Silversage": 2,
@@ -1683,7 +1683,7 @@
     "ID": 24368,
     "Creates": 20004,
     "Learn": 290,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Gromsblood": 1,
       "Plaguebloom": 2,
@@ -1699,7 +1699,7 @@
     "ID": 25146,
     "Creates": 7068,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heart of Fire": 1
     },
@@ -1713,7 +1713,7 @@
     "ID": 26277,
     "Creates": 21546,
     "Learn": 250,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Fire Oil": 3,
       "Firebloom": 3,
@@ -1729,7 +1729,7 @@
     "ID": 28543,
     "Creates": 22823,
     "Learn": 305,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Ragveil": 1,
       "Felweed": 1,
@@ -1745,7 +1745,7 @@
     "ID": 28544,
     "Creates": 22824,
     "Learn": 305,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Mountain Silversage": 1,
       "Felweed": 1,
@@ -1760,7 +1760,7 @@
     "ID": 28545,
     "Creates": 22825,
     "Learn": 310,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Golden Sansam": 1,
       "Dreaming Glory": 1,
@@ -1775,7 +1775,7 @@
     "ID": 28546,
     "Creates": 22826,
     "Learn": 315,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Ragveil": 2,
       "Felweed": 1,
@@ -1791,7 +1791,7 @@
     "ID": 28549,
     "Creates": 22827,
     "Learn": 320,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Mote of Water": 2,
       "Ancient Lichen": 1,
@@ -1807,7 +1807,7 @@
     "ID": 28550,
     "Creates": 22828,
     "Learn": 320,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Terocone": 3,
       "Imbued Vial": 1
@@ -1822,7 +1822,7 @@
     "ID": 28551,
     "Creates": 22829,
     "Learn": 325,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Netherbloom": 2,
       "Felweed": 1,
@@ -1837,7 +1837,7 @@
     "ID": 28552,
     "Creates": 22830,
     "Learn": 325,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Ragveil": 2,
       "Terocone": 1,
@@ -1853,7 +1853,7 @@
     "ID": 28553,
     "Creates": 22831,
     "Learn": 330,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Terocone": 1,
       "Felweed": 2,
@@ -1869,7 +1869,7 @@
     "ID": 28554,
     "Creates": 22871,
     "Learn": 335,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Ragveil": 3,
       "Netherbloom": 1,
@@ -1885,7 +1885,7 @@
     "ID": 28555,
     "Creates": 22832,
     "Learn": 340,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Dreaming Glory": 2,
       "Felweed": 1,
@@ -1901,7 +1901,7 @@
     "ID": 28556,
     "Creates": 22833,
     "Learn": 345,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Mote of Fire": 2,
       "Ancient Lichen": 1,
@@ -1917,7 +1917,7 @@
     "ID": 28557,
     "Creates": 22834,
     "Learn": 345,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Ancient Lichen": 3,
       "Terocone": 1,
@@ -1933,7 +1933,7 @@
     "ID": 28558,
     "Creates": 22835,
     "Learn": 350,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Ancient Lichen": 1,
       "Nightmare Vine": 1,
@@ -1949,7 +1949,7 @@
     "ID": 28562,
     "Creates": 22836,
     "Learn": 350,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Dreaming Glory": 1,
       "Nightmare Vine": 1,
@@ -1965,7 +1965,7 @@
     "ID": 28563,
     "Creates": 22837,
     "Learn": 350,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Terocone": 2,
       "Ancient Lichen": 1,
@@ -1981,7 +1981,7 @@
     "ID": 28564,
     "Creates": 22838,
     "Learn": 350,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Terocone": 2,
       "Netherbloom": 1,
@@ -1997,7 +1997,7 @@
     "ID": 28565,
     "Creates": 22839,
     "Learn": 350,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Nightmare Vine": 2,
       "Netherbloom": 1,
@@ -2013,7 +2013,7 @@
     "ID": 28566,
     "Creates": 21884,
     "Learn": 350,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Primal Air": 1
     },
@@ -2027,7 +2027,7 @@
     "ID": 28567,
     "Creates": 21885,
     "Learn": 350,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Primal Earth": 1
     },
@@ -2041,7 +2041,7 @@
     "ID": 28568,
     "Creates": 22452,
     "Learn": 350,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Primal Fire": 1
     },
@@ -2055,7 +2055,7 @@
     "ID": 28569,
     "Creates": 22451,
     "Learn": 350,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Primal Water": 1
     },
@@ -2069,7 +2069,7 @@
     "ID": 28570,
     "Creates": 22840,
     "Learn": 355,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Ancient Lichen": 1,
       "Netherbloom": 1,
@@ -2085,7 +2085,7 @@
     "ID": 28571,
     "Creates": 22841,
     "Learn": 360,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Primal Fire": 1,
       "Mana Thistle": 3,
@@ -2101,7 +2101,7 @@
     "ID": 28572,
     "Creates": 22842,
     "Learn": 360,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Primal Water": 1,
       "Mana Thistle": 3,
@@ -2117,7 +2117,7 @@
     "ID": 28573,
     "Creates": 22844,
     "Learn": 360,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Primal Life": 1,
       "Mana Thistle": 3,
@@ -2133,7 +2133,7 @@
     "ID": 28575,
     "Creates": 22845,
     "Learn": 360,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Primal Mana": 1,
       "Mana Thistle": 3,
@@ -2149,7 +2149,7 @@
     "ID": 28576,
     "Creates": 22846,
     "Learn": 360,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Primal Shadow": 1,
       "Mana Thistle": 3,
@@ -2165,7 +2165,7 @@
     "ID": 28577,
     "Creates": 22847,
     "Learn": 360,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Primal Life": 1,
       "Mana Thistle": 3,
@@ -2181,7 +2181,7 @@
     "ID": 28578,
     "Creates": 22848,
     "Learn": 365,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Netherbloom": 1,
       "Mana Thistle": 1,
@@ -2197,7 +2197,7 @@
     "ID": 28579,
     "Creates": 22849,
     "Learn": 365,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Ancient Lichen": 2,
       "Mote of Earth": 3,
@@ -2213,7 +2213,7 @@
     "ID": 28580,
     "Creates": 21885,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Primal Shadow": 1
     },
@@ -2226,7 +2226,7 @@
     "ID": 28581,
     "Creates": 22456,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Primal Water": 1
     },
@@ -2239,7 +2239,7 @@
     "ID": 28582,
     "Creates": 21884,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Primal Mana": 1
     },
@@ -2252,7 +2252,7 @@
     "ID": 28583,
     "Creates": 22457,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Primal Fire": 1
     },
@@ -2265,7 +2265,7 @@
     "ID": 28584,
     "Creates": 22452,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Primal Life": 1
     },
@@ -2278,7 +2278,7 @@
     "ID": 28585,
     "Creates": 21886,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Primal Earth": 1
     },
@@ -2291,7 +2291,7 @@
     "ID": 28586,
     "Creates": 22850,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Mana Thistle": 2,
       "Dreaming Glory": 1,
@@ -2307,7 +2307,7 @@
     "ID": 28587,
     "Creates": 22851,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Fel Lotus": 1,
       "Mana Thistle": 3,
@@ -2323,7 +2323,7 @@
     "ID": 28588,
     "Creates": 22853,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Fel Lotus": 1,
       "Mana Thistle": 3,
@@ -2339,7 +2339,7 @@
     "ID": 28589,
     "Creates": 22854,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Fel Lotus": 1,
       "Mana Thistle": 3,
@@ -2355,7 +2355,7 @@
     "ID": 28590,
     "Creates": 22861,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Fel Lotus": 1,
       "Mana Thistle": 3,
@@ -2371,7 +2371,7 @@
     "ID": 28591,
     "Creates": 22866,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Fel Lotus": 1,
       "Mana Thistle": 3,
@@ -2387,7 +2387,7 @@
     "ID": 29688,
     "Creates": 23571,
     "Learn": 350,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Primal Earth": 1,
       "Primal Water": 1,
@@ -2405,7 +2405,7 @@
     "ID": 32765,
     "Creates": 25867,
     "Learn": 350,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Deep Peridot": 3,
       "Shadow Draenite": 3,
@@ -2423,7 +2423,7 @@
     "ID": 32766,
     "Creates": 25868,
     "Learn": 350,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Blood Garnet": 3,
       "Flame Spessarite": 3,
@@ -2441,7 +2441,7 @@
     "ID": 33732,
     "Creates": 28100,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Golden Sansam": 1,
       "Felweed": 1,
@@ -2456,7 +2456,7 @@
     "ID": 33733,
     "Creates": 28101,
     "Learn": 310,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Ragveil": 2,
       "Felweed": 1,
@@ -2471,7 +2471,7 @@
     "ID": 33738,
     "Creates": 28102,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Mountain Silversage": 1,
       "Felweed": 1,
@@ -2486,7 +2486,7 @@
     "ID": 33740,
     "Creates": 28103,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Dreamfoil": 1,
       "Felweed": 1,
@@ -2501,7 +2501,7 @@
     "ID": 33741,
     "Creates": 28104,
     "Learn": 315,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Terocone": 1,
       "Felweed": 1,
@@ -2516,7 +2516,7 @@
     "ID": 38070,
     "Creates": 31080,
     "Learn": 325,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Primal Earth": 1,
       "Primal Life": 1,
@@ -2531,7 +2531,7 @@
     "ID": 38960,
     "Creates": 31679,
     "Learn": 335,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Terocone": 1,
       "Nightmare Vine": 2,
@@ -2547,7 +2547,7 @@
     "ID": 38961,
     "Creates": 31677,
     "Learn": 360,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Mana Thistle": 1,
       "Nightmare Vine": 2,
@@ -2563,7 +2563,7 @@
     "ID": 38962,
     "Creates": 31676,
     "Learn": 345,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Felweed": 2,
       "Nightmare Vine": 3,
@@ -2579,7 +2579,7 @@
     "ID": 39636,
     "Creates": 32062,
     "Learn": 310,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Ragveil": 2,
       "Felweed": 1,
@@ -2594,7 +2594,7 @@
     "ID": 39637,
     "Creates": 32063,
     "Learn": 320,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Dreaming Glory": 1,
       "Ragveil": 2,
@@ -2610,7 +2610,7 @@
     "ID": 39638,
     "Creates": 32067,
     "Learn": 320,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Felweed": 1,
       "Terocone": 1,
@@ -2625,7 +2625,7 @@
     "ID": 39639,
     "Creates": 32068,
     "Learn": 330,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Ancient Lichen": 1,
       "Ragveil": 1,
@@ -2641,7 +2641,7 @@
     "ID": 41458,
     "Creates": 32839,
     "Learn": 360,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Primal Mana": 2,
       "Mana Thistle": 7,
@@ -2656,7 +2656,7 @@
     "ID": 41500,
     "Creates": 32849,
     "Learn": 360,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Primal Fire": 2,
       "Mana Thistle": 7,
@@ -2671,7 +2671,7 @@
     "ID": 41501,
     "Creates": 32850,
     "Learn": 360,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Primal Water": 2,
       "Mana Thistle": 7,
@@ -2686,7 +2686,7 @@
     "ID": 41502,
     "Creates": 32851,
     "Learn": 360,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Primal Life": 2,
       "Mana Thistle": 7,
@@ -2701,7 +2701,7 @@
     "ID": 41503,
     "Creates": 32852,
     "Learn": 360,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Primal Shadow": 2,
       "Mana Thistle": 7,
@@ -2716,7 +2716,7 @@
     "ID": 42736,
     "Creates": 33208,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Dreaming Glory": 7,
       "Netherbloom": 3,
@@ -2733,7 +2733,7 @@
     "ID": 45061,
     "Creates": 34440,
     "Learn": 325,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Crystal Vial": 1,
       "Ragveil": 2
@@ -2748,7 +2748,7 @@
     "ID": 47046,
     "Creates": 35748,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Alchemist's Stone": 1,
       "Primal Air": 6,
@@ -2764,7 +2764,7 @@
     "ID": 47048,
     "Creates": 35749,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Alchemist's Stone": 1,
       "Primal Fire": 6,
@@ -2780,7 +2780,7 @@
     "ID": 47049,
     "Creates": 35750,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Alchemist's Stone": 1,
       "Primal Life": 6,
@@ -2796,7 +2796,7 @@
     "ID": 47050,
     "Creates": 35751,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Alchemist's Stone": 1,
       "Primal Shadow": 6,
@@ -2968,7 +2968,7 @@
     "ID": 53812,
     "Creates": 40195,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Pygmy Suckerfish": 1
     },
@@ -3011,7 +3011,7 @@
     "ID": 53838,
     "Creates": 39671,
     "Learn": 350,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Goldclover": 2,
       "Imbued Vial": 1
@@ -3025,7 +3025,7 @@
     "ID": 53839,
     "Creates": 40067,
     "Learn": 360,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Talandra's Rose": 2,
       "Imbued Vial": 1
@@ -3054,7 +3054,7 @@
     "ID": 53841,
     "Creates": 40068,
     "Learn": 355,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Goldclover": 1,
       "Deadnettle": 2,
@@ -3069,7 +3069,7 @@
     "ID": 53842,
     "Creates": 40070,
     "Learn": 365,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Goldclover": 1,
       "Tiger Lily": 1,
@@ -3098,7 +3098,7 @@
     "ID": 53848,
     "Creates": 40076,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Pygmy Oil": 3,
       "Imbued Vial": 1
@@ -3140,7 +3140,7 @@
     "ID": 53899,
     "Creates": 40079,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Deadnettle": 4,
       "Goldclover": 1,
@@ -3661,7 +3661,7 @@
     "ID": 62409,
     "Creates": 44958,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Glassfin Minnow": 2
     },
@@ -3688,7 +3688,7 @@
     "ID": 63732,
     "Creates": 45621,
     "Learn": 135,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Fire Oil": 1,
       "Bruiseweed": 1,

@@ -3,7 +3,7 @@
     "ID": 2657,
     "Creates": 2840,
     "Learn": 25,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Copper Ore": 1
     },
@@ -16,7 +16,7 @@
     "ID": 2658,
     "Creates": 2842,
     "Learn": 75,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Silver Ore": 1
     },
@@ -29,7 +29,7 @@
     "ID": 2659,
     "Creates": 2841,
     "Learn": 65,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Copper Bar": 1,
       "Tin Bar": 1
@@ -43,7 +43,7 @@
     "ID": 3304,
     "Creates": 3576,
     "Learn": 65,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Tin Ore": 1
     },
@@ -56,7 +56,7 @@
     "ID": 3307,
     "Creates": 3575,
     "Learn": 125,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Iron Ore": 1
     },
@@ -69,7 +69,7 @@
     "ID": 3308,
     "Creates": 3577,
     "Learn": 155,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Gold Ore": 1
     },
@@ -82,7 +82,7 @@
     "ID": 3569,
     "Creates": 3859,
     "Learn": 165,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Iron Bar": 1,
       "Coal": 1
@@ -96,7 +96,7 @@
     "ID": 10097,
     "Creates": 3860,
     "Learn": 175,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Mithril Ore": 1
     },
@@ -109,7 +109,7 @@
     "ID": 10098,
     "Creates": 6037,
     "Learn": 230,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Truesilver Ore": 1
     },
@@ -122,7 +122,7 @@
     "ID": 14891,
     "Creates": 11371,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Dark Iron Ore": 8
     },
@@ -135,7 +135,7 @@
     "ID": 16153,
     "Creates": 12359,
     "Learn": 230,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Thorium Ore": 1
     },
@@ -148,7 +148,7 @@
     "ID": 22967,
     "Creates": 17771,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Elementium Ore": 1,
       "Arcanite Bar": 10,
@@ -164,7 +164,7 @@
     "ID": 29356,
     "Creates": 23445,
     "Learn": 275,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Fel Iron Ore": 2
     },
@@ -177,7 +177,7 @@
     "ID": 29358,
     "Creates": 23446,
     "Learn": 325,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Adamantite Ore": 2
     },
@@ -190,7 +190,7 @@
     "ID": 29359,
     "Creates": 23447,
     "Learn": 350,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Eternium Ore": 2
     },
@@ -203,7 +203,7 @@
     "ID": 29360,
     "Creates": 23448,
     "Learn": 350,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Fel Iron Bar": 3,
       "Eternium Bar": 2
@@ -217,7 +217,7 @@
     "ID": 29361,
     "Creates": 23449,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Khorium Ore": 2
     },
@@ -230,7 +230,7 @@
     "ID": 29686,
     "Creates": 23573,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Adamantite Bar": 10
     },
@@ -243,7 +243,7 @@
     "ID": 35750,
     "Creates": 22573,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Primal Earth": 1
     },
@@ -256,7 +256,7 @@
     "ID": 35751,
     "Creates": 22574,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Primal Fire": 1
     },
@@ -269,7 +269,7 @@
     "ID": 46353,
     "Creates": 35128,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Khorium Bar": 3,
       "Hardened Adamantite Bar": 1
@@ -283,7 +283,7 @@
     "ID": 49252,
     "Creates": 36916,
     "Learn": 350,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Cobalt Ore": 1
     },
@@ -348,7 +348,7 @@
     "ID": 70524,
     "Creates": 12655,
     "Learn": 250,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Thorium Bar": 1,
       "Dream Dust": 3

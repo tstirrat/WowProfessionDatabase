@@ -3,7 +3,7 @@
     "ID": 3918,
     "Creates": 4357,
     "Learn": 1,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Rough Stone": 1
     },
@@ -16,7 +16,7 @@
     "ID": 3919,
     "Creates": 4358,
     "Learn": 1,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Rough Blasting Powder": 2,
       "Linen Cloth": 1
@@ -30,7 +30,7 @@
     "ID": 3920,
     "Creates": 8067,
     "Learn": 30,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Rough Blasting Powder": 1,
       "Copper Bar": 1
@@ -44,7 +44,7 @@
     "ID": 3922,
     "Creates": 4359,
     "Learn": 30,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Copper Bar": 1
     },
@@ -57,7 +57,7 @@
     "ID": 3923,
     "Creates": 4360,
     "Learn": 30,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Copper Bar": 1,
       "Handful of Copper Bolts": 1,
@@ -73,7 +73,7 @@
     "ID": 3924,
     "Creates": 4361,
     "Learn": 50,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Copper Bar": 2,
       "Weak Flux": 1
@@ -87,7 +87,7 @@
     "ID": 3925,
     "Creates": 4362,
     "Learn": 50,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Copper Tube": 1,
       "Handful of Copper Bolts": 1,
@@ -102,7 +102,7 @@
     "ID": 3926,
     "Creates": 4363,
     "Learn": 65,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Handful of Copper Bolts": 2,
       "Copper Bar": 1,
@@ -117,7 +117,7 @@
     "ID": 3928,
     "Creates": 4401,
     "Learn": 75,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Copper Modulator": 1,
       "Handful of Copper Bolts": 1,
@@ -134,7 +134,7 @@
     "ID": 3929,
     "Creates": 4364,
     "Learn": 75,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Coarse Stone": 1
     },
@@ -147,7 +147,7 @@
     "ID": 3930,
     "Creates": 8068,
     "Learn": 75,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Coarse Blasting Powder": 1,
       "Copper Bar": 1
@@ -161,7 +161,7 @@
     "ID": 3931,
     "Creates": 4365,
     "Learn": 75,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Coarse Blasting Powder": 3,
       "Linen Cloth": 1
@@ -175,7 +175,7 @@
     "ID": 3932,
     "Creates": 4366,
     "Learn": 85,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Copper Modulator": 1,
       "Handful of Copper Bolts": 2,
@@ -191,7 +191,7 @@
     "ID": 3933,
     "Creates": 4367,
     "Learn": 100,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Coarse Blasting Powder": 2,
       "Copper Modulator": 1,
@@ -208,7 +208,7 @@
     "ID": 3934,
     "Creates": 4368,
     "Learn": 100,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Light Leather": 6,
       "Tigerseye": 2
@@ -222,7 +222,7 @@
     "ID": 3936,
     "Creates": 4369,
     "Learn": 105,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Copper Tube": 2,
       "Handful of Copper Bolts": 4,
@@ -238,7 +238,7 @@
     "ID": 3937,
     "Creates": 4370,
     "Learn": 105,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Copper Bar": 3,
       "Coarse Blasting Powder": 4,
@@ -253,7 +253,7 @@
     "ID": 3938,
     "Creates": 4371,
     "Learn": 105,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Bronze Bar": 2,
       "Weak Flux": 1
@@ -267,7 +267,7 @@
     "ID": 3939,
     "Creates": 4372,
     "Learn": 120,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Bronze Tube": 2,
       "Handful of Copper Bolts": 2,
@@ -284,7 +284,7 @@
     "ID": 3940,
     "Creates": 4373,
     "Learn": 120,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Medium Leather": 4,
       "Shadowgem": 2
@@ -299,7 +299,7 @@
     "ID": 3941,
     "Creates": 4374,
     "Learn": 120,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Coarse Blasting Powder": 4,
       "Bronze Bar": 2,
@@ -315,7 +315,7 @@
     "ID": 3942,
     "Creates": 4375,
     "Learn": 125,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Bronze Bar": 2,
       "Wool Cloth": 1
@@ -329,7 +329,7 @@
     "ID": 3944,
     "Creates": 4376,
     "Learn": 125,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Whirring Bronze Gizmo": 1,
       "Small Flame Sac": 1
@@ -344,7 +344,7 @@
     "ID": 3945,
     "Creates": 4377,
     "Learn": 125,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Stone": 1
     },
@@ -357,7 +357,7 @@
     "ID": 3946,
     "Creates": 4378,
     "Learn": 125,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Blasting Powder": 2,
       "Wool Cloth": 1
@@ -371,7 +371,7 @@
     "ID": 3947,
     "Creates": 8069,
     "Learn": 125,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Blasting Powder": 1,
       "Bronze Bar": 1
@@ -385,7 +385,7 @@
     "ID": 3949,
     "Creates": 4379,
     "Learn": 130,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Bronze Tube": 2,
       "Whirring Bronze Gizmo": 2,
@@ -401,7 +401,7 @@
     "ID": 3950,
     "Creates": 4380,
     "Learn": 140,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Blasting Powder": 2,
       "Bronze Bar": 3,
@@ -416,7 +416,7 @@
     "ID": 3952,
     "Creates": 4381,
     "Learn": 140,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Bronze Tube": 1,
       "Whirring Bronze Gizmo": 2,
@@ -433,7 +433,7 @@
     "ID": 3953,
     "Creates": 4382,
     "Learn": 145,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Bronze Bar": 2,
       "Medium Leather": 1,
@@ -448,7 +448,7 @@
     "ID": 3954,
     "Creates": 4383,
     "Learn": 145,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Bronze Tube": 3,
       "Whirring Bronze Gizmo": 3,
@@ -465,7 +465,7 @@
     "ID": 3955,
     "Creates": 4384,
     "Learn": 150,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Bronze Framework": 1,
       "Whirring Bronze Gizmo": 1,
@@ -481,7 +481,7 @@
     "ID": 3956,
     "Creates": 4385,
     "Learn": 150,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Medium Leather": 4,
       "Moss Agate": 2,
@@ -496,7 +496,7 @@
     "ID": 3957,
     "Creates": 4386,
     "Learn": 155,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Whirring Bronze Gizmo": 1,
       "Frost Oil": 1
@@ -511,7 +511,7 @@
     "ID": 3958,
     "Creates": 4387,
     "Learn": 160,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Iron Bar": 2
     },
@@ -524,7 +524,7 @@
     "ID": 3959,
     "Creates": 4388,
     "Learn": 160,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Whirring Bronze Gizmo": 3,
       "Silk Cloth": 2,
@@ -541,7 +541,7 @@
     "ID": 3960,
     "Creates": 4403,
     "Learn": 165,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Bronze Tube": 4,
       "Iron Strut": 1,
@@ -558,7 +558,7 @@
     "ID": 3961,
     "Creates": 4389,
     "Learn": 170,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Iron Bar": 1,
       "Gold Power Core": 1
@@ -572,7 +572,7 @@
     "ID": 3962,
     "Creates": 4390,
     "Learn": 175,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Iron Bar": 1,
       "Heavy Blasting Powder": 1,
@@ -587,7 +587,7 @@
     "ID": 3963,
     "Creates": 4391,
     "Learn": 175,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Iron Strut": 2,
       "Bronze Framework": 1,
@@ -603,7 +603,7 @@
     "ID": 3965,
     "Creates": 4392,
     "Learn": 185,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Iron Strut": 1,
       "Bronze Framework": 1,
@@ -619,7 +619,7 @@
     "ID": 3966,
     "Creates": 4393,
     "Learn": 185,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Leather": 6,
       "Citrine": 2
@@ -634,7 +634,7 @@
     "ID": 3967,
     "Creates": 4394,
     "Learn": 190,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Iron Bar": 3,
       "Heavy Blasting Powder": 3,
@@ -649,7 +649,7 @@
     "ID": 3968,
     "Creates": 4395,
     "Learn": 195,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Blasting Powder": 3,
       "Iron Bar": 2,
@@ -665,7 +665,7 @@
     "ID": 3969,
     "Creates": 4396,
     "Learn": 200,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Bronze Framework": 1,
       "Iron Strut": 2,
@@ -682,7 +682,7 @@
     "ID": 3971,
     "Creates": 4397,
     "Learn": 200,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Gyrochronatom": 4,
       "Jade": 2,
@@ -700,7 +700,7 @@
     "ID": 3972,
     "Creates": 4398,
     "Learn": 200,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Solid Blasting Powder": 2,
       "Heavy Leather": 2,
@@ -716,7 +716,7 @@
     "ID": 3973,
     "Creates": 4404,
     "Learn": 90,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Silver Bar": 1
     },
@@ -729,7 +729,7 @@
     "ID": 3977,
     "Creates": 4405,
     "Learn": 60,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Copper Tube": 1,
       "Malachite": 1,
@@ -744,7 +744,7 @@
     "ID": 3978,
     "Creates": 4406,
     "Learn": 110,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Bronze Tube": 1,
       "Moss Agate": 1
@@ -758,7 +758,7 @@
     "ID": 3979,
     "Creates": 4407,
     "Learn": 180,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Bronze Tube": 1,
       "Jade": 1,
@@ -774,7 +774,7 @@
     "ID": 6458,
     "Creates": 5507,
     "Learn": 135,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Bronze Tube": 2,
       "Whirring Bronze Gizmo": 2,
@@ -790,7 +790,7 @@
     "ID": 7430,
     "Creates": 6219,
     "Learn": 50,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Copper Bar": 6
     },
@@ -803,7 +803,7 @@
     "ID": 8243,
     "Creates": 4852,
     "Learn": 185,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Blue Pearl": 1,
       "Heavy Blasting Powder": 1,
@@ -819,7 +819,7 @@
     "ID": 8334,
     "Creates": 6712,
     "Learn": 100,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Bronze Bar": 1,
       "Handful of Copper Bolts": 2,
@@ -834,7 +834,7 @@
     "ID": 8339,
     "Creates": 6714,
     "Learn": 100,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Coarse Blasting Powder": 4,
       "Wool Cloth": 1
@@ -849,7 +849,7 @@
     "ID": 8895,
     "Creates": 7189,
     "Learn": 225,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Black Mageweave Boots": 1,
       "Mithril Tube": 2,
@@ -867,7 +867,7 @@
     "ID": 9269,
     "Creates": 7506,
     "Learn": 125,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Bronze Bar": 6,
       "Whirring Bronze Gizmo": 1,
@@ -885,7 +885,7 @@
     "ID": 9271,
     "Creates": 6533,
     "Learn": 150,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Bronze Bar": 2,
       "Nightcrawlers": 1,
@@ -900,7 +900,7 @@
     "ID": 9273,
     "Creates": 7148,
     "Learn": 165,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Iron Bar": 6,
       "Whirring Bronze Gizmo": 2,
@@ -919,7 +919,7 @@
     "ID": 12584,
     "Creates": 10558,
     "Learn": 150,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Gold Bar": 1
     },
@@ -932,7 +932,7 @@
     "ID": 12585,
     "Creates": 10505,
     "Learn": 175,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Solid Stone": 2
     },
@@ -945,7 +945,7 @@
     "ID": 12586,
     "Creates": 10507,
     "Learn": 175,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Solid Blasting Powder": 1,
       "Silk Cloth": 1
@@ -959,7 +959,7 @@
     "ID": 12587,
     "Creates": 10499,
     "Learn": 175,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Leather": 6,
       "Citrine": 2
@@ -974,7 +974,7 @@
     "ID": 12589,
     "Creates": 10559,
     "Learn": 195,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Mithril Bar": 3
     },
@@ -987,7 +987,7 @@
     "ID": 12590,
     "Creates": 10498,
     "Learn": 175,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Steel Bar": 4
     },
@@ -1000,7 +1000,7 @@
     "ID": 12591,
     "Creates": 10560,
     "Learn": 200,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Mithril Bar": 1,
       "Mageweave Cloth": 1,
@@ -1015,7 +1015,7 @@
     "ID": 12594,
     "Creates": 10500,
     "Learn": 205,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Green Tinted Goggles": 1,
       "Citrine": 2,
@@ -1031,7 +1031,7 @@
     "ID": 12595,
     "Creates": 10508,
     "Learn": 205,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Mithril Tube": 1,
       "Unstable Trigger": 1,
@@ -1048,7 +1048,7 @@
     "ID": 12596,
     "Creates": 10512,
     "Learn": 210,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Mithril Bar": 1,
       "Solid Blasting Powder": 1
@@ -1062,7 +1062,7 @@
     "ID": 12597,
     "Creates": 10546,
     "Learn": 210,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Mithril Tube": 1,
       "Aquamarine": 2,
@@ -1078,7 +1078,7 @@
     "ID": 12599,
     "Creates": 10561,
     "Learn": 215,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Mithril Bar": 3
     },
@@ -1091,7 +1091,7 @@
     "ID": 12603,
     "Creates": 10514,
     "Learn": 215,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Mithril Casing": 1,
       "Unstable Trigger": 1,
@@ -1106,7 +1106,7 @@
     "ID": 12607,
     "Creates": 10501,
     "Learn": 220,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Thick Leather": 4,
       "Aquamarine": 2,
@@ -1122,7 +1122,7 @@
     "ID": 12614,
     "Creates": 10510,
     "Learn": 220,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Mithril Tube": 2,
       "Unstable Trigger": 1,
@@ -1140,7 +1140,7 @@
     "ID": 12615,
     "Creates": 10502,
     "Learn": 225,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Thick Leather": 4,
       "Star Ruby": 2
@@ -1155,7 +1155,7 @@
     "ID": 12616,
     "Creates": 10518,
     "Learn": 225,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Bolt of Mageweave": 4,
       "Shadow Silk": 2,
@@ -1172,7 +1172,7 @@
     "ID": 12617,
     "Creates": 10506,
     "Learn": 230,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Mithril Bar": 8,
       "Mithril Casing": 1,
@@ -1190,7 +1190,7 @@
     "ID": 12618,
     "Creates": 10503,
     "Learn": 230,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Thick Leather": 6,
       "Star Ruby": 2
@@ -1204,7 +1204,7 @@
     "ID": 12619,
     "Creates": 10562,
     "Learn": 235,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Mithril Casing": 2,
       "Unstable Trigger": 1,
@@ -1219,7 +1219,7 @@
     "ID": 12620,
     "Creates": 10548,
     "Learn": 240,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Mithril Tube": 1,
       "Star Ruby": 1,
@@ -1235,7 +1235,7 @@
     "ID": 12621,
     "Creates": 10513,
     "Learn": 245,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Mithril Bar": 2,
       "Solid Blasting Powder": 2
@@ -1249,7 +1249,7 @@
     "ID": 12622,
     "Creates": 10504,
     "Learn": 245,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Thick Leather": 8,
       "Jade": 3,
@@ -1266,7 +1266,7 @@
     "ID": 12624,
     "Creates": 10576,
     "Learn": 250,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Mithril Bar": 4,
       "Heart of Fire": 2,
@@ -1283,7 +1283,7 @@
     "ID": 12715,
     "Creates": 10644,
     "Learn": 205,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Common Parchment": 1,
       "Engineer's Ink": 1
@@ -1297,7 +1297,7 @@
     "ID": 12716,
     "Creates": 10577,
     "Learn": 205,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Mithril Tube": 2,
       "Mithril Bar": 4,
@@ -1314,7 +1314,7 @@
     "ID": 12717,
     "Creates": 10542,
     "Learn": 205,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Mithril Bar": 8,
       "Citrine": 1,
@@ -1329,7 +1329,7 @@
     "ID": 12718,
     "Creates": 10543,
     "Learn": 205,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Mithril Bar": 8,
       "Citrine": 1,
@@ -1344,7 +1344,7 @@
     "ID": 12754,
     "Creates": 10586,
     "Learn": 235,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Mithril Casing": 1,
       "Goblin Rocket Fuel": 1,
@@ -1360,7 +1360,7 @@
     "ID": 12755,
     "Creates": 10587,
     "Learn": 230,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Mithril Casing": 2,
       "Solid Blasting Powder": 4,
@@ -1377,7 +1377,7 @@
     "ID": 12758,
     "Creates": 10588,
     "Learn": 245,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Goblin Construction Helmet": 1,
       "Goblin Rocket Fuel": 4,
@@ -1393,7 +1393,7 @@
     "ID": 12759,
     "Creates": 10645,
     "Learn": 240,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Mithril Tube": 2,
       "Unstable Trigger": 1,
@@ -1410,7 +1410,7 @@
     "ID": 12760,
     "Creates": 10646,
     "Learn": 205,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Mageweave Cloth": 1,
       "Solid Blasting Powder": 3,
@@ -1425,7 +1425,7 @@
     "ID": 12895,
     "Creates": 10713,
     "Learn": 205,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Common Parchment": 1,
       "Engineer's Ink": 1
@@ -1439,7 +1439,7 @@
     "ID": 12897,
     "Creates": 10545,
     "Learn": 210,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Fire Goggles": 1,
       "Mithril Tube": 1,
@@ -1456,7 +1456,7 @@
     "ID": 12899,
     "Creates": 10716,
     "Learn": 205,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Mithril Tube": 1,
       "Unstable Trigger": 1,
@@ -1473,7 +1473,7 @@
     "ID": 12902,
     "Creates": 10720,
     "Learn": 210,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Mithril Tube": 1,
       "Shadow Silk": 2,
@@ -1490,7 +1490,7 @@
     "ID": 12903,
     "Creates": 10721,
     "Learn": 215,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Dusky Belt": 1,
       "Mithril Bar": 4,
@@ -1507,7 +1507,7 @@
     "ID": 12905,
     "Creates": 10724,
     "Learn": 225,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Black Mageweave Boots": 1,
       "Mithril Tube": 2,
@@ -1524,7 +1524,7 @@
     "ID": 12906,
     "Creates": 10725,
     "Learn": 230,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Mithril Casing": 1,
       "Truesilver Bar": 6,
@@ -1542,7 +1542,7 @@
     "ID": 12907,
     "Creates": 10726,
     "Learn": 235,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Mithril Bar": 10,
       "Truesilver Bar": 4,
@@ -1559,7 +1559,7 @@
     "ID": 12908,
     "Creates": 10727,
     "Learn": 240,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Mithril Tube": 2,
       "Goblin Rocket Fuel": 4,
@@ -1576,7 +1576,7 @@
     "ID": 13240,
     "Creates": 10577,
     "Learn": 205,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Goblin Mortar": 1,
       "Mithril Bar": 1,
@@ -1591,7 +1591,7 @@
     "ID": 15255,
     "Creates": 11590,
     "Learn": 200,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Mithril Bar": 1,
       "Mageweave Cloth": 1,
@@ -1606,7 +1606,7 @@
     "ID": 15628,
     "Creates": 11825,
     "Learn": 205,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Big Iron Bomb": 1,
       "Heart of Fire": 1,
@@ -1623,7 +1623,7 @@
     "ID": 15633,
     "Creates": 11826,
     "Learn": 205,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Core of Earth": 1,
       "Gyrochronatom": 2,
@@ -1641,7 +1641,7 @@
     "ID": 19567,
     "Creates": 15846,
     "Learn": 250,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Mithril Casing": 1,
       "Thorium Bar": 6,
@@ -1656,7 +1656,7 @@
     "ID": 19788,
     "Creates": 15992,
     "Learn": 250,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Dense Stone": 2
     },
@@ -1669,7 +1669,7 @@
     "ID": 19790,
     "Creates": 15993,
     "Learn": 260,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Thorium Widget": 1,
       "Thorium Bar": 3,
@@ -1686,7 +1686,7 @@
     "ID": 19791,
     "Creates": 15994,
     "Learn": 260,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Thorium Bar": 3,
       "Runecloth": 1
@@ -1701,7 +1701,7 @@
     "ID": 19792,
     "Creates": 15995,
     "Learn": 260,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Mithril Tube": 2,
       "Mithril Casing": 2,
@@ -1719,7 +1719,7 @@
     "ID": 19793,
     "Creates": 15996,
     "Learn": 265,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Living Essence": 1,
       "Thorium Widget": 4,
@@ -1736,7 +1736,7 @@
     "ID": 19794,
     "Creates": 15999,
     "Learn": 270,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Spellpower Goggles Xtreme": 1,
       "Star Ruby": 4,
@@ -1753,7 +1753,7 @@
     "ID": 19795,
     "Creates": 16000,
     "Learn": 275,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Thorium Bar": 6
     },
@@ -1767,7 +1767,7 @@
     "ID": 19796,
     "Creates": 16004,
     "Learn": 275,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Thorium Tube": 2,
       "Dark Iron Bar": 6,
@@ -1786,7 +1786,7 @@
     "ID": 19799,
     "Creates": 16005,
     "Learn": 285,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Thorium Widget": 2,
       "Dark Iron Bar": 1,
@@ -1803,7 +1803,7 @@
     "ID": 19800,
     "Creates": 15997,
     "Learn": 285,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Thorium Bar": 2,
       "Dense Blasting Powder": 1
@@ -1818,7 +1818,7 @@
     "ID": 19814,
     "Creates": 16023,
     "Learn": 275,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Mithril Casing": 1,
       "Thorium Tube": 1,
@@ -1837,7 +1837,7 @@
     "ID": 19815,
     "Creates": 16006,
     "Learn": 285,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Arcanite Bar": 1,
       "Ironweb Spider Silk": 1
@@ -1852,7 +1852,7 @@
     "ID": 19819,
     "Creates": 16009,
     "Learn": 290,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Delicate Arcanite Converter": 2,
       "Gold Power Core": 1,
@@ -1869,7 +1869,7 @@
     "ID": 19825,
     "Creates": 16008,
     "Learn": 290,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Fire Goggles": 1,
       "Huge Emerald": 2,
@@ -1885,7 +1885,7 @@
     "ID": 19830,
     "Creates": 16022,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Mithril Mechanical Dragonling": 1,
       "Delicate Arcanite Converter": 4
@@ -1900,7 +1900,7 @@
     "ID": 19831,
     "Creates": 16040,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Delicate Arcanite Converter": 1,
       "Thorium Bar": 3,
@@ -1916,7 +1916,7 @@
     "ID": 19833,
     "Creates": 16007,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Arcanite Bar": 10,
       "Thorium Tube": 2,
@@ -1935,7 +1935,7 @@
     "ID": 21940,
     "Creates": 17716,
     "Learn": 190,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Mithril Bar": 8,
       "Gyrochronatom": 4,
@@ -1952,7 +1952,7 @@
     "ID": 22704,
     "Creates": 18232,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Thorium Bar": 16,
       "Fused Wiring": 2
@@ -1967,7 +1967,7 @@
     "ID": 22793,
     "Creates": 18283,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Lava Core": 2,
       "Essence of Earth": 2,
@@ -1985,7 +1985,7 @@
     "ID": 22795,
     "Creates": 18282,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Fiery Core": 4,
       "Lava Core": 2,
@@ -2003,7 +2003,7 @@
     "ID": 22797,
     "Creates": 18168,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Arcanite Bar": 6,
       "Delicate Arcanite Converter": 2,
@@ -2021,7 +2021,7 @@
     "ID": 23066,
     "Creates": 9318,
     "Learn": 150,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Blasting Powder": 1,
       "Heavy Leather": 1
@@ -2036,7 +2036,7 @@
     "ID": 23067,
     "Creates": 9312,
     "Learn": 150,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Blasting Powder": 1,
       "Heavy Leather": 1
@@ -2051,7 +2051,7 @@
     "ID": 23068,
     "Creates": 9313,
     "Learn": 150,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Blasting Powder": 1,
       "Heavy Leather": 1
@@ -2066,7 +2066,7 @@
     "ID": 23069,
     "Creates": 18588,
     "Learn": 200,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Solid Blasting Powder": 1,
       "Mageweave Cloth": 2
@@ -2081,7 +2081,7 @@
     "ID": 23070,
     "Creates": 18641,
     "Learn": 250,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Dense Blasting Powder": 2,
       "Runecloth": 3
@@ -2095,7 +2095,7 @@
     "ID": 23071,
     "Creates": 18631,
     "Learn": 260,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Truesilver Bar": 2,
       "Elemental Earth": 2,
@@ -2111,7 +2111,7 @@
     "ID": 23077,
     "Creates": 18634,
     "Learn": 260,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Thorium Widget": 6,
       "Truesilver Transformer": 2,
@@ -2130,7 +2130,7 @@
     "ID": 23078,
     "Creates": 18587,
     "Learn": 265,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Thorium Widget": 2,
       "Truesilver Transformer": 2,
@@ -2148,7 +2148,7 @@
     "ID": 23079,
     "Creates": 18637,
     "Learn": 275,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Thorium Tube": 2,
       "Truesilver Transformer": 1,
@@ -2164,7 +2164,7 @@
     "ID": 23080,
     "Creates": 18594,
     "Learn": 275,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Thorium Widget": 2,
       "Dense Blasting Powder": 3,
@@ -2181,7 +2181,7 @@
     "ID": 23081,
     "Creates": 18638,
     "Learn": 290,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Dark Iron Bar": 4,
       "Truesilver Transformer": 3,
@@ -2199,7 +2199,7 @@
     "ID": 23082,
     "Creates": 18639,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Dark Iron Bar": 8,
       "Truesilver Transformer": 4,
@@ -2218,7 +2218,7 @@
     "ID": 23096,
     "Creates": 18645,
     "Learn": 265,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Thorium Bar": 4,
       "Fused Wiring": 1
@@ -2233,7 +2233,7 @@
     "ID": 23129,
     "Creates": 18660,
     "Learn": 260,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Mithril Casing": 1,
       "Thorium Widget": 2,
@@ -2251,7 +2251,7 @@
     "ID": 23486,
     "Creates": 18984,
     "Learn": 285,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Mithril Bar": 10,
       "Truesilver Transformer": 1,
@@ -2268,7 +2268,7 @@
     "ID": 23489,
     "Creates": 18986,
     "Learn": 285,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Mithril Bar": 12,
       "Truesilver Transformer": 2,
@@ -2286,7 +2286,7 @@
     "ID": 23507,
     "Creates": 19026,
     "Learn": 250,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Dense Blasting Powder": 2,
       "Runecloth": 2,
@@ -2302,7 +2302,7 @@
     "ID": 24356,
     "Creates": 19999,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Bloodvine": 4,
       "Star Ruby": 2,
@@ -2319,7 +2319,7 @@
     "ID": 24357,
     "Creates": 19998,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Bloodvine": 6,
       "Azerothian Diamond": 1,
@@ -2335,7 +2335,7 @@
     "ID": 26011,
     "Creates": 21277,
     "Learn": 250,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Cured Rugged Hide": 1,
       "Thorium Widget": 4,
@@ -2352,7 +2352,7 @@
     "ID": 26416,
     "Creates": 21558,
     "Learn": 125,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Coarse Blasting Powder": 1,
       "Medium Leather": 1
@@ -2367,7 +2367,7 @@
     "ID": 26417,
     "Creates": 21559,
     "Learn": 125,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Coarse Blasting Powder": 1,
       "Medium Leather": 1
@@ -2382,7 +2382,7 @@
     "ID": 26418,
     "Creates": 21557,
     "Learn": 125,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Coarse Blasting Powder": 1,
       "Medium Leather": 1
@@ -2397,7 +2397,7 @@
     "ID": 26420,
     "Creates": 21589,
     "Learn": 175,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Blasting Powder": 1,
       "Heavy Leather": 1
@@ -2412,7 +2412,7 @@
     "ID": 26421,
     "Creates": 21590,
     "Learn": 175,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Blasting Powder": 1,
       "Heavy Leather": 1
@@ -2427,7 +2427,7 @@
     "ID": 26422,
     "Creates": 21592,
     "Learn": 175,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Blasting Powder": 1,
       "Heavy Leather": 1
@@ -2442,7 +2442,7 @@
     "ID": 26423,
     "Creates": 21571,
     "Learn": 225,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Solid Blasting Powder": 1,
       "Thick Leather": 1
@@ -2457,7 +2457,7 @@
     "ID": 26424,
     "Creates": 21574,
     "Learn": 225,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Solid Blasting Powder": 1,
       "Thick Leather": 1
@@ -2472,7 +2472,7 @@
     "ID": 26425,
     "Creates": 21576,
     "Learn": 225,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Solid Blasting Powder": 1,
       "Thick Leather": 1
@@ -2487,7 +2487,7 @@
     "ID": 26426,
     "Creates": 21714,
     "Learn": 275,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Dense Blasting Powder": 1,
       "Rugged Leather": 1
@@ -2502,7 +2502,7 @@
     "ID": 26427,
     "Creates": 21716,
     "Learn": 275,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Dense Blasting Powder": 1,
       "Rugged Leather": 1
@@ -2517,7 +2517,7 @@
     "ID": 26428,
     "Creates": 21718,
     "Learn": 275,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Dense Blasting Powder": 1,
       "Rugged Leather": 1
@@ -2532,7 +2532,7 @@
     "ID": 26442,
     "Creates": 21569,
     "Learn": 225,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Inlaid Mithril Cylinder": 1,
       "Goblin Rocket Fuel": 1,
@@ -2549,7 +2549,7 @@
     "ID": 26443,
     "Creates": 21570,
     "Learn": 275,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Mithril Casing": 1,
       "Goblin Rocket Fuel": 1
@@ -2564,7 +2564,7 @@
     "ID": 28327,
     "Creates": 22728,
     "Learn": 275,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Mithril Bar": 3,
       "Gold Power Core": 1
@@ -2579,7 +2579,7 @@
     "ID": 30303,
     "Creates": 23781,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Mote of Fire": 1,
       "Mote of Earth": 2
@@ -2593,7 +2593,7 @@
     "ID": 30304,
     "Creates": 23782,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Fel Iron Bar": 3
     },
@@ -2606,7 +2606,7 @@
     "ID": 30305,
     "Creates": 23783,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Fel Iron Bar": 1
     },
@@ -2619,7 +2619,7 @@
     "ID": 30306,
     "Creates": 23784,
     "Learn": 325,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Adamantite Bar": 4,
       "Primal Earth": 1
@@ -2633,7 +2633,7 @@
     "ID": 30307,
     "Creates": 23785,
     "Learn": 340,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Hardened Adamantite Bar": 3
     },
@@ -2646,7 +2646,7 @@
     "ID": 30308,
     "Creates": 23786,
     "Learn": 340,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Khorium Bar": 3,
       "Primal Fire": 1
@@ -2660,7 +2660,7 @@
     "ID": 30309,
     "Creates": 23787,
     "Learn": 340,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Felsteel Bar": 2
     },
@@ -2673,7 +2673,7 @@
     "ID": 30310,
     "Creates": 23736,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Fel Iron Casing": 1,
       "Handful of Fel Iron Bolts": 2,
@@ -2688,7 +2688,7 @@
     "ID": 30311,
     "Creates": 23737,
     "Learn": 325,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Adamantite Bar": 4,
       "Handful of Fel Iron Bolts": 2,
@@ -2703,7 +2703,7 @@
     "ID": 30312,
     "Creates": 23742,
     "Learn": 320,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Stock": 1,
       "Fel Iron Casing": 3,
@@ -2718,7 +2718,7 @@
     "ID": 30313,
     "Creates": 23746,
     "Learn": 350,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Fel Iron Casing": 3,
       "Adamantite Frame": 2,
@@ -2734,7 +2734,7 @@
     "ID": 30314,
     "Creates": 23747,
     "Learn": 360,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Hardened Adamantite Tube": 1,
       "Felsteel Stabilizer": 4,
@@ -2750,7 +2750,7 @@
     "ID": 30315,
     "Creates": 23748,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Hardened Adamantite Tube": 2,
       "Khorium Bar": 12,
@@ -2767,7 +2767,7 @@
     "ID": 30316,
     "Creates": 23758,
     "Learn": 340,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 4,
       "Blood Garnet": 2,
@@ -2783,7 +2783,7 @@
     "ID": 30317,
     "Creates": 23761,
     "Learn": 340,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 4,
       "Flame Spessarite": 2,
@@ -2799,7 +2799,7 @@
     "ID": 30318,
     "Creates": 23762,
     "Learn": 350,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 4,
       "Khorium Bar": 2,
@@ -2816,7 +2816,7 @@
     "ID": 30325,
     "Creates": 23763,
     "Learn": 360,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 4,
       "Khorium Bar": 2,
@@ -2833,7 +2833,7 @@
     "ID": 30329,
     "Creates": 23764,
     "Learn": 335,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Adamantite Bar": 8,
       "Golden Draenite": 2
@@ -2848,7 +2848,7 @@
     "ID": 30332,
     "Creates": 23765,
     "Learn": 360,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Hardened Adamantite Tube": 1,
       "Khorium Bar": 4,
@@ -2864,7 +2864,7 @@
     "ID": 30334,
     "Creates": 23766,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Hardened Adamantite Tube": 2,
       "Felsteel Stabilizer": 6,
@@ -2880,7 +2880,7 @@
     "ID": 30337,
     "Creates": 23767,
     "Learn": 325,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Adamantite Frame": 1,
       "Fel Iron Casing": 2,
@@ -2897,7 +2897,7 @@
     "ID": 30341,
     "Creates": 23768,
     "Learn": 335,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Elemental Blasting Powder": 1,
       "Netherweave Cloth": 1
@@ -2912,7 +2912,7 @@
     "ID": 30344,
     "Creates": 23771,
     "Learn": 335,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Elemental Blasting Powder": 1,
       "Netherweave Cloth": 1,
@@ -2928,7 +2928,7 @@
     "ID": 30346,
     "Creates": 23772,
     "Learn": 310,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Fel Iron Bar": 2,
       "Elemental Blasting Powder": 1
@@ -2942,7 +2942,7 @@
     "ID": 30347,
     "Creates": 34504,
     "Learn": 335,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Adamantite Bar": 1,
       "Elemental Blasting Powder": 2,
@@ -2958,7 +2958,7 @@
     "ID": 30348,
     "Creates": 23774,
     "Learn": 325,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Fel Iron Casing": 1,
       "Fel Iron Bar": 5,
@@ -2990,7 +2990,7 @@
     "ID": 30547,
     "Creates": 23819,
     "Learn": 350,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Elemental Blasting Powder": 2,
       "Fel Iron Casing": 1,
@@ -3006,7 +3006,7 @@
     "ID": 30548,
     "Creates": 23821,
     "Learn": 305,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Fel Iron Casing": 2,
       "Handful of Fel Iron Bolts": 2,
@@ -3023,7 +3023,7 @@
     "ID": 30551,
     "Creates": 33092,
     "Learn": 330,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Fel Iron Casing": 1,
       "Handful of Fel Iron Bolts": 1,
@@ -3040,7 +3040,7 @@
     "ID": 30552,
     "Creates": 33093,
     "Learn": 345,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Fel Iron Casing": 1,
       "Handful of Fel Iron Bolts": 1,
@@ -3057,7 +3057,7 @@
     "ID": 30556,
     "Creates": 23824,
     "Learn": 355,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 8,
       "Khorium Power Core": 2,
@@ -3074,7 +3074,7 @@
     "ID": 30558,
     "Creates": 23826,
     "Learn": 325,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Fel Iron Casing": 3,
       "Elemental Blasting Powder": 6,
@@ -3090,7 +3090,7 @@
     "ID": 30560,
     "Creates": 23827,
     "Learn": 340,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Netherweave Cloth": 4,
       "Elemental Blasting Powder": 4,
@@ -3105,7 +3105,7 @@
     "ID": 30563,
     "Creates": 23836,
     "Learn": 350,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Hardened Adamantite Tube": 2,
       "Khorium Power Core": 1,
@@ -3123,7 +3123,7 @@
     "ID": 30565,
     "Creates": 23838,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Shadowcloth": 4,
       "Primal Mana": 12,
@@ -3138,7 +3138,7 @@
     "ID": 30566,
     "Creates": 23839,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Hardened Adamantite Bar": 8,
       "Primal Earth": 12,
@@ -3153,7 +3153,7 @@
     "ID": 30568,
     "Creates": 23841,
     "Learn": 325,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Adamantite Frame": 1,
       "Handful of Fel Iron Bolts": 2,
@@ -3169,7 +3169,7 @@
     "ID": 30569,
     "Creates": 23835,
     "Learn": 340,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Hardened Adamantite Tube": 2,
       "Khorium Power Core": 2,
@@ -3185,7 +3185,7 @@
     "ID": 30570,
     "Creates": 23825,
     "Learn": 350,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 8,
       "Khorium Power Core": 4,
@@ -3202,7 +3202,7 @@
     "ID": 30574,
     "Creates": 23828,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Spellcloth": 4,
       "Primal Fire": 8,
@@ -3220,7 +3220,7 @@
     "ID": 30575,
     "Creates": 23829,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 8,
       "Primal Shadow": 12,
@@ -3237,7 +3237,7 @@
     "ID": 32814,
     "Creates": 25886,
     "Learn": 335,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Elemental Blasting Powder": 1,
       "Netherweave Cloth": 1,
@@ -3253,7 +3253,7 @@
     "ID": 36954,
     "Creates": 30542,
     "Learn": 350,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Adamantite Frame": 1,
       "Primal Fire": 2,
@@ -3270,7 +3270,7 @@
     "ID": 36955,
     "Creates": 30544,
     "Learn": 350,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Adamantite Frame": 1,
       "Primal Air": 2,
@@ -3287,7 +3287,7 @@
     "ID": 39895,
     "Creates": 7191,
     "Learn": 275,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Delicate Copper Wire": 3,
       "Essence of Fire": 2
@@ -3302,7 +3302,7 @@
     "ID": 39971,
     "Creates": 32423,
     "Learn": 335,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Primal Water": 1,
       "Elemental Blasting Powder": 2,
@@ -3317,7 +3317,7 @@
     "ID": 39973,
     "Creates": 32413,
     "Learn": 335,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Icy Blasting Primers": 1,
       "Fel Iron Casing": 1,
@@ -3332,7 +3332,7 @@
     "ID": 40274,
     "Creates": 32461,
     "Learn": 350,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 6,
       "Khorium Power Core": 1,
@@ -3350,7 +3350,7 @@
     "ID": 41307,
     "Creates": 32756,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Hardened Adamantite Tube": 1,
       "Khorium Bar": 20,
@@ -3368,7 +3368,7 @@
     "ID": 41311,
     "Creates": 32472,
     "Learn": 350,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 6,
       "Khorium Power Core": 1,
@@ -3386,7 +3386,7 @@
     "ID": 41312,
     "Creates": 32473,
     "Learn": 350,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 6,
       "Khorium Power Core": 1,
@@ -3404,7 +3404,7 @@
     "ID": 41314,
     "Creates": 32474,
     "Learn": 350,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 6,
       "Khorium Power Core": 1,
@@ -3422,7 +3422,7 @@
     "ID": 41315,
     "Creates": 32476,
     "Learn": 350,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 6,
       "Khorium Power Core": 1,
@@ -3440,7 +3440,7 @@
     "ID": 41316,
     "Creates": 32475,
     "Learn": 350,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 6,
       "Khorium Power Core": 1,
@@ -3458,7 +3458,7 @@
     "ID": 41317,
     "Creates": 32478,
     "Learn": 350,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 6,
       "Khorium Power Core": 1,
@@ -3476,7 +3476,7 @@
     "ID": 41318,
     "Creates": 32479,
     "Learn": 350,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 6,
       "Khorium Power Core": 1,
@@ -3494,7 +3494,7 @@
     "ID": 41319,
     "Creates": 32480,
     "Learn": 350,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 6,
       "Khorium Power Core": 1,
@@ -3512,7 +3512,7 @@
     "ID": 41320,
     "Creates": 32494,
     "Learn": 350,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 6,
       "Khorium Power Core": 1,
@@ -3530,7 +3530,7 @@
     "ID": 41321,
     "Creates": 32495,
     "Learn": 350,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Heavy Knothide Leather": 6,
       "Khorium Power Core": 1,
@@ -3548,7 +3548,7 @@
     "ID": 43676,
     "Creates": 20475,
     "Learn": 335,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Adamantite Bar": 1,
       "Simple Wood": 4,
@@ -3564,7 +3564,7 @@
     "ID": 44155,
     "Creates": 34060,
     "Learn": 300,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Fel Iron Casing": 2,
       "Elemental Blasting Powder": 20,
@@ -3580,7 +3580,7 @@
     "ID": 44157,
     "Creates": 34061,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Adamantite Frame": 4,
       "Khorium Power Core": 8,
@@ -3596,7 +3596,7 @@
     "ID": 44391,
     "Creates": 34113,
     "Learn": 360,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Adamantite Bar": 8,
       "Handful of Fel Iron Bolts": 8,
@@ -3612,7 +3612,7 @@
     "ID": 46106,
     "Creates": 35183,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Wonderheal XT40 Shades": 1,
       "Primal Water": 4,
@@ -3629,7 +3629,7 @@
     "ID": 46107,
     "Creates": 35185,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Justicebringer 2000 Specs": 1,
       "Primal Life": 8,
@@ -3647,7 +3647,7 @@
     "ID": 46108,
     "Creates": 35181,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Powerheal 4000 Lens": 1,
       "Primal Life": 8,
@@ -3664,7 +3664,7 @@
     "ID": 46109,
     "Creates": 35182,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Magnified Moon Specs": 1,
       "Primal Water": 6,
@@ -3681,7 +3681,7 @@
     "ID": 46110,
     "Creates": 35184,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Living Replicator Specs": 1,
       "Primal Life": 5,
@@ -3699,7 +3699,7 @@
     "ID": 46111,
     "Creates": 34847,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Destruction Holo-gogs": 1,
       "Primal Shadow": 4,
@@ -3717,7 +3717,7 @@
     "ID": 46112,
     "Creates": 34355,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Gadgetstorm Goggles": 1,
       "Primal Might": 2,
@@ -3734,7 +3734,7 @@
     "ID": 46113,
     "Creates": 34356,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Surestrike Goggles v2.0": 1,
       "Primal Air": 12,
@@ -3750,7 +3750,7 @@
     "ID": 46114,
     "Creates": 34354,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Furious Gizmatic Goggles": 1,
       "Primal Fire": 10,
@@ -3766,7 +3766,7 @@
     "ID": 46115,
     "Creates": 34357,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Tankatronic Goggles": 1,
       "Hardened Khorium": 2,
@@ -3783,7 +3783,7 @@
     "ID": 46116,
     "Creates": 34353,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Deathblow X11 Goggles": 1,
       "Primal Shadow": 12,
@@ -3799,7 +3799,7 @@
     "ID": 46697,
     "Creates": 35581,
     "Learn": 355,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Bolt of Netherweave": 8,
       "Khorium Power Core": 2,
@@ -3816,7 +3816,7 @@
     "ID": 53281,
     "Creates": 39690,
     "Learn": 350,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Cobalt Bar": 3,
       "Crystallized Water": 1
@@ -3936,7 +3936,7 @@
     "ID": 56349,
     "Creates": 39681,
     "Learn": 350,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Cobalt Bar": 2
     },
@@ -3949,7 +3949,7 @@
     "ID": 56459,
     "Creates": 40892,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Cobalt Bar": 5
     },
@@ -3962,7 +3962,7 @@
     "ID": 56460,
     "Creates": 40771,
     "Learn": 350,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Handful of Cobalt Bolts": 2,
       "Volatile Blasting Trigger": 1
@@ -3976,7 +3976,7 @@
     "ID": 56461,
     "Creates": 40893,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Cobalt Bar": 5
     },
@@ -4005,7 +4005,7 @@
     "ID": 56463,
     "Creates": 40536,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Frostweave Cloth": 1,
       "Volatile Blasting Trigger": 3
@@ -4019,7 +4019,7 @@
     "ID": 56464,
     "Creates": 39682,
     "Learn": 375,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Cobalt Bar": 4,
       "Crystallized Earth": 1
@@ -4473,7 +4473,7 @@
     "ID": 63750,
     "Creates": 45631,
     "Learn": 250,
-    "Phase": 0,
+    "Phase": 1,
     "Reagents": {
       "Thorium Widget": 4,
       "Truesilver Bar": 6,

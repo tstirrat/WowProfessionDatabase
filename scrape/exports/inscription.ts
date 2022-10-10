@@ -8004,7 +8004,7 @@ var listviewspells = [
     colors: [0, 15, 22, 30],
     creates: [37101, 1, 1],
     id: 52738,
-    learnedat: 15,
+    learnedat: 1,
     level: 0,
     name: "Ivory Ink",
     nskillup: 1,
