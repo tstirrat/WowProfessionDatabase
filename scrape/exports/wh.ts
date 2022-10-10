@@ -1,4 +1,4 @@
-import { WHItemMap } from "../types";
+import { WHItemMap, WHListViewItem } from "../types";
 
 enum Type {
   RECIPES = 3,
@@ -24,8 +24,29 @@ class GathererImpl {
 
 export const Gatherer = new GathererImpl();
 
+interface ListViewParams {
+  readonly template: string;
+  readonly id: string;
+  readonly note: string;
+  readonly extraCols: string[];
+  readonly sort: string[];
+  readonly maxPopularity: number;
+  readonly onAfterCreate: string;
+  readonly visibleCols: string[];
+  readonly hiddenCols: string[];
+  readonly customFilter: string;
+  readonly data: readonly WHListViewItem[];
+}
+
 export class Listview {
-  constructor(config: unknown) {}
+  constructor({ data }: ListViewParams) {
+    for (const item of data) {
+      if (item.sourcemore) {
+        const items = Gatherer.items;
+        items[item.id].sourcemore = item.sourcemore;
+      }
+    }
+  }
 }
 
 export const Page = { Items: { parentItemFilter: "blah" } };

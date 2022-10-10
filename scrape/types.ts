@@ -31,6 +31,32 @@ export interface WHItem {
   };
   readonly attainable: number;
   readonly flags2: number;
+
+  // augmented later with data from listviewitems
+  sourcemore?: readonly SourceMore[];
+}
+
+export interface WHListViewItem {
+  readonly classs: number;
+  readonly flags2: number;
+  readonly id: ItemId;
+  readonly level: number;
+  readonly name: string;
+  readonly quality: number;
+  readonly skill: number;
+  readonly slot: number;
+  readonly subclass: number;
+  readonly firstseenpatch: number;
+  readonly popularity: number;
+  readonly source?: readonly Source[];
+  readonly sourcemore?: readonly SourceMore[];
+}
+
+interface SourceMore {
+  readonly n?: string;
+  readonly t?: number;
+  readonly ti?: number;
+  readonly z?: number;
 }
 
 export interface WHItemWithID extends WHItem {
@@ -48,6 +74,7 @@ export type SourceString =
   | "Quest"
   | "Vendor"
   | "VendorLimited"
+  | "DailyToken"
   | "Seasonal"
   | "Reputation"
   | "Discovery";
@@ -140,15 +167,7 @@ export function toSpell(
   const recipe =
     recipes.get(createdItemName ?? "<none>") ?? recipes.get(s.name);
 
-  const wowheadSource = toSourceString(minSourceId(s.source));
-  let Source: SourceString = wowheadSource;
-  if (wowheadSource !== "Trainer" && recipe) {
-    const { reqfaction, buyprice } = recipe.jsonequip;
-    Source = reqfaction ? "Reputation" : buyprice ? "Vendor" : wowheadSource;
-  }
-  if (wowheadSource === "Vendor" && !recipe) {
-    Source = "Drop";
-  }
+  const Source = getSource(s, recipe);
 
   return {
     ID: s.id,
@@ -162,6 +181,29 @@ export function toSpell(
     RecipeID: recipe?.id,
     Source,
   };
+}
+
+const CRAFT_TOKEN_VENDORS = ["Tiffany Cartier", "Timothy Jones"];
+
+function getSource(s: WHSpell, recipe?: WHItem): SourceString {
+  const wowheadSource = toSourceString(bestSourceId(s.source));
+  if (recipe?.sourcemore) {
+    console.log("-- here", recipe.sourcemore, recipe.jsonequip);
+    const [sourcemore] = recipe.sourcemore;
+    if (sourcemore.n && CRAFT_TOKEN_VENDORS.includes(sourcemore.n)) {
+      return "DailyToken";
+    }
+  }
+
+  if (wowheadSource !== "Trainer" && recipe) {
+    const { reqfaction, buyprice } = recipe.jsonequip;
+    if (reqfaction) return "Reputation";
+    if (buyprice) return "Vendor";
+  }
+  if (wowheadSource === "Vendor" && !recipe) {
+    return "Drop";
+  }
+  return wowheadSource;
 }
 
 export function toSourceString(source: Source): SourceString {
@@ -185,7 +227,7 @@ export function toSourceString(source: Source): SourceString {
   }
 }
 
-export function minSourceId(sources?: readonly Source[]): Source {
+export function bestSourceId(sources?: readonly Source[]): Source {
   if (!sources) return Source.TRAINER;
   if (sources.includes(Source.TRAINER)) return Source.TRAINER;
   if (sources.includes(Source.VENDOR)) return Source.VENDOR;

@@ -3790,7 +3790,7 @@
     "Green": 425,
     "Grey": 440,
     "RecipeID": 41576,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Bold Bloodstone": {
     "ID": 53831,
@@ -4744,7 +4744,7 @@
     "Green": 425,
     "Grey": 440,
     "RecipeID": 41577,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Runed Scarlet Ruby": {
     "ID": 53946,
@@ -4785,7 +4785,7 @@
     "Green": 425,
     "Grey": 440,
     "RecipeID": 41719,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Flashing Scarlet Ruby": {
     "ID": 53949,
@@ -4799,7 +4799,7 @@
     "Green": 425,
     "Grey": 440,
     "RecipeID": 41578,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Fractured Scarlet Ruby": {
     "ID": 53950,
@@ -4841,7 +4841,7 @@
     "Green": 425,
     "Grey": 440,
     "RecipeID": 42138,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Sparkling Sky Sapphire": {
     "ID": 53953,
@@ -4868,7 +4868,7 @@
     "Green": 425,
     "Grey": 440,
     "RecipeID": 41581,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Stormy Sky Sapphire": {
     "ID": 53955,
@@ -4923,7 +4923,7 @@
     "Green": 425,
     "Grey": 440,
     "RecipeID": 41580,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Thick Autumn's Glow": {
     "ID": 53959,
@@ -4965,7 +4965,7 @@
     "Green": 425,
     "Grey": 440,
     "RecipeID": 41579,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Sovereign Twilight Opal": {
     "ID": 53962,
@@ -4993,7 +4993,7 @@
     "Green": 425,
     "Grey": 440,
     "RecipeID": 41747,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Tenuous Twilight Opal": {
     "ID": 53964,
@@ -5049,7 +5049,7 @@
     "Green": 425,
     "Grey": 440,
     "RecipeID": 41701,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Mysterious Twilight Opal": {
     "ID": 53968,
@@ -5104,7 +5104,7 @@
     "Green": 425,
     "Grey": 440,
     "RecipeID": 41703,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Defender's Twilight Opal": {
     "ID": 53972,
@@ -5132,7 +5132,7 @@
     "Green": 425,
     "Grey": 440,
     "RecipeID": 41702,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Guardian's Twilight Opal": {
     "ID": 53974,
@@ -5230,7 +5230,7 @@
     "Green": 425,
     "Grey": 440,
     "RecipeID": 41582,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Lucent Monarch Topaz": {
     "ID": 53981,
@@ -5272,7 +5272,7 @@
     "Green": 425,
     "Grey": 440,
     "RecipeID": 41689,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Potent Monarch Topaz": {
     "ID": 53984,
@@ -5286,7 +5286,7 @@
     "Green": 425,
     "Grey": 440,
     "RecipeID": 41686,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Veiled Monarch Topaz": {
     "ID": 53985,
@@ -5300,7 +5300,7 @@
     "Green": 425,
     "Grey": 440,
     "RecipeID": 41688,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Durable Monarch Topaz": {
     "ID": 53986,
@@ -5328,7 +5328,7 @@
     "Green": 425,
     "Grey": 440,
     "RecipeID": 41690,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Wicked Monarch Topaz": {
     "ID": 53988,
@@ -5383,7 +5383,7 @@
     "Green": 425,
     "Grey": 440,
     "RecipeID": 41687,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Stalwart Monarch Topaz": {
     "ID": 53992,
@@ -5467,7 +5467,7 @@
     "Green": 425,
     "Grey": 440,
     "RecipeID": 41698,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Enduring Forest Emerald": {
     "ID": 53998,
@@ -5481,7 +5481,7 @@
     "Green": 425,
     "Grey": 440,
     "RecipeID": 41697,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Steady Forest Emerald": {
     "ID": 54000,
@@ -5509,7 +5509,7 @@
     "Green": 425,
     "Grey": 440,
     "RecipeID": 41693,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Seer's Forest Emerald": {
     "ID": 54002,
@@ -5523,7 +5523,7 @@
     "Green": 425,
     "Grey": 440,
     "RecipeID": 41699,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Misty Forest Emerald": {
     "ID": 54003,
@@ -5579,7 +5579,7 @@
     "Green": 425,
     "Grey": 440,
     "RecipeID": 41694,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Dazzling Forest Emerald": {
     "ID": 54007,
@@ -5620,7 +5620,7 @@
     "Green": 425,
     "Grey": 440,
     "RecipeID": 41696,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Opaque Forest Emerald": {
     "ID": 54010,
@@ -5648,7 +5648,7 @@
     "Green": 425,
     "Grey": 440,
     "RecipeID": 41692,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Radiant Forest Emerald": {
     "ID": 54012,
@@ -5745,7 +5745,7 @@
     "Green": 450,
     "Grey": 460,
     "RecipeID": 41705,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Tireless Skyflare Diamond": {
     "ID": 55386,
@@ -5801,7 +5801,7 @@
     "Green": 450,
     "Grey": 460,
     "RecipeID": 41704,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Destructive Skyflare Diamond": {
     "ID": 55390,
@@ -5829,7 +5829,7 @@
     "Green": 450,
     "Grey": 460,
     "RecipeID": 41706,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Enigmatic Skyflare Diamond": {
     "ID": 55393,
@@ -5885,7 +5885,7 @@
     "Green": 450,
     "Grey": 460,
     "RecipeID": 41708,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Bracing Earthsiege Diamond": {
     "ID": 55397,
@@ -5941,7 +5941,7 @@
     "Green": 450,
     "Grey": 460,
     "RecipeID": 41710,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Austere Earthsiege Diamond": {
     "ID": 55401,
@@ -5983,7 +5983,7 @@
     "Green": 450,
     "Grey": 460,
     "RecipeID": 41711,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Invigorating Earthsiege Diamond": {
     "ID": 55404,
@@ -5997,7 +5997,7 @@
     "Green": 450,
     "Grey": 460,
     "RecipeID": 41709,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Beaming Earthsiege Diamond": {
     "ID": 55405,
@@ -6025,7 +6025,7 @@
     "Green": 450,
     "Grey": 460,
     "RecipeID": 41707,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Bold Dragon's Eye": {
     "ID": 56049,
@@ -6039,7 +6039,7 @@
     "Green": 415,
     "Grey": 440,
     "RecipeID": 42298,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Delicate Dragon's Eye": {
     "ID": 56052,
@@ -6053,7 +6053,7 @@
     "Green": 415,
     "Grey": 440,
     "RecipeID": 42301,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Runed Dragon's Eye": {
     "ID": 56053,
@@ -6067,7 +6067,7 @@
     "Green": 415,
     "Grey": 440,
     "RecipeID": 42309,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Bright Dragon's Eye": {
     "ID": 56054,
@@ -6081,7 +6081,7 @@
     "Green": 415,
     "Grey": 440,
     "RecipeID": 42299,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Subtle Dragon's Eye": {
     "ID": 56055,
@@ -6095,7 +6095,7 @@
     "Green": 415,
     "Grey": 440,
     "RecipeID": 42314,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Flashing Dragon's Eye": {
     "ID": 56056,
@@ -6109,7 +6109,7 @@
     "Green": 415,
     "Grey": 440,
     "RecipeID": 42302,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Brilliant Dragon's Eye": {
     "ID": 56074,
@@ -6123,7 +6123,7 @@
     "Green": 415,
     "Grey": 440,
     "RecipeID": 42300,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Fractured Dragon's Eye": {
     "ID": 56076,
@@ -6137,7 +6137,7 @@
     "Green": 415,
     "Grey": 440,
     "RecipeID": 42303,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Lustrous Dragon's Eye": {
     "ID": 56077,
@@ -6151,7 +6151,7 @@
     "Green": 415,
     "Grey": 440,
     "RecipeID": 42304,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Mystic Dragon's Eye": {
     "ID": 56079,
@@ -6165,7 +6165,7 @@
     "Green": 415,
     "Grey": 440,
     "RecipeID": 42305,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Precise Dragon's Eye": {
     "ID": 56081,
@@ -6179,7 +6179,7 @@
     "Green": 415,
     "Grey": 440,
     "RecipeID": 42306,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Quick Dragon's Eye": {
     "ID": 56083,
@@ -6193,7 +6193,7 @@
     "Green": 415,
     "Grey": 440,
     "RecipeID": 42307,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Rigid Dragon's Eye": {
     "ID": 56084,
@@ -6207,7 +6207,7 @@
     "Green": 415,
     "Grey": 440,
     "RecipeID": 42308,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Smooth Dragon's Eye": {
     "ID": 56085,
@@ -6221,7 +6221,7 @@
     "Green": 415,
     "Grey": 440,
     "RecipeID": 42310,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Solid Dragon's Eye": {
     "ID": 56086,
@@ -6235,7 +6235,7 @@
     "Green": 415,
     "Grey": 440,
     "RecipeID": 42311,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Sparkling Dragon's Eye": {
     "ID": 56087,
@@ -6249,7 +6249,7 @@
     "Green": 415,
     "Grey": 440,
     "RecipeID": 42312,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Stormy Dragon's Eye": {
     "ID": 56088,
@@ -6263,7 +6263,7 @@
     "Green": 415,
     "Grey": 440,
     "RecipeID": 42313,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Thick Dragon's Eye": {
     "ID": 56089,
@@ -6277,7 +6277,7 @@
     "Green": 415,
     "Grey": 440,
     "RecipeID": 42315,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Bloodstone Band": {
     "ID": 56193,
@@ -6469,7 +6469,7 @@
     "Green": 455,
     "Grey": 460,
     "RecipeID": 42648,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Titanium Earthguard Ring": {
     "ID": 56497,
@@ -6487,7 +6487,7 @@
     "Green": 455,
     "Grey": 460,
     "RecipeID": 42649,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Titanium Spellshock Ring": {
     "ID": 56498,
@@ -6505,7 +6505,7 @@
     "Green": 455,
     "Grey": 460,
     "RecipeID": 42650,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Titanium Impact Choker": {
     "ID": 56499,
@@ -6523,7 +6523,7 @@
     "Green": 455,
     "Grey": 460,
     "RecipeID": 42651,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Titanium Earthguard Chain": {
     "ID": 56500,
@@ -6541,7 +6541,7 @@
     "Green": 455,
     "Grey": 460,
     "RecipeID": 42652,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Titanium Spellshock Necklace": {
     "ID": 56501,
@@ -6559,7 +6559,7 @@
     "Green": 455,
     "Grey": 460,
     "RecipeID": 42653,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Enchanted Pearl": {
     "ID": 56530,
@@ -6685,7 +6685,7 @@
     "Green": 450,
     "Grey": 460,
     "RecipeID": 43317,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Ring of Scarlet Shadows": {
     "ID": 58148,
@@ -6701,7 +6701,7 @@
     "Green": 450,
     "Grey": 460,
     "RecipeID": 43318,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Windfire Band": {
     "ID": 58149,
@@ -6717,7 +6717,7 @@
     "Green": 450,
     "Grey": 460,
     "RecipeID": 43319,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Ring of Northern Tears": {
     "ID": 58150,
@@ -6733,7 +6733,7 @@
     "Green": 450,
     "Grey": 460,
     "RecipeID": 43320,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Savage Titanium Ring": {
     "ID": 58492,
@@ -6748,7 +6748,7 @@
     "Green": 450,
     "Grey": 460,
     "RecipeID": 43485,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Savage Titanium Band": {
     "ID": 58507,
@@ -6763,7 +6763,7 @@
     "Green": 450,
     "Grey": 460,
     "RecipeID": 43497,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Titanium Frostguard Ring": {
     "ID": 58954,
@@ -6780,7 +6780,7 @@
     "Green": 450,
     "Grey": 460,
     "RecipeID": 43597,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Monarch Crab": {
     "ID": 59759,
@@ -6907,7 +6907,7 @@
     "Green": 452,
     "Grey": 465,
     "RecipeID": 46897,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Steady Eye of Zul": {
     "ID": 66428,
@@ -6921,7 +6921,7 @@
     "Green": 452,
     "Grey": 465,
     "RecipeID": 46898,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Vivid Eye of Zul": {
     "ID": 66429,
@@ -6935,7 +6935,7 @@
     "Green": 452,
     "Grey": 465,
     "RecipeID": 46899,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Dazzling Eye of Zul": {
     "ID": 66430,
@@ -6949,7 +6949,7 @@
     "Green": 452,
     "Grey": 465,
     "RecipeID": 46900,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Jagged Eye of Zul": {
     "ID": 66431,
@@ -6963,7 +6963,7 @@
     "Green": 452,
     "Grey": 465,
     "RecipeID": 46901,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Timeless Eye of Zul": {
     "ID": 66432,
@@ -6977,7 +6977,7 @@
     "Green": 452,
     "Grey": 465,
     "RecipeID": 46902,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Seer's Eye of Zul": {
     "ID": 66433,
@@ -6991,7 +6991,7 @@
     "Green": 452,
     "Grey": 465,
     "RecipeID": 46903,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Forceful Eye of Zul": {
     "ID": 66434,
@@ -7005,7 +7005,7 @@
     "Green": 452,
     "Grey": 465,
     "RecipeID": 46904,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Misty Eye of Zul": {
     "ID": 66435,
@@ -7019,7 +7019,7 @@
     "Green": 452,
     "Grey": 465,
     "RecipeID": 46905,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Sundered Eye of Zul": {
     "ID": 66436,
@@ -7033,7 +7033,7 @@
     "Green": 452,
     "Grey": 465,
     "RecipeID": 46906,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Shining Eye of Zul": {
     "ID": 66437,
@@ -7047,7 +7047,7 @@
     "Green": 452,
     "Grey": 465,
     "RecipeID": 46907,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Tense Eye of Zul": {
     "ID": 66438,
@@ -7061,7 +7061,7 @@
     "Green": 452,
     "Grey": 465,
     "RecipeID": 46908,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Lambent Eye of Zul": {
     "ID": 66439,
@@ -7075,7 +7075,7 @@
     "Green": 452,
     "Grey": 465,
     "RecipeID": 46909,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Intricate Eye of Zul": {
     "ID": 66440,
@@ -7089,7 +7089,7 @@
     "Green": 452,
     "Grey": 465,
     "RecipeID": 46910,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Radiant Eye of Zul": {
     "ID": 66441,
@@ -7103,7 +7103,7 @@
     "Green": 452,
     "Grey": 465,
     "RecipeID": 46911,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Energized Eye of Zul": {
     "ID": 66442,
@@ -7117,7 +7117,7 @@
     "Green": 452,
     "Grey": 465,
     "RecipeID": 46912,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Shattered Eye of Zul": {
     "ID": 66443,
@@ -7131,7 +7131,7 @@
     "Green": 452,
     "Grey": 465,
     "RecipeID": 46913,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Opaque Eye of Zul": {
     "ID": 66444,
@@ -7145,7 +7145,7 @@
     "Green": 452,
     "Grey": 465,
     "RecipeID": 46914,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Turbid Eye of Zul": {
     "ID": 66445,
@@ -7159,7 +7159,7 @@
     "Green": 452,
     "Grey": 465,
     "RecipeID": 46915,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Runed Cardinal Ruby": {
     "ID": 66446,
@@ -7173,7 +7173,7 @@
     "Green": 452,
     "Grey": 465,
     "RecipeID": 46916,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Bold Cardinal Ruby": {
     "ID": 66447,
@@ -7187,7 +7187,7 @@
     "Green": 452,
     "Grey": 465,
     "RecipeID": 46917,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Delicate Cardinal Ruby": {
     "ID": 66448,
@@ -7201,7 +7201,7 @@
     "Green": 452,
     "Grey": 465,
     "RecipeID": 46918,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Bright Cardinal Ruby": {
     "ID": 66449,
@@ -7215,7 +7215,7 @@
     "Green": 452,
     "Grey": 465,
     "RecipeID": 46919,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Precise Cardinal Ruby": {
     "ID": 66450,
@@ -7229,7 +7229,7 @@
     "Green": 452,
     "Grey": 465,
     "RecipeID": 46920,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Fractured Cardinal Ruby": {
     "ID": 66451,
@@ -7243,7 +7243,7 @@
     "Green": 452,
     "Grey": 465,
     "RecipeID": 46921,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Subtle Cardinal Ruby": {
     "ID": 66452,
@@ -7257,7 +7257,7 @@
     "Green": 452,
     "Grey": 465,
     "RecipeID": 46922,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Flashing Cardinal Ruby": {
     "ID": 66453,
@@ -7271,7 +7271,7 @@
     "Green": 452,
     "Grey": 465,
     "RecipeID": 46923,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Solid Majestic Zircon": {
     "ID": 66497,
@@ -7285,7 +7285,7 @@
     "Green": 452,
     "Grey": 465,
     "RecipeID": 46924,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Sparkling Majestic Zircon": {
     "ID": 66498,
@@ -7299,7 +7299,7 @@
     "Green": 452,
     "Grey": 465,
     "RecipeID": 46925,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Stormy Majestic Zircon": {
     "ID": 66499,
@@ -7313,7 +7313,7 @@
     "Green": 452,
     "Grey": 465,
     "RecipeID": 46926,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Lustrous Majestic Zircon": {
     "ID": 66500,
@@ -7327,7 +7327,7 @@
     "Green": 452,
     "Grey": 465,
     "RecipeID": 46927,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Rigid King's Amber": {
     "ID": 66501,
@@ -7341,7 +7341,7 @@
     "Green": 452,
     "Grey": 465,
     "RecipeID": 46928,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Smooth King's Amber": {
     "ID": 66502,
@@ -7355,7 +7355,7 @@
     "Green": 452,
     "Grey": 465,
     "RecipeID": 46929,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Brilliant King's Amber": {
     "ID": 66503,
@@ -7369,7 +7369,7 @@
     "Green": 452,
     "Grey": 465,
     "RecipeID": 46930,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Thick King's Amber": {
     "ID": 66504,
@@ -7383,7 +7383,7 @@
     "Green": 452,
     "Grey": 465,
     "RecipeID": 46931,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Mystic King's Amber": {
     "ID": 66505,
@@ -7397,7 +7397,7 @@
     "Green": 452,
     "Grey": 465,
     "RecipeID": 46932,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Quick King's Amber": {
     "ID": 66506,
@@ -7411,7 +7411,7 @@
     "Green": 452,
     "Grey": 465,
     "RecipeID": 46933,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Balanced Dreadstone": {
     "ID": 66553,
@@ -7425,7 +7425,7 @@
     "Green": 452,
     "Grey": 465,
     "RecipeID": 46934,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Sovereign Dreadstone": {
     "ID": 66554,
@@ -7439,7 +7439,7 @@
     "Green": 452,
     "Grey": 465,
     "RecipeID": 46935,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Glowing Dreadstone": {
     "ID": 66555,
@@ -7453,7 +7453,7 @@
     "Green": 452,
     "Grey": 465,
     "RecipeID": 46936,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Purified Dreadstone": {
     "ID": 66556,
@@ -7467,7 +7467,7 @@
     "Green": 452,
     "Grey": 465,
     "RecipeID": 46937,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Shifting Dreadstone": {
     "ID": 66557,
@@ -7481,7 +7481,7 @@
     "Green": 452,
     "Grey": 465,
     "RecipeID": 46938,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Royal Dreadstone": {
     "ID": 66558,
@@ -7495,7 +7495,7 @@
     "Green": 452,
     "Grey": 465,
     "RecipeID": 46939,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Regal Dreadstone": {
     "ID": 66559,
@@ -7509,7 +7509,7 @@
     "Green": 452,
     "Grey": 465,
     "RecipeID": 46940,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Defender's Dreadstone": {
     "ID": 66560,
@@ -7523,7 +7523,7 @@
     "Green": 452,
     "Grey": 465,
     "RecipeID": 46941,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Guardian's Dreadstone": {
     "ID": 66561,
@@ -7537,7 +7537,7 @@
     "Green": 452,
     "Grey": 465,
     "RecipeID": 46942,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Mysterious Dreadstone": {
     "ID": 66562,
@@ -7551,7 +7551,7 @@
     "Green": 452,
     "Grey": 465,
     "RecipeID": 46943,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Puissant Dreadstone": {
     "ID": 66563,
@@ -7565,7 +7565,7 @@
     "Green": 452,
     "Grey": 465,
     "RecipeID": 46944,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Infused Dreadstone": {
     "ID": 66564,
@@ -7579,7 +7579,7 @@
     "Green": 452,
     "Grey": 465,
     "RecipeID": 46945,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Tenuous Dreadstone": {
     "ID": 66565,
@@ -7593,7 +7593,7 @@
     "Green": 452,
     "Grey": 465,
     "RecipeID": 46946,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Luminous Ametrine": {
     "ID": 66566,
@@ -7607,7 +7607,7 @@
     "Green": 452,
     "Grey": 465,
     "RecipeID": 46947,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Inscribed Ametrine": {
     "ID": 66567,
@@ -7621,7 +7621,7 @@
     "Green": 452,
     "Grey": 465,
     "RecipeID": 46948,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Deadly Ametrine": {
     "ID": 66568,
@@ -7635,7 +7635,7 @@
     "Green": 452,
     "Grey": 465,
     "RecipeID": 46949,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Potent Ametrine": {
     "ID": 66569,
@@ -7649,7 +7649,7 @@
     "Green": 452,
     "Grey": 465,
     "RecipeID": 46950,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Veiled Ametrine": {
     "ID": 66570,
@@ -7663,7 +7663,7 @@
     "Green": 452,
     "Grey": 465,
     "RecipeID": 46951,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Durable Ametrine": {
     "ID": 66571,
@@ -7677,7 +7677,7 @@
     "Green": 452,
     "Grey": 465,
     "RecipeID": 46952,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Etched Ametrine": {
     "ID": 66572,
@@ -7691,7 +7691,7 @@
     "Green": 452,
     "Grey": 465,
     "RecipeID": 46953,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Pristine Ametrine": {
     "ID": 66573,
@@ -7705,7 +7705,7 @@
     "Green": 452,
     "Grey": 465,
     "RecipeID": 46956,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Reckless Ametrine": {
     "ID": 66574,
@@ -7719,7 +7719,7 @@
     "Green": 452,
     "Grey": 465,
     "RecipeID": 47007,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Glinting Ametrine": {
     "ID": 66575,
@@ -7733,7 +7733,7 @@
     "Green": 452,
     "Grey": 465,
     "RecipeID": 47008,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Accurate Ametrine": {
     "ID": 66576,
@@ -7747,7 +7747,7 @@
     "Green": 452,
     "Grey": 465,
     "RecipeID": 47010,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Wicked Ametrine": {
     "ID": 66577,
@@ -7761,7 +7761,7 @@
     "Green": 452,
     "Grey": 465,
     "RecipeID": 47011,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Glimmering Ametrine": {
     "ID": 66578,
@@ -7775,7 +7775,7 @@
     "Green": 452,
     "Grey": 465,
     "RecipeID": 47012,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Champion's Ametrine": {
     "ID": 66579,
@@ -7789,7 +7789,7 @@
     "Green": 452,
     "Grey": 465,
     "RecipeID": 47015,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Empowered Ametrine": {
     "ID": 66580,
@@ -7803,7 +7803,7 @@
     "Green": 452,
     "Grey": 465,
     "RecipeID": 47016,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Stalwart Ametrine": {
     "ID": 66581,
@@ -7817,7 +7817,7 @@
     "Green": 452,
     "Grey": 465,
     "RecipeID": 47017,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Resplendent Ametrine": {
     "ID": 66582,
@@ -7831,7 +7831,7 @@
     "Green": 452,
     "Grey": 465,
     "RecipeID": 47018,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Fierce Ametrine": {
     "ID": 66583,
@@ -7845,7 +7845,7 @@
     "Green": 452,
     "Grey": 465,
     "RecipeID": 47019,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Deft Ametrine": {
     "ID": 66584,
@@ -7859,7 +7859,7 @@
     "Green": 452,
     "Grey": 465,
     "RecipeID": 47020,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Lucent Ametrine": {
     "ID": 66585,
@@ -7873,7 +7873,7 @@
     "Green": 452,
     "Grey": 465,
     "RecipeID": 47021,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Resolute Ametrine": {
     "ID": 66586,
@@ -7887,7 +7887,7 @@
     "Green": 452,
     "Grey": 465,
     "RecipeID": 47022,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Stark Ametrine": {
     "ID": 66587,
@@ -7901,7 +7901,7 @@
     "Green": 452,
     "Grey": 465,
     "RecipeID": 47023,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   },
   "Nightmare Tear": {
     "ID": 68253,
@@ -7916,6 +7916,6 @@
     "Green": 452,
     "Grey": 465,
     "RecipeID": 49112,
-    "Source": "Vendor"
+    "Source": "DailyToken"
   }
 }
