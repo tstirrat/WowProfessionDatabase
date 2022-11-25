@@ -183,12 +183,17 @@ export function toSpell(
   };
 }
 
-const CRAFT_TOKEN_VENDORS = ["Tiffany Cartier", "Timothy Jones"];
+const CRAFT_TOKEN_VENDORS = [
+  // JC
+  "Tiffany Cartier",
+  "Timothy Jones",
+  // LW
+  "Braeg Stoutbeard",
+];
 
 function getSource(s: WHSpell, recipe?: WHItem): SourceString {
   const wowheadSource = toSourceString(bestSourceId(s.source));
   if (recipe?.sourcemore) {
-    console.log("-- here", recipe.sourcemore, recipe.jsonequip);
     const [sourcemore] = recipe.sourcemore;
     if (sourcemore.n && CRAFT_TOKEN_VENDORS.includes(sourcemore.n)) {
       return "DailyToken";
