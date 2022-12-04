@@ -1042,7 +1042,7 @@
     "Green": 340,
     "Grey": 350,
     "RecipeID": 27689,
-    "Source": "Vendor"
+    "Source": "Reputation"
   },
   "Blackened Basilisk": {
     "ID": 33286,
@@ -1186,7 +1186,7 @@
     "Green": 330,
     "Grey": 340,
     "RecipeID": 30156,
-    "Source": "Vendor"
+    "Source": "Reputation"
   },
   "Spice Bread": {
     "ID": 37836,
